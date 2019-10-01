@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>vim cách save file đang chỉnh sửa nhưng không có quyền ghi &middot; Tran Hoang Phuc</title>
+
+  
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-x.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/highlight/default.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://laptrinh.website/touch-icon-144-precomposed.png">
+  <link href="https://laptrinh.website/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Blog lập trình">
+  <meta name="keywords" content="lap trinh blog, go, php, linux">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-90002072-5', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+<body class="theme-base-0b">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Tran Hoang Phuc</h1>
+      
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="https://laptrinh.website/">Home</a></li>
+      
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      
+      
+      
+      
+      
+      <a href="https://www.facebook.com/phucth.vn"><i class="fa fa-facebook-square fa-3x"></i></a>
+      
+      
+      <a href="https://laptrinh.website/index.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2019 <a href="https://laptrinh.website/license/">License</a><br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1 class="post-title">vim cách save file đang chỉnh sửa nhưng không có quyền ghi</h1>
+    <span class="post-date">Apr 7, 2019 &middot; 2 minute read
+    
+
+    
+    <br/>
+    <a class="label" href="https://laptrinh.website/categories/c%C3%B4ng-c%E1%BB%A5">Công cụ</a><a class="label" href="https://laptrinh.website/categories/tee">tee</a><a class="label" href="https://laptrinh.website/categories/vim">vim</a>
+    </span>
+    <p>Khi bạn mở 1 file và edit nó bằng vim. Bạn không để ý thấy được dòng chữ to đùng ở phía dưới <code>[readonly]</code>. Và bạn tiếp tục sửa. Đến khi chỉnh sửa xong file bạn bắt đầu lưu lại. <code>:wq</code>. Ồ! lúc này bạn mới phát hiện ra là bạn quên <code>sudo</code> khi mở file, file đang ở mở dạng readonly và không thể lưu chỉnh sửa được. :)</p>
+
+<p>Hầu hết chúc ta sẽ bóp bụng tắt đi, <code>sudo !!</code> mở lại file lúc nãy&hellip; và chỉnh sửa lại từ đầu. Nếu nội dung chỉnh sửa khá nhiều thì đúng là ác mộng. Nhưng, có 1 cách khác. Có 1 lệnh giúp bạn save file đang chỉnh sửa này. Mặc cảnh báo <code>[readonly]</code> kia. :D</p>
+
+<p>Bạn bấm <code>esc</code>. Gõ lệnh:</p>
+
+<pre class="wp-block-syntaxhighlighter-code brush: plain; notranslate">:w !sudo tee %</pre>
+
+<p>Sau khi enter. Nội dung đang chỉnh sửa sẽ được lưu lại. Vim sẽ cảnh báo chúng ta là file chúng ta đang mở đã bị thay đổi. Bạn có muốn load lại không? Bạn có thể phớt lờ và thoát vim luôn hoặc muốn reload lại nội dung file và xem kết quả đã chỉnh sửa thì bấm <code>O</code> (ok) rồi <code>enter</code>.</p>
+
+<p>Với lệnh trên, chúng ta gọi lệnh <code>tee</code> với quyền <code>sudo</code>. Và vim sẽ trả nội dung đang chỉnh sửa của nó cho <code>tee</code> và <code>tee</code> sẽ lưu nội dung file này theo đường dẫn <code>%</code> tức là đường dẫn của file hiện tại.</p>
+
+<hr />
+
+<p>ref</p>
+
+<ul>
+<li><a href="http://www.geekyboy.com/archives/629">http://www.geekyboy.com/archives/629</a></li>
+</ul>
+
+  </div>
+  
+
+  
+
+</div>
+
+
+
+
+<script src="https://laptrinh.website/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

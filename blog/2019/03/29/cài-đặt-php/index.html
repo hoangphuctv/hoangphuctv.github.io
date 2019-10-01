@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Cài đặt PHP &middot; Tran Hoang Phuc</title>
+
+  
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-x.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/highlight/default.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://laptrinh.website/touch-icon-144-precomposed.png">
+  <link href="https://laptrinh.website/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Blog lập trình">
+  <meta name="keywords" content="lap trinh blog, go, php, linux">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-90002072-5', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+<body class="theme-base-0b">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Tran Hoang Phuc</h1>
+      
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="https://laptrinh.website/">Home</a></li>
+      
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      
+      
+      
+      
+      
+      <a href="https://www.facebook.com/phucth.vn"><i class="fa fa-facebook-square fa-3x"></i></a>
+      
+      
+      <a href="https://laptrinh.website/index.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2019 <a href="https://laptrinh.website/license/">License</a><br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1 class="post-title">Cài đặt PHP</h1>
+    <span class="post-date">Mar 29, 2019 &middot; 3 minute read
+    
+
+    
+    <br/>
+    <a class="label" href="https://laptrinh.website/categories/install">install</a><a class="label" href="https://laptrinh.website/categories/l%E1%BA%ADp-tr%C3%ACnh-php">Lập trình PHP</a><a class="label" href="https://laptrinh.website/categories/php">php</a>
+    </span>
+    
+
+<p>Trong 3 HĐH phổ biến là Windows, Linux, MacOS thì trong đó MacOS đã cài đặt sẵn php. còn Linux cũng có thể cài đặt PHP một cách dễ dàng bằng 1 lệnh duy nhất (cài đặt bản stable). Chỉ có Windows là cài đặt hơi mệt hơn. (nghe ngược ngược :D)</p>
+
+<h2 id="cài-đặt-php-trên-windows">Cài đặt PHP trên Windows</h2>
+
+<p>Trên HĐH Windows có một số cách để cài đặt PHP:</p>
+
+<ol>
+<li>Cách chính thức nhất và chỉ cài đặt php thì bạn có thể vào thẳng trang web của php tại: <a href="https://windows.php.net/download#php-7.2">https://windows.php.net/download#php-7.2</a> Bạn tải về 1 file zip trong đó có chứa php. Bạn giải nén nơi đâu tùy ý. Nhưng có thể đặt trong <code>C:\php</code>. Nếu bạn cài nhiều phiên bản php vào có thể đặt trong từng thư mục phiên bản riêng. Ví dụ: <code>C:\php\5.6</code>, <code>C:\php\7.0</code>, <code>C:\php\7.2</code>. Bạn đừng quên làm 1 thao tác quan trọng là add PATH cho thư mục trên nhé. Để bạn có thể sử dụng được lệnh <code>php</code> trên <code>cmd</code>.</li>
+<li>Cài đặt các gói <a href="https://www.apachefriends.org/">xampp</a>, <a href="https://ampps.com/">wamp</a>, <a href="https://ampps.com">ampps</a>, <a href="https://www.easyphp.org/">easyphp</a>,&hellip; các gói này sẽ có đầy đủ PHP, Apache, MySQL, phpmyadmin, Tomcat,&hellip; đủ bộ cho bạn cần thiết. Có thể bạn cài luôn một trong những bộ này để sau này học tới phần lập trình website bằng php thì cũng không cần phải cài đặt thêm gì nữa.</li>
+</ol>
+
+<h2 id="cài-đặt-php-trên-macos">Cài đặt PHP trên MacOS</h2>
+
+<p>MacOS mặc định đã cài đặt sẵn php, nhưng nếu bạn muốn cài đặt bản mới nhất bạn có thể cài đặt thêm vào hệ thống của mình.<br />
+Chúng ta sẽ sử dụng trình quản lí gói <code>brew</code>. Vì vậy nếu chưa cài đặt bạn cần tìm cách hướng dẫn cài đặt brew trước.</p>
+
+<p>Khi đã có sẵn trình quản lí gói <code>brew</code> bạn chỉ cần gõ lệnh sau:</p>
+
+<pre class="wp-block-syntaxhighlighter-code brush: plain; notranslate">$ brew install php</pre>
+
+<p>Lệnh được chạy ở chế độ user thường. <code>brew</code> trên MacOS không cần quyền root để cài đặt.<br />
+Sau khi cài đặt, gõ thêm lệnh sau để thay thế php có sẵn trên máy.</p>
+
+<pre class="wp-block-syntaxhighlighter-code brush: plain; notranslate">$ brew link --force php</pre>
+
+<p>Tuỳ vào phiên bản Linux của bạn đang sử dụng mà cách cài đặt cũng khác nhau.<br />
+Sau đây nêu một số cách đơn giản của các distro phổ biết cho các bạn có thể dễ dàng nắm bắt.</p>
+
+<h3 id="linux-dòng-họ-debian-ubuntu-linux-mint">Linux dòng họ Debian: Ubuntu, Linux Mint,&hellip;</h3>
+
+<p>Sử dụng trình quản lí gói apt</p>
+
+<pre class="wp-block-syntaxhighlighter-code brush: plain; notranslate">apt install php</pre>
+
+<p>Sau khi thực hiện cài xong. Bạn gõ lệnh <code>php</code> tại terminal</p>
+
+<pre class="wp-block-syntaxhighlighter-code brush: plain; notranslate">$ php -v
+PHP 7.2.12 (cli) (built: Nov  9 2018 11:00:45) ( NTS )
+Copyright (c) 1997-2018 The PHP Group
+Zend Engine v3.2.0, Copyright (c) 1998-2018 Zend Technologies
+    with Zend OPcache v7.2.12, Copyright (c) 1999-2018, by Zend Technologies</pre>
+
+<p>Nó ra kết quả gì đó tương tự như trên là được. Nếu nó hiển thị kết quả</p>
+
+<pre class="wp-block-syntaxhighlighter-code brush: plain; notranslate">$ php -v
+-bash: php: command not found</pre>
+
+<p>Thì là chưa được, hãy thử tắt và bật lạ terminal. Nếu vẫn không được hãy kiểm tra lại hoặc comment bên đưới để được giúp đỡ thêm.</p>
+
+<p>Để tham khảo thêm đầy đủ về cách cài đặt php và các vấn đề liên quan vui lòng xem thêm tại <a href="http://php.net/manual/en/install.php">PHP manual install</a>.</p>
+
+<hr />
+
+  </div>
+  
+
+  
+
+</div>
+
+
+
+
+<script src="https://laptrinh.website/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

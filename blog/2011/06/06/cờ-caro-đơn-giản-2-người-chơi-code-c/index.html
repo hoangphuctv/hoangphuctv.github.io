@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Cờ caro đơn giản 2 người chơi - Code C &middot; Tran Hoang Phuc</title>
+
+  
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-x.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/highlight/default.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://laptrinh.website/touch-icon-144-precomposed.png">
+  <link href="https://laptrinh.website/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Blog lập trình">
+  <meta name="keywords" content="lap trinh blog, go, php, linux">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-90002072-5', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+<body class="theme-base-0b">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Tran Hoang Phuc</h1>
+      
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="https://laptrinh.website/">Home</a></li>
+      
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      
+      
+      
+      
+      
+      <a href="https://www.facebook.com/phucth.vn"><i class="fa fa-facebook-square fa-3x"></i></a>
+      
+      
+      <a href="https://laptrinh.website/index.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2019 <a href="https://laptrinh.website/license/">License</a><br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1 class="post-title">Cờ caro đơn giản 2 người chơi - Code C</h1>
+    <span class="post-date">Jun 6, 2011 &middot; 4 minute read
+    
+
+    </span>
+    <p>Đây là chương trình đánh cờ caro hai người (Không có máy đánh tự động). Đơn giản là mình kiểm tra coi ván cờ đã kết thúc hay chưa. Chúng ta sử dụng 1 mảng 2 chiêu để lưu trạng thái của ván cờ với quy ước, 0: chưa có người đánh, 1: người thứ nhất đánh, 2: người thứ 2 đánh. Hoặc theo một cách quy ước nào đó mà bạn thích.</p>
+
+<pre><code>#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+#include &lt;conio.h&gt;
+#include &lt;dos.h&gt;
+#define DONG 22
+#define COT 66
+
+int Mang[DONG][COT]={0};
+int x,y,Luot=1, Luot1=0, Luot2=0;
+void KhoiDong();
+void Xuat();
+void trangtri();
+int KiemTra();
+void DocPhim();
+void InLuot();
+void InSoLuot();
+void IThang();
+void IIThang();
+void resetMang();
+
+void main()
+{   char cha;
+
+    do
+    {
+    clrscr();
+    resetMang();
+    //KhoiDong();
+    clrscr();
+    trangtri();
+    InLuot();
+    InSoLuot();
+    DocPhim();
+    textcolor(2);
+    clrscr();
+    printf (&quot;nnnnnnnnttBan co muon choi lai khong? nttt-&gt;An phim bat ki de choi luot moi.nttt-&gt;An phim Esc de ket thuc. &quot;);
+    cha=getch();
+    }while (cha !=27);
+}
+
+void KhoiDong()
+{
+    textcolor(11);
+    char text[]={'C','o',' ','C','A','R','O',};
+    for (int i=1; i&lt;80 ; i++)
+    {
+        gotoxy(i, 12);
+        int cuoi;
+        if ( i&lt;=74)
+            cuoi=6;
+        else
+            cuoi =80-i;
+        for (int j=0; j&lt;=cuoi; j++)
+            cprintf (&quot;%c&quot;, text[j]);
+        gotoxy(i-1, 12);
+        cprintf (&quot; &quot;);
+        delay(200);
+    }
+}
+void Xuat()
+{
+    for (int yy=0; yy&lt; DONG; yy++)
+        for (int xx=0; xx&lt;COT; xx++)
+        {
+            switch(Mang[yy][xx])
+            {
+                case 1: textcolor(RED);gotoxy(xx+2,yy+2);cprintf (&quot;X&quot;);break;
+                case 2: textcolor(BLUE);gotoxy(xx+2,yy+2);cprintf (&quot;O&quot;);break;
+            }
+        }
+    //gotoxy(1,1);
+}
+void trangtri()
+{
+    textcolor(6);
+    int ch;
+    for (int yy=1; yy&lt;25; yy++)
+    {
+        for (int xx=1; xx&lt;=80; xx++)
+        {
+                 if (xx==69 &amp;&amp; yy==3)       ch=199;
+            else if (xx==80 &amp;&amp; yy==3)          ch=182;
+            else if (xx&gt;69 &amp;&amp; xx&lt;80 &amp;&amp; yy==3)ch=196;
+            else if (xx&gt;1  &amp;&amp; xx&lt;80 &amp;&amp; (yy==1 '' yy==24) &amp;&amp; xx!=69) ch=205;
+            else if (xx==1 &amp;&amp; yy==1 )       ch=201;
+            else if (xx==1 &amp;&amp; yy==24)       ch=200;
+            else if (xx==80&amp;&amp; yy==24)       ch=188;
+            else if (xx==80&amp;&amp; yy==1 )       ch=187;
+            else if ((xx==1''xx==80 '' xx==69) &amp;&amp; yy&gt;1 &amp;&amp; yy&lt;24 ) ch=186;
+            else if (xx==69 &amp;&amp; yy==1 )       ch=203;
+            else if (xx==69 &amp;&amp; yy==24)      ch=202;
+            else ch=0;
+            cprintf(&quot;%c&quot;,ch);
+        }
+    }
+    gotoxy(70,2);
+    textcolor(GREEN);
+    cprintf(&quot;%c%c%c&quot;,176,176,176);
+    textcolor(RED);
+    cprintf(&quot;CARO&quot;);
+    textcolor(GREEN);
+    cprintf(&quot;%c%c%c&quot;,176,176,176);
+    gotoxy(70,20);
+    printf (&quot;=&gt;Luot: &quot;);
+    gotoxy(70,8);
+    printf (&quot;Luot I:&quot;);
+    gotoxy(70,14);
+    printf (&quot;Luot II:&quot;);
+
+}
+int KiemTra()
+{
+    for (int i=0; i&lt;DONG; i++)
+    {
+        for (int j=0; j&lt;COT; j++)
+        {
+            if (Mang[i][j] != 0)
+            {    int doc=1, ngang =1, cheophu=1, cheochinh=1;
+            //KT doc
+
+                for (int k=1; k&lt;5; k++)
+                {
+                    if ((i+k &gt;=DONG) '' (Mang[i+k][j] !=Mang[i][j]))
+                        doc=0;
+                    if ((j+k&gt;=COT) '' (Mang[i][j+k]!=Mang[i][j]))
+                        ngang=0;
+                    if ((i+k&gt;=DONG &amp;&amp; j+k&gt;=COT) '' (Mang[i+k][j+k]!=Mang[i][j]))
+                        cheochinh=0;
+                    if ((i+k&gt;=DONG &amp;&amp; j-k&lt;0) '' (Mang[i+k][j-k] != Mang[i][j]))
+                        cheophu=0;
+                }
+                if (doc == 1 '' ngang ==1 '' cheochinh ==1 '' cheophu==1)
+                {
+                    return Mang[i][j];
+            }
+            }
+        }
+    }
+    return 0;
+}
+void DocPhim()
+{
+    x=34; y=12;
+    char c='a';
+    gotoxy(x,y);
+  do
+    {
+    c = getch();
+    if (c == 0)
+    {
+      c = getch();
+    }
+        switch(c)
+        {
+      case 75:   if (x&gt;2)
+            {
+              x--;
+              gotoxy(x,y);
+            }
+            break;
+      case 77:   if (x&lt;68)
+            {
+              x++;
+              gotoxy(x,y);
+            }
+            break;
+      case 72:   if (y&gt;2)
+            {
+              y--;
+              gotoxy(x,y);
+            }
+            break;
+      case 80:   if (y&lt;23)
+            {
+              y++;
+              gotoxy(x,y);
+            }
+            break;
+      case 32:   if (Mang[y-2][x-2]!=0)
+            {
+                            printf(&quot;%c&quot;,7);
+                        }
+                        else
+                        {
+                            Mang[y-2][x-2] = Luot;
+
+                            if (Luot == 1)
+                            {   Luot1++;
+                                Luot=2;
+                            }
+                            else
+                            {  Luot2++;
+                                Luot=1;
+                            }
+                            InSoLuot();
+                            InLuot();
+                            InSoLuot();
+                            Xuat();
+                            int KQ=KiemTra();
+                            if (KQ == 1)
+                            {
+                                IThang();
+                                return;
+                            }
+                            else if (KQ == 2)
+                            {
+                                IIThang();
+                                return ;
+                            }
+                        gotoxy(x,y);
+                     }
+                    break;
+        }
+    } while (c!= 27);
+}
+void InLuot()
+{
+    textcolor(1);
+    gotoxy(79,20);
+    printf (&quot;%d&quot;,Luot);
+
+}
+void InSoLuot()
+{
+    textcolor(1);
+    gotoxy(78,8);
+    printf (&quot;%-2d&quot;,Luot1);
+    gotoxy(78,14);
+    printf (&quot;%-2d&quot;,Luot2);
+}
+void IThang()
+{
+    gotoxy(10,23);
+    textcolor(RED);
+    cprintf(&quot;CUOC CHOI KET THUC! NGUOI CHOI THU NHAT DA THANG!&quot;);
+    getch();
+}
+void IIThang()
+{
+    gotoxy(10,23);
+    textcolor(BLUE);
+    cprintf(&quot;CUOC CHOI KET THUC! NGUOI CHOI THU HAI DA THANG!&quot;);
+    getch();
+}
+void resetMang()
+{
+    for (int i=0; i&lt;DONG; i++)
+        for (int j=0;j&lt;COT; j++)
+        {
+            Mang[i][j]=0;
+        }
+}
+
+Lưu ý: Các bạn phải dịch đoạn code trên bằng Borland C/C++, hoặc Turbo C++, nó không thể chạy được trên Visual C
+</code></pre>
+
+  </div>
+  
+
+  
+
+</div>
+
+
+
+
+<script src="https://laptrinh.website/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

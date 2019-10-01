@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Install on Lập trình</title>
+    <link>https://laptrinh.website/categories/install/</link>
+    <description>Recent content in Install on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laptrinh.website/categories/install/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cài đặt brew trên HĐH MacOS</title>
+      <link>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-brew-tr%C3%AAn-h%C4%91h-macos/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-brew-tr%C3%AAn-h%C4%91h-macos/</guid>
+      <description>brew là một trình quản lý gói dành cho HĐH MacOS nó giống như yum, hay apt trên linux.
+Yêu cầu hệ thống: Máy Mac đang chạy CPU Intel HĐH OS X 10.11 hoặc cao hơn. Chạy lệnh cài đặt trên các shell bash hoặc zsh. Các shell notably, fish, tcsh và csh sẽ bị lỗi khi cài đặt. Nếu máy bạn chưa cài đặt Command Line Tools (CLT) thì cần cài đặt trước</description>
+    </item>
+    
+    <item>
+      <title>Cài extension PHP còn thiếu trên Linux</title>
+      <link>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-extension-php-c%C3%B2n-thi%E1%BA%BFu-tr%C3%AAn-linux/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-extension-php-c%C3%B2n-thi%E1%BA%BFu-tr%C3%AAn-linux/</guid>
+      <description>Khi làm việc với php bạn thường hay gặp các lỗi Undefined function, hoặc class thường là do thiếu các extension gây ra. Ví dụ như &amp;ldquo;undefined function curl_init()&amp;rdquo; là do thiếu extension curl.
+Cài thông qua trình quản lí gói Nếu bạn cài đặt php thông qua trình quản lí gói như apt, bạn chỉ cần cài thêm extension qua lệnh:
+$ apt install php-curl  Cài thông qua tool pecl Còn nếu như bạn cài thông qua build source, thì bạn có thể cd vào thư mục bin của php ví dụ: /etc/php/5.</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt môi trường lập trình PHP trên Ubuntu Linux</title>
+      <link>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</guid>
+      <description>Để lập trình PHP trên HĐH Ubuntu, chúng ta cần cài đặt cơ bản các gói sau:
+ Web server: Apache2 DB: MySQL PHP và các extension Cài đặt text editor  Cài đặt Apache2 Trước tiên, update repo:
+$ sudo apt update  Tiến hành cài apache2
+$ sudo apt install apache2 -y  Mở trình duyệt vào trang chủ http://localhost. Nếu thấy trang** apache2 default page **là cài đặt thành công.</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt PHP</title>
+      <link>https://laptrinh.website/blog/2019/03/29/c%C3%A0i-%C4%91%E1%BA%B7t-php/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/03/29/c%C3%A0i-%C4%91%E1%BA%B7t-php/</guid>
+      <description>Trong 3 HĐH phổ biến là Windows, Linux, MacOS thì trong đó MacOS đã cài đặt sẵn php. còn Linux cũng có thể cài đặt PHP một cách dễ dàng bằng 1 lệnh duy nhất (cài đặt bản stable). Chỉ có Windows là cài đặt hơi mệt hơn. (nghe ngược ngược :D)
+Cài đặt PHP trên Windows Trên HĐH Windows có một số cách để cài đặt PHP:
+ Cách chính thức nhất và chỉ cài đặt php thì bạn có thể vào thẳng trang web của php tại: https://windows.</description>
+    </item>
+    
+  </channel>
+</rss>

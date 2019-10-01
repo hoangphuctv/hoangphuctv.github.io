@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on Lập trình</title>
+    <link>https://laptrinh.website/categories/ubuntu/</link>
+    <description>Recent content in Ubuntu on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laptrinh.website/categories/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cài đặt phalcon extension cho php</title>
+      <link>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</guid>
+      <description>Hướng dẫn cài đặt phalcon extension cho php
+Môi trường:  Ubuntu 18.04 PHP 7.2  Cài đặt Cài thư viện:
+apt install gcc libpcre3-dev php-dev Clone source: ta lưu source tại /usr/local/src/
+cd /usr/local/src/ git clone --depth=1 &#34;git://github.com/phalcon/cphalcon.git&#34; sudo ./install Chờ một chút lệnh sẽ chạy thành công. Để lưu đúng cấu trúc của ext php ta tạo mới file cấu hình ini tại: /etc/php/7.2/mods-available/phalcon.ini
+Nội dung file:</description>
+    </item>
+    
+    <item>
+      <title>Chuyển đổi qua lại các gói giao diện của Ubuntu</title>
+      <link>https://laptrinh.website/blog/2011/12/18/chuy%E1%BB%83n-%C4%91%E1%BB%95i-qua-l%E1%BA%A1i-c%C3%A1c-g%C3%B3i-giao-di%E1%BB%87n-c%E1%BB%A7a-ubuntu/</link>
+      <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/12/18/chuy%E1%BB%83n-%C4%91%E1%BB%95i-qua-l%E1%BA%A1i-c%C3%A1c-g%C3%B3i-giao-di%E1%BB%87n-c%E1%BB%A7a-ubuntu/</guid>
+      <description>Bạn đang sử dụng Ubuntu, thấy hơi chán với cái Utiny nặng nề, muốn chuyển sang xubuntu (sử dụng xfce) cho nhẹ, hoặc chuyển sang kubuntu cho màn hình bóng bẩy hơn! Hoặc chuyển ngược lại. Không cần phải cài đặt lại các bản Ubuntu, Xubuntu hay Kubuntu tương ứng, mà chỉ cần cài lại gói giao diện cho nó là OK! Việc thực hiện chỉ đơn giản như sau:</description>
+    </item>
+    
+    <item>
+      <title>Cấu hình IP cho Ubuntu</title>
+      <link>https://laptrinh.website/blog/2011/10/11/c%E1%BA%A5u-h%C3%ACnh-ip-cho-ubuntu/</link>
+      <pubDate>Tue, 11 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/10/11/c%E1%BA%A5u-h%C3%ACnh-ip-cho-ubuntu/</guid>
+      <description>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bạn đã quen với việc cấu hình IP trên CentOS, Fedora, ReaHat,&amp;hellip; khi bạn bắt đầu làm quen với Ubuntu thì những việc đơn giản nhất bạn cũng phải tìm hiểu lại! Sau đây là cách cấu hình IP mình sẽ giới thiệu với các bạn sau một hồi Google search :D
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Trước tiên bạn phải xác định được file cấu hình nằm ở đâu. Không giống như Fedora, Ubuntu sử dụng 1 file duy nhất để cấu hình các card mạng.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Cài đặt VMWare 7.1 cho Linux</title>
+      <link>https://laptrinh.website/blog/2011/10/10/ubuntu-c%C3%A0i-%C4%91%E1%BA%B7t-vmware-7.1-cho-linux/</link>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/10/10/ubuntu-c%C3%A0i-%C4%91%E1%BA%B7t-vmware-7.1-cho-linux/</guid>
+      <description>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Đối với các bạn IT thì việc sử dụng các phần mềm tạo máy ảo là không thể thiếu được. Mặc dù VirtualBox đã quá tốt cho việc tạo và sử dụng máy ảo trên nền nảng Linux rồi, nhưng hôm nay mình sẽ giới thiệu đến các bạn cách cài đặt VMWare - phần mềm tạo máy ảo mà đa số chúng ta sử dụng trên HĐH Windows.</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt bộ gõ SCIM cho Ubuntu</title>
+      <link>https://laptrinh.website/blog/2011/06/14/c%C3%A0i-%C4%91%E1%BA%B7t-b%E1%BB%99-g%C3%B5-scim-cho-ubuntu/</link>
+      <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/14/c%C3%A0i-%C4%91%E1%BA%B7t-b%E1%BB%99-g%C3%B5-scim-cho-ubuntu/</guid>
+      <description>Ở tất cả các phiên bản của Ubuntu, khi cài Scim thông qua apt-get thì đều giống nhau.
+Các bạn Mở Terminal: Applications/Accessories/Terminal
+gõ lệnh, và nhập password:
+$ sudo apt-get install scim-qtimm $ sudo apt-get install scim-m17nVà cuối cùng là: vào System/Preferences/Input Method Switcher. Nếu không thấy mục&amp;nbsp;Input Method Switcher. Bạn có thể vào terminal gõ trực tiếp lệnh:
+$im-switch
+Giao diện của&amp;nbsp; scim
+
+Check vào mục Use SCIM.</description>
+    </item>
+    
+  </channel>
+</rss>

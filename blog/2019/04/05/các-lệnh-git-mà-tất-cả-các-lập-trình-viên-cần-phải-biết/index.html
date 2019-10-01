@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Các lệnh git mà tất cả các lập trình viên cần PHẢI biết &middot; Tran Hoang Phuc</title>
+
+  
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-x.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/highlight/default.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://laptrinh.website/touch-icon-144-precomposed.png">
+  <link href="https://laptrinh.website/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Blog lập trình">
+  <meta name="keywords" content="lap trinh blog, go, php, linux">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-90002072-5', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+<body class="theme-base-0b">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Tran Hoang Phuc</h1>
+      
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="https://laptrinh.website/">Home</a></li>
+      
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      
+      
+      
+      
+      
+      <a href="https://www.facebook.com/phucth.vn"><i class="fa fa-facebook-square fa-3x"></i></a>
+      
+      
+      <a href="https://laptrinh.website/index.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2019 <a href="https://laptrinh.website/license/">License</a><br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1 class="post-title">Các lệnh git mà tất cả các lập trình viên cần PHẢI biết</h1>
+    <span class="post-date">Apr 5, 2019 &middot; 3 minute read
+    
+
+    
+    <br/>
+    <a class="label" href="https://laptrinh.website/categories/git">git</a>
+    </span>
+    
+
+<p>Ngày nay đối với lập trình viên, dù là sinh viên hay lập trình viên chuyên nghiệp, khi làm việc với số lượng lớn files và projects thì bạn không thể không dùng để công cụ quản lí source code. Mà phổ biến nhất ngày xưa là SVN, và ngay nay là GIT.</p>
+
+<p>Khi sử dụng git ở môi trường máy tính cá nhân, bạn hoàn toàn có thể sử dụng các phần mềm giao diện đồ hoạ như <a href="https://www.sourcetreeapp.com/">SourceTree</a>, <a href="https://desktop.github.com/">Github Desktop</a>,&hellip; hoặc đơn giản nhất cũng là <a href="https://gitforwindows.org/#git-gui">G</a><a href="https://gitforwindows.org/#git-gui">i</a><a href="https://gitforwindows.org/#git-gui">t GUI</a>.</p>
+
+<p>Nhưng khi bạn làm việc trên server, đặc biệt là server Linux. Thì bạn không cài các công cụ nặng nề trên vào server mà chủ yếu sẽ sử dụng git thông qua giao diện dòng lệnh CLI. Vậy thì vừa để luyện tập vừa để HIỂU VÀ NHỚ lâu hơn. Tại sao bạn không dùng luôn các lệnh này trên máy tính của mình</p>
+
+<h2 id="git-init">git init</h2>
+
+<p>Khi muốn tạo project mới, bạn cd vào thư mục cần tạo. Gõ lệnh:</p>
+
+<pre><code>$ cd ~/projects/myapp
+$ git init
+</code></pre>
+
+<p>Khi gõ lệnh git init, git sẽ tạo local repo trên thư mục đang đứng. Bây giờ bạn đã có thể tạo gói commit đầu tiên.</p>
+
+<h2 id="git-clone">git clone</h2>
+
+<p>Khi bạn cần lấy source ở 1 link repo nào đó. Bạn gõ lệnh:</p>
+
+<pre><code>$ git clone git@github.com:laravel/laravel.git
+</code></pre>
+
+<p>Git sẽ tiến hành clone source code từ url tạo ra thư mục mới với tên là tên project. Ví dụ url là <strong><code>git@github.com:laravel/laravel.git</code></strong>. Thì git sẽ lấy source code về, tạo project tại thư mục <strong><code>laravel</code></strong>.</p>
+
+<h2 id="git-status">git status</h2>
+
+<p>Để xem tình trạng các file, file đã thay đổi; file đã xoá, file đã thêm. Ta gõ <code>git status</code>.</p>
+
+<pre><code>$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use &quot;git rm --cached &lt;file&gt;...&quot; to unstage)
+
+    new file:   readme.md
+</code></pre>
+
+<h2 id="git-commit">git commit</h2>
+
+<p>Tạo gói commit mới</p>
+
+<p>Kết hợp với lệnh <code>git status</code> và <code>git add</code>.</p>
+
+<ul>
+<li><code>git status</code> giúp ta list ra cách file đang thay đổi (thêm, sửa, xoá)</li>
+<li><code>git add &lt;file&gt;</code> thêm <code>file</code> vào stagging để chuẩn bị commit.</li>
+
+<li><p><code>git commit -m &quot;ten commit&quot;</code></p>
+
+<p>$ git status
+On branch master</p>
+
+<p>No commits yet</p>
+
+<p>Changes to be committed:
+  (use &ldquo;git rm &ndash;cached <file>&hellip;&rdquo; to unstage)</p>
+
+<pre><code>new file:   readme.md
+</code></pre>
+
+<p>$ git add readme.md
+$ git commit -m  &ldquo;add file readme.md&rdquo;</p></li>
+</ul>
+
+<h2 id="git-push">git push</h2>
+
+<p>Khi làm việc với remote repo. Sau khi tạo các gói commit. Để những thành viên khác trong team có thể thấy được commit của bạn, thì bạn phải push lên remote repo.</p>
+
+<p>git push <repo-name> <branch-name></p>
+
+<p>Ví dụ:</p>
+
+<pre><code>$ git push origin login-feature
+</code></pre>
+
+<h2 id="git-pull">git pull</h2>
+
+<p>Khi các lập trình viên khác, thực hiện <code>push</code> các thay đổi lên remote repo. Bạn lấy về bằng lệnh.</p>
+
+<p>git pull <remote-name> <branch-name></p>
+
+<p>Nếu bạn may mắn code không bị conflict thì code sẽ được lấy về và merge vào nhánh hiện tại.</p>
+
+<h2 id="git-fetch-git-merge">git fetch &amp;&amp; git merge</h2>
+
+<p>Muốn lấy code từ remote về, thay vì gõ 1 lệnh <code>git pull</code> thì bạn có thể gõ lần lượt 2 lệnh.</p>
+
+<p>git fetch <remote-name> <branch-name></p>
+
+<p>git merge remote-name/branch-name</p>
+
+<p>merge branch-name trên remote với nhánh đang đứng.</p>
+
+<p>Ví dụ:</p>
+
+<pre><code>$ git fetch origin master
+$ git merge origin/master
+</code></pre>
+
+  </div>
+  
+
+  
+
+</div>
+
+
+
+
+<script src="https://laptrinh.website/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

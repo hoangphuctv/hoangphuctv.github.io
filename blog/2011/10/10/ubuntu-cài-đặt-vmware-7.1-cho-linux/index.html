@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Ubuntu Cài đặt VMWare 7.1 cho Linux &middot; Tran Hoang Phuc</title>
+
+  
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-x.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/highlight/default.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://laptrinh.website/touch-icon-144-precomposed.png">
+  <link href="https://laptrinh.website/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Blog lập trình">
+  <meta name="keywords" content="lap trinh blog, go, php, linux">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-90002072-5', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+<body class="theme-base-0b">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Tran Hoang Phuc</h1>
+      
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="https://laptrinh.website/">Home</a></li>
+      
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      
+      
+      
+      
+      
+      <a href="https://www.facebook.com/phucth.vn"><i class="fa fa-facebook-square fa-3x"></i></a>
+      
+      
+      <a href="https://laptrinh.website/index.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2019 <a href="https://laptrinh.website/license/">License</a><br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1 class="post-title">Ubuntu Cài đặt VMWare 7.1 cho Linux</h1>
+    <span class="post-date">Oct 10, 2011 &middot; 2 minute read
+    
+
+    
+    <br/>
+    <a class="label" href="https://laptrinh.website/categories/ubuntu">Ubuntu</a>
+    </span>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp;Đối với các bạn IT thì việc sử dụng các phần mềm tạo máy ảo là không thể thiếu được. Mặc dù VirtualBox đã quá tốt cho việc tạo và sử dụng máy ảo trên nền nảng Linux rồi, nhưng hôm nay mình sẽ giới thiệu đến các bạn cách cài đặt VMWare - phần mềm tạo máy ảo mà đa số chúng ta sử dụng trên HĐH Windows.<br />
+&nbsp; &nbsp; &nbsp; &nbsp;Không có gì phải lúng túng khi làm quen với một nền tảng mới cả, cách cài đặt VMWare cũng đơn giản như trên Windows vậy.<br />
+&nbsp; &nbsp; &nbsp; &nbsp;Giờ thì bạn hãy vào <a href="http://downloads.vmware.com/d/info/desktop_downloads/vmware_workstation/7_0">trang downloads </a>của VMWare để tải bản VMWare dành cho bản Linux của mình (32bit hay 64bit) Tất cả các distro Linux đều sử dụng chung các file cài đặt này. File tải về có dạng *.bunble, dung lượng ~309MB :D<br />
+&nbsp; &nbsp; &nbsp; &nbsp;Trong khi chờ đợi tải file đó về bạn hãy vào terminal gõ lệ [code]<span style="font-family: courier, monospace; font-size: 14px; white-space: pre-wrap;">sudo apt-get install build-essential linux-headers-$(uname -r)</span>[/code]<br />
+&nbsp; &nbsp; &nbsp; &nbsp;Sau khi tải xong file 309MB ở trên, thì bạn thêm quyền thực thi cho nó. Ví dụ bạn tải nó về đặt trong <em><span style="color: blue;">~/Downloads</span></em> và nó có tên&nbsp;<span style="color: blue;"><em>VMware-Workstation-Full-7.1.3-324285.i386.bundle</em></span>&nbsp;thì gõ lệnh [code]chmod +x ~/Downloads/VMware-Workstation-Full-7.1.3-324285.i386.bundle[/code]<br />
+&nbsp; &nbsp; &nbsp; &nbsp;Tiếp tục lệnh: [code]sudo ./Downloads/VMware-Workstation-Full-7.1.3-324285.i386.bundle[/code]<br />
+&nbsp; &nbsp; &nbsp; &nbsp;Thế là màn hình sau đây xuất hiện, bạn chỉ cần tiến hành cài đặt như trên Windows qua các bước mà Wizard hướng dẫn.<br />
+<div style="clear: both; text-align: center;"><a href="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/1.png"><img src="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/1.png" alt="" /></a></div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><a href="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/2.png"><img src="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/2.png" alt="" /></a></div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><a href="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/3.png"><img src="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/3.png" alt="" /></a></div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;">Ở bước sau đây bạn không cần phải điền gì cả (nếu bạn muốn thay đổi vị trí cài đặt thì hãy gõ đường dẫn vào - tuy nhiên not recommend)</div><div style="clear: both; text-align: center;"><a href="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/4.png"><img src="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/4.png" alt="" /></a></div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><a href="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/5.png"><img src="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/5.png" alt="" /></a></div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;">Các thông số bạn cứ để mặc định</div><div style="clear: both; text-align: center;">dịnh. Đây là bước cuối cùng. chỉ cần ấn Install để xác nhận việc cài đặt là OK!</div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><a href="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/7.png"><img src="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/7.png" alt="" /></a></div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;">Chúc mừng bạn! Khi thực hiện đến bước này thì bạn đã cài đặt thành công VMWare. &nbsp;Bạn vào Application/System Tools/ VMWare Workstation. Giao diện của chương trình sẽ hiện ra thế này:</div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><a href="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/8.png"><img src="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/8.png" alt="" /></a></div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;">Khi các bạn chạy một máy ảo thì VMWare sẽ buộc bạn Active chương trình.&nbsp;</div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><a href="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/9.png"><img src="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/9.png" alt="" /></a></div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;"><br />
+</div><div style="clear: both; text-align: center;">Khi đó hãy nhập vào key:&nbsp;<span style="color: red;"><strong>AU75H-ARWE6-4896Y-X5QQT-QZ0UA</strong></span></div></p>
+
+<p>Thế là tất cả các bước đã hoàn thành rồi nhá !</p>
+
+<p><div style="clear: both; text-align: center;"><a href="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/11.png"><img src="http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/caivmware/11.png" alt="" /></a></div><br />
+Chúc các bạn thành công!</p>
+
+  </div>
+  
+
+  
+
+</div>
+
+
+
+
+<script src="https://laptrinh.website/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

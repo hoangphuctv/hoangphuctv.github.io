@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+	<meta name="generator" content="Hugo 0.52" />
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Lập trình &middot; Tran Hoang Phuc</title>
+
+  
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-x.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/highlight/default.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://laptrinh.website/touch-icon-144-precomposed.png">
+  <link href="https://laptrinh.website/favicon.png" rel="icon">
+
+  
+  
+  
+  <link href="https://laptrinh.website/index.xml" rel="alternate" type="application/rss+xml" title="Lập trình &middot; Tran Hoang Phuc" />
+
+  <meta name="description" content="Blog lập trình">
+  <meta name="keywords" content="lap trinh blog, go, php, linux">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-90002072-5', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+<body class="theme-base-0b">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Tran Hoang Phuc</h1>
+      
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="https://laptrinh.website/">Home</a></li>
+      
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      
+      
+      
+      
+      
+      <a href="https://www.facebook.com/phucth.vn"><i class="fa fa-facebook-square fa-3x"></i></a>
+      
+      
+      <a href="https://laptrinh.website/index.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2019 <a href="https://laptrinh.website/license/">License</a><br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="posts">
+    
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2013/07/19/%C4%91%E1%BB%95i-dns-cho-ubuntu-linux/">Đổi DNS cho Ubuntu Linux</a>
+      </h1>
+      <span class="post-date">Jul 19, 2013 &middot; 1 minute read
+      </span>
+      
+      Để vào được một số website - điển hình như Facebook - Ta phải chỉnh lại DNS. Để làm được điều này ta thực hiện:
+Bật terminal lên gõ:
+sudo gedit /etc/resolv.conf
+Đổi:
+nameserver 127.0.1.1
+Thành:
+nameserver 8.8.8.8 nameserver 8.8.4.4Lưu lại. Xong!
+Tuy nhiên, sau mỗi lần khởi động lại, hoặc kết nối vào mạng khác, ta lại phải là chỉnh lại các bước trên.
+Để thiết lập mặc định luôn thì ta sửa file sau:
+      <a href="https://laptrinh.website/blog/2013/07/19/%C4%91%E1%BB%95i-dns-cho-ubuntu-linux/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2013/07/02/c%C3%A0i-%C4%91%E1%BA%B7t-google-chrome-cho-ubuntu/">Cài đặt Google Chrome cho Ubuntu</a>
+      </h1>
+      <span class="post-date">Jul 2, 2013 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/c%C3%A0i-%C4%91%E1%BA%B7t-amp-c%E1%BA%A5u-h%C3%ACnh">Cài đặt &amp;amp; Cấu hình</a>
+      </span>
+      
+      Vào&nbsp;https://www.google.com/chrome để tải file deb. Mặc định file tải về lưu trong ~/Download. Mở terminal. Gõ lệnh:
+cd ~/Download sudo dpkg -i google-chrome*.deb
+Có dấu * là vì tùy các vào phiên bản Ubuntu đang sử dụng, bản 32 bit hoặc 64 bit, nên cứ để * cho gọn ! Sau khi gõ xong lệnh thứ hai, nó chạy chút sẽ báo lỗi, gõ thêm lệnh sudo apt-get install -f sẽ cài đặt hoàn tất.
+      <a href="https://laptrinh.website/blog/2013/07/02/c%C3%A0i-%C4%91%E1%BA%B7t-google-chrome-cho-ubuntu/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2013/07/01/call-to-undefined-function-curl_init-install-curl-cho-linux/">Call to undefined function curl_init() Install cURl cho Linux</a>
+      </h1>
+      <span class="post-date">Jul 1, 2013 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/curl">curl</a><a class="label" href="https://laptrinh.website/categories/linux">Linux</a><a class="label" href="https://laptrinh.website/categories/php">php</a>
+      </span>
+      
+      Bạn chưa cài gói curl chỉ cần cài vào là giải quyết được.   $ sudo apt-get install curl libcurl3 libcurl3-dev php5-curl
+      
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2013/07/01/c%C3%A0i-ch%C6%B0%C6%A1ng-tr%C3%ACnh-nghe-nh%E1%BA%A1c-vlc-cho-ubuntu-linux/">Cài chương trình nghe nhạc VLC cho Ubuntu Linux</a>
+      </h1>
+      <span class="post-date">Jul 1, 2013 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/c%C3%A0i-%C4%91%E1%BA%B7t-amp-c%E1%BA%A5u-h%C3%ACnh">Cài đặt &amp;amp; Cấu hình</a>
+      </span>
+      
+      Để cài vlc vào terminal gõ lệnh:
+sudo apt-get install vlc
+Nhập mật khẩu khi có yêu cầu.
+Nhập y khi được hỏi xác nhận có muốn cài không.
+Chờ&hellip;
+Xong !
+      
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/">Cài đặt Ibus Unikey cho Ubuntu Linux</a>
+      </h1>
+      <span class="post-date">Jul 1, 2013 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/c%C3%A0i-%C4%91%E1%BA%B7t-amp-c%E1%BA%A5u-h%C3%ACnh">Cài đặt &amp;amp; Cấu hình</a>
+      </span>
+      
+      Để gõ được tiếng Việt trong Ubuntu cần cài Ibus unikey hoặc&nbsp;xcim. Mở terminal gõ:
+$sudo apt-get install ibus-unikeyVà cuối cùng là: vào System/Preferences/Input Method Switcher. Nếu không thấy mục Input Method Switcher. Bạn có thể vào terminal gõ trực tiếp lệnh:
+$im-switchLog out, Log in lại. Bây giờ bạn đã có thể gõ được tiếng Việt bằng cách ấn phím Ctrl + Space để chuyển đổi kiểu gõ Tiếng Anh &lt;-&gt; Tiếng Việt!
+      <a href="https://laptrinh.website/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-flash-player-cho-ubuntu-linux/">Cài đặt flash player cho Ubuntu Linux</a>
+      </h1>
+      <span class="post-date">Jul 1, 2013 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/c%C3%A0i-%C4%91%E1%BA%B7t-amp-c%E1%BA%A5u-h%C3%ACnh">Cài đặt &amp;amp; Cấu hình</a>
+      </span>
+      
+      Mở terminal
+sudo apt-get install flashplugin-installer
+Cài thêm các thành phần bổ trợ đa phương tiện để play được các video:
+sudo apt-get install ubuntu-restricted-extras
+Xong !
+      
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/12/18/chuy%E1%BB%83n-%C4%91%E1%BB%95i-qua-l%E1%BA%A1i-c%C3%A1c-g%C3%B3i-giao-di%E1%BB%87n-c%E1%BB%A7a-ubuntu/">Chuyển đổi qua lại các gói giao diện của Ubuntu</a>
+      </h1>
+      <span class="post-date">Dec 18, 2011 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/ubuntu">Ubuntu</a>
+      </span>
+      
+      Bạn đang sử dụng Ubuntu, thấy hơi chán với cái Utiny nặng nề, muốn chuyển sang xubuntu (sử dụng xfce) cho nhẹ, hoặc chuyển sang kubuntu cho màn hình bóng bẩy hơn! Hoặc chuyển ngược lại. Không cần phải cài đặt lại các bản Ubuntu, Xubuntu hay Kubuntu tương ứng, mà chỉ cần cài lại gói giao diện cho nó là OK! Việc thực hiện chỉ đơn giản như sau:
+      <a href="https://laptrinh.website/blog/2011/12/18/chuy%E1%BB%83n-%C4%91%E1%BB%95i-qua-l%E1%BA%A1i-c%C3%A1c-g%C3%B3i-giao-di%E1%BB%87n-c%E1%BB%A7a-ubuntu/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/10/15/c%E1%BA%A5u-h%C3%ACnh-ip-cho-linux/">Cấu hình IP cho Linux</a>
+      </h1>
+      <span class="post-date">Oct 15, 2011 &middot; 4 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/linux">Linux</a>
+      </span>
+      
+      &nbsp; &nbsp; &nbsp;Khi mới bắt đầu làm quen với Linux, nhức đầu lắm với mấy cái vụ cấu hình IP :&lsquo;. Ở trường làm 1 đường về nhà lại làm 1 nẻo. Một thời gian mệt mỏi, và sẽ tiếp tụp mệt mỏi&hellip;. với việc cấu hình IP. Note lại vài dòng dể sau này có quên ngồi xem lại !&nbsp;Tại thời điểm này, IPv4 vẫn còn thống trị. Nên giờ chỉ nói với v4 thôi, còn v6 thì để từ từ nói tiếp vậy.
+      <a href="https://laptrinh.website/blog/2011/10/15/c%E1%BA%A5u-h%C3%ACnh-ip-cho-linux/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/10/11/c%E1%BA%A5u-h%C3%ACnh-ip-cho-ubuntu/">Cấu hình IP cho Ubuntu</a>
+      </h1>
+      <span class="post-date">Oct 11, 2011 &middot; 6 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/ubuntu">Ubuntu</a>
+      </span>
+      
+      &nbsp;&nbsp;&nbsp;&nbsp; Bạn đã quen với việc cấu hình IP trên CentOS, Fedora, ReaHat,&hellip; khi bạn bắt đầu làm quen với Ubuntu thì những việc đơn giản nhất bạn cũng phải tìm hiểu lại! Sau đây là cách cấu hình IP mình sẽ giới thiệu với các bạn sau một hồi Google search :D
+&nbsp;&nbsp;&nbsp;&nbsp; Trước tiên bạn phải xác định được file cấu hình nằm ở đâu. Không giống như Fedora, Ubuntu sử dụng 1 file duy nhất để cấu hình các card mạng.
+      <a href="https://laptrinh.website/blog/2011/10/11/c%E1%BA%A5u-h%C3%ACnh-ip-cho-ubuntu/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/10/10/ubuntu-c%C3%A0i-%C4%91%E1%BA%B7t-vmware-7.1-cho-linux/">Ubuntu Cài đặt VMWare 7.1 cho Linux</a>
+      </h1>
+      <span class="post-date">Oct 10, 2011 &middot; 2 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/ubuntu">Ubuntu</a>
+      </span>
+      
+      &nbsp; &nbsp; &nbsp; &nbsp;Đối với các bạn IT thì việc sử dụng các phần mềm tạo máy ảo là không thể thiếu được. Mặc dù VirtualBox đã quá tốt cho việc tạo và sử dụng máy ảo trên nền nảng Linux rồi, nhưng hôm nay mình sẽ giới thiệu đến các bạn cách cài đặt VMWare - phần mềm tạo máy ảo mà đa số chúng ta sử dụng trên HĐH Windows.
+      <a href="https://laptrinh.website/blog/2011/10/10/ubuntu-c%C3%A0i-%C4%91%E1%BA%B7t-vmware-7.1-cho-linux/">Read On &rarr;</a>
+      
+    </div>
+    
+    
+
+<ul class="pagination">
+    
+    <li class="page-item">
+        <a href="/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+    <a href="/page/4/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    </li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/">1</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/page/2/">2</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/page/3/">3</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/page/4/">4</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item active"><a class="page-link" href="/page/5/">5</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/page/6/">6</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/page/9/">9</a></li>
+    
+    
+    <li class="page-item">
+    <a href="/page/6/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+        <a href="/page/9/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    </li>
+    
+</ul>
+
+  </div>
+</div>
+
+
+<script src="https://laptrinh.website/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

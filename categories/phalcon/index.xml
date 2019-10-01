@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phalcon on Lập trình</title>
+    <link>https://laptrinh.website/categories/phalcon/</link>
+    <description>Recent content in Phalcon on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laptrinh.website/categories/phalcon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cài đặt phalcon extension cho php</title>
+      <link>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</guid>
+      <description>Hướng dẫn cài đặt phalcon extension cho php
+Môi trường:  Ubuntu 18.04 PHP 7.2  Cài đặt Cài thư viện:
+apt install gcc libpcre3-dev php-dev Clone source: ta lưu source tại /usr/local/src/
+cd /usr/local/src/ git clone --depth=1 &#34;git://github.com/phalcon/cphalcon.git&#34; sudo ./install Chờ một chút lệnh sẽ chạy thành công. Để lưu đúng cấu trúc của ext php ta tạo mới file cấu hình ini tại: /etc/php/7.2/mods-available/phalcon.ini
+Nội dung file:</description>
+    </item>
+    
+  </channel>
+</rss>

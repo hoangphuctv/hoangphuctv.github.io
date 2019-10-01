@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lập trình</title>
+    <link>https://laptrinh.website/</link>
+    <description>Recent content on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 25 Sep 2019 09:38:33 +0700</lastBuildDate>
+    
+	<atom:link href="https://laptrinh.website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install Flash Debugger for Firefox on Linux</title>
+      <link>https://laptrinh.website/blog/2019/09/25/install-flash-debugger-for-firefox-on-linux/</link>
+      <pubDate>Wed, 25 Sep 2019 09:38:33 +0700</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/09/25/install-flash-debugger-for-firefox-on-linux/</guid>
+      <description>Thời điểm hiện tại chắc có rất ít bạn còn &amp;ldquo;cho phép flash chạy&amp;rdquo; trên trình duyệt của mình. Còn ít hơn nữa những bạn làm việc trên các project flash. Flash hiện tại đang bị giới hạn ở mọi nơi. Và ngày lên đoạn đầu đài đã được định:
+ Adobe: https://theblog.adobe.com/adobe-flash-update/ Apple: https://webkit.org/blog/7839/adobe-announces-flash-distribution-and-updates-to-end/ Facebook: https://developers.facebook.com/blog/post/2017/07/25/Games-Migration-to-Open-Web-Standards/ Google: https://www.blog.google/products/chrome/saying-goodbye-flash-chrome/ Microsoft: https://blogs.windows.com/msedgedev/2017/07/25/flash-on-windows-timeline/ Và cả Mozilla: https://blog.mozilla.org/futurereleases/2017/07/25/firefox-roadmap-flash-end-life/  Nhưng,&amp;hellip; Nếu,&amp;hellip; đến giờ mà bạn vẫn còn maintain project flash thì sao :D, mà lại còn là tay ngang nữa.</description>
+    </item>
+    
+    <item>
+      <title>Cách debug trong php</title>
+      <link>https://laptrinh.website/blog/2019/07/03/c%C3%A1ch-debug-trong-php/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/07/03/c%C3%A1ch-debug-trong-php/</guid>
+      <description>Khi đến với một ngôn ngữ lập trình việc quan trong nhất là biết cách debug! Không biết cách debug bạn không thể tìm ra được nguyên nhân dẫn đến các bug. Nguyên lý đơn giản của việc debug là chúng ta phải xem được giá trị của biến cần quan tâm tại thời điểm runtime (tức là thời điểm chạy chương trình).
+Một số hàm hỗ trợ ta debug như sau:</description>
+    </item>
+    
+    <item>
+      <title>Mở file bằng xcode từ command line</title>
+      <link>https://laptrinh.website/blog/2019/06/30/m%E1%BB%9F-file-b%E1%BA%B1ng-xcode-t%E1%BB%AB-command-line/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/06/30/m%E1%BB%9F-file-b%E1%BA%B1ng-xcode-t%E1%BB%AB-command-line/</guid>
+      <description>Nếu bạn đã rất thích việc mở file bằng sublime bằng lệnh subl filename.c hoặc vscode cũng tương tự code filename.c. Vậy với xcode mở file bằng command line tương tự như thế nào?
+Trước tiên máy bạn phải cài xcode trước. Bạn có thể vào App Store gõ &amp;ldquo;xcode&amp;rdquo; để tìm và cài đặt.
+Bạn thêm alias sau vào file ~/.bash_profile nếu dùng bash shell
+alias xcode=&#39;open -a /Applications/Xcode.app&#39;  Mở lại terminal lại hoặc gõ lệnh source ~/.</description>
+    </item>
+    
+    <item>
+      <title>Mở file bằng vim theo dạng sublim text</title>
+      <link>https://laptrinh.website/blog/2019/06/29/m%E1%BB%9F-file-b%E1%BA%B1ng-vim-theo-d%E1%BA%A1ng-sublim-text/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/06/29/m%E1%BB%9F-file-b%E1%BA%B1ng-vim-theo-d%E1%BA%A1ng-sublim-text/</guid>
+      <description>Với sublime text khi bạn mở file mà muốn đứng ngay tại dòng thứ n sau khi mở file ra. Thì bạn mở theo dạng:
+subl index.php:5  Nhưng đối với vim thì cách truyền tham số vào sẽ khác:
+vim index.php +5  Nhưng nếu bạn dùng lệnh kết hợp vim + grep để tìm thông tin sẽ thấy khác bất tiện. Khi tìm function bằng grep sẽ tìm như sau:</description>
+    </item>
+    
+    <item>
+      <title>Xử lí JSON trong PHP</title>
+      <link>https://laptrinh.website/blog/2019/04/18/x%E1%BB%AD-l%C3%AD-json-trong-php/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/18/x%E1%BB%AD-l%C3%AD-json-trong-php/</guid>
+      <description>JSON là một kiểu định dạng data interchange (trao đổi dữ liệu) phổ biến hiện nay. Các ngôn ngữ lập trình đều hỗ trợ xử lí JSON.
+Với PHP việc xử lí rất đơn giản và dễ dàng. Từ array hoặc object ta có thể chuyển đổi dễ dàng qua JSON bằng cặp hàm hỗ trợ encode và decode json.
+Ta xét mảng sau đây:
+$user = [ &amp;quot;id&amp;quot; =&amp;gt; 1, &amp;quot;username&amp;quot; =&amp;gt; &amp;quot;admin&amp;quot;, &amp;quot;role_id&amp;quot; =&amp;gt; 999 ];  Để chuyển mảng trên thành chuỗi JSON ta thực hiện hàm json_encode:</description>
+    </item>
+    
+    <item>
+      <title>Viết tool parse JSON trên cli bằng php</title>
+      <link>https://laptrinh.website/blog/2019/04/17/vi%E1%BA%BFt-tool-parse-json-tr%C3%AAn-cli-b%E1%BA%B1ng-php/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/17/vi%E1%BA%BFt-tool-parse-json-tr%C3%AAn-cli-b%E1%BA%B1ng-php/</guid>
+      <description>Khi làm việc trên dòng lệnh, bạn đọc các file json sẽ rất mệt, vì thường nó được lưu chỉ trên 1 dòng thôi. Ví dụ ta có file data.json.
+$ cat data.json {&amp;quot;dt&amp;quot;:1485799200,&amp;quot;main&amp;quot;:{&amp;quot;temp&amp;quot;:261.45,&amp;quot;temp_min&amp;quot;:259.086,&amp;quot;temp_max&amp;quot;:261.45,&amp;quot;pressure&amp;quot;:1023.48,&amp;quot;sea_level&amp;quot;:1045.39,&amp;quot;grnd_level&amp;quot;:1023.48,&amp;quot;humidity&amp;quot;:79,&amp;quot;temp_kf&amp;quot;:2.37},&amp;quot;weather&amp;quot;:[{&amp;quot;id&amp;quot;:800,&amp;quot;main&amp;quot;:&amp;quot;Clear&amp;quot;,&amp;quot;description&amp;quot;:&amp;quot;clear sky&amp;quot;,&amp;quot;icon&amp;quot;:&amp;quot;02n&amp;quot;}],&amp;quot;clouds&amp;quot;:{&amp;quot;all&amp;quot;:8},&amp;quot;wind&amp;quot;:{&amp;quot;speed&amp;quot;:4.77,&amp;quot;deg&amp;quot;:232.505},&amp;quot;snow&amp;quot;:{},&amp;quot;sys&amp;quot;:{&amp;quot;pod&amp;quot;:&amp;quot;n&amp;quot;},&amp;quot;dt_txt&amp;quot;:&amp;quot;2017-01-30 18:00:00&amp;quot;}  Đó chỉ là mới 1 dòng json ngắn, trường hợp thực tế có thể 1 dòng sẽ còn dài hơn rất nhiều. Để đọc được thông tin trong này thật sự khó (đặt biệt là đối với người &amp;ldquo;mắt yếu&amp;rdquo; :D ) .</description>
+    </item>
+    
+    <item>
+      <title>Đổi hostname cho Linux</title>
+      <link>https://laptrinh.website/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</guid>
+      <description>Hostname là tên, dùng để đặt cho máy tính. Giúp cho người quản trị ghi nhớ dễ dàng, và phân biệt các máy mới với nhau. Để xem hostname hiện tại bạn nhìn trên terminal các bạn sẽ thấy hostname tại vị trí dấu nhắc lệnh:
+root@myserver #  Nếu không thấy hostname tại vị trí dấu nhắc lệnh, bạn có thể gõ lệnh sau để xem hostname:
+$ hostname myserver  Muốn thay đổi&amp;nbsp;myserver này các bạn chỉ cần chỉnh sửa file&amp;nbsp;&amp;nbsp;/etc/hostname Để xem nội dung hiện tại bạn gõ lệnh:</description>
+    </item>
+    
+    <item>
+      <title>Giới thiệu một chương trình golang đơn giản nhất</title>
+      <link>https://laptrinh.website/blog/2019/04/08/gi%E1%BB%9Bi-thi%E1%BB%87u-m%E1%BB%99t-ch%C6%B0%C6%A1ng-tr%C3%ACnh-golang-%C4%91%C6%A1n-gi%E1%BA%A3n-nh%E1%BA%A5t/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/08/gi%E1%BB%9Bi-thi%E1%BB%87u-m%E1%BB%99t-ch%C6%B0%C6%A1ng-tr%C3%ACnh-golang-%C4%91%C6%A1n-gi%E1%BA%A3n-nh%E1%BA%A5t/</guid>
+      <description>Tên chương trình: In ra màn hình chuỗi &amp;ldquo;Hello world&amp;rdquo;
+Mục tiêu: Làm quen với ngôn ngữ lập trình golang:
+ Cấu trúc chương trình. Cách thực thi 1 chương trình. Cách build 1 chương trình.  Code ví dụ File: ~/go/hello/hello.go
+package main func main() { println(&amp;quot;Hello world&amp;quot;) }  Chạy chương trình Tại terminal, cmd hoặc powershell gõ lệnh
+$ go run hello.go Hello world  Chương trình đã xuất ra được dòng chữ Hello world =&amp;gt; thành công.</description>
+    </item>
+    
+    <item>
+      <title>Go function</title>
+      <link>https://laptrinh.website/blog/2019/04/08/go-function/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/08/go-function/</guid>
+      <description>func là từ khoá dùng để khai báo hàm. Tương tự như từ khoá function trong các ngôn ngữ khác. Đối với bất kì ngôn ngữ nào, chúng ta có một số khái niệm liên quan tới function:
+ Tham số: là input mà chúng ta muốn function xử lí. Ví dụ: print(&amp;quot;Hi&amp;quot;) Kết quả trả về: là output trả về thống qua tên hàm. Ví dụ: c := sum(a, b)  Cả tham số và kết quả trả về có thể có hoặc không có, có thể có một hoặc có nhiều.</description>
+    </item>
+    
+    <item>
+      <title>Go kết nối mongodb bằng thư viện mgo</title>
+      <link>https://laptrinh.website/blog/2019/04/08/go-k%E1%BA%BFt-n%E1%BB%91i-mongodb-b%E1%BA%B1ng-th%C6%B0-vi%E1%BB%87n-mgo/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/08/go-k%E1%BA%BFt-n%E1%BB%91i-mongodb-b%E1%BA%B1ng-th%C6%B0-vi%E1%BB%87n-mgo/</guid>
+      <description>mgo là một thư viện của Go, giúp Go tương tác với mongodb. Với cú pháp đơn giản và dễ sử dụng.
+Cài đặt Để cài đặt bạn gõ lệnh trên terminal:
+$ go get gopkg.in/mgo.v2  Sử dụng Để sử dụng bạn import thư viện vào:
+import ( &amp;quot;gopkg.in/mgo.v2&amp;quot; &amp;quot;gopkg.in/mgo.v2/bson&amp;quot; )  Kết nối với mongodb Sau khi import bạn thực hiện kết nối bằng method Dial, method này trả về kết quả là thông tin kết nối và lỗi nếu có:</description>
+    </item>
+    
+    <item>
+      <title>Go phục vụ các file tĩnh</title>
+      <link>https://laptrinh.website/blog/2019/04/08/go-ph%E1%BB%A5c-v%E1%BB%A5-c%C3%A1c-file-t%C4%A9nh/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/08/go-ph%E1%BB%A5c-v%E1%BB%A5-c%C3%A1c-file-t%C4%A9nh/</guid>
+      <description>Trong quá trình lập trình web, một webserver cần đảm nhiệm các vấn đề sau:
+ Lắng nghe kết nối: server mở port kết nối để các http client (trình duyệt, curl,&amp;hellip;) kết nối đến và request các tài nguyên. Xử lí động: xử lí các POST, GET,&amp;hellip; request. Phục vụ các file tĩnh (js, css, images,&amp;hellip;)  Trong bài này chúng ta sẽ xem package net/http hỗ trợ việc phục vụ các file tĩnh ra sau:</description>
+    </item>
+    
+    <item>
+      <title>Làm quen với lập trình web bằng golang</title>
+      <link>https://laptrinh.website/blog/2019/04/08/l%C3%A0m-quen-v%E1%BB%9Bi-l%E1%BA%ADp-tr%C3%ACnh-web-b%E1%BA%B1ng-golang/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/08/l%C3%A0m-quen-v%E1%BB%9Bi-l%E1%BA%ADp-tr%C3%ACnh-web-b%E1%BA%B1ng-golang/</guid>
+      <description>Yêu cầu  Kiến thức cơ bản về web. Golang cú pháp cơ bản  Website hello world Tương tự như lập trình golang application. Chúng ta sẽ xem golang một chương trình golang web đơn giản nhất sẽ như thế nào. Sau đây là một chương trình xuất ra màn hình &amp;ldquo;Hello world&amp;rdquo; khi ta vào trang chủ web &amp;ldquo;/&amp;rdquo;. Chúng ta sẽ sử dụng tư viện mặc định của go tên là net/http.</description>
+    </item>
+    
+    <item>
+      <title>Ứng dụng nhanh docker trong công việc hằng ngày</title>
+      <link>https://laptrinh.website/blog/2019/04/08/%E1%BB%A9ng-d%E1%BB%A5ng-nhanh-docker-trong-c%C3%B4ng-vi%E1%BB%87c-h%E1%BA%B1ng-ng%C3%A0y/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/08/%E1%BB%A9ng-d%E1%BB%A5ng-nhanh-docker-trong-c%C3%B4ng-vi%E1%BB%87c-h%E1%BA%B1ng-ng%C3%A0y/</guid>
+      <description>Tình huống là: Khi cần sử dụng nhanh 1 service nào đó mà không muốn tốn thời gian cài đặt cấu hình. Xài docker chỉ vài lệnh là có thể sử dụng được service mình cần ngay lập tức: Ví dụ memcache. Không cần tải service memcache về cài đặt chỉ cần gõ lệnh:
+docker run --name my-memcache -p 11211:11211 -d memcached Những lần sau cần xài memcache gõ lệnh:</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt brew trên HĐH MacOS</title>
+      <link>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-brew-tr%C3%AAn-h%C4%91h-macos/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-brew-tr%C3%AAn-h%C4%91h-macos/</guid>
+      <description>brew là một trình quản lý gói dành cho HĐH MacOS nó giống như yum, hay apt trên linux.
+Yêu cầu hệ thống: Máy Mac đang chạy CPU Intel HĐH OS X 10.11 hoặc cao hơn. Chạy lệnh cài đặt trên các shell bash hoặc zsh. Các shell notably, fish, tcsh và csh sẽ bị lỗi khi cài đặt. Nếu máy bạn chưa cài đặt Command Line Tools (CLT) thì cần cài đặt trước</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt phalcon extension cho php</title>
+      <link>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</guid>
+      <description>Hướng dẫn cài đặt phalcon extension cho php
+Môi trường:  Ubuntu 18.04 PHP 7.2  Cài đặt Cài thư viện:
+apt install gcc libpcre3-dev php-dev Clone source: ta lưu source tại /usr/local/src/
+cd /usr/local/src/ git clone --depth=1 &#34;git://github.com/phalcon/cphalcon.git&#34; sudo ./install Chờ một chút lệnh sẽ chạy thành công. Để lưu đúng cấu trúc của ext php ta tạo mới file cấu hình ini tại: /etc/php/7.2/mods-available/phalcon.ini
+Nội dung file:</description>
+    </item>
+    
+    <item>
+      <title>Các thao tác trên vim cần biết</title>
+      <link>https://laptrinh.website/blog/2019/04/07/c%C3%A1c-thao-t%C3%A1c-tr%C3%AAn-vim-c%E1%BA%A7n-bi%E1%BA%BFt/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/c%C3%A1c-thao-t%C3%A1c-tr%C3%AAn-vim-c%E1%BA%A7n-bi%E1%BA%BFt/</guid>
+      <description>Khi đến với thế giới Linux bạn buộc phải biết sử dụng ít nhất một trình editor trên cli. Trong bài này sẽ nói về vim.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/128px-Vimlogo.svg.png) Vim là một editor chạy ở cli và cả GUI. Các thao tác trên vim lúc đầu mới làm quen sẽ khá khó để có thể quen được. Nhiều người vừa sử dụng vim vừa chửi. Vì quá quen thuộc với các editor có giao diện đàng hoàn, chức năng phong phú và đặc biệt là có thể xài chuột được.</description>
+    </item>
+    
+    <item>
+      <title>Cách add PATH global trên MacOS</title>
+      <link>https://laptrinh.website/blog/2019/04/07/c%C3%A1ch-add-path-global-tr%C3%AAn-macos/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/c%C3%A1ch-add-path-global-tr%C3%AAn-macos/</guid>
+      <description>PATH là một biến môi trường trong hệ thống *nix nói cho shell biết những thư mục nào sẽ được tìm kiếm các file thực thi.
+Mỗi một thư mục được các nhau bởi dấu : Đối với windows là kí tự ; Ví dụ trên MAC sau khi bạn cài sublime text thì bạn chưa thể mở file trên terminal bằng lệnh subl filename.txt được.
+$ subl bash: subl: command not found Vậy để giải quyết được lệnh command not found thì bạn chỉ cần kiểm tra xem thư mục chứa file thực thi bạn mong muốn có nằm trong $PATH hay không.</description>
+    </item>
+    
+    <item>
+      <title>Linux tìm file thư mục với lệnh find</title>
+      <link>https://laptrinh.website/blog/2019/04/07/linux-t%C3%ACm-file-th%C6%B0-m%E1%BB%A5c-v%E1%BB%9Bi-l%E1%BB%87nh-find/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/linux-t%C3%ACm-file-th%C6%B0-m%E1%BB%A5c-v%E1%BB%9Bi-l%E1%BB%87nh-find/</guid>
+      <description>find là một công cụ mạnh mẽ giúp chúng ta tìm kiếm các tập tin và thư mục trên hệ thống một cách nhanh chóng.
+Tìm không có điều kiện Tìm không có điều kiện nào, tức là sẽ list tất cả các file và thư mục:
+$ find .  Dấu . tức là thư mục hiện tại, nếu bạn muốn tìm trong 1 thư mục khác, không phải thư mục đang đứng thì bạn gõ vào đường dẫn đến thư mục đó.</description>
+    </item>
+    
+    <item>
+      <title>Tắt hiệu ứng cho gnome 3</title>
+      <link>https://laptrinh.website/blog/2019/04/07/t%E1%BA%AFt-hi%E1%BB%87u-%E1%BB%A9ng-cho-gnome-3/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/t%E1%BA%AFt-hi%E1%BB%87u-%E1%BB%A9ng-cho-gnome-3/</guid>
+      <description>Ubuntu hay nhiều distro khác hiện tại đã chọn gnome làm DE mặc định cho hệ thống. Gnome đẹp nhưng quá nặng. Nếu bạn sử dụng hằng ngày bạn sẽ thấy nhiều trường hợp bị giật lag, đơ. Vậy, trên các máy có cấu hình thấp, hoặc đơn giản là bạn muốn tắt hiệu ứng đi cho nó đỡ rối mắt. Bạn có thể mở terminal ra và gõ nhanh bằng lệnh:</description>
+    </item>
+    
+    <item>
+      <title>vim cách save file đang chỉnh sửa nhưng không có quyền ghi</title>
+      <link>https://laptrinh.website/blog/2019/04/07/vim-c%C3%A1ch-save-file-%C4%91ang-ch%E1%BB%89nh-s%E1%BB%ADa-nh%C6%B0ng-kh%C3%B4ng-c%C3%B3-quy%E1%BB%81n-ghi/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/vim-c%C3%A1ch-save-file-%C4%91ang-ch%E1%BB%89nh-s%E1%BB%ADa-nh%C6%B0ng-kh%C3%B4ng-c%C3%B3-quy%E1%BB%81n-ghi/</guid>
+      <description>Khi bạn mở 1 file và edit nó bằng vim. Bạn không để ý thấy được dòng chữ to đùng ở phía dưới [readonly]. Và bạn tiếp tục sửa. Đến khi chỉnh sửa xong file bạn bắt đầu lưu lại. :wq. Ồ! lúc này bạn mới phát hiện ra là bạn quên sudo khi mở file, file đang ở mở dạng readonly và không thể lưu chỉnh sửa được. :)</description>
+    </item>
+    
+    <item>
+      <title>Các lệnh git mà tất cả các lập trình viên cần PHẢI biết</title>
+      <link>https://laptrinh.website/blog/2019/04/05/c%C3%A1c-l%E1%BB%87nh-git-m%C3%A0-t%E1%BA%A5t-c%E1%BA%A3-c%C3%A1c-l%E1%BA%ADp-tr%C3%ACnh-vi%C3%AAn-c%E1%BA%A7n-ph%E1%BA%A3i-bi%E1%BA%BFt/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/05/c%C3%A1c-l%E1%BB%87nh-git-m%C3%A0-t%E1%BA%A5t-c%E1%BA%A3-c%C3%A1c-l%E1%BA%ADp-tr%C3%ACnh-vi%C3%AAn-c%E1%BA%A7n-ph%E1%BA%A3i-bi%E1%BA%BFt/</guid>
+      <description>Ngày nay đối với lập trình viên, dù là sinh viên hay lập trình viên chuyên nghiệp, khi làm việc với số lượng lớn files và projects thì bạn không thể không dùng để công cụ quản lí source code. Mà phổ biến nhất ngày xưa là SVN, và ngay nay là GIT.
+Khi sử dụng git ở môi trường máy tính cá nhân, bạn hoàn toàn có thể sử dụng các phần mềm giao diện đồ hoạ như SourceTree, Github Desktop,&amp;hellip; hoặc đơn giản nhất cũng là Git GUI.</description>
+    </item>
+    
+    <item>
+      <title>Go package</title>
+      <link>https://laptrinh.website/blog/2019/04/04/go-package/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/04/go-package/</guid>
+      <description>Chương trình go được tạo bởi các package. Trong đó, hàm main trong package có tên là main sẽ được tự động thực thi. Tức là một package muốn thực thi được, thì phải là package main.
+Nếu chúng ta cố gắng chạy 1 package không phải là package main thì go sẽ báo như sau:
+Tạo file test.go:
+package test func start(){ print(&amp;quot;Testing...&amp;quot;) } $ go run test.go go run: cannot run non-main package  Cách đặt tên Cách đặt tên của các thành phần trong package Đường dẫn và cách import Build package Nếu 1 package</description>
+    </item>
+    
+    <item>
+      <title>Linux sudo không cần mật khẩu</title>
+      <link>https://laptrinh.website/blog/2019/04/04/linux-sudo-kh%C3%B4ng-c%E1%BA%A7n-m%E1%BA%ADt-kh%E1%BA%A9u/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/04/linux-sudo-kh%C3%B4ng-c%E1%BA%A7n-m%E1%BA%ADt-kh%E1%BA%A9u/</guid>
+      <description>Trên HĐH Linux, bạn mệt mỏi phải nhập mật khẩu mỗi khi sudo mỗi khi cần gõ lệnh nào đó cần quyền root. Bạn có biết là bạn có thể sudo mà không cần nhập mật khẩu.
+Cách thực hiện: Ví dụ tên username là: phucth sudo vim /etc/sudoers.d/phucth Tên vào file nội dung như sau: phucth ALL=(ALL:ALL) NOPASSWD: ALL Lưu lại. Tiến hành kiểm tra: $ sudo ls / Bây giờ, lệnh ls thực hiện được dưới lệnh sudo mà không cần nhập nữa.</description>
+    </item>
+    
+    <item>
+      <title>Cài extension PHP còn thiếu trên Linux</title>
+      <link>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-extension-php-c%C3%B2n-thi%E1%BA%BFu-tr%C3%AAn-linux/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-extension-php-c%C3%B2n-thi%E1%BA%BFu-tr%C3%AAn-linux/</guid>
+      <description>Khi làm việc với php bạn thường hay gặp các lỗi Undefined function, hoặc class thường là do thiếu các extension gây ra. Ví dụ như &amp;ldquo;undefined function curl_init()&amp;rdquo; là do thiếu extension curl.
+Cài thông qua trình quản lí gói Nếu bạn cài đặt php thông qua trình quản lí gói như apt, bạn chỉ cần cài thêm extension qua lệnh:
+$ apt install php-curl  Cài thông qua tool pecl Còn nếu như bạn cài thông qua build source, thì bạn có thể cd vào thư mục bin của php ví dụ: /etc/php/5.</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt môi trường lập trình PHP trên Ubuntu Linux</title>
+      <link>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</guid>
+      <description>Để lập trình PHP trên HĐH Ubuntu, chúng ta cần cài đặt cơ bản các gói sau:
+ Web server: Apache2 DB: MySQL PHP và các extension Cài đặt text editor  Cài đặt Apache2 Trước tiên, update repo:
+$ sudo apt update  Tiến hành cài apache2
+$ sudo apt install apache2 -y  Mở trình duyệt vào trang chủ http://localhost. Nếu thấy trang** apache2 default page **là cài đặt thành công.</description>
+    </item>
+    
+    <item>
+      <title>Build extension cho php bất kì trên Linux/MacOS</title>
+      <link>https://laptrinh.website/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux-macos/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux-macos/</guid>
+      <description>Khi bạn cài php từ source mà không phải cài từ trình quản lí gói như apt hoặc yum, brew,&amp;hellip; thì khi bạn cần cài thêm 1 extension mới cho php thì ngoài cách bạn thường hay làm (trên windows) là bạn lên mạng; tải file đã build sẵn có định dạng là *.so đối với linux, Mac.
+Trước tiên, bạn phải biết đường dẫn tới thư mục bin của php.</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt PHP</title>
+      <link>https://laptrinh.website/blog/2019/03/29/c%C3%A0i-%C4%91%E1%BA%B7t-php/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/03/29/c%C3%A0i-%C4%91%E1%BA%B7t-php/</guid>
+      <description>Trong 3 HĐH phổ biến là Windows, Linux, MacOS thì trong đó MacOS đã cài đặt sẵn php. còn Linux cũng có thể cài đặt PHP một cách dễ dàng bằng 1 lệnh duy nhất (cài đặt bản stable). Chỉ có Windows là cài đặt hơi mệt hơn. (nghe ngược ngược :D)
+Cài đặt PHP trên Windows Trên HĐH Windows có một số cách để cài đặt PHP:
+ Cách chính thức nhất và chỉ cài đặt php thì bạn có thể vào thẳng trang web của php tại: https://windows.</description>
+    </item>
+    
+    <item>
+      <title>Cách tính chuyển đổi IPV4 -&gt; IPv6</title>
+      <link>https://laptrinh.website/blog/2017/06/21/c%C3%A1ch-t%C3%ADnh-chuy%E1%BB%83n-%C4%91%E1%BB%95i-ipv4-ipv6/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2017/06/21/c%C3%A1ch-t%C3%ADnh-chuy%E1%BB%83n-%C4%91%E1%BB%95i-ipv4-ipv6/</guid>
+      <description>173.194.38.101
+173 : 16 = 10 dư 13
+194 : 16 = 12 dư 2
+38 : 16 = 2 dư 6
+101 : 16 = 6 dư 5
+So sánh với giá trị HEX :
+A = 10
+B = 11
+C = 12
+D = 13
+E = 14
+F = 15
+Ta ghép kết quả và số dư lại, kết quả đứng trước và số dư đứng sau, ta được kết quả như sau : ADC2:2665</description>
+    </item>
+    
+    <item>
+      <title>Centos update VMWare không còn mount được /mnt/hgfs (thư mục share)</title>
+      <link>https://laptrinh.website/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-mnt-hgfs-th%C6%B0-m%E1%BB%A5c-share/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-mnt-hgfs-th%C6%B0-m%E1%BB%A5c-share/</guid>
+      <description>Fix trường hợp update centos không còn mount được ổ&amp;nbsp;/mnt/hgfs
+neu chua co cai git
+$yum install git-core
+$ git clone https://github.com/rasa/vmware-tools-patches.git
+$ cd vmware-tools-patches
+$ ./patched-open-vm-tools.sh
+$ /usr/bin/vmware-user
+xem ket qua
+$ ls /mnt/hgfs/&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Phát triển kỹ năng lập trình bằng Exercism - một công cụ open source và miễn phí</title>
+      <link>https://laptrinh.website/blog/2017/02/15/ph%C3%A1t-tri%E1%BB%83n-k%E1%BB%B9-n%C4%83ng-l%E1%BA%ADp-tr%C3%ACnh-b%E1%BA%B1ng-exercism-m%E1%BB%99t-c%C3%B4ng-c%E1%BB%A5-open-source-v%C3%A0-mi%E1%BB%85n-ph%C3%AD/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2017/02/15/ph%C3%A1t-tri%E1%BB%83n-k%E1%BB%B9-n%C4%83ng-l%E1%BA%ADp-tr%C3%ACnh-b%E1%BA%B1ng-exercism-m%E1%BB%99t-c%C3%B4ng-c%E1%BB%A5-open-source-v%C3%A0-mi%E1%BB%85n-ph%C3%AD/</guid>
+      <description>_
+_Sau khi học code căn bản, bạn cần cải thiện kỹ năng để làm chủ một ngôn ngữ nào đó. Exercism.io là một công cụ mã nguồn mở đã được tạo ra để giúp bạn trong quá trình này. Exercism có hàng ngàn bài tập thực hành với hơn 30 ngôn ngữ. Ngoài việc giúp bạn học code từ đầu nó còn cho phép các lập trình viên có kinh nghiệm trao dồi kỹ năng của mình.</description>
+    </item>
+    
+    <item>
+      <title>Fix lỗi undefined index $_SERVER[&#39;HTTPS&#39;] và port $_SERVER[&#39;SERVER_PORT&#39;] luôn trả ra 80 khi truy cập vào https</title>
+      <link>https://laptrinh.website/blog/2015/12/18/fix-l%E1%BB%97i-undefined-index-_serverhttps-v%C3%A0-port-_serverserver_port-lu%C3%B4n-tr%E1%BA%A3-ra-80-khi-truy-c%E1%BA%ADp-v%C3%A0o-https/</link>
+      <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2015/12/18/fix-l%E1%BB%97i-undefined-index-_serverhttps-v%C3%A0-port-_serverserver_port-lu%C3%B4n-tr%E1%BA%A3-ra-80-khi-truy-c%E1%BA%ADp-v%C3%A0o-https/</guid>
+      <description>Khi lập trình php cần thao tác trên host https. Các bạn có thể gặp trường hợp&amp;nbsp;&amp;nbsp;undefined index $_SERVER[&amp;lsquo;HTTPS&amp;rsquo;] và port $_SERVER[&amp;lsquo;SERVER_PORT&amp;rsquo;] luôn trả ra 80 khi truy cập vào https. Có thể tạm fix như sau:
+ Các bạn chỉ cần sửa vhost cấu hình apache như thế này:
+  *:80DocumentRoot D:xampphtdocsabcServerName abc.vn.vn*:443&amp;nbsp;setEnv HTTPS on&amp;nbsp;DocumentRoot D:xampphtdocsabcServerName abc.vn:443&amp;nbsp;UseCanonicalName On 2. Restart apache 3. Dump xem kết quả var_dump($_SERVER); die; </description>
+    </item>
+    
+    <item>
+      <title>PHP bật hiển thị lỗi</title>
+      <link>https://laptrinh.website/blog/2015/11/04/php-b%E1%BA%ADt-hi%E1%BB%83n-th%E1%BB%8B-l%E1%BB%97i/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2015/11/04/php-b%E1%BA%ADt-hi%E1%BB%83n-th%E1%BB%8B-l%E1%BB%97i/</guid>
+      <description>Đặt đoạn code này trước đoạn, nơi mà bạn muốn hiển thị lỗi:
+&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt;ini_set&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt;(&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: maroon; margin: 0px; padding: 0px;&amp;quot;&amp;gt;&#39;display_errors&#39;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt;,&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: maroon; margin: 0px; padding: 0px;&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt;);&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt; ini_set&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt;(&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: maroon; margin: 0px; padding: 0px;&amp;quot;&amp;gt;&#39;display_startup_errors&#39;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt;,&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: maroon; margin: 0px; padding: 0px;&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt;);&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt; error_reporting&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt;(&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt;E_ALL&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;border: 0px; color: black; margin: 0px; padding: 0px;&amp;quot;&amp;gt;);&amp;lt;/span&amp;gt;  </description>
+    </item>
+    
+    <item>
+      <title>Linux kết nối ssh bằng file .ppk</title>
+      <link>https://laptrinh.website/blog/2015/07/29/linux-k%E1%BA%BFt-n%E1%BB%91i-ssh-b%E1%BA%B1ng-file-.ppk/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2015/07/29/linux-k%E1%BA%BFt-n%E1%BB%91i-ssh-b%E1%BA%B1ng-file-.ppk/</guid>
+      <description>Bài viết sử dụng Ubuntu
+
+
+ Cài putty sudo apt-get install putty Chuyển file ppk thành định dạng openssh puttygen private.ppk -o private-key -O private-openssh Kết nối ssh -i private-key username@remote-server-ip  </description>
+    </item>
+    
+    <item>
+      <title>Session memcached cho Zend 1</title>
+      <link>https://laptrinh.website/blog/2015/06/19/session-memcached-cho-zend-1/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2015/06/19/session-memcached-cho-zend-1/</guid>
+      <description>Session memcached cho Zend 1 File: application/Bootstrap.php &amp;lt;?php class Bootstrap extends Zend_Application_Bootstrap_Bootstrap  { &amp;hellip; protected function _initSessionId() {
+$this-&amp;gt;bootstrap(&amp;lsquo;session&amp;rsquo;); Zend_Session::getSaveHandler()-&amp;gt;setCache(My_Memcache::getSessionCache()); } &amp;hellip; } 
+File: /library/My/Memcache.php &amp;lt;?php class My_Memcache{
+private static $_ssinstance;  public static function getSessionCache() { if(!is_object(self::$_ssinstance)) { $cacheConf = new Zend_Config_Ini(CONFIG_PATH . &amp;lsquo;/cache.ini&amp;rsquo;, APPLICATION_ENV);  $memcache = $cacheConf-&amp;gt;memcached; self::$_ssinstance = Zend_Cache::factory($memcache-&amp;gt;frontend-&amp;gt;name, $memcache-&amp;gt;backend-&amp;gt;name,  $memcache-&amp;gt;frontend-&amp;gt;options-&amp;gt;toArray(), $memcache-&amp;gt;backend-&amp;gt;options-&amp;gt;toArray()); } return self::$_ssinstance;
+} } File: application/configs/application.ini [production] ;session savehandler class resources.</description>
+    </item>
+    
+    <item>
+      <title>regex match mac address</title>
+      <link>https://laptrinh.website/blog/2014/09/12/regex-match-mac-address/</link>
+      <pubDate>Fri, 12 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2014/09/12/regex-match-mac-address/</guid>
+      <description>/(([0-9A-F]{2}[:-]){5}[0-9A-F]{2})/</description>
+    </item>
+    
+    <item>
+      <title>js auto center element</title>
+      <link>https://laptrinh.website/blog/2014/09/05/js-auto-center-element/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2014/09/05/js-auto-center-element/</guid>
+      <description>var frm = $(&#39;&#39;); var modal=$(&#39;&#39;); $(modal).css({width: &#39;100%&#39;, height:2000,top:0, left:0,position:&#39;absolute&#39;,&#39;z-index&#39;: &#39;998&#39;,background: &#39;#999&#39;,&#39;opacity&#39; :&#39;0.8&#39;}); $(modal).click(function (){ $(frm).remove(); $(this).remove(); }); var h,w; h = (cb_widget_config.height) ? cb_widget_config.height:300; w = (cb_widget_config.width) ? cb_widget_config.width:500; frm.css({&#39;height&#39;:h, &#39;width&#39;:w, &#39;position&#39;:&#39;fixed&#39;,&#39;z-index&#39;: &#39;999&#39;}); $(&#39;body&#39;).append(modal); $(&#39;body&#39;).append(frm); var auto_center = function(e){ var w=$(window).width(); var h=$(window).height(); $(e).css({ &#39;left&#39;:(w-$(e).width())/2, &#39;top&#39;:(h-$(e).height())/2, }); } auto_center(frm); window.onresize= function (){auto_center(frm);}  </description>
+    </item>
+    
+    <item>
+      <title>php regex match is absolute url</title>
+      <link>https://laptrinh.website/blog/2014/09/05/php-regex-match-is-absolute-url/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2014/09/05/php-regex-match-is-absolute-url/</guid>
+      <description>Tìm các url có &amp;ldquo;/&amp;rdquo; đầu tiên
+ if (preg_match(&#39;/^//&#39;, $url, $out)) $url = STATIC_URL.$url;</description>
+    </item>
+    
+    <item>
+      <title>regex get n word first</title>
+      <link>https://laptrinh.website/blog/2014/09/05/regex-get-n-word-first/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2014/09/05/regex-get-n-word-first/</guid>
+      <description>/(S+s+){10,40}/</description>
+    </item>
+    
+    <item>
+      <title>Javascript Highlight text</title>
+      <link>https://laptrinh.website/blog/2013/09/26/javascript-highlight-text/</link>
+      <pubDate>Thu, 26 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2013/09/26/javascript-highlight-text/</guid>
+      <description>http://stackoverflow.com/questions/8644428/how-to-highlight-text-using-javascript
+$.fn.hl = function (word) { str = $(this).html(); word=&amp;quot;(\b&amp;quot;+ word.replace(/([{}()[]\.?*+^$&#39;=!:~-])/g, &amp;quot;\$1&amp;quot;)+ &amp;quot;\b)&amp;quot;; // var r = /(w+)/ig // var r = new RegExp(&#39;(^&#39;\s&#39;\(&#39;&#39;&#39;&amp;quot;&#39;,&#39;;)&#39; + &#39;chi&#39; + &#39;($&#39;\s&#39;\)&#39;\.&#39;&#39;&#39;&amp;quot;&#39;!&#39;,&#39;;&#39;\?)&#39;, &#39;gi&#39;);; var r = new RegExp(word,&amp;quot;igm&amp;quot;); str = str.replace(/(&amp;gt;[^&amp;lt;]+&amp;lt;)/igm,function(a){ return a.replace(r,&amp;quot;&amp;lt;span&amp;gt;$1&amp;lt;/span&amp;gt;&amp;quot;); }); $(this).html(str); }  Sử dụng: $(&#39;.pagetitle&#39;).hl(&#39;text&#39;);
+Javascript Highlight text</description>
+    </item>
+    
+    <item>
+      <title>Vấn đề với RabbitVCS trong nautilus 3 (Files)</title>
+      <link>https://laptrinh.website/blog/2013/09/07/v%E1%BA%A5n-%C4%91%E1%BB%81-v%E1%BB%9Bi-rabbitvcs-trong-nautilus-3-files/</link>
+      <pubDate>Sat, 07 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2013/09/07/v%E1%BA%A5n-%C4%91%E1%BB%81-v%E1%BB%9Bi-rabbitvcs-trong-nautilus-3-files/</guid>
+      <description>Mặc dù bạn đã cài xong rabbitvcs-nautilus3 nhưng menu context svn vẫn không hiện ra từ phiên bản nautilus có tên Files. Để kích họat, đơn giản chỉ cần mở terminal lên. Gõ 2 lệnh sau đây vào: 64bit
+ sudo ln -s /usr/lib/x86_64-linux-gnu/libpython2.7.so.1.0 /usr/lib/libpython2.7.so.1.0 sudo ln -s /usr/lib/x86_64-linux-gnu/libpython2.7.so.1.0 /usr/lib/x86_64-linux-gnu/libpython2.7.so 
+32bit
+sudo ln -s /usr/lib/i386-linux-gnu/libpython2.7.so.1.0 /usr/lib/libpython2.7.so.1.0</description>
+    </item>
+    
+    <item>
+      <title>Đổi DNS cho Ubuntu Linux</title>
+      <link>https://laptrinh.website/blog/2013/07/19/%C4%91%E1%BB%95i-dns-cho-ubuntu-linux/</link>
+      <pubDate>Fri, 19 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2013/07/19/%C4%91%E1%BB%95i-dns-cho-ubuntu-linux/</guid>
+      <description>Để vào được một số website - điển hình như Facebook - Ta phải chỉnh lại DNS. Để làm được điều này ta thực hiện:
+Bật terminal lên gõ:
+sudo gedit /etc/resolv.conf
+Đổi:
+nameserver 127.0.1.1
+Thành:
+nameserver 8.8.8.8 nameserver 8.8.4.4Lưu lại. Xong!
+Tuy nhiên, sau mỗi lần khởi động lại, hoặc kết nối vào mạng khác, ta lại phải là chỉnh lại các bước trên.
+Để thiết lập mặc định luôn thì ta sửa file sau:</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt Google Chrome cho Ubuntu</title>
+      <link>https://laptrinh.website/blog/2013/07/02/c%C3%A0i-%C4%91%E1%BA%B7t-google-chrome-cho-ubuntu/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2013/07/02/c%C3%A0i-%C4%91%E1%BA%B7t-google-chrome-cho-ubuntu/</guid>
+      <description>Vào&amp;nbsp;https://www.google.com/chrome để tải file deb. Mặc định file tải về lưu trong ~/Download. Mở terminal. Gõ lệnh:
+cd ~/Download sudo dpkg -i google-chrome*.deb
+Có dấu * là vì tùy các vào phiên bản Ubuntu đang sử dụng, bản 32 bit hoặc 64 bit, nên cứ để * cho gọn ! Sau khi gõ xong lệnh thứ hai, nó chạy chút sẽ báo lỗi, gõ thêm lệnh sudo apt-get install -f sẽ cài đặt hoàn tất.</description>
+    </item>
+    
+    <item>
+      <title>Call to undefined function curl_init() Install cURl cho Linux</title>
+      <link>https://laptrinh.website/blog/2013/07/01/call-to-undefined-function-curl_init-install-curl-cho-linux/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2013/07/01/call-to-undefined-function-curl_init-install-curl-cho-linux/</guid>
+      <description>Bạn chưa cài gói curl chỉ cần cài vào là giải quyết được.   $ sudo apt-get install curl libcurl3 libcurl3-dev php5-curl</description>
+    </item>
+    
+    <item>
+      <title>Cài chương trình nghe nhạc VLC cho Ubuntu Linux</title>
+      <link>https://laptrinh.website/blog/2013/07/01/c%C3%A0i-ch%C6%B0%C6%A1ng-tr%C3%ACnh-nghe-nh%E1%BA%A1c-vlc-cho-ubuntu-linux/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2013/07/01/c%C3%A0i-ch%C6%B0%C6%A1ng-tr%C3%ACnh-nghe-nh%E1%BA%A1c-vlc-cho-ubuntu-linux/</guid>
+      <description>Để cài vlc vào terminal gõ lệnh:
+sudo apt-get install vlc
+Nhập mật khẩu khi có yêu cầu.
+Nhập y khi được hỏi xác nhận có muốn cài không.
+Chờ&amp;hellip;
+Xong !</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt Ibus Unikey cho Ubuntu Linux</title>
+      <link>https://laptrinh.website/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</guid>
+      <description>Để gõ được tiếng Việt trong Ubuntu cần cài Ibus unikey hoặc&amp;nbsp;xcim. Mở terminal gõ:
+$sudo apt-get install ibus-unikeyVà cuối cùng là: vào System/Preferences/Input Method Switcher. Nếu không thấy mục Input Method Switcher. Bạn có thể vào terminal gõ trực tiếp lệnh:
+$im-switchLog out, Log in lại. Bây giờ bạn đã có thể gõ được tiếng Việt bằng cách ấn phím Ctrl + Space để chuyển đổi kiểu gõ Tiếng Anh &amp;lt;-&amp;gt; Tiếng Việt!</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt flash player cho Ubuntu Linux</title>
+      <link>https://laptrinh.website/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-flash-player-cho-ubuntu-linux/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-flash-player-cho-ubuntu-linux/</guid>
+      <description>Mở terminal
+sudo apt-get install flashplugin-installer
+Cài thêm các thành phần bổ trợ đa phương tiện để play được các video:
+sudo apt-get install ubuntu-restricted-extras
+Xong !</description>
+    </item>
+    
+    <item>
+      <title>Chuyển đổi qua lại các gói giao diện của Ubuntu</title>
+      <link>https://laptrinh.website/blog/2011/12/18/chuy%E1%BB%83n-%C4%91%E1%BB%95i-qua-l%E1%BA%A1i-c%C3%A1c-g%C3%B3i-giao-di%E1%BB%87n-c%E1%BB%A7a-ubuntu/</link>
+      <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/12/18/chuy%E1%BB%83n-%C4%91%E1%BB%95i-qua-l%E1%BA%A1i-c%C3%A1c-g%C3%B3i-giao-di%E1%BB%87n-c%E1%BB%A7a-ubuntu/</guid>
+      <description>Bạn đang sử dụng Ubuntu, thấy hơi chán với cái Utiny nặng nề, muốn chuyển sang xubuntu (sử dụng xfce) cho nhẹ, hoặc chuyển sang kubuntu cho màn hình bóng bẩy hơn! Hoặc chuyển ngược lại. Không cần phải cài đặt lại các bản Ubuntu, Xubuntu hay Kubuntu tương ứng, mà chỉ cần cài lại gói giao diện cho nó là OK! Việc thực hiện chỉ đơn giản như sau:</description>
+    </item>
+    
+    <item>
+      <title>Cấu hình IP cho Linux</title>
+      <link>https://laptrinh.website/blog/2011/10/15/c%E1%BA%A5u-h%C3%ACnh-ip-cho-linux/</link>
+      <pubDate>Sat, 15 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/10/15/c%E1%BA%A5u-h%C3%ACnh-ip-cho-linux/</guid>
+      <description>&amp;nbsp; &amp;nbsp; &amp;nbsp;Khi mới bắt đầu làm quen với Linux, nhức đầu lắm với mấy cái vụ cấu hình IP :&amp;lsquo;. Ở trường làm 1 đường về nhà lại làm 1 nẻo. Một thời gian mệt mỏi, và sẽ tiếp tụp mệt mỏi&amp;hellip;. với việc cấu hình IP. Note lại vài dòng dể sau này có quên ngồi xem lại !&amp;nbsp;Tại thời điểm này, IPv4 vẫn còn thống trị. Nên giờ chỉ nói với v4 thôi, còn v6 thì để từ từ nói tiếp vậy.</description>
+    </item>
+    
+    <item>
+      <title>Cấu hình IP cho Ubuntu</title>
+      <link>https://laptrinh.website/blog/2011/10/11/c%E1%BA%A5u-h%C3%ACnh-ip-cho-ubuntu/</link>
+      <pubDate>Tue, 11 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/10/11/c%E1%BA%A5u-h%C3%ACnh-ip-cho-ubuntu/</guid>
+      <description>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bạn đã quen với việc cấu hình IP trên CentOS, Fedora, ReaHat,&amp;hellip; khi bạn bắt đầu làm quen với Ubuntu thì những việc đơn giản nhất bạn cũng phải tìm hiểu lại! Sau đây là cách cấu hình IP mình sẽ giới thiệu với các bạn sau một hồi Google search :D
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Trước tiên bạn phải xác định được file cấu hình nằm ở đâu. Không giống như Fedora, Ubuntu sử dụng 1 file duy nhất để cấu hình các card mạng.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Cài đặt VMWare 7.1 cho Linux</title>
+      <link>https://laptrinh.website/blog/2011/10/10/ubuntu-c%C3%A0i-%C4%91%E1%BA%B7t-vmware-7.1-cho-linux/</link>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/10/10/ubuntu-c%C3%A0i-%C4%91%E1%BA%B7t-vmware-7.1-cho-linux/</guid>
+      <description>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Đối với các bạn IT thì việc sử dụng các phần mềm tạo máy ảo là không thể thiếu được. Mặc dù VirtualBox đã quá tốt cho việc tạo và sử dụng máy ảo trên nền nảng Linux rồi, nhưng hôm nay mình sẽ giới thiệu đến các bạn cách cài đặt VMWare - phần mềm tạo máy ảo mà đa số chúng ta sử dụng trên HĐH Windows.</description>
+    </item>
+    
+    <item>
+      <title>Fedora Thêm quyền sudo cho user thường</title>
+      <link>https://laptrinh.website/blog/2011/07/08/fedora-th%C3%AAm-quy%E1%BB%81n-sudo-cho-user-th%C6%B0%E1%BB%9Dng/</link>
+      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/07/08/fedora-th%C3%AAm-quy%E1%BB%81n-sudo-cho-user-th%C6%B0%E1%BB%9Dng/</guid>
+      <description>Bạn được học rằng, khi cần thực hiện lệnh dưới quyền root không cần phải su qua root mà chỉ cần mượn quyền bằng lệnh sudo. Thế nhưng trên Fedora, khi bạn thực thiện lệnh [code]$ sudo gedit[/code] lại không thực hiện được.
+
+Máy báo là user bạn không được nằm trong sudoers file.
+Vậy để thực hiện được lệnh mượn quyền sudo bạn cần phải thêm tên của user bạn đang dùng vào file sudoers.</description>
+    </item>
+    
+    <item>
+      <title>Tổng quan về bộ lệnh MIPS</title>
+      <link>https://laptrinh.website/blog/2011/07/08/t%E1%BB%95ng-quan-v%E1%BB%81-b%E1%BB%99-l%E1%BB%87nh-mips/</link>
+      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/07/08/t%E1%BB%95ng-quan-v%E1%BB%81-b%E1%BB%99-l%E1%BB%87nh-mips/</guid>
+      <description>Phần I: GIỚI THIỆU
+Phần II: KIẾN TRÚC LỆNH MIPS.
+&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Các thanh ghi.
+ Thanh ghi đa năng: 32 thanh. SốTênÝ nghĩa$0$zeroHằng số 0$1$atAssembler Temporary$2 -&amp;gt; $3$v0 -&amp;gt; $v1Giá trị trả về của hàm hoặc biểu thức$4 -&amp;gt; $7$a0 -&amp;gt; $a3Các tham số của hàm$8 -&amp;gt; $15$t0 -&amp;gt; $t7Thanh ghi tạm (không giữ giá trị trong quá trình gọi hàm)$16 -&amp;gt; $23$s0 -&amp;gt; $s7Thanh ghi lưu trữ (giữ giá trị trong suốt quá trình gọi hàm)$24 -&amp;gt; $25$t8 -&amp;gt; $t9Thanh ghi tạm$26 -&amp;gt; 27$k0 -&amp;gt; $k1Dự trữ cho nhân HĐH$28$gpCon trỏ toàn cục (global pointer)$29$spCon trỏ Stack$30$fpCon trỏ Frame$31$raĐịa chỉ trả về* Thanh ghi dấu phẩy động: 32 thanh, có tên từ $f0 -&amp;gt; $f31.</description>
+    </item>
+    
+    <item>
+      <title>Phần mềm cắt nối file 001 | 002 .. trên Linux</title>
+      <link>https://laptrinh.website/blog/2011/07/02/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-001-002-..-tr%C3%AAn-linux/</link>
+      <pubDate>Sat, 02 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/07/02/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-001-002-..-tr%C3%AAn-linux/</guid>
+      <description>Các file 001,&amp;hellip; đối với các bạn đã quá quen thuộc, thế nhưng trên nền Linux bạn đang loay hoay tìm một ứng dụng thay thế?? lxspit là một ứng cử viên sáng giá. Mặc dù chương trình không có giao diện (sử dụng command) thế nhưng lxspit cũng tỏ ra vô cùng mạnh mẽ!! Các lệnh với xlspit cũng rất đơn giản. Cấu trúc lệnh:
+[code]$ lxspit &amp;lt;-option&amp;gt;  [/code]</description>
+    </item>
+    
+    <item>
+      <title>Cấu hình Squid proxy để cho phép AIM, Yahoo, Gtalk và MSN Messenger truy cập mạng</title>
+      <link>https://laptrinh.website/blog/2011/06/29/c%E1%BA%A5u-h%C3%ACnh-squid-proxy-%C4%91%E1%BB%83-cho-ph%C3%A9p-aim-yahoo-gtalk-v%C3%A0-msn-messenger-truy-c%E1%BA%ADp-m%E1%BA%A1ng/</link>
+      <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/29/c%E1%BA%A5u-h%C3%ACnh-squid-proxy-%C4%91%E1%BB%83-cho-ph%C3%A9p-aim-yahoo-gtalk-v%C3%A0-msn-messenger-truy-c%E1%BA%ADp-m%E1%BA%A1ng/</guid>
+      <description>M?nh đ? có 1 bài vi?t hư?ng d?n các b?n c?u h?nh SQUID PROXY. Hôm nay gi?i thi?u ti?p đ?n các b?n trong trư?ng h?p b?n deny all các đ?a ch?, port ko mong mu?n th? khi dùng&amp;nbsp;AIM, Yahoo, Gtalk và MSN Messenger th? ko th? nào vào m?ng đư?c. Sau đây là cách thêm vào các rule cho phép proxy Squid đ?ng ? các ?ng d?ng này truy c?p m?</description>
+    </item>
+    
+    <item>
+      <title>Phần mềm cắt nối file nối file 001 | 002 |  __a | __b ....</title>
+      <link>https://laptrinh.website/blog/2011/06/29/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-n%E1%BB%91i-file-001-002-__a-__b-..../</link>
+      <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/29/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-n%E1%BB%91i-file-001-002-__a-__b-..../</guid>
+      <description>Khi bạn tải các file chia sẽ trên Internet, thì việc tải các file *.001 *.__a là chuyện thường thấy. Cách chia nhỏ file này so với việc sử dụng winrar để cắt file thì an toàn hơn rất nhiều. Nếu trên môi trường Linux các bạn có thể tham khảo ở đây. Trên môi trường Windows các có thể các bạn có thể sử dụng HJSPIT hoặc FFSJ. Trong bài này mình sẽ giới thiệu tới các bạn &amp;nbsp;cách sử dụng FFHJ.</description>
+    </item>
+    
+    <item>
+      <title>Tạo file Iso trên Linux</title>
+      <link>https://laptrinh.website/blog/2011/06/28/t%E1%BA%A1o-file-iso-tr%C3%AAn-linux/</link>
+      <pubDate>Tue, 28 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/28/t%E1%BA%A1o-file-iso-tr%C3%AAn-linux/</guid>
+      <description>Chào các bạn! Hôm nay mình sẽ tiếp tục chinh phục Linux bằng việc tìm hiểu cách tạo file ISO.
+Như bạn đã biết trên Windows muốn tạo file iso thì chúng ta chỉ việc tìm phần nào đó hỗ trợ tạo file iso (đại loại như Ultra ISO) là có thể tạo được, nó khá đơn giản. Thế còn trên Linux thì sao?? Thật sự mà nói. Nó còn đơn giản hơn nhiều ^^!</description>
+    </item>
+    
+    <item>
+      <title>Chuyển Bookmark từ Chrome sang Firefox</title>
+      <link>https://laptrinh.website/blog/2011/06/25/chuy%E1%BB%83n-bookmark-t%E1%BB%AB-chrome-sang-firefox/</link>
+      <pubDate>Sat, 25 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/25/chuy%E1%BB%83n-bookmark-t%E1%BB%AB-chrome-sang-firefox/</guid>
+      <description>Các bạn đang sử dụng song song hai trình duyệt Chrome và Firefox? Đôi việc sử dụng song song hai trình duyệt này hoặc muốn chuyển từ Chrome sang dùng Firefox cũng làm cho bạn cảm thấy khó khăn vì khi đánh dấu các trang ưa thích trong Chrome thì khi sang Firefox lại phải đánh dấu các trang lại từ đầu [:&amp;lsquo;]. Hôm nay, mình sẽ hướng dẫn các bạn chuyển các mục đánh dấu từ Chrome sang Firefox bằng video.</description>
+    </item>
+    
+    <item>
+      <title>Code C/C&#43;&#43; Tam giác Pascal</title>
+      <link>https://laptrinh.website/blog/2011/06/23/code-c-c-tam-gi%C3%A1c-pascal/</link>
+      <pubDate>Thu, 23 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/23/code-c-c-tam-gi%C3%A1c-pascal/</guid>
+      <description>Đây là bài code Tam giác Pascal kinh điển. Mình lấy nguồn từ forum của lớp 08CT Hùng Vương.
+(Có chỉnh sửa đôi chút để chạy được trên Linux ^^!)
+#include &amp;lt;stdio.h&amp;gt; #define N 15 //So luong dong trong tam giac pascal void main() { int i, j, tgpascal[N], tmp[N]; tgpascal[0] = 1; for (i = 1; i &amp;lt; N; i++) tgpascal[i] = 0; for (i = 0; i &amp;lt; N; i++) { for (j = 0; j &amp;lt;= i; j++) tmp[j] = tgpascal[j]; printf(&amp;quot;n%5d&amp;quot;, tmp[0]); for (j = 1; j &amp;lt;= i; j++) { tmp[j] += tgpascal[j - 1]; printf(&amp;quot;%5d&amp;quot;, tmp[j]); } for (j = 0; j &amp;lt;= i; j++) tgpascal[j] = tmp[j]; } printf(&amp;quot;n&amp;quot;); }  </description>
+    </item>
+    
+    <item>
+      <title>Các thao tác cần nắm đối với OpenOffice</title>
+      <link>https://laptrinh.website/blog/2011/06/22/c%C3%A1c-thao-t%C3%A1c-c%E1%BA%A7n-n%E1%BA%AFm-%C4%91%E1%BB%91i-v%E1%BB%9Bi-openoffice/</link>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/22/c%C3%A1c-thao-t%C3%A1c-c%E1%BA%A7n-n%E1%BA%AFm-%C4%91%E1%BB%91i-v%E1%BB%9Bi-openoffice/</guid>
+      <description>Trong thời buổi hiện nay, Nguồn mở hóa đang là xu thế toàn cầu. Bạn có thể sử dụng bộ OpenOffice &amp;nbsp;miễn phí thay thế cho Microsoft Office đắc đỏ. Hiện tại OpenOffice hỗ trợ cho cả Windows, MAC và Linux. Hiện nay chuẩn định dạng ODF cũng đã đạt chuẩn ISO và đang được coi như là một định dạng văn bản phổ biến ở các nước Châu Âu. Vì thế nắm được những thao tác cơ bản trên OpenOffice sẽ giúp bạn từng bước chuyển từ MS Office sang OpenOffice - xu thế toàn cầu!</description>
+    </item>
+    
+    <item>
+      <title>Update bản firefox 3.6.10 mặc định lên bản 4.0</title>
+      <link>https://laptrinh.website/blog/2011/06/22/update-b%E1%BA%A3n-firefox-3.6.10-m%E1%BA%B7c-%C4%91%E1%BB%8Bnh-l%C3%AAn-b%E1%BA%A3n-4.0/</link>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/22/update-b%E1%BA%A3n-firefox-3.6.10-m%E1%BA%B7c-%C4%91%E1%BB%8Bnh-l%C3%AAn-b%E1%BA%A3n-4.0/</guid>
+      <description>Firefox 4.0 đã ra mắt khá lâu, trong Windows bạn có thể dễ dàng nâng cấp lên bản mới này, thế nhưng trong Linux thì ^^!, hjhj không đơn giản như thế, vì vậy mình sẽ hướng dẫn các bạn, nâng cấp lên chỉ với các bước khá đơn giản mà mình đã đọc được trên trang chủ của Mozilla Firefox :P.
+B1: Các bạn Backup profiles của firefox đang dùng bằng lệnh:</description>
+    </item>
+    
+    <item>
+      <title>Cấu hình dịch vụ Proxy trên Linux - Squid</title>
+      <link>https://laptrinh.website/blog/2011/06/21/c%E1%BA%A5u-h%C3%ACnh-d%E1%BB%8Bch-v%E1%BB%A5-proxy-tr%C3%AAn-linux-squid/</link>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/21/c%E1%BA%A5u-h%C3%ACnh-d%E1%BB%8Bch-v%E1%BB%A5-proxy-tr%C3%AAn-linux-squid/</guid>
+      <description>&amp;nbsp;&amp;nbsp; Trên HĐH Linux có rất nhiều phần mềm cung cấp dịch vụ proxy, trong đó Squid được sử dụng rộng rãi nhất.
+ Giới thiệu về SQUID.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Squid là một chương trình internet proxy-caching có vai trò tiếp nhận các yêu cầu từ các client và chuyển cho Internet server thích hợp. Đồng thời,nó sẽ lưu lên đĩa những dữ liệu được trả về từ Internet server - gọi là caching.</description>
+    </item>
+    
+    <item>
+      <title>Các công cụ biên tập video miễn phí trên Linux</title>
+      <link>https://laptrinh.website/blog/2011/06/18/c%C3%A1c-c%C3%B4ng-c%E1%BB%A5-bi%C3%AAn-t%E1%BA%ADp-video-mi%E1%BB%85n-ph%C3%AD-tr%C3%AAn-linux/</link>
+      <pubDate>Sat, 18 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/18/c%C3%A1c-c%C3%B4ng-c%E1%BB%A5-bi%C3%AAn-t%E1%BA%ADp-video-mi%E1%BB%85n-ph%C3%AD-tr%C3%AAn-linux/</guid>
+      <description>**Trên Windows, bạn có thể sử dụng công cụ sẵn có Windows Movie Maker để biên tập video tương đối hiệu quả. Ngược lại, đối với người dùng Linux, không có bất cứ lựa chọn nào sẵn có bên trong các bản phân phối theo mặc định. Tuy nhiên, với sự trợ giúp của cộng đồng người dùng mã nguồn mở, bạn có thể tìm kiếm và sử dụng hàng loạt những ứng dụng thay thế hoàn toàn miễn phí.</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt bộ gõ SCIM cho Ubuntu</title>
+      <link>https://laptrinh.website/blog/2011/06/14/c%C3%A0i-%C4%91%E1%BA%B7t-b%E1%BB%99-g%C3%B5-scim-cho-ubuntu/</link>
+      <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/14/c%C3%A0i-%C4%91%E1%BA%B7t-b%E1%BB%99-g%C3%B5-scim-cho-ubuntu/</guid>
+      <description>Ở tất cả các phiên bản của Ubuntu, khi cài Scim thông qua apt-get thì đều giống nhau.
+Các bạn Mở Terminal: Applications/Accessories/Terminal
+gõ lệnh, và nhập password:
+$ sudo apt-get install scim-qtimm $ sudo apt-get install scim-m17nVà cuối cùng là: vào System/Preferences/Input Method Switcher. Nếu không thấy mục&amp;nbsp;Input Method Switcher. Bạn có thể vào terminal gõ trực tiếp lệnh:
+$im-switch
+Giao diện của&amp;nbsp; scim
+
+Check vào mục Use SCIM.</description>
+    </item>
+    
+    <item>
+      <title>Tìm group và các user trong group đó khi nhập Group ID</title>
+      <link>https://laptrinh.website/blog/2011/06/14/t%C3%ACm-group-v%C3%A0-c%C3%A1c-user-trong-group-%C4%91%C3%B3-khi-nh%E1%BA%ADp-group-id/</link>
+      <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/14/t%C3%ACm-group-v%C3%A0-c%C3%A1c-user-trong-group-%C4%91%C3%B3-khi-nh%E1%BA%ADp-group-id/</guid>
+      <description>Dữ liệu mà ta quan tâm nằm tại /etc/group. Vấn đề là ta chỉ cần đọc được file group và xử lí nội dung của nó.!
+
+Nội dung trong file group được lưu theo từng dòng mỗi dòng là:
+[code]
+adm:x:4:pice, sv
+[/code]
+vậy là, ID group nằm ở phần thứ 3 của dòng. ở đây là group id là 4. tên group là adm và tên user là pice, sv.</description>
+    </item>
+    
+    <item>
+      <title>Cách lấy lại mật khẩu trên Linux</title>
+      <link>https://laptrinh.website/blog/2011/06/08/c%C3%A1ch-l%E1%BA%A5y-l%E1%BA%A1i-m%E1%BA%ADt-kh%E1%BA%A9u-tr%C3%AAn-linux/</link>
+      <pubDate>Wed, 08 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/08/c%C3%A1ch-l%E1%BA%A5y-l%E1%BA%A1i-m%E1%BA%ADt-kh%E1%BA%A9u-tr%C3%AAn-linux/</guid>
+      <description>Vô tình một ngày nào đó, bạn đổi pass ROOT mà nhỡ bị quên!! haizz, khổ nhỉ [:-/] nhưng đừng lo, cái gì cũng có cách [:D]http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/Linux/lbfedora1.png
+Chỉ cần làm theo hướng dẫn sau, rất đơn giản và nhanh chóng bạn sẽ có lại pass ROOT mà ko phải cài lại HĐH @.@!
+- B1: Trong lúc vừa bật máy tính lên, ấn nhanh phím e, sẽ hiện ra được menu:&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt các gói phần mềm cần thiết sau khi cài Ubuntu</title>
+      <link>https://laptrinh.website/blog/2011/06/06/c%C3%A0i-%C4%91%E1%BA%B7t-c%C3%A1c-g%C3%B3i-ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%A7n-thi%E1%BA%BFt-sau-khi-c%C3%A0i-ubuntu/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/c%C3%A0i-%C4%91%E1%BA%B7t-c%C3%A1c-g%C3%B3i-ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%A7n-thi%E1%BA%BFt-sau-khi-c%C3%A0i-ubuntu/</guid>
+      <description>Câp nhật các gói phần mềmsudo apt-get update&amp;lt;div&amp;gt;sudo apt-get install upgrade&amp;lt;/div&amp;gt;
+ Cài đặt Unikey: Ibus (*) hoặc scim
+ Cài trình nghe nhạc VLC
+ ng dùng Linux. Các bạn phải xác định lại:
+Bạn đang học Công Nghệ Thông Tin hay một ngành nào khác?
+Ngành của bạn cần có những phần mềm nào?
+Lúc rãnh rỗi thì bạn có chơi game ko?
+Game ưa thích của bạn là gì?</description>
+    </item>
+    
+    <item>
+      <title>Cấu trúc Case - shell linux</title>
+      <link>https://laptrinh.website/blog/2011/06/06/c%E1%BA%A5u-tr%C3%BAc-case-shell-linux/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/c%E1%BA%A5u-tr%C3%BAc-case-shell-linux/</guid>
+      <description>Cấu trúc case in esac, là cấu trúc rẽ nhánh trong lập trình shell trên Linux. Xem ví dụ sau sẽ rõ hơn:
+
+[code]
+#!/bin/bash
+while&amp;nbsp;:
+do
+&amp;nbsp;&amp;nbsp;clear
+&amp;nbsp;&amp;nbsp;echo&amp;nbsp;&amp;nbsp;-e&amp;nbsp;&amp;nbsp;&amp;ldquo;tt+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+&amp;rdquo;
+&amp;nbsp;&amp;nbsp;echo&amp;nbsp;&amp;nbsp;-e&amp;nbsp;&amp;nbsp;&amp;ldquo;tt&amp;rsquo;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Main&amp;nbsp;Menu&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;rsquo;&amp;rdquo;
+&amp;nbsp;&amp;nbsp;echo&amp;nbsp;&amp;nbsp;-e&amp;nbsp;&amp;nbsp;&amp;ldquo;tt+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+&amp;rdquo;
+&amp;nbsp;&amp;nbsp;echo&amp;nbsp;&amp;nbsp;-e&amp;nbsp;&amp;nbsp;&amp;ldquo;tt&amp;rsquo;&amp;nbsp;[1]&amp;nbsp;Xem&amp;nbsp;ngay/gio&amp;nbsp;hom&amp;nbsp;nay&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;rsquo;&amp;rdquo;
+&amp;nbsp;&amp;nbsp;echo&amp;nbsp;&amp;nbsp;-e&amp;nbsp;&amp;nbsp;&amp;ldquo;tt&amp;rsquo;&amp;nbsp;[2]&amp;nbsp;Xem&amp;nbsp;lich&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;rsquo;&amp;rdquo;
+&amp;nbsp;&amp;nbsp;echo&amp;nbsp;&amp;nbsp;-e&amp;nbsp;&amp;nbsp;&amp;ldquo;tt&amp;rsquo;&amp;nbsp;[3]&amp;nbsp;Xem&amp;nbsp;tat&amp;nbsp;ca&amp;nbsp;file/folder&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;rsquo;&amp;rdquo;
+&amp;nbsp;&amp;nbsp;echo&amp;nbsp;&amp;nbsp;-e&amp;nbsp;&amp;nbsp;&amp;ldquo;tt&amp;rsquo;&amp;nbsp;[4]&amp;nbsp;Exit/Stop&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;rsquo;&amp;rdquo;
+&amp;nbsp;&amp;nbsp;echo&amp;nbsp;&amp;nbsp;-e&amp;nbsp;&amp;nbsp;&amp;ldquo;tt+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+&amp;rdquo;
+&amp;nbsp;&amp;nbsp;echo&amp;nbsp;-n&amp;nbsp;&amp;ldquo;Enter&amp;nbsp;your&amp;nbsp;choice&amp;nbsp;[1-4]:&amp;nbsp;&amp;rdquo;
+&amp;nbsp;&amp;nbsp;read&amp;nbsp;choice&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;case&amp;nbsp;$choice&amp;nbsp;in&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;1)&amp;nbsp;echo&amp;nbsp;&amp;ldquo;Today&amp;nbsp;is&amp;nbsp;date&amp;nbsp;&amp;rdquo;;&amp;nbsp;read
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;;;&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2)&amp;nbsp;echo&amp;nbsp;&amp;ldquo;Files&amp;nbsp;in&amp;nbsp;$PWD&amp;rdquo;;&amp;nbsp;ls&amp;nbsp;-l;&amp;nbsp;read
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;;;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;3)&amp;nbsp;cal&amp;nbsp;;&amp;nbsp;read
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;;;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4)&amp;nbsp;exit&amp;nbsp;0
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;;;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;*)&amp;nbsp;echo&amp;nbsp;&amp;ldquo;Please&amp;nbsp;choice&amp;nbsp;1,2,3,4.&amp;ldquo;;&amp;nbsp;read
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;;;
+&amp;nbsp;&amp;nbsp;esac&amp;nbsp;
+done
+[/code]</description>
+    </item>
+    
+    <item>
+      <title>Cờ caro đơn giản 2 người chơi - Code C</title>
+      <link>https://laptrinh.website/blog/2011/06/06/c%E1%BB%9D-caro-%C4%91%C6%A1n-gi%E1%BA%A3n-2-ng%C6%B0%E1%BB%9Di-ch%C6%A1i-code-c/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/c%E1%BB%9D-caro-%C4%91%C6%A1n-gi%E1%BA%A3n-2-ng%C6%B0%E1%BB%9Di-ch%C6%A1i-code-c/</guid>
+      <description>Đây là chương trình đánh cờ caro hai người (Không có máy đánh tự động). Đơn giản là mình kiểm tra coi ván cờ đã kết thúc hay chưa. Chúng ta sử dụng 1 mảng 2 chiêu để lưu trạng thái của ván cờ với quy ước, 0: chưa có người đánh, 1: người thứ nhất đánh, 2: người thứ 2 đánh. Hoặc theo một cách quy ước nào đó mà bạn thích.</description>
+    </item>
+    
+    <item>
+      <title>Hello World - ASM x86</title>
+      <link>https://laptrinh.website/blog/2011/06/06/hello-world-asm-x86/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/hello-world-asm-x86/</guid>
+      <description>Cùng khởi đầu với x86 bằng Hello World nhá !!:D
+[code]
+.model&amp;nbsp;&amp;nbsp;small
+.stack&amp;nbsp;&amp;nbsp;100h
+.data
+&amp;nbsp;&amp;nbsp;s&amp;nbsp;&amp;nbsp;DB&amp;nbsp;&amp;nbsp;&amp;ldquo;Hello&amp;nbsp;World!$&amp;rdquo;&amp;nbsp;&amp;nbsp;
+.code
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;&amp;nbsp;AX,@data&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;&amp;nbsp;DS,AX&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;&amp;nbsp;DX,&amp;nbsp;OFFSET&amp;nbsp;s&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;&amp;nbsp;AH&amp;nbsp;,&amp;nbsp;9
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;&amp;nbsp;21h&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;&amp;nbsp;AH,&amp;nbsp;4Ch&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;&amp;nbsp;21h&amp;nbsp;&amp;nbsp;
+end
+[/code]</description>
+    </item>
+    
+    <item>
+      <title>Liệt kê các user trong máy  - shell linux</title>
+      <link>https://laptrinh.website/blog/2011/06/06/li%E1%BB%87t-k%C3%AA-c%C3%A1c-user-trong-m%C3%A1y-shell-linux/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/li%E1%BB%87t-k%C3%AA-c%C3%A1c-user-trong-m%C3%A1y-shell-linux/</guid>
+      <description>[code]
+#!/bin/bash
+#filename=$1
+i=0
+fname=&amp;ldquo;/etc/passwd&amp;rdquo;
+while&amp;nbsp;read&amp;nbsp;line
+do
+&amp;nbsp;&amp;nbsp;let&amp;nbsp;&amp;ldquo;i++&amp;rdquo;
+&amp;nbsp;&amp;nbsp;echo&amp;nbsp;&amp;rdquo;$i.&amp;nbsp;&amp;amp;nbsp;echo&amp;amp;nbsp;&amp;amp;nbsp;&amp;quot;$line&amp;quot;&amp;amp;nbsp;&#39;&amp;amp;nbsp;cut&amp;amp;nbsp;-d:&amp;amp;nbsp;-f1&amp;rdquo;
+&amp;nbsp;&amp;nbsp;#echo&amp;nbsp;&amp;rdquo;$i&amp;nbsp;$line&amp;rdquo;
+&amp;nbsp;&amp;nbsp;#array[$i]=$line
+done&amp;nbsp;&amp;lt;$fname echo&amp;nbsp;&amp;rdquo;(*)&amp;nbsp;Tong&amp;nbsp;cong&amp;nbsp;co&amp;nbsp;$i&amp;nbsp;user.&amp;rdquo; exit&amp;nbsp;0 [/code]</description>
+    </item>
+    
+    <item>
+      <title>Nhập kí tự - ASM x86</title>
+      <link>https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-k%C3%AD-t%E1%BB%B1-asm-x86/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-k%C3%AD-t%E1%BB%B1-asm-x86/</guid>
+      <description>[code]
+.model&amp;nbsp;small
+.stack&amp;nbsp;100h
+.data
+&amp;nbsp;&amp;nbsp;cha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;?
+&amp;nbsp;&amp;nbsp;str1&amp;nbsp;&amp;nbsp;db&amp;nbsp;&amp;ldquo;Nhap&amp;nbsp;vao&amp;nbsp;mot&amp;nbsp;ki&amp;nbsp;tu:&amp;nbsp;$&amp;rdquo;
+&amp;nbsp;&amp;nbsp;str2&amp;nbsp;&amp;nbsp;db&amp;nbsp;13,10,&amp;ldquo;Ki&amp;nbsp;tu&amp;nbsp;vua&amp;nbsp;nhap&amp;nbsp;la:&amp;nbsp;$&amp;rdquo;
+.code
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ax,&amp;nbsp;@data
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ds,&amp;nbsp;ax
+&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dx,&amp;nbsp;offset&amp;nbsp;str1
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;01
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;cha,&amp;nbsp;al
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dx,&amp;nbsp;offset&amp;nbsp;str2
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dl,&amp;nbsp;cha
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;02h
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;&amp;nbsp;ah,&amp;nbsp;4ch
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+end
+[/code]</description>
+    </item>
+    
+    <item>
+      <title>Nhập vào 1 kí tự thường xuất ra kí tự hoa tương ứng - ASM x86</title>
+      <link>https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-v%C3%A0o-1-k%C3%AD-t%E1%BB%B1-th%C6%B0%E1%BB%9Dng-xu%E1%BA%A5t-ra-k%C3%AD-t%E1%BB%B1-hoa-t%C6%B0%C6%A1ng-%E1%BB%A9ng-asm-x86/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-v%C3%A0o-1-k%C3%AD-t%E1%BB%B1-th%C6%B0%E1%BB%9Dng-xu%E1%BA%A5t-ra-k%C3%AD-t%E1%BB%B1-hoa-t%C6%B0%C6%A1ng-%E1%BB%A9ng-asm-x86/</guid>
+      <description>
+
+.model&amp;nbsp;small .stack&amp;nbsp;100h .data &amp;nbsp;&amp;nbsp;cha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;? &amp;nbsp;&amp;nbsp;str1&amp;nbsp;&amp;nbsp;db&amp;nbsp;&#34;Nhap&amp;nbsp;vao&amp;nbsp;mot&amp;nbsp;ki&amp;nbsp;tu&amp;nbsp;thuong:&amp;nbsp;$&#34; &amp;nbsp;&amp;nbsp;str2&amp;nbsp;&amp;nbsp;db&amp;nbsp;13,10,&#34;Ki&amp;nbsp;tu&amp;nbsp;hoa&amp;nbsp;tuong&amp;nbsp;ung&amp;nbsp;la:&amp;nbsp;$&#34; .code &amp;nbsp;&amp;nbsp;mov&amp;nbsp;ax,&amp;nbsp;@data &amp;nbsp;&amp;nbsp;mov&amp;nbsp;ds,&amp;nbsp;ax &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;mov&amp;nbsp;dx,&amp;nbsp;offset&amp;nbsp;str1 &amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9 &amp;nbsp;&amp;nbsp;int&amp;nbsp;21h &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;01 &amp;nbsp;&amp;nbsp;int&amp;nbsp;21h &amp;nbsp;&amp;nbsp;mov&amp;nbsp;cha,&amp;nbsp;al &amp;nbsp;&amp;nbsp;mov&amp;nbsp;dx,&amp;nbsp;offset&amp;nbsp;str2 &amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9 &amp;nbsp;&amp;nbsp;int&amp;nbsp;21h &amp;nbsp;&amp;nbsp;mov&amp;nbsp;dl,&amp;nbsp;cha &amp;nbsp;&amp;nbsp;add&amp;nbsp;dl,&amp;nbsp;-32 &amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;02h &amp;nbsp;&amp;nbsp;int&amp;nbsp;21h &amp;nbsp;&amp;nbsp;mov&amp;nbsp;&amp;nbsp;ah,&amp;nbsp;4ch &amp;nbsp;&amp;nbsp;int&amp;nbsp;21h end  </description>
+    </item>
+    
+    <item>
+      <title>Nhập vào 1 kí tự, xuất kí tự liền trước và sau - ASM x86</title>
+      <link>https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-v%C3%A0o-1-k%C3%AD-t%E1%BB%B1-xu%E1%BA%A5t-k%C3%AD-t%E1%BB%B1-li%E1%BB%81n-tr%C6%B0%E1%BB%9Bc-v%C3%A0-sau-asm-x86/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-v%C3%A0o-1-k%C3%AD-t%E1%BB%B1-xu%E1%BA%A5t-k%C3%AD-t%E1%BB%B1-li%E1%BB%81n-tr%C6%B0%E1%BB%9Bc-v%C3%A0-sau-asm-x86/</guid>
+      <description>[code]
+.model&amp;nbsp;small
+.stack&amp;nbsp;100h
+.data
+&amp;nbsp;&amp;nbsp;cha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;?
+&amp;nbsp;&amp;nbsp;str_Nhap&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;&amp;ldquo;Nhap&amp;nbsp;vao&amp;nbsp;mot&amp;nbsp;ki&amp;nbsp;tu:&amp;nbsp;$&amp;rdquo;
+&amp;nbsp;&amp;nbsp;str_XuatTruoc&amp;nbsp;&amp;nbsp;db&amp;nbsp;13,10,&amp;ldquo;Ki&amp;nbsp;tu&amp;nbsp;lien&amp;nbsp;truoc&amp;nbsp;la:&amp;nbsp;$&amp;rdquo;
+&amp;nbsp;&amp;nbsp;str_XuatSau&amp;nbsp;&amp;nbsp;db&amp;nbsp;13,10,&amp;ldquo;Ki&amp;nbsp;tu&amp;nbsp;lien&amp;nbsp;sau&amp;nbsp;la:&amp;nbsp;$&amp;rdquo;
+.code
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ax,&amp;nbsp;@data
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ds,&amp;nbsp;ax
+&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dx,&amp;nbsp;offset&amp;nbsp;str_Nhap
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;01
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;cha,&amp;nbsp;al
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dx,&amp;nbsp;offset&amp;nbsp;str_XuatTruoc
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dl,&amp;nbsp;cha
+&amp;nbsp;&amp;nbsp;dec&amp;nbsp;dl
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;02h
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dx,&amp;nbsp;offset&amp;nbsp;str_XuatSau
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dl,&amp;nbsp;cha
+&amp;nbsp;&amp;nbsp;inc&amp;nbsp;dl
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;02h
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;&amp;nbsp;ah,&amp;nbsp;4ch
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+end
+[/code]</description>
+    </item>
+    
+    <item>
+      <title>Nhập xuất chuỗi và độ dài của chuỗi - ASM x86</title>
+      <link>https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-xu%E1%BA%A5t-chu%E1%BB%97i-v%C3%A0-%C4%91%E1%BB%99-d%C3%A0i-c%E1%BB%A7a-chu%E1%BB%97i-asm-x86/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-xu%E1%BA%A5t-chu%E1%BB%97i-v%C3%A0-%C4%91%E1%BB%99-d%C3%A0i-c%E1%BB%A7a-chu%E1%BB%97i-asm-x86/</guid>
+      <description>.model&amp;nbsp;small
+.data
+&amp;nbsp;&amp;nbsp;st_Nhap&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;&amp;ldquo;Nhap&amp;nbsp;vao&amp;nbsp;mot&amp;nbsp;chuoi:&amp;nbsp;$&amp;rdquo;
+&amp;nbsp;&amp;nbsp;st_Xuat&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;10,&amp;nbsp;13,&amp;nbsp;&amp;ldquo;Chuoi&amp;nbsp;vua&amp;nbsp;nhap&amp;nbsp;vao&amp;nbsp;la:&amp;nbsp;$&amp;rdquo;
+&amp;nbsp;&amp;nbsp;st_Xuat2&amp;nbsp;&amp;nbsp;db&amp;nbsp;10,&amp;nbsp;13,&amp;nbsp;&amp;ldquo;Do&amp;nbsp;dai&amp;nbsp;cua&amp;nbsp;chuoi&amp;nbsp;la:&amp;nbsp;$&amp;rdquo;
+.code
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ax,&amp;nbsp;@data
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ds,&amp;nbsp;ax
+&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;si,&amp;nbsp;0
+&amp;nbsp;&amp;nbsp;while:
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;1
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;cmp&amp;nbsp;al,&amp;nbsp;13
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;je&amp;nbsp;ketthuclap
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;mov&amp;nbsp;s[si],&amp;nbsp;al&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;inc&amp;nbsp;si
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Loop&amp;nbsp;lap
+&amp;nbsp;&amp;nbsp;wend:
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;4ch
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+end</description>
+    </item>
+    
+    <item>
+      <title>Sử dụng các dấu đặc biệt - Xuống dòng - Tab - ASM x86</title>
+      <link>https://laptrinh.website/blog/2011/06/06/s%E1%BB%AD-d%E1%BB%A5ng-c%C3%A1c-d%E1%BA%A5u-%C4%91%E1%BA%B7c-bi%E1%BB%87t-xu%E1%BB%91ng-d%C3%B2ng-tab-asm-x86/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/s%E1%BB%AD-d%E1%BB%A5ng-c%C3%A1c-d%E1%BA%A5u-%C4%91%E1%BA%B7c-bi%E1%BB%87t-xu%E1%BB%91ng-d%C3%B2ng-tab-asm-x86/</guid>
+      <description>[code]
+.model&amp;nbsp;small
+.stack&amp;nbsp;100h
+.data
+&amp;nbsp;&amp;nbsp;cha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;?
+&amp;nbsp;&amp;nbsp;str1&amp;nbsp;&amp;nbsp;db&amp;nbsp;&amp;ldquo;Day&amp;nbsp;la&amp;nbsp;chuong&amp;nbsp;trinh&amp;nbsp;lam&amp;nbsp;quen&amp;nbsp;voi&amp;nbsp;Assembly.&amp;rdquo;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;13,10,&amp;ldquo;De&amp;nbsp;chay&amp;nbsp;duoc&amp;nbsp;mot&amp;nbsp;chuong&amp;nbsp;trinh&amp;nbsp;ban&amp;nbsp;thuc&amp;nbsp;hien&amp;nbsp;cac&amp;nbsp;buoc&amp;nbsp;sau:&amp;nbsp;&amp;rdquo;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;13,&amp;nbsp;10,&amp;nbsp;9,&amp;nbsp;&amp;ldquo;1.&amp;nbsp;Dich&amp;nbsp;file&amp;nbsp;ASM&amp;nbsp;thanh&amp;nbsp;file&amp;nbsp;obj.&amp;rdquo;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;13,&amp;nbsp;10,&amp;nbsp;9,&amp;nbsp;&amp;ldquo;2.&amp;nbsp;Lien&amp;nbsp;ket&amp;nbsp;file&amp;nbsp;obj&amp;nbsp;thanh&amp;nbsp;file&amp;nbsp;exe.&amp;rdquo;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;13,&amp;nbsp;10,&amp;nbsp;9,&amp;nbsp;&amp;ldquo;3.&amp;nbsp;Chay&amp;nbsp;file&amp;nbsp;exe.&amp;rdquo;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;10,13,&amp;nbsp;&amp;ldquo;Moi&amp;nbsp;truong&amp;nbsp;thuc&amp;nbsp;hanh:&amp;nbsp;EditPlus.&amp;ldquo;,&amp;nbsp;10,&amp;nbsp;13,&amp;nbsp;&amp;rdquo;$&amp;rdquo;
+.code
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ax,&amp;nbsp;@data
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ds,&amp;nbsp;ax
+&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dx,&amp;nbsp;offset&amp;nbsp;str1
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;&amp;nbsp;ah,&amp;nbsp;4ch
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+end
+[/code]</description>
+    </item>
+    
+    <item>
+      <title>Sử dụng lệnh rẽ nhánh - ASM x86</title>
+      <link>https://laptrinh.website/blog/2011/06/06/s%E1%BB%AD-d%E1%BB%A5ng-l%E1%BB%87nh-r%E1%BA%BD-nh%C3%A1nh-asm-x86/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/s%E1%BB%AD-d%E1%BB%A5ng-l%E1%BB%87nh-r%E1%BA%BD-nh%C3%A1nh-asm-x86/</guid>
+      <description>Chương trình đơn giản chỉ cho bạn nhập vào 1 kí tự là s hoặc S, t hoặc T, c hoặc C, rồi sẽ in ra lời chào ứng với buổi mà kí tự bạn nhập vào:Ví dụ:- Nhập: t=&amp;gt; CHAO BUOI TRUA
+[code]
+.MODEL&amp;nbsp;SMALL
+.STACK&amp;nbsp;100H
+.DATA&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;st_Nhap&amp;nbsp;db&amp;nbsp;&amp;nbsp;&amp;ldquo;Nhap&amp;nbsp;vao&amp;nbsp;1&amp;nbsp;ki&amp;nbsp;tu:&amp;nbsp;$&amp;rdquo;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;st_sang&amp;nbsp;db&amp;nbsp;&amp;nbsp;10,13,&amp;ldquo;Chao&amp;nbsp;buoi&amp;nbsp;sang!$&amp;rdquo;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;st_trua&amp;nbsp;db&amp;nbsp;&amp;nbsp;10,13,&amp;ldquo;Chao&amp;nbsp;buoi&amp;nbsp;trua!$&amp;rdquo;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;st_chieu&amp;nbsp;db&amp;nbsp;10,13,&amp;ldquo;Chao&amp;nbsp;buoi&amp;nbsp;chieu!$&amp;rdquo;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;st_sai&amp;nbsp;&amp;nbsp;db&amp;nbsp;&amp;nbsp;10,13,&amp;ldquo;Nhap&amp;nbsp;bay&amp;nbsp;hog&amp;nbsp;them&amp;nbsp;chao!HEHE&amp;nbsp;;))$&amp;rdquo;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+.CODE&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ax,&amp;nbsp;@data
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ds,&amp;nbsp;ax
+&amp;nbsp;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;lea&amp;nbsp;dx,&amp;nbsp;st_Nhap
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;1
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;;mov&amp;nbsp;bl,&amp;nbsp;al
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;cmp&amp;nbsp;al,&amp;nbsp;&amp;lsquo;a&amp;rsquo;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;jb&amp;nbsp;kiemtra
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;sub&amp;nbsp;al,&amp;nbsp;32
+kiemtra:&amp;nbsp;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;cmp&amp;nbsp;al,&amp;nbsp;&amp;rsquo;S&amp;rsquo;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;jnz&amp;nbsp;next1</description>
+    </item>
+    
+    <item>
+      <title>Tìm min max của mảng 1 chiều các số nguyên - ASM x86</title>
+      <link>https://laptrinh.website/blog/2011/06/06/t%C3%ACm-min-max-c%E1%BB%A7a-m%E1%BA%A3ng-1-chi%E1%BB%81u-c%C3%A1c-s%E1%BB%91-nguy%C3%AAn-asm-x86/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/t%C3%ACm-min-max-c%E1%BB%A7a-m%E1%BA%A3ng-1-chi%E1%BB%81u-c%C3%A1c-s%E1%BB%91-nguy%C3%AAn-asm-x86/</guid>
+      <description>[code]
+.model&amp;nbsp;small
+.stack&amp;nbsp;100h
+.data
+&amp;nbsp;&amp;nbsp;cha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;db&amp;nbsp;?
+&amp;nbsp;&amp;nbsp;str1&amp;nbsp;&amp;nbsp;db&amp;nbsp;&amp;ldquo;Nhap&amp;nbsp;vao&amp;nbsp;mot&amp;nbsp;ki&amp;nbsp;tu:&amp;nbsp;$&amp;rdquo;
+&amp;nbsp;&amp;nbsp;str2&amp;nbsp;&amp;nbsp;db&amp;nbsp;13,10,&amp;ldquo;Ki&amp;nbsp;tu&amp;nbsp;vua&amp;nbsp;nhap&amp;nbsp;la:&amp;nbsp;$&amp;rdquo;
+.code
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ax,&amp;nbsp;@data
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ds,&amp;nbsp;ax
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dx,&amp;nbsp;offset&amp;nbsp;str1
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;01
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;cha,&amp;nbsp;al
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dx,&amp;nbsp;offset&amp;nbsp;str2
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;9
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;dl,&amp;nbsp;cha
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;ah,&amp;nbsp;02h
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+&amp;nbsp;&amp;nbsp;mov&amp;nbsp;&amp;nbsp;ah,&amp;nbsp;4ch
+&amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
+end
+[/code]</description>
+    </item>
+    
+    <item>
+      <title>asm Kiểm tra kí tự vừa nhập vào là chữ thường chữ hoa hay số</title>
+      <link>https://laptrinh.website/blog/2011/06/06/asm-ki%E1%BB%83m-tra-k%C3%AD-t%E1%BB%B1-v%E1%BB%ABa-nh%E1%BA%ADp-v%C3%A0o-l%C3%A0-ch%E1%BB%AF-th%C6%B0%E1%BB%9Dng-ch%E1%BB%AF-hoa-hay-s%E1%BB%91/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/06/asm-ki%E1%BB%83m-tra-k%C3%AD-t%E1%BB%B1-v%E1%BB%ABa-nh%E1%BA%ADp-v%C3%A0o-l%C3%A0-ch%E1%BB%AF-th%C6%B0%E1%BB%9Dng-ch%E1%BB%AF-hoa-hay-s%E1%BB%91/</guid>
+      <description>Viết chương trình cho phép nhập một ký tự từ bàn phím (dùng AH = 8h, int 21h). Nếu ký tự vừa nhập thuộc [0..9], [a..z], [A..Z], thì xuất ra màn hình ký tự đó và loại của ký tự đó (số, chữ thường, chữ hoa).
+- Nếu là chữ hoa thì xuất chữ thường và ngược lại.
+Ví du: Nhập vào một ký tự: 5
+Ký tự vừa nhập: 5 là số</description>
+    </item>
+    
+    <item>
+      <title>Bài tập 1 MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-1-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-1-mips/</guid>
+      <description>Nhập vào 1 chuỗi và in chuôi đó ra. 
+`
+.data
+str: .space 40
+strNhap: .asciiz &amp;ldquo;Nhap vao 1 chuoi: &amp;ldquo;
+strXuat: .asciiz &amp;ldquo;Chuoi da nhap: &amp;ldquo;
+.text
+main:
+#in chuoi Nhap Chuoi:
+la $a0, strNhap
+addi $v0, $0, 4
+syscall
+#Bat dau nhap:
+la $a0, str
+addi $a1, $0, 40
+addi $v0, $0, 8
+syscall
+#Lay chuoi moi nhap tu $a0
+addi $s0, $a0, 0
+#Xuat chuoi Da Nhap</description>
+    </item>
+    
+    <item>
+      <title>Bài tập 2 MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-2-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-2-mips/</guid>
+      <description>Nhập vào 1 kí tự, xuất kí tự trước nó và kí tự sau nó.
+ &amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family: Tahoma, Arial; font-size: 14px;&amp;quot;&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace;&amp;quot;&amp;gt;data &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace; line-height: 19px;&amp;quot;&amp;gt; stNhap: .asciiz &amp;quot;Nhap vao 1 chuoi: &amp;quot; &amp;lt;/span&amp;gt; &amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace; line-height: 19px;&amp;quot;&amp;gt; stXuatTruoc: &amp;quot;Ki tu dung truoc&amp;quot; &amp;lt;/span&amp;gt; &amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace; line-height: 19px;&amp;quot;&amp;gt; stXuatSau: &amp;quot;nKi tu dung sau &amp;quot; &amp;lt;/span&amp;gt; &amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace; line-height: 19px;&amp;quot;&amp;gt; stLa: .</description>
+    </item>
+    
+    <item>
+      <title>Bài tập mẫu về mảng trong MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-m%E1%BA%ABu-v%E1%BB%81-m%E1%BA%A3ng-trong-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-m%E1%BA%ABu-v%E1%BB%81-m%E1%BA%A3ng-trong-mips/</guid>
+      <description>`
+array.asm nhap va xuat mang mot chieu cac so nguyen cac thanh ghi su dung: $t0: so luong phan tu n $t1: chi so mang $a1: dia chi co so (base address) cua mang[/color] .data
+input1: .asciiz &amp;ldquo;Nhap n: &amp;ldquo;
+input2: .asciiz &amp;ldquo;[ &amp;ldquo;
+input3: .asciiz &amp;ldquo; ] = &amp;rdquo;
+output: .asciiz &amp;ldquo;nMang da nhap: &amp;ldquo;
+array: .word 0:100 # int array[100]
+.text
+main:
+nhap n la $a0, input1</description>
+    </item>
+    
+    <item>
+      <title>Gọi hàm nhiều cấp trong MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/g%E1%BB%8Di-h%C3%A0m-nhi%E1%BB%81u-c%E1%BA%A5p-trong-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/g%E1%BB%8Di-h%C3%A0m-nhi%E1%BB%81u-c%E1%BA%A5p-trong-mips/</guid>
+      <description>G?i hàm trong hàm, đ?i các ngôn ng? b?c cao th? quá d?, c?ng tương t? như g?i hàm ? chương tr?nh chính, nhưng trong MIPS th? không đơn gi?n như v?y, chúng ta ph?i x? lí trư?ng h?p thanh ghi $ra b? thay đ?i sau m?i l?n g?i hàm. Cách gi?i quy?t dùng 1 thanh ghi t?m đ? lưu tr? l?i giá tr? $ra t? ra không kh? quan, s?</description>
+    </item>
+    
+    <item>
+      <title>Tìm MIN MAX trong mảng (Không xài thủ tục) - MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/t%C3%ACm-min-max-trong-m%E1%BA%A3ng-kh%C3%B4ng-x%C3%A0i-th%E1%BB%A7-t%E1%BB%A5c-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/t%C3%ACm-min-max-trong-m%E1%BA%A3ng-kh%C3%B4ng-x%C3%A0i-th%E1%BB%A7-t%E1%BB%A5c-mips/</guid>
+      <description>Bài này không dùng thủ tục, tìm MIN MAX trực tiếp khi vừa nhập vào, nên chỉ cần xài 1 vòng lặp
+
+ &amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;#Bai 10: Tim Min &amp;amp; Max cua 1 mang vua moi nhap vao&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;#Cac thanh ghi su dung&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;#$t0: so luong phan tu&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;#$t1: dung lam bien chay&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;#$s0 va $s1: luu dia chi dau cua mang&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;.</description>
+    </item>
+    
+    <item>
+      <title>Đệ quy trong MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/%C4%91%E1%BB%87-quy-trong-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/%C4%91%E1%BB%87-quy-trong-mips/</guid>
+      <description>Để thực hiện được đệ quy trong MIPS, điều quan tâm của chúng ta là các kết quả trung gian và thanh ghi địa chỉ $ra. MIPS cung cấp cho&amp;nbsp;&amp;nbsp;chúng ta một stack pointer (thanh ghi $sp). Theo cơ chế stack thì cứ trước mỗi lần gọi thì ta giảm giá trị của thanh $sp, sau đó Push vào các kết quả trung gian cần nhớ và thanh ghi $ra. Sau lời gọi đệ quy thì ta lấy lại các kết quả trung gian xử lí tính toán và phục hồi lại thanh $ra, sau đó jr $ra là OK!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Cấu hình IP cho Linux &middot; Tran Hoang Phuc</title>
+
+  
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-x.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/highlight/default.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://laptrinh.website/touch-icon-144-precomposed.png">
+  <link href="https://laptrinh.website/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Blog lập trình">
+  <meta name="keywords" content="lap trinh blog, go, php, linux">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-90002072-5', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+<body class="theme-base-0b">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Tran Hoang Phuc</h1>
+      
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="https://laptrinh.website/">Home</a></li>
+      
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      
+      
+      
+      
+      
+      <a href="https://www.facebook.com/phucth.vn"><i class="fa fa-facebook-square fa-3x"></i></a>
+      
+      
+      <a href="https://laptrinh.website/index.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2019 <a href="https://laptrinh.website/license/">License</a><br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1 class="post-title">Cấu hình IP cho Linux</h1>
+    <span class="post-date">Oct 15, 2011 &middot; 4 minute read
+    
+
+    
+    <br/>
+    <a class="label" href="https://laptrinh.website/categories/linux">Linux</a>
+    </span>
+    <p>&nbsp; &nbsp; &nbsp;Khi mới bắt đầu làm quen với Linux, nhức đầu lắm với mấy cái vụ cấu hình IP :&lsquo;. Ở trường làm 1 đường về nhà lại làm 1 nẻo. Một thời gian mệt mỏi, và sẽ tiếp tụp mệt mỏi&hellip;. với việc cấu hình IP. Note lại vài dòng dể sau này có quên ngồi xem lại !&nbsp;Tại thời điểm này, IPv4 vẫn còn thống trị. Nên giờ chỉ nói với v4 thôi, còn v6 thì để từ từ nói tiếp vậy.<br />
+&nbsp; &nbsp; &nbsp;Thật dễ dàng hơn, khi sử dụng các distro Linux có giao diện (Gnome, KDE, LXDE,.. ), còn với command line, hãy bắt đầu từ con số gần như 0 nhé! Nó vẫn sẽ áp dụng được với các distro dùng giao điện. Trong bài này thì chỉ giới thiệu cấu hình các distro theo nhánh RedHat,&nbsp;&nbsp;CentOS, Fedora,&hellip;. còn đối với Các distro như Dabian, Ubuntu, Linux Mint,&hellip; thì <a href="http://home.n9blog.tk/2011/10/cau-hinh-ip-cho-ubuntu.html">xem ở đây</a>.<br />
+&nbsp; &nbsp; &nbsp; Hãy làm quen với lệnh ifconfig. Và giờ thì sau khi logon vào hãy gõ&nbsp;<code>ipconfig -a</code> để xác định tên của các card mạng trong máy của bạn. Rất có thể màn hình sẽ hiện ra thông tin thế này.<br />
+<code>![](http://3.bp.blogspot.com/-x6ypppSTy-Y/Tpk6UmVCWvI/AAAAAAAAAPY/5lUmBmUYjJM/s320/ifconfig-a.JPG)</code><br />
+&nbsp; &nbsp; &nbsp; &nbsp;Card mạn <span style="color: red;">lo</span> là card mạng loopback dùng để chỉ chính bản thân nó, giống như định nghĩa localhost là 127.0.0.1 trong Windows.<br />
+&nbsp; &nbsp; &nbsp; &nbsp;Các card mạng còn lại nếu là card Enthernet (card mạng cắm dây) thì tên thường bắt đầu là <span style="color: red;">eth</span><span style="color: blue;">X</span> với X là số thứ tự của nó (trong trường hợp có nhiều card mạng). Còn các card wireless thì có tên bắt đầu là <span style="color: red;">wlan</span><span style="color: blue;">X</span>&nbsp;cũng với X là số thứ tự của nó. Hiện giờ máy chúng ta chỉ có 1 card mạng eth0 thôi.<br />
+<span style="color: #351c75; font-size: large;"><strong>- Cấu hình card mạng xin DHCP</strong></span><br />
+&nbsp; &nbsp; &nbsp; &nbsp; Nếu bạn đang kết nối vào 1 mạng có DHCP server thì bạn không cần thực hiện cấu hình tĩnh mà chỉ cần &nbsp;xin DHCP cho nó là ok. Giờ thì cách xin DHCP bằng lệnh đơn giản chỉ là:<br />
+<code>dhclient eth0</code><br />
+&nbsp; &nbsp; &nbsp; &nbsp; Thế nhưng sau mỗi lần bạn khởi động lại máy, thì IP cấu hình này đã không còn. Vì thế nếu muốn mỗi lần khi khởi động lại máy, tự động máy sẽ xin DHCP thì bạn hãy chỉnh tron file cấu hình của nó. Vào file cấu hình tại đường dẫn:<code>/etc/sysconfig/network-scripts/ifcfg-eth0</code> Nếu file này không có hãy tạo mới cho nó. Và thêm (chỉnh sửa) thành:<br />
+<code>DEVICE=eth0  
+ONBOOT=yes  
+BOOTPROTO=dhcp</code><br />
+&nbsp; &nbsp; &nbsp; &nbsp;Save lại. Và khởi động lại card mạng bằng lệnh<code>service network restart</code>Để các thay đổi trong file cấu hình được áp dụng. Thao tác này giống như chung ta Disable rồi Enable lại tất cả các card mạng trong windows.<br />
+&nbsp; &nbsp; &nbsp; Đó là cách cấu hình card mạng để sử dụng dchp xin IP. Và tiếp sau đây sẽ là cấu hình tĩnh IP.<br />
+<span style="color: #351c75; font-size: large;"><strong>- Cấu hình card mạng dùng IP tĩnh:</strong></span><br />
+&nbsp; &nbsp; &nbsp; Việc làm cũng diễn ra tương tự. Cách dùng lệnh: <code>ipconfig eth0 x.x.x.x netmask y.y.y.y up</code><br />
+&nbsp; &nbsp; &nbsp; Câu lệnh trên sẽ giúp bạn đặt IP là x.x.x.x còn Subnetmask là y.y.y.y cho card mạng eth0 và up (tương tự Enable trong win) lên. Và việc cấu hình này cũng chỉ sẽ có hiệu lực trong phiên làm việc của bạn. Nếu muốn nó không thay đổi trong các phiên sau thì chỉnh sửa trong file cấu hình của nó. Mở lại file cấu hình như ở trên sửa nó lại thành</p>
+
+<p><code>DEVICE=eth0  
+ONBOOT=yes  
+BOOTPROTO=static  
+IPADDR=192.168.1.2  
+NETMASK=255.255.255.0  
+GETWAY=192.168.1.1  
+</code><br />
+&nbsp; &nbsp; &nbsp;Đó là các thông tin cơ bản cần phải có. Lưu ý sửa các IP lại cho phù hợp với yêu cầu của bạn đừng có ghi giống y các IP nhá ! Ngoài ra còn có một số các thông tin cấu hình nữa như<code>
+NETWORK  
+</code>Bận rồi, từ từ viết tiếp &hellip;.</p>
+
+  </div>
+  
+
+  
+
+</div>
+
+
+
+
+<script src="https://laptrinh.website/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

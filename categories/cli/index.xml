@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cli on Lập trình</title>
+    <link>https://laptrinh.website/categories/cli/</link>
+    <description>Recent content in Cli on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laptrinh.website/categories/cli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mở file bằng xcode từ command line</title>
+      <link>https://laptrinh.website/blog/2019/06/30/m%E1%BB%9F-file-b%E1%BA%B1ng-xcode-t%E1%BB%AB-command-line/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/06/30/m%E1%BB%9F-file-b%E1%BA%B1ng-xcode-t%E1%BB%AB-command-line/</guid>
+      <description>Nếu bạn đã rất thích việc mở file bằng sublime bằng lệnh subl filename.c hoặc vscode cũng tương tự code filename.c. Vậy với xcode mở file bằng command line tương tự như thế nào?
+Trước tiên máy bạn phải cài xcode trước. Bạn có thể vào App Store gõ &amp;ldquo;xcode&amp;rdquo; để tìm và cài đặt.
+Bạn thêm alias sau vào file ~/.bash_profile nếu dùng bash shell
+alias xcode=&#39;open -a /Applications/Xcode.app&#39;  Mở lại terminal lại hoặc gõ lệnh source ~/.</description>
+    </item>
+    
+    <item>
+      <title>Viết tool parse JSON trên cli bằng php</title>
+      <link>https://laptrinh.website/blog/2019/04/17/vi%E1%BA%BFt-tool-parse-json-tr%C3%AAn-cli-b%E1%BA%B1ng-php/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/17/vi%E1%BA%BFt-tool-parse-json-tr%C3%AAn-cli-b%E1%BA%B1ng-php/</guid>
+      <description>Khi làm việc trên dòng lệnh, bạn đọc các file json sẽ rất mệt, vì thường nó được lưu chỉ trên 1 dòng thôi. Ví dụ ta có file data.json.
+$ cat data.json {&amp;quot;dt&amp;quot;:1485799200,&amp;quot;main&amp;quot;:{&amp;quot;temp&amp;quot;:261.45,&amp;quot;temp_min&amp;quot;:259.086,&amp;quot;temp_max&amp;quot;:261.45,&amp;quot;pressure&amp;quot;:1023.48,&amp;quot;sea_level&amp;quot;:1045.39,&amp;quot;grnd_level&amp;quot;:1023.48,&amp;quot;humidity&amp;quot;:79,&amp;quot;temp_kf&amp;quot;:2.37},&amp;quot;weather&amp;quot;:[{&amp;quot;id&amp;quot;:800,&amp;quot;main&amp;quot;:&amp;quot;Clear&amp;quot;,&amp;quot;description&amp;quot;:&amp;quot;clear sky&amp;quot;,&amp;quot;icon&amp;quot;:&amp;quot;02n&amp;quot;}],&amp;quot;clouds&amp;quot;:{&amp;quot;all&amp;quot;:8},&amp;quot;wind&amp;quot;:{&amp;quot;speed&amp;quot;:4.77,&amp;quot;deg&amp;quot;:232.505},&amp;quot;snow&amp;quot;:{},&amp;quot;sys&amp;quot;:{&amp;quot;pod&amp;quot;:&amp;quot;n&amp;quot;},&amp;quot;dt_txt&amp;quot;:&amp;quot;2017-01-30 18:00:00&amp;quot;}  Đó chỉ là mới 1 dòng json ngắn, trường hợp thực tế có thể 1 dòng sẽ còn dài hơn rất nhiều. Để đọc được thông tin trong này thật sự khó (đặt biệt là đối với người &amp;ldquo;mắt yếu&amp;rdquo; :D ) .</description>
+    </item>
+    
+  </channel>
+</rss>

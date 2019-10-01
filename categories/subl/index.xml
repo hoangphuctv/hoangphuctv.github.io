@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subl on Lập trình</title>
+    <link>https://laptrinh.website/categories/subl/</link>
+    <description>Recent content in Subl on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laptrinh.website/categories/subl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cách add PATH global trên MacOS</title>
+      <link>https://laptrinh.website/blog/2019/04/07/c%C3%A1ch-add-path-global-tr%C3%AAn-macos/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/c%C3%A1ch-add-path-global-tr%C3%AAn-macos/</guid>
+      <description>PATH là một biến môi trường trong hệ thống *nix nói cho shell biết những thư mục nào sẽ được tìm kiếm các file thực thi.
+Mỗi một thư mục được các nhau bởi dấu : Đối với windows là kí tự ; Ví dụ trên MAC sau khi bạn cài sublime text thì bạn chưa thể mở file trên terminal bằng lệnh subl filename.txt được.
+$ subl bash: subl: command not found Vậy để giải quyết được lệnh command not found thì bạn chỉ cần kiểm tra xem thư mục chứa file thực thi bạn mong muốn có nằm trong $PATH hay không.</description>
+    </item>
+    
+  </channel>
+</rss>

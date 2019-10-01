@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sublime on Lập trình</title>
+    <link>https://laptrinh.website/categories/sublime/</link>
+    <description>Recent content in Sublime on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laptrinh.website/categories/sublime/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mở file bằng vim theo dạng sublim text</title>
+      <link>https://laptrinh.website/blog/2019/06/29/m%E1%BB%9F-file-b%E1%BA%B1ng-vim-theo-d%E1%BA%A1ng-sublim-text/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/06/29/m%E1%BB%9F-file-b%E1%BA%B1ng-vim-theo-d%E1%BA%A1ng-sublim-text/</guid>
+      <description>Với sublime text khi bạn mở file mà muốn đứng ngay tại dòng thứ n sau khi mở file ra. Thì bạn mở theo dạng:
+subl index.php:5  Nhưng đối với vim thì cách truyền tham số vào sẽ khác:
+vim index.php +5  Nhưng nếu bạn dùng lệnh kết hợp vim + grep để tìm thông tin sẽ thấy khác bất tiện. Khi tìm function bằng grep sẽ tìm như sau:</description>
+    </item>
+    
+  </channel>
+</rss>

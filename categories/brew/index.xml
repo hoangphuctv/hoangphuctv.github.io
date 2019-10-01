@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brew on Lập trình</title>
+    <link>https://laptrinh.website/categories/brew/</link>
+    <description>Recent content in Brew on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laptrinh.website/categories/brew/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cài đặt brew trên HĐH MacOS</title>
+      <link>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-brew-tr%C3%AAn-h%C4%91h-macos/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-brew-tr%C3%AAn-h%C4%91h-macos/</guid>
+      <description>brew là một trình quản lý gói dành cho HĐH MacOS nó giống như yum, hay apt trên linux.
+Yêu cầu hệ thống: Máy Mac đang chạy CPU Intel HĐH OS X 10.11 hoặc cao hơn. Chạy lệnh cài đặt trên các shell bash hoặc zsh. Các shell notably, fish, tcsh và csh sẽ bị lỗi khi cài đặt. Nếu máy bạn chưa cài đặt Command Line Tools (CLT) thì cần cài đặt trước</description>
+    </item>
+    
+  </channel>
+</rss>

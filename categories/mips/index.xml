@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mips on Lập trình</title>
+    <link>https://laptrinh.website/categories/mips/</link>
+    <description>Recent content in Mips on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Fri, 08 Jul 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laptrinh.website/categories/mips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tổng quan về bộ lệnh MIPS</title>
+      <link>https://laptrinh.website/blog/2011/07/08/t%E1%BB%95ng-quan-v%E1%BB%81-b%E1%BB%99-l%E1%BB%87nh-mips/</link>
+      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/07/08/t%E1%BB%95ng-quan-v%E1%BB%81-b%E1%BB%99-l%E1%BB%87nh-mips/</guid>
+      <description>Phần I: GIỚI THIỆU
+Phần II: KIẾN TRÚC LỆNH MIPS.
+&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Các thanh ghi.
+ Thanh ghi đa năng: 32 thanh. SốTênÝ nghĩa$0$zeroHằng số 0$1$atAssembler Temporary$2 -&amp;gt; $3$v0 -&amp;gt; $v1Giá trị trả về của hàm hoặc biểu thức$4 -&amp;gt; $7$a0 -&amp;gt; $a3Các tham số của hàm$8 -&amp;gt; $15$t0 -&amp;gt; $t7Thanh ghi tạm (không giữ giá trị trong quá trình gọi hàm)$16 -&amp;gt; $23$s0 -&amp;gt; $s7Thanh ghi lưu trữ (giữ giá trị trong suốt quá trình gọi hàm)$24 -&amp;gt; $25$t8 -&amp;gt; $t9Thanh ghi tạm$26 -&amp;gt; 27$k0 -&amp;gt; $k1Dự trữ cho nhân HĐH$28$gpCon trỏ toàn cục (global pointer)$29$spCon trỏ Stack$30$fpCon trỏ Frame$31$raĐịa chỉ trả về* Thanh ghi dấu phẩy động: 32 thanh, có tên từ $f0 -&amp;gt; $f31.</description>
+    </item>
+    
+    <item>
+      <title>Bài tập 1 MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-1-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-1-mips/</guid>
+      <description>Nhập vào 1 chuỗi và in chuôi đó ra. 
+`
+.data
+str: .space 40
+strNhap: .asciiz &amp;ldquo;Nhap vao 1 chuoi: &amp;ldquo;
+strXuat: .asciiz &amp;ldquo;Chuoi da nhap: &amp;ldquo;
+.text
+main:
+#in chuoi Nhap Chuoi:
+la $a0, strNhap
+addi $v0, $0, 4
+syscall
+#Bat dau nhap:
+la $a0, str
+addi $a1, $0, 40
+addi $v0, $0, 8
+syscall
+#Lay chuoi moi nhap tu $a0
+addi $s0, $a0, 0
+#Xuat chuoi Da Nhap</description>
+    </item>
+    
+    <item>
+      <title>Bài tập 2 MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-2-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-2-mips/</guid>
+      <description>Nhập vào 1 kí tự, xuất kí tự trước nó và kí tự sau nó.
+ &amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family: Tahoma, Arial; font-size: 14px;&amp;quot;&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace;&amp;quot;&amp;gt;data &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace; line-height: 19px;&amp;quot;&amp;gt; stNhap: .asciiz &amp;quot;Nhap vao 1 chuoi: &amp;quot; &amp;lt;/span&amp;gt; &amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace; line-height: 19px;&amp;quot;&amp;gt; stXuatTruoc: &amp;quot;Ki tu dung truoc&amp;quot; &amp;lt;/span&amp;gt; &amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace; line-height: 19px;&amp;quot;&amp;gt; stXuatSau: &amp;quot;nKi tu dung sau &amp;quot; &amp;lt;/span&amp;gt; &amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace; line-height: 19px;&amp;quot;&amp;gt; stLa: .</description>
+    </item>
+    
+    <item>
+      <title>Bài tập mẫu về mảng trong MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-m%E1%BA%ABu-v%E1%BB%81-m%E1%BA%A3ng-trong-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-m%E1%BA%ABu-v%E1%BB%81-m%E1%BA%A3ng-trong-mips/</guid>
+      <description>`
+array.asm nhap va xuat mang mot chieu cac so nguyen cac thanh ghi su dung: $t0: so luong phan tu n $t1: chi so mang $a1: dia chi co so (base address) cua mang[/color] .data
+input1: .asciiz &amp;ldquo;Nhap n: &amp;ldquo;
+input2: .asciiz &amp;ldquo;[ &amp;ldquo;
+input3: .asciiz &amp;ldquo; ] = &amp;rdquo;
+output: .asciiz &amp;ldquo;nMang da nhap: &amp;ldquo;
+array: .word 0:100 # int array[100]
+.text
+main:
+nhap n la $a0, input1</description>
+    </item>
+    
+    <item>
+      <title>Gọi hàm nhiều cấp trong MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/g%E1%BB%8Di-h%C3%A0m-nhi%E1%BB%81u-c%E1%BA%A5p-trong-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/g%E1%BB%8Di-h%C3%A0m-nhi%E1%BB%81u-c%E1%BA%A5p-trong-mips/</guid>
+      <description>G?i hàm trong hàm, đ?i các ngôn ng? b?c cao th? quá d?, c?ng tương t? như g?i hàm ? chương tr?nh chính, nhưng trong MIPS th? không đơn gi?n như v?y, chúng ta ph?i x? lí trư?ng h?p thanh ghi $ra b? thay đ?i sau m?i l?n g?i hàm. Cách gi?i quy?t dùng 1 thanh ghi t?m đ? lưu tr? l?i giá tr? $ra t? ra không kh? quan, s?</description>
+    </item>
+    
+    <item>
+      <title>Tìm MIN MAX trong mảng (Không xài thủ tục) - MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/t%C3%ACm-min-max-trong-m%E1%BA%A3ng-kh%C3%B4ng-x%C3%A0i-th%E1%BB%A7-t%E1%BB%A5c-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/t%C3%ACm-min-max-trong-m%E1%BA%A3ng-kh%C3%B4ng-x%C3%A0i-th%E1%BB%A7-t%E1%BB%A5c-mips/</guid>
+      <description>Bài này không dùng thủ tục, tìm MIN MAX trực tiếp khi vừa nhập vào, nên chỉ cần xài 1 vòng lặp
+
+ &amp;lt;span style=&amp;quot;font-family: &#39;Courier New&#39;, Courier, monospace;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;#Bai 10: Tim Min &amp;amp; Max cua 1 mang vua moi nhap vao&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;#Cac thanh ghi su dung&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;#$t0: so luong phan tu&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;#$t1: dung lam bien chay&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;#$s0 va $s1: luu dia chi dau cua mang&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height: 19px;&amp;quot;&amp;gt;.</description>
+    </item>
+    
+    <item>
+      <title>Đệ quy trong MIPS</title>
+      <link>https://laptrinh.website/blog/2011/06/05/%C4%91%E1%BB%87-quy-trong-mips/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2011/06/05/%C4%91%E1%BB%87-quy-trong-mips/</guid>
+      <description>Để thực hiện được đệ quy trong MIPS, điều quan tâm của chúng ta là các kết quả trung gian và thanh ghi địa chỉ $ra. MIPS cung cấp cho&amp;nbsp;&amp;nbsp;chúng ta một stack pointer (thanh ghi $sp). Theo cơ chế stack thì cứ trước mỗi lần gọi thì ta giảm giá trị của thanh $sp, sau đó Push vào các kết quả trung gian cần nhớ và thanh ghi $ra. Sau lời gọi đệ quy thì ta lấy lại các kết quả trung gian xử lí tính toán và phục hồi lại thanh $ra, sau đó jr $ra là OK!</description>
+    </item>
+    
+  </channel>
+</rss>

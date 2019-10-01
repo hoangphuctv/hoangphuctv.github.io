@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+	<meta name="generator" content="Hugo 0.52" />
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Lập trình &middot; Tran Hoang Phuc</title>
+
+  
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-x.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/highlight/default.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://laptrinh.website/touch-icon-144-precomposed.png">
+  <link href="https://laptrinh.website/favicon.png" rel="icon">
+
+  
+  
+  
+  <link href="https://laptrinh.website/index.xml" rel="alternate" type="application/rss+xml" title="Lập trình &middot; Tran Hoang Phuc" />
+
+  <meta name="description" content="Blog lập trình">
+  <meta name="keywords" content="lap trinh blog, go, php, linux">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-90002072-5', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+<body class="theme-base-0b">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Tran Hoang Phuc</h1>
+      
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="https://laptrinh.website/">Home</a></li>
+      
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      
+      
+      
+      
+      
+      <a href="https://www.facebook.com/phucth.vn"><i class="fa fa-facebook-square fa-3x"></i></a>
+      
+      
+      <a href="https://laptrinh.website/index.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2019 <a href="https://laptrinh.website/license/">License</a><br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="posts">
+    
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-k%C3%AD-t%E1%BB%B1-asm-x86/">Nhập kí tự - ASM x86</a>
+      </h1>
+      <span class="post-date">Jun 6, 2011 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/x86">x86</a>
+      </span>
+      
+      [code]
+.model&nbsp;small
+.stack&nbsp;100h
+.data
+&nbsp;&nbsp;cha&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;?
+&nbsp;&nbsp;str1&nbsp;&nbsp;db&nbsp;&ldquo;Nhap&nbsp;vao&nbsp;mot&nbsp;ki&nbsp;tu:&nbsp;$&rdquo;
+&nbsp;&nbsp;str2&nbsp;&nbsp;db&nbsp;13,10,&ldquo;Ki&nbsp;tu&nbsp;vua&nbsp;nhap&nbsp;la:&nbsp;$&rdquo;
+.code
+&nbsp;&nbsp;mov&nbsp;ax,&nbsp;@data
+&nbsp;&nbsp;mov&nbsp;ds,&nbsp;ax
+&nbsp;&nbsp;
+&nbsp;&nbsp;mov&nbsp;dx,&nbsp;offset&nbsp;str1
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;9
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;01
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;cha,&nbsp;al
+&nbsp;&nbsp;mov&nbsp;dx,&nbsp;offset&nbsp;str2
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;9
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;dl,&nbsp;cha
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;02h
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;&nbsp;ah,&nbsp;4ch
+&nbsp;&nbsp;int&nbsp;21h
+end
+[/code]
+      
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-v%C3%A0o-1-k%C3%AD-t%E1%BB%B1-th%C6%B0%E1%BB%9Dng-xu%E1%BA%A5t-ra-k%C3%AD-t%E1%BB%B1-hoa-t%C6%B0%C6%A1ng-%E1%BB%A9ng-asm-x86/">Nhập vào 1 kí tự thường xuất ra kí tự hoa tương ứng - ASM x86</a>
+      </h1>
+      <span class="post-date">Jun 6, 2011 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/x86">x86</a>
+      </span>
+      
+      
+
+.model&nbsp;small .stack&nbsp;100h .data &nbsp;&nbsp;cha&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;? &nbsp;&nbsp;str1&nbsp;&nbsp;db&nbsp;"Nhap&nbsp;vao&nbsp;mot&nbsp;ki&nbsp;tu&nbsp;thuong:&nbsp;$" &nbsp;&nbsp;str2&nbsp;&nbsp;db&nbsp;13,10,"Ki&nbsp;tu&nbsp;hoa&nbsp;tuong&nbsp;ung&nbsp;la:&nbsp;$" .code &nbsp;&nbsp;mov&nbsp;ax,&nbsp;@data &nbsp;&nbsp;mov&nbsp;ds,&nbsp;ax &nbsp;&nbsp; &nbsp;&nbsp;mov&nbsp;dx,&nbsp;offset&nbsp;str1 &nbsp;&nbsp;mov&nbsp;ah,&nbsp;9 &nbsp;&nbsp;int&nbsp;21h &nbsp;&nbsp; &nbsp;&nbsp;mov&nbsp;ah,&nbsp;01 &nbsp;&nbsp;int&nbsp;21h &nbsp;&nbsp;mov&nbsp;cha,&nbsp;al &nbsp;&nbsp;mov&nbsp;dx,&nbsp;offset&nbsp;str2 &nbsp;&nbsp;mov&nbsp;ah,&nbsp;9 &nbsp;&nbsp;int&nbsp;21h &nbsp;&nbsp;mov&nbsp;dl,&nbsp;cha &nbsp;&nbsp;add&nbsp;dl,&nbsp;-32 &nbsp;&nbsp;mov&nbsp;ah,&nbsp;02h &nbsp;&nbsp;int&nbsp;21h &nbsp;&nbsp;mov&nbsp;&nbsp;ah,&nbsp;4ch &nbsp;&nbsp;int&nbsp;21h end  
+      
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-v%C3%A0o-1-k%C3%AD-t%E1%BB%B1-xu%E1%BA%A5t-k%C3%AD-t%E1%BB%B1-li%E1%BB%81n-tr%C6%B0%E1%BB%9Bc-v%C3%A0-sau-asm-x86/">Nhập vào 1 kí tự, xuất kí tự liền trước và sau - ASM x86</a>
+      </h1>
+      <span class="post-date">Jun 6, 2011 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/x86">x86</a>
+      </span>
+      
+      [code]
+.model&nbsp;small
+.stack&nbsp;100h
+.data
+&nbsp;&nbsp;cha&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;?
+&nbsp;&nbsp;str_Nhap&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;&ldquo;Nhap&nbsp;vao&nbsp;mot&nbsp;ki&nbsp;tu:&nbsp;$&rdquo;
+&nbsp;&nbsp;str_XuatTruoc&nbsp;&nbsp;db&nbsp;13,10,&ldquo;Ki&nbsp;tu&nbsp;lien&nbsp;truoc&nbsp;la:&nbsp;$&rdquo;
+&nbsp;&nbsp;str_XuatSau&nbsp;&nbsp;db&nbsp;13,10,&ldquo;Ki&nbsp;tu&nbsp;lien&nbsp;sau&nbsp;la:&nbsp;$&rdquo;
+.code
+&nbsp;&nbsp;mov&nbsp;ax,&nbsp;@data
+&nbsp;&nbsp;mov&nbsp;ds,&nbsp;ax
+&nbsp;&nbsp;
+&nbsp;&nbsp;mov&nbsp;dx,&nbsp;offset&nbsp;str_Nhap
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;9
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;01
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;cha,&nbsp;al
+&nbsp;&nbsp;mov&nbsp;dx,&nbsp;offset&nbsp;str_XuatTruoc
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;9
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;dl,&nbsp;cha
+&nbsp;&nbsp;dec&nbsp;dl
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;02h
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;dx,&nbsp;offset&nbsp;str_XuatSau
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;9
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;dl,&nbsp;cha
+&nbsp;&nbsp;inc&nbsp;dl
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;02h
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;&nbsp;ah,&nbsp;4ch
+&nbsp;&nbsp;int&nbsp;21h
+end
+[/code]
+      
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/06/06/nh%E1%BA%ADp-xu%E1%BA%A5t-chu%E1%BB%97i-v%C3%A0-%C4%91%E1%BB%99-d%C3%A0i-c%E1%BB%A7a-chu%E1%BB%97i-asm-x86/">Nhập xuất chuỗi và độ dài của chuỗi - ASM x86</a>
+      </h1>
+      <span class="post-date">Jun 6, 2011 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/x86">x86</a>
+      </span>
+      
+      .model&nbsp;small
+.data
+&nbsp;&nbsp;st_Nhap&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;&ldquo;Nhap&nbsp;vao&nbsp;mot&nbsp;chuoi:&nbsp;$&rdquo;
+&nbsp;&nbsp;st_Xuat&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;10,&nbsp;13,&nbsp;&ldquo;Chuoi&nbsp;vua&nbsp;nhap&nbsp;vao&nbsp;la:&nbsp;$&rdquo;
+&nbsp;&nbsp;st_Xuat2&nbsp;&nbsp;db&nbsp;10,&nbsp;13,&nbsp;&ldquo;Do&nbsp;dai&nbsp;cua&nbsp;chuoi&nbsp;la:&nbsp;$&rdquo;
+.code
+&nbsp;&nbsp;mov&nbsp;ax,&nbsp;@data
+&nbsp;&nbsp;mov&nbsp;ds,&nbsp;ax
+&nbsp;&nbsp;
+&nbsp;&nbsp;mov&nbsp;si,&nbsp;0
+&nbsp;&nbsp;while:
+&nbsp;&nbsp;&nbsp;&nbsp;mov&nbsp;ah,&nbsp;1
+&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;&nbsp;&nbsp;cmp&nbsp;al,&nbsp;13
+&nbsp;&nbsp;&nbsp;&nbsp;je&nbsp;ketthuclap
+&nbsp;&nbsp;&nbsp;&nbsp;mov&nbsp;s[si],&nbsp;al&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;inc&nbsp;si
+&nbsp;&nbsp;&nbsp;&nbsp;Loop&nbsp;lap
+&nbsp;&nbsp;wend:
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;9
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;4ch
+&nbsp;&nbsp;int&nbsp;21h
+end
+      
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/06/06/s%E1%BB%AD-d%E1%BB%A5ng-c%C3%A1c-d%E1%BA%A5u-%C4%91%E1%BA%B7c-bi%E1%BB%87t-xu%E1%BB%91ng-d%C3%B2ng-tab-asm-x86/">Sử dụng các dấu đặc biệt - Xuống dòng - Tab - ASM x86</a>
+      </h1>
+      <span class="post-date">Jun 6, 2011 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/x86">x86</a>
+      </span>
+      
+      [code]
+.model&nbsp;small
+.stack&nbsp;100h
+.data
+&nbsp;&nbsp;cha&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;?
+&nbsp;&nbsp;str1&nbsp;&nbsp;db&nbsp;&ldquo;Day&nbsp;la&nbsp;chuong&nbsp;trinh&nbsp;lam&nbsp;quen&nbsp;voi&nbsp;Assembly.&rdquo;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;13,10,&ldquo;De&nbsp;chay&nbsp;duoc&nbsp;mot&nbsp;chuong&nbsp;trinh&nbsp;ban&nbsp;thuc&nbsp;hien&nbsp;cac&nbsp;buoc&nbsp;sau:&nbsp;&rdquo;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;13,&nbsp;10,&nbsp;9,&nbsp;&ldquo;1.&nbsp;Dich&nbsp;file&nbsp;ASM&nbsp;thanh&nbsp;file&nbsp;obj.&rdquo;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;13,&nbsp;10,&nbsp;9,&nbsp;&ldquo;2.&nbsp;Lien&nbsp;ket&nbsp;file&nbsp;obj&nbsp;thanh&nbsp;file&nbsp;exe.&rdquo;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;13,&nbsp;10,&nbsp;9,&nbsp;&ldquo;3.&nbsp;Chay&nbsp;file&nbsp;exe.&rdquo;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;10,13,&nbsp;&ldquo;Moi&nbsp;truong&nbsp;thuc&nbsp;hanh:&nbsp;EditPlus.&ldquo;,&nbsp;10,&nbsp;13,&nbsp;&rdquo;$&rdquo;
+.code
+&nbsp;&nbsp;mov&nbsp;ax,&nbsp;@data
+&nbsp;&nbsp;mov&nbsp;ds,&nbsp;ax
+&nbsp;&nbsp;
+&nbsp;&nbsp;mov&nbsp;dx,&nbsp;offset&nbsp;str1
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;9
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;&nbsp;ah,&nbsp;4ch
+&nbsp;&nbsp;int&nbsp;21h
+end
+[/code]
+      
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/06/06/s%E1%BB%AD-d%E1%BB%A5ng-l%E1%BB%87nh-r%E1%BA%BD-nh%C3%A1nh-asm-x86/">Sử dụng lệnh rẽ nhánh - ASM x86</a>
+      </h1>
+      <span class="post-date">Jun 6, 2011 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/x86">x86</a>
+      </span>
+      
+      Chương trình đơn giản chỉ cho bạn nhập vào 1 kí tự là s hoặc S, t hoặc T, c hoặc C, rồi sẽ in ra lời chào ứng với buổi mà kí tự bạn nhập vào:Ví dụ:- Nhập: t=&gt; CHAO BUOI TRUA
+[code]
+.MODEL&nbsp;SMALL
+.STACK&nbsp;100H
+.DATA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;st_Nhap&nbsp;db&nbsp;&nbsp;&ldquo;Nhap&nbsp;vao&nbsp;1&nbsp;ki&nbsp;tu:&nbsp;$&rdquo;
+&nbsp;&nbsp;&nbsp;&nbsp;st_sang&nbsp;db&nbsp;&nbsp;10,13,&ldquo;Chao&nbsp;buoi&nbsp;sang!$&rdquo;
+&nbsp;&nbsp;&nbsp;&nbsp;st_trua&nbsp;db&nbsp;&nbsp;10,13,&ldquo;Chao&nbsp;buoi&nbsp;trua!$&rdquo;
+&nbsp;&nbsp;&nbsp;&nbsp;st_chieu&nbsp;db&nbsp;10,13,&ldquo;Chao&nbsp;buoi&nbsp;chieu!$&rdquo;
+&nbsp;&nbsp;&nbsp;&nbsp;st_sai&nbsp;&nbsp;db&nbsp;&nbsp;10,13,&ldquo;Nhap&nbsp;bay&nbsp;hog&nbsp;them&nbsp;chao!HEHE&nbsp;;))$&rdquo;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+.CODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;mov&nbsp;ax,&nbsp;@data
+&nbsp;&nbsp;&nbsp;&nbsp;mov&nbsp;ds,&nbsp;ax
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;lea&nbsp;dx,&nbsp;st_Nhap
+&nbsp;&nbsp;&nbsp;&nbsp;mov&nbsp;ah,&nbsp;9
+&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;21h
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;mov&nbsp;ah,&nbsp;1
+&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;&nbsp;&nbsp;;mov&nbsp;bl,&nbsp;al
+&nbsp;&nbsp;&nbsp;&nbsp;cmp&nbsp;al,&nbsp;&lsquo;a&rsquo;
+&nbsp;&nbsp;&nbsp;&nbsp;jb&nbsp;kiemtra
+&nbsp;&nbsp;&nbsp;&nbsp;sub&nbsp;al,&nbsp;32
+kiemtra:&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;cmp&nbsp;al,&nbsp;&rsquo;S&rsquo;
+&nbsp;&nbsp;&nbsp;&nbsp;jnz&nbsp;next1
+      <a href="https://laptrinh.website/blog/2011/06/06/s%E1%BB%AD-d%E1%BB%A5ng-l%E1%BB%87nh-r%E1%BA%BD-nh%C3%A1nh-asm-x86/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/06/06/t%C3%ACm-min-max-c%E1%BB%A7a-m%E1%BA%A3ng-1-chi%E1%BB%81u-c%C3%A1c-s%E1%BB%91-nguy%C3%AAn-asm-x86/">Tìm min max của mảng 1 chiều các số nguyên - ASM x86</a>
+      </h1>
+      <span class="post-date">Jun 6, 2011 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/x86">x86</a>
+      </span>
+      
+      [code]
+.model&nbsp;small
+.stack&nbsp;100h
+.data
+&nbsp;&nbsp;cha&nbsp;&nbsp;&nbsp;&nbsp;db&nbsp;?
+&nbsp;&nbsp;str1&nbsp;&nbsp;db&nbsp;&ldquo;Nhap&nbsp;vao&nbsp;mot&nbsp;ki&nbsp;tu:&nbsp;$&rdquo;
+&nbsp;&nbsp;str2&nbsp;&nbsp;db&nbsp;13,10,&ldquo;Ki&nbsp;tu&nbsp;vua&nbsp;nhap&nbsp;la:&nbsp;$&rdquo;
+.code
+&nbsp;&nbsp;mov&nbsp;ax,&nbsp;@data
+&nbsp;&nbsp;mov&nbsp;ds,&nbsp;ax
+&nbsp;&nbsp;mov&nbsp;dx,&nbsp;offset&nbsp;str1
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;9
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;01
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;cha,&nbsp;al
+&nbsp;&nbsp;mov&nbsp;dx,&nbsp;offset&nbsp;str2
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;9
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;dl,&nbsp;cha
+&nbsp;&nbsp;mov&nbsp;ah,&nbsp;02h
+&nbsp;&nbsp;int&nbsp;21h
+&nbsp;&nbsp;mov&nbsp;&nbsp;ah,&nbsp;4ch
+&nbsp;&nbsp;int&nbsp;21h
+end
+[/code]
+      
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/06/06/asm-ki%E1%BB%83m-tra-k%C3%AD-t%E1%BB%B1-v%E1%BB%ABa-nh%E1%BA%ADp-v%C3%A0o-l%C3%A0-ch%E1%BB%AF-th%C6%B0%E1%BB%9Dng-ch%E1%BB%AF-hoa-hay-s%E1%BB%91/">asm Kiểm tra kí tự vừa nhập vào là chữ thường chữ hoa hay số</a>
+      </h1>
+      <span class="post-date">Jun 6, 2011 &middot; 2 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/x86">x86</a>
+      </span>
+      
+      Viết chương trình cho phép nhập một ký tự từ bàn phím (dùng AH = 8h, int 21h). Nếu ký tự vừa nhập thuộc [0..9], [a..z], [A..Z], thì xuất ra màn hình ký tự đó và loại của ký tự đó (số, chữ thường, chữ hoa).
+- Nếu là chữ hoa thì xuất chữ thường và ngược lại.
+Ví du: Nhập vào một ký tự: 5
+Ký tự vừa nhập: 5 là số
+      <a href="https://laptrinh.website/blog/2011/06/06/asm-ki%E1%BB%83m-tra-k%C3%AD-t%E1%BB%B1-v%E1%BB%ABa-nh%E1%BA%ADp-v%C3%A0o-l%C3%A0-ch%E1%BB%AF-th%C6%B0%E1%BB%9Dng-ch%E1%BB%AF-hoa-hay-s%E1%BB%91/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-1-mips/">Bài tập 1 MIPS</a>
+      </h1>
+      <span class="post-date">Jun 5, 2011 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/mips">MIPS</a>
+      </span>
+      
+      Nhập vào 1 chuỗi và in chuôi đó ra. 
+`
+.data
+str: .space 40
+strNhap: .asciiz &ldquo;Nhap vao 1 chuoi: &ldquo;
+strXuat: .asciiz &ldquo;Chuoi da nhap: &ldquo;
+.text
+main:
+#in chuoi Nhap Chuoi:
+la $a0, strNhap
+addi $v0, $0, 4
+syscall
+#Bat dau nhap:
+la $a0, str
+addi $a1, $0, 40
+addi $v0, $0, 8
+syscall
+#Lay chuoi moi nhap tu $a0
+addi $s0, $a0, 0
+#Xuat chuoi Da Nhap
+      <a href="https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-1-mips/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-2-mips/">Bài tập 2 MIPS</a>
+      </h1>
+      <span class="post-date">Jun 5, 2011 &middot; 3 minute read
+      
+      <br/>
+      <a class="label" href="https://laptrinh.website/categories/mips">MIPS</a>
+      </span>
+      
+      Nhập vào 1 kí tự, xuất kí tự trước nó và kí tự sau nó.
+ &lt;span style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;font-family: Tahoma, Arial; font-size: 14px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: 'Courier New', Courier, monospace;&quot;&gt;data &lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family: 'Courier New', Courier, monospace; line-height: 19px;&quot;&gt; stNhap: .asciiz &quot;Nhap vao 1 chuoi: &quot; &lt;/span&gt; &lt;span style=&quot;font-family: 'Courier New', Courier, monospace; line-height: 19px;&quot;&gt; stXuatTruoc: &quot;Ki tu dung truoc&quot; &lt;/span&gt; &lt;span style=&quot;font-family: 'Courier New', Courier, monospace; line-height: 19px;&quot;&gt; stXuatSau: &quot;nKi tu dung sau &quot; &lt;/span&gt; &lt;span style=&quot;font-family: 'Courier New', Courier, monospace; line-height: 19px;&quot;&gt; stLa: .
+      <a href="https://laptrinh.website/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-2-mips/">Read On &rarr;</a>
+      
+    </div>
+    
+    
+
+<ul class="pagination">
+    
+    <li class="page-item">
+        <a href="/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+    <a href="/page/7/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    </li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/">1</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/page/2/">2</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/page/3/">3</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/page/7/">7</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item active"><a class="page-link" href="/page/8/">8</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/page/9/">9</a></li>
+    
+    
+    <li class="page-item">
+    <a href="/page/9/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+        <a href="/page/9/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    </li>
+    
+</ul>
+
+  </div>
+</div>
+
+
+<script src="https://laptrinh.website/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memcache on Lập trình</title>
+    <link>https://laptrinh.website/categories/memcache/</link>
+    <description>Recent content in Memcache on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laptrinh.website/categories/memcache/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ứng dụng nhanh docker trong công việc hằng ngày</title>
+      <link>https://laptrinh.website/blog/2019/04/08/%E1%BB%A9ng-d%E1%BB%A5ng-nhanh-docker-trong-c%C3%B4ng-vi%E1%BB%87c-h%E1%BA%B1ng-ng%C3%A0y/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/04/08/%E1%BB%A9ng-d%E1%BB%A5ng-nhanh-docker-trong-c%C3%B4ng-vi%E1%BB%87c-h%E1%BA%B1ng-ng%C3%A0y/</guid>
+      <description>Tình huống là: Khi cần sử dụng nhanh 1 service nào đó mà không muốn tốn thời gian cài đặt cấu hình. Xài docker chỉ vài lệnh là có thể sử dụng được service mình cần ngay lập tức: Ví dụ memcache. Không cần tải service memcache về cài đặt chỉ cần gõ lệnh:
+docker run --name my-memcache -p 11211:11211 -d memcached Những lần sau cần xài memcache gõ lệnh:</description>
+    </item>
+    
+  </channel>
+</rss>

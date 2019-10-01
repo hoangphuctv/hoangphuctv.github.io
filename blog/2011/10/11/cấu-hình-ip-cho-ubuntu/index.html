@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Cấu hình IP cho Ubuntu &middot; Tran Hoang Phuc</title>
+
+  
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/hyde-x.css">
+  <link rel="stylesheet" href="https://laptrinh.website/css/highlight/default.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://laptrinh.website/touch-icon-144-precomposed.png">
+  <link href="https://laptrinh.website/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Blog lập trình">
+  <meta name="keywords" content="lap trinh blog, go, php, linux">
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-90002072-5', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+<body class="theme-base-0b">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Tran Hoang Phuc</h1>
+      
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="https://laptrinh.website/">Home</a></li>
+      
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      
+      
+      
+      
+      
+      <a href="https://www.facebook.com/phucth.vn"><i class="fa fa-facebook-square fa-3x"></i></a>
+      
+      
+      <a href="https://laptrinh.website/index.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2019 <a href="https://laptrinh.website/license/">License</a><br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1 class="post-title">Cấu hình IP cho Ubuntu</h1>
+    <span class="post-date">Oct 11, 2011 &middot; 6 minute read
+    
+
+    
+    <br/>
+    <a class="label" href="https://laptrinh.website/categories/ubuntu">Ubuntu</a>
+    </span>
+    
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp; Bạn đã quen với việc cấu hình IP trên CentOS, Fedora, ReaHat,&hellip; khi bạn bắt đầu làm quen với Ubuntu thì những việc đơn giản nhất bạn cũng phải tìm hiểu lại! Sau đây là cách cấu hình IP mình sẽ giới thiệu với các bạn sau một hồi Google search :D<br />
+&nbsp;&nbsp;&nbsp;&nbsp; Trước tiên bạn phải xác định được file cấu hình nằm ở đâu. Không giống như Fedora, Ubuntu sử dụng 1 file duy nhất để cấu hình các card mạng. Đường dẫn:<code>/etc/network/interfaces</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; Bạn có thể tham khảo các thông tin cấu hình tại file mẫu tại:<code>/usr/share/doc/ifupdown/examples/network-interfaces.gz</code>Đây là file nén vì thế hãy giải nén ra để file nội dung của network-interfaces. Nội dung của nó có thể như sau (Ubuntu 10.04)<br />
+[code]###################################################################</p>
+
+<h1 id="etc-network-interfaces-configuration-file-for-ifup-8-ifdown-8">/etc/network/interfaces &ndash; configuration file for ifup(8), ifdown(8)</h1>
+
+<h1 id="a-character-in-the-very-first-column-makes-the-rest-of-the-line">A &ldquo;#&rdquo; character in the very first column makes the rest of the line</h1>
+
+<h1 id="be-ignored-blank-lines-are-ignored-lines-may-be-indented-freely">be ignored. Blank lines are ignored. Lines may be indented freely.</h1>
+
+<h1 id="a-character-at-the-very-end-of-the-line-indicates-the-next-line">A &ldquo;&rdquo; character at the very end of the line indicates the next line</h1>
+
+<h1 id="should-be-treated-as-a-continuation-of-the-current-one">should be treated as a continuation of the current one.</h1>
+
+<h1 id="the-pre-up-up-down-and-post-down-options-are-valid-for-all">The &ldquo;pre-up&rdquo;, &ldquo;up&rdquo;, &ldquo;down&rdquo; and &ldquo;post-down&rdquo; options are valid for all</h1>
+
+<h1 id="interfaces-and-may-be-specified-multiple-times-all-other-options">interfaces, and may be specified multiple times. All other options</h1>
+
+<h1 id="may-only-be-specified-once">may only be specified once.</h1>
+
+<h1 id="see-the-interfaces-5-manpage-for-information-on-what-options-are">See the interfaces(5) manpage for information on what options are</h1>
+
+<h1 id="available">available.</h1>
+
+<p>###################################################################</p>
+
+<h1 id="we-always-want-the-loopback-interface">We always want the loopback interface.</h1>
+
+<h1 id="auto-lo">auto lo</h1>
+
+<h1 id="iface-lo-inet-loopback">iface lo inet loopback</h1>
+
+<h1 id="an-example-ethernet-card-setup-broadcast-and-gateway-are-optional">An example ethernet card setup: (broadcast and gateway are optional)</h1>
+
+<h1 id="auto-eth0">auto eth0</h1>
+
+<h1 id="iface-eth0-inet-static">iface eth0 inet static</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; address 192.168.0.42<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; network 192.168.0.0<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; netmask 255.255.255.0<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; broadcast 192.168.0.255<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; gateway 192.168.0.1</p>
+
+<h1 id="a-more-complicated-ethernet-setup-with-a-less-common-netmask-and-a-downright">A more complicated ethernet setup, with a less common netmask, and a downright</h1>
+
+<h1 id="weird-broadcast-address-the-up-lines-are-executed-verbatim-when-the">weird broadcast address: (the &ldquo;up&rdquo; lines are executed verbatim when the</h1>
+
+<h1 id="interface-is-brought-up-the-down-lines-when-it-s-brought-down">interface is brought up, the &ldquo;down&rdquo; lines when it&rsquo;s brought down)</h1>
+
+<h1 id="auto-eth0-1">auto eth0</h1>
+
+<h1 id="iface-eth0-inet-static-1">iface eth0 inet static</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; address 192.168.1.42<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; network 192.168.1.0<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; netmask 255.255.255.128<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; broadcast 192.168.1.0<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; up route add -net 192.168.1.128 netmask 255.255.255.128 gw 192.168.1.2<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; up route add default gw 192.168.1.200<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; down route del default gw 192.168.1.200<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; down route del -net 192.168.1.128 netmask 255.255.255.128 gw 192.168.1.2</p>
+
+<h1 id="a-more-complicated-ethernet-setup-with-a-single-ethernet-card-with">A more complicated ethernet setup with a single ethernet card with</h1>
+
+<h1 id="two-interfaces">two interfaces.</h1>
+
+<h1 id="note-this-happens-to-work-since-ifconfig-handles-it-that-way-not-because">Note: This happens to work since ifconfig handles it that way, not because</h1>
+
+<h1 id="ifup-down-handles-the-any-differently">ifup/down handles the &lsquo;:&rsquo; any differently.</h1>
+
+<h1 id="warning-there-is-a-known-bug-if-you-do-this-since-the-state-will-not">Warning: There is a known bug if you do this, since the state will not</h1>
+
+<h1 id="be-properly-defined-if-you-try-to-ifdown-eth0-when-both-interfaces">be properly defined if you try to &lsquo;ifdown eth0&rsquo; when both interfaces</h1>
+
+<h1 id="are-up-the-ifconfig-program-will-not-remove-eth0-but-it-will-be">are up. The ifconfig program will not remove eth0 but it will be</h1>
+
+<h1 id="removed-from-the-interfaces-state-so-you-will-see-it-up-until-you-execute">removed from the interfaces state so you will see it up until you execute:</h1>
+
+<h1 id="ifdown-eth0-1-ifup-eth0-ifdown-eth0">&lsquo;ifdown eth0:1 ; ifup eth0; ifdown eth0&rsquo;</h1>
+
+<h1 id="btw-this-is-bug-193679-it-s-not-really-a-bug-it-s-more-of-a">BTW, this is &ldquo;bug&rdquo; #193679 (it&rsquo;s not really a bug, it&rsquo;s more of a</h1>
+
+<h1 id="limitation">limitation)</h1>
+
+<h1 id="auto-eth0-eth0-1">auto eth0 eth0:1</h1>
+
+<h1 id="iface-eth0-inet-static-2">iface eth0 inet static</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; address 192.168.0.100<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; network 192.168.0.0<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; netmask 255.255.255.0<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; broadcast 192.168.0.255<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; gateway 192.168.0.1</p>
+
+<h1 id="iface-eth0-1-inet-static">iface eth0:1 inet static</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; address 192.168.0.200<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; network 192.168.0.0<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; netmask 255.255.255.0</p>
+
+<h1 id="pre-up-and-post-down-commands-are-also-available-in-addition-the">&ldquo;pre-up&rdquo; and &ldquo;post-down&rdquo; commands are also available. In addition, the</h1>
+
+<h1 id="exit-status-of-these-commands-are-checked-and-if-any-fail-configuration">exit status of these commands are checked, and if any fail, configuration</h1>
+
+<h1 id="or-deconfiguration-is-aborted-so">(or deconfiguration) is aborted. So:</h1>
+
+<h1 id="auto-eth0-2">auto eth0</h1>
+
+<h1 id="iface-eth0-inet-dhcp">iface eth0 inet dhcp</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; pre-up [ -f /etc/network/local-network-ok ]</p>
+
+<h1 id="will-allow-you-to-only-have-eth0-brought-up-when-the-file">will allow you to only have eth0 brought up when the file</h1>
+
+<h1 id="etc-network-local-network-ok-exists">/etc/network/local-network-ok exists.</h1>
+
+<h1 id="two-ethernet-interfaces-one-connected-to-a-trusted-lan-the-other-to">Two ethernet interfaces, one connected to a trusted LAN, the other to</h1>
+
+<h1 id="the-untrusted-internet-if-their-mac-addresses-get-swapped-because-an">the untrusted Internet. If their MAC addresses get swapped (because an</h1>
+
+<h1 id="updated-kernel-uses-a-different-order-when-probing-for-network-cards">updated kernel uses a different order when probing for network cards,</h1>
+
+<h1 id="say-then-they-don-t-get-brought-up-at-all">say), then they don&rsquo;t get brought up at all.</h1>
+
+<h1 id="auto-eth0-eth1">auto eth0 eth1</h1>
+
+<h1 id="iface-eth0-inet-static-3">iface eth0 inet static</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; address 192.168.42.1<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; netmask 255.255.255.0<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; pre-up /path/to/check-mac-address.sh eth0 11:22:33:44:55:66<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; pre-up /usr/local/sbin/enable-masq</p>
+
+<h1 id="iface-eth1-inet-dhcp">iface eth1 inet dhcp</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; pre-up /path/to/check-mac-address.sh eth1 AA:BB:CC:DD:EE:FF<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; pre-up /usr/local/sbin/firewall</p>
+
+<h1 id="two-ethernet-interfaces-one-connected-to-a-trusted-lan-the-other-to-1">Two ethernet interfaces, one connected to a trusted LAN, the other to</h1>
+
+<h1 id="the-untrusted-internet-identified-by-mac-address-rather-than-interface">the untrusted Internet, identified by MAC address rather than interface</h1>
+
+<h1 id="name">name:</h1>
+
+<h1 id="auto-eth0-eth1-1">auto eth0 eth1</h1>
+
+<h1 id="mapping-eth0-eth1">mapping eth0 eth1</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; script /path/to/get-mac-address.sh<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; map 11:22:33:44:55:66 lan<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; map AA:BB:CC:DD:EE:FF internet</p>
+
+<h1 id="iface-lan-inet-static">iface lan inet static</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; address 192.168.42.1<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; netmask 255.255.255.0<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; pre-up /usr/local/sbin/enable-masq $IFACE</p>
+
+<h1 id="iface-internet-inet-dhcp">iface internet inet dhcp</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; pre-up /usr/local/sbin/firewall $IFACE</p>
+
+<h1 id="a-pcmcia-interface-for-a-laptop-that-is-used-in-different-locations">A PCMCIA interface for a laptop that is used in different locations:</h1>
+
+<h1 id="note-the-lack-of-an-auto-line-for-any-of-these">(note the lack of an &ldquo;auto&rdquo; line for any of these)</h1>
+
+<h1 id="mapping-eth0">mapping eth0</h1>
+
+<p>#&nbsp;&nbsp;&nbsp; script /path/to/pcmcia-compat.sh<br />
+#&nbsp;&nbsp;&nbsp; map home,<em>,</em>,<em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; home<br />
+#&nbsp;&nbsp;&nbsp; map work,</em>,<em>,00:11:22:33:44:55&nbsp; work-wireless<br />
+#&nbsp;&nbsp;&nbsp; map work,</em>,*,01:12:23:34:45:50&nbsp; work-static</p>
+
+<h1 id="iface-home-inet-dhcp">iface home inet dhcp</h1>
+
+<h1 id="iface-work-wireless-bootp">iface work-wireless bootp</h1>
+
+<h1 id="iface-work-static-static">iface work-static static</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; address 10.15.43.23<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; netmask 255.255.255.0<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; gateway 10.15.43.1</p>
+
+<h1 id="note-this-won-t-work-unless-you-specifically-change-the-file">Note, this won&rsquo;t work unless you specifically change the file</h1>
+
+<h1 id="etc-pcmcia-network-to-look-more-like">/etc/pcmcia/network to look more like:</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; if [ -r ./shared ] ; then . ./shared ; else . /etc/pcmcia/shared ; fi<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; get_info $DEVICE<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; case &ldquo;$ACTION&rdquo; in<br />
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lsquo;start&rsquo;)<br />
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /sbin/ifup $DEVICE<br />
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ;;<br />
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lsquo;stop&rsquo;)<br />
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /sbin/ifdown $DEVICE<br />
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ;;<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; esac<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; exit 0</p>
+
+<h1 id="an-alternate-way-of-doing-the-same-thing-in-this-case-identifying">An alternate way of doing the same thing: (in this case identifying</h1>
+
+<h1 id="where-the-laptop-is-is-done-by-configuring-the-interface-as-various">where the laptop is is done by configuring the interface as various</h1>
+
+<h1 id="options-and-seeing-if-a-computer-that-is-known-to-be-on-each-particular">options, and seeing if a computer that is known to be on each particular</h1>
+
+<h1 id="network-will-respond-to-pings-the-various-numbers-here-need-to-be-chosen">network will respond to pings. The various numbers here need to be chosen</h1>
+
+<h1 id="with-a-great-deal-of-care">with a great deal of care.)</h1>
+
+<h1 id="mapping-eth0-1">mapping eth0</h1>
+
+<p>#&nbsp;&nbsp;&nbsp; script /path/to/ping-places.sh<br />
+#&nbsp;&nbsp;&nbsp; map 192.168.42.<sup>254</sup>&frasl;<sub>24</sub> 192.168.42.1 home<br />
+#&nbsp;&nbsp;&nbsp; map 10.15.43.<sup>254</sup>&frasl;<sub>24</sub> 10.15.43.1 work-wireless<br />
+#&nbsp;&nbsp;&nbsp; map 10.15.43.<sup>23</sup>&frasl;<sub>24</sub> 10.15.43.1 work-static</p>
+
+<h1 id="iface-home-inet-dhcp-1">iface home inet dhcp</h1>
+
+<h1 id="iface-work-wireless-bootp-1">iface work-wireless bootp</h1>
+
+<h1 id="iface-work-static-static-1">iface work-static static</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp; address 10.15.43.23<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; netmask 255.255.255.0<br />
+#&nbsp;&nbsp;&nbsp;&nbsp; gateway 10.15.43.1</p>
+
+<h1 id="note-that-the-ping-places-script-requires-the-iproute-package-installed">Note that the ping-places script requires the iproute package installed,</h1>
+
+<h1 id="and-the-same-changes-to-etc-pcmcia-network-are-required-for-this-as-for">and the same changes to /etc/pcmcia/network are required for this as for</h1>
+
+<h1 id="the-previous-example">the previous example.</h1>
+
+<h1 id="set-up-an-interface-to-read-all-the-traffic-on-the-network-this">Set up an interface to read all the traffic on the network. This</h1>
+
+<h1 id="configuration-can-be-useful-to-setup-network-intrusion-detection">configuration can be useful to setup Network Intrusion Detection</h1>
+
+<h1 id="sensors-in-stealth-type-configuration-this-prevents-the-nids">sensors in &lsquo;stealth&rsquo;-type configuration. This prevents the NIDS</h1>
+
+<h1 id="system-to-be-a-direct-target-in-a-hostile-network-since-they-have">system to be a direct target in a hostile network since they have</h1>
+
+<h1 id="no-ip-address-on-the-network-notice-however-that-there-have-been">no IP address on the network. Notice, however, that there have been</h1>
+
+<h1 id="known-bugs-over-time-in-sensors-part-of-nids-for-example-see">known bugs over time in sensors part of NIDS (for example see</h1>
+
+<h1 id="dsa-297-related-to-snort-and-remote-buffer-overflows-might-even-be">DSA-297 related to Snort) and remote buffer overflows might even be</h1>
+
+<h1 id="triggered-by-network-packet-processing">triggered by network packet processing.</h1>
+
+<h1 id="auto-eth0-3">auto eth0</h1>
+
+<h1 id="iface-eth0-inet-manual">iface eth0 inet manual</h1>
+
+<h1 id="nbsp-nbsp-nbsp-up-ifconfig-iface-0-0-0-0-up">&nbsp;&nbsp;&nbsp; up ifconfig $IFACE 0.0.0.0 up</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; up ip link set $IFACE promisc on<br />
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; down ip link set $IFACE promisc off<br />
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; down ifconfig $IFACE down</p>
+
+<h1 id="set-up-an-interface-which-will-not-be-allocated-an-ip-address-by">Set up an interface which will not be allocated an IP address by</h1>
+
+<h1 id="ifupdown-but-will-be-configured-through-external-programs-this">ifupdown but will be configured through external programs. This</h1>
+
+<h1 id="can-be-useful-to-setup-interfaces-configured-through-other-programs">can be useful to setup interfaces configured through other programs,</h1>
+
+<h1 id="like-for-example-pppoe-scripts">like, for example, PPPOE scripts.</h1>
+
+<h1 id="auto-eth0-4">auto eth0</h1>
+
+<h1 id="iface-eth0-inet-manual-1">iface eth0 inet manual</h1>
+
+<p>#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; up ifconfig $IFACE 0.0.0.0 up<br />
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; up /usr/local/bin/myconfigscript<br />
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; down ifconfig $IFACE down[/code]<br />
+&nbsp;&nbsp;&nbsp;&nbsp; Nếu cần tìm hiểu thêm bạn gõ lệnh [code]man interfaces[/code]</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp; Ví dụ: Khi bạn cần cấu hình tĩnh card eth0 thì gõ thêm vào file cấu hình nội dung như:<br />
+[code]auto <span style="color: blue;">eth0</span><br />
+iface eth0 inet static<br />
+address 192.168.107.1<br />
+netmask 255.255.255.0<br />
+network 192.168.107.0<br />
+broadcast 192.168.107.255<br />
+gateway 192.168.107.254[/code]<br />
+&nbsp;&nbsp;&nbsp; Còn nếu muốn cấu hình IP động (tự xin DHCP) thì thêm dòng:<br />
+[code]auto <span style="color: blue;">eth0</span><br />
+iface eth0 inet dhcp<br />
+[/code]<br />
+&nbsp;&nbsp;&nbsp; Sau khi thay đổi nội dung file cấu hình thì bạn hãy khởi động lại dịch vụ networking<br />
+[code]$ sudo /etc/init.d/networking restart[/code]<br />
+&nbsp;&nbsp;&nbsp;<br />
+&nbsp;&nbsp;&nbsp; Thế là xong! giờ thì <span style="color: red;">ifconfig</span> để xem kết quả nhé!</p>
+
+  </div>
+  
+
+  
+
+</div>
+
+
+
+
+<script src="https://laptrinh.website/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

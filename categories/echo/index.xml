@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Echo on Lập trình</title>
+    <link>https://laptrinh.website/categories/echo/</link>
+    <description>Recent content in Echo on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laptrinh.website/categories/echo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cách debug trong php</title>
+      <link>https://laptrinh.website/blog/2019/07/03/c%C3%A1ch-debug-trong-php/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laptrinh.website/blog/2019/07/03/c%C3%A1ch-debug-trong-php/</guid>
+      <description>Khi đến với một ngôn ngữ lập trình việc quan trong nhất là biết cách debug! Không biết cách debug bạn không thể tìm ra được nguyên nhân dẫn đến các bug. Nguyên lý đơn giản của việc debug là chúng ta phải xem được giá trị của biến cần quan tâm tại thời điểm runtime (tức là thời điểm chạy chương trình).
+Một số hàm hỗ trợ ta debug như sau:</description>
+    </item>
+    
+  </channel>
+</rss>
