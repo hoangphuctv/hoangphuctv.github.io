@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mysql on Lập trình</title>
-    <link>https://laptrinh.website/categories/mysql/</link>
+    <link>https://hoangphuctv.github.io/categories/mysql/</link>
     <description>Recent content in Mysql on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laptrinh.website/categories/mysql/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hoangphuctv.github.io/categories/mysql/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cài đặt môi trường lập trình PHP trên Ubuntu Linux</title>
-      <link>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</guid>
       <description>Để lập trình PHP trên HĐH Ubuntu, chúng ta cần cài đặt cơ bản các gói sau:
  Web server: Apache2 DB: MySQL PHP và các extension Cài đặt text editor  Cài đặt Apache2 Trước tiên, update repo:
 $ sudo apt update  Tiến hành cài apache2

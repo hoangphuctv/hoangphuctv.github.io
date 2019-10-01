@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animations on Lập trình</title>
-    <link>https://laptrinh.website/categories/animations/</link>
+    <link>https://hoangphuctv.github.io/categories/animations/</link>
     <description>Recent content in Animations on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laptrinh.website/categories/animations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hoangphuctv.github.io/categories/animations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tắt hiệu ứng cho gnome 3</title>
-      <link>https://laptrinh.website/blog/2019/04/07/t%E1%BA%AFt-hi%E1%BB%87u-%E1%BB%A9ng-cho-gnome-3/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/07/t%E1%BA%AFt-hi%E1%BB%87u-%E1%BB%A9ng-cho-gnome-3/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/07/t%E1%BA%AFt-hi%E1%BB%87u-%E1%BB%A9ng-cho-gnome-3/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/07/t%E1%BA%AFt-hi%E1%BB%87u-%E1%BB%A9ng-cho-gnome-3/</guid>
       <description>Ubuntu hay nhiều distro khác hiện tại đã chọn gnome làm DE mặc định cho hệ thống. Gnome đẹp nhưng quá nặng. Nếu bạn sử dụng hằng ngày bạn sẽ thấy nhiều trường hợp bị giật lag, đơ. Vậy, trên các máy có cấu hình thấp, hoặc đơn giản là bạn muốn tắt hiệu ứng đi cho nó đỡ rối mắt. Bạn có thể mở terminal ra và gõ nhanh bằng lệnh:</description>
     </item>
     

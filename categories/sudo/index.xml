@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sudo on Lập trình</title>
-    <link>https://laptrinh.website/categories/sudo/</link>
+    <link>https://hoangphuctv.github.io/categories/sudo/</link>
     <description>Recent content in Sudo on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laptrinh.website/categories/sudo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hoangphuctv.github.io/categories/sudo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linux sudo không cần mật khẩu</title>
-      <link>https://laptrinh.website/blog/2019/04/04/linux-sudo-kh%C3%B4ng-c%E1%BA%A7n-m%E1%BA%ADt-kh%E1%BA%A9u/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/04/linux-sudo-kh%C3%B4ng-c%E1%BA%A7n-m%E1%BA%ADt-kh%E1%BA%A9u/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/04/linux-sudo-kh%C3%B4ng-c%E1%BA%A7n-m%E1%BA%ADt-kh%E1%BA%A9u/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/04/linux-sudo-kh%C3%B4ng-c%E1%BA%A7n-m%E1%BA%ADt-kh%E1%BA%A9u/</guid>
       <description>Trên HĐH Linux, bạn mệt mỏi phải nhập mật khẩu mỗi khi sudo mỗi khi cần gõ lệnh nào đó cần quyền root. Bạn có biết là bạn có thể sudo mà không cần nhập mật khẩu.
 Cách thực hiện: Ví dụ tên username là: phucth sudo vim /etc/sudoers.d/phucth Tên vào file nội dung như sau: phucth ALL=(ALL:ALL) NOPASSWD: ALL Lưu lại. Tiến hành kiểm tra: $ sudo ls / Bây giờ, lệnh ls thực hiện được dưới lệnh sudo mà không cần nhập nữa.</description>
     </item>

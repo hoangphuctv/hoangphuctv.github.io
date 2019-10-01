@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go on Lập trình</title>
-    <link>https://laptrinh.website/categories/go/</link>
+    <link>https://hoangphuctv.github.io/categories/go/</link>
     <description>Recent content in Go on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laptrinh.website/categories/go/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hoangphuctv.github.io/categories/go/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Giới thiệu một chương trình golang đơn giản nhất</title>
-      <link>https://laptrinh.website/blog/2019/04/08/gi%E1%BB%9Bi-thi%E1%BB%87u-m%E1%BB%99t-ch%C6%B0%C6%A1ng-tr%C3%ACnh-golang-%C4%91%C6%A1n-gi%E1%BA%A3n-nh%E1%BA%A5t/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/08/gi%E1%BB%9Bi-thi%E1%BB%87u-m%E1%BB%99t-ch%C6%B0%C6%A1ng-tr%C3%ACnh-golang-%C4%91%C6%A1n-gi%E1%BA%A3n-nh%E1%BA%A5t/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/08/gi%E1%BB%9Bi-thi%E1%BB%87u-m%E1%BB%99t-ch%C6%B0%C6%A1ng-tr%C3%ACnh-golang-%C4%91%C6%A1n-gi%E1%BA%A3n-nh%E1%BA%A5t/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/08/gi%E1%BB%9Bi-thi%E1%BB%87u-m%E1%BB%99t-ch%C6%B0%C6%A1ng-tr%C3%ACnh-golang-%C4%91%C6%A1n-gi%E1%BA%A3n-nh%E1%BA%A5t/</guid>
       <description>Tên chương trình: In ra màn hình chuỗi &amp;ldquo;Hello world&amp;rdquo;
 Mục tiêu: Làm quen với ngôn ngữ lập trình golang:
  Cấu trúc chương trình. Cách thực thi 1 chương trình. Cách build 1 chương trình.  Code ví dụ File: ~/go/hello/hello.go
@@ -26,30 +26,30 @@ $ go run hello.go Hello world  Chương trình đã xuất ra được dòng ch�
     
     <item>
       <title>Go function</title>
-      <link>https://laptrinh.website/blog/2019/04/08/go-function/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/08/go-function/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/08/go-function/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/08/go-function/</guid>
       <description>func là từ khoá dùng để khai báo hàm. Tương tự như từ khoá function trong các ngôn ngữ khác. Đối với bất kì ngôn ngữ nào, chúng ta có một số khái niệm liên quan tới function:
  Tham số: là input mà chúng ta muốn function xử lí. Ví dụ: print(&amp;quot;Hi&amp;quot;) Kết quả trả về: là output trả về thống qua tên hàm. Ví dụ: c := sum(a, b)  Cả tham số và kết quả trả về có thể có hoặc không có, có thể có một hoặc có nhiều.</description>
     </item>
     
     <item>
       <title>Go phục vụ các file tĩnh</title>
-      <link>https://laptrinh.website/blog/2019/04/08/go-ph%E1%BB%A5c-v%E1%BB%A5-c%C3%A1c-file-t%C4%A9nh/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/08/go-ph%E1%BB%A5c-v%E1%BB%A5-c%C3%A1c-file-t%C4%A9nh/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/08/go-ph%E1%BB%A5c-v%E1%BB%A5-c%C3%A1c-file-t%C4%A9nh/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/08/go-ph%E1%BB%A5c-v%E1%BB%A5-c%C3%A1c-file-t%C4%A9nh/</guid>
       <description>Trong quá trình lập trình web, một webserver cần đảm nhiệm các vấn đề sau:
  Lắng nghe kết nối: server mở port kết nối để các http client (trình duyệt, curl,&amp;hellip;) kết nối đến và request các tài nguyên. Xử lí động: xử lí các POST, GET,&amp;hellip; request. Phục vụ các file tĩnh (js, css, images,&amp;hellip;)  Trong bài này chúng ta sẽ xem package net/http hỗ trợ việc phục vụ các file tĩnh ra sau:</description>
     </item>
     
     <item>
       <title>Làm quen với lập trình web bằng golang</title>
-      <link>https://laptrinh.website/blog/2019/04/08/l%C3%A0m-quen-v%E1%BB%9Bi-l%E1%BA%ADp-tr%C3%ACnh-web-b%E1%BA%B1ng-golang/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/08/l%C3%A0m-quen-v%E1%BB%9Bi-l%E1%BA%ADp-tr%C3%ACnh-web-b%E1%BA%B1ng-golang/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/08/l%C3%A0m-quen-v%E1%BB%9Bi-l%E1%BA%ADp-tr%C3%ACnh-web-b%E1%BA%B1ng-golang/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/08/l%C3%A0m-quen-v%E1%BB%9Bi-l%E1%BA%ADp-tr%C3%ACnh-web-b%E1%BA%B1ng-golang/</guid>
       <description>Yêu cầu  Kiến thức cơ bản về web. Golang cú pháp cơ bản  Website hello world Tương tự như lập trình golang application. Chúng ta sẽ xem golang một chương trình golang web đơn giản nhất sẽ như thế nào. Sau đây là một chương trình xuất ra màn hình &amp;ldquo;Hello world&amp;rdquo; khi ta vào trang chủ web &amp;ldquo;/&amp;rdquo;. Chúng ta sẽ sử dụng tư viện mặc định của go tên là net/http.</description>
     </item>
     

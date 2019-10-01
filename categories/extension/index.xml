@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extension on Lập trình</title>
-    <link>https://laptrinh.website/categories/extension/</link>
+    <link>https://hoangphuctv.github.io/categories/extension/</link>
     <description>Recent content in Extension on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laptrinh.website/categories/extension/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hoangphuctv.github.io/categories/extension/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cài đặt phalcon extension cho php</title>
-      <link>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</guid>
       <description>Hướng dẫn cài đặt phalcon extension cho php
 Môi trường:  Ubuntu 18.04 PHP 7.2  Cài đặt Cài thư viện:
 apt install gcc libpcre3-dev php-dev Clone source: ta lưu source tại /usr/local/src/
@@ -26,10 +26,10 @@ Nội dung file:</description>
     
     <item>
       <title>Cài extension PHP còn thiếu trên Linux</title>
-      <link>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-extension-php-c%C3%B2n-thi%E1%BA%BFu-tr%C3%AAn-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/01/c%C3%A0i-extension-php-c%C3%B2n-thi%E1%BA%BFu-tr%C3%AAn-linux/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-extension-php-c%C3%B2n-thi%E1%BA%BFu-tr%C3%AAn-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/01/c%C3%A0i-extension-php-c%C3%B2n-thi%E1%BA%BFu-tr%C3%AAn-linux/</guid>
       <description>Khi làm việc với php bạn thường hay gặp các lỗi Undefined function, hoặc class thường là do thiếu các extension gây ra. Ví dụ như &amp;ldquo;undefined function curl_init()&amp;rdquo; là do thiếu extension curl.
 Cài thông qua trình quản lí gói Nếu bạn cài đặt php thông qua trình quản lí gói như apt, bạn chỉ cần cài thêm extension qua lệnh:
 $ apt install php-curl  Cài thông qua tool pecl Còn nếu như bạn cài thông qua build source, thì bạn có thể cd vào thư mục bin của php ví dụ: /etc/php/5.</description>
@@ -37,10 +37,10 @@ $ apt install php-curl  Cài thông qua tool pecl Còn nếu như bạn cài th�
     
     <item>
       <title>Build extension cho php bất kì trên Linux/MacOS</title>
-      <link>https://laptrinh.website/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux-macos/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux-macos/</link>
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux-macos/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux-macos/</guid>
       <description>Khi bạn cài php từ source mà không phải cài từ trình quản lí gói như apt hoặc yum, brew,&amp;hellip; thì khi bạn cần cài thêm 1 extension mới cho php thì ngoài cách bạn thường hay làm (trên windows) là bạn lên mạng; tải file đã build sẵn có định dạng là *.so đối với linux, Mac.
 Trước tiên, bạn phải biết đường dẫn tới thư mục bin của php.</description>
     </item>

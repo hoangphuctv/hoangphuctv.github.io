@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hostname on Lập trình</title>
-    <link>https://laptrinh.website/categories/hostname/</link>
+    <link>https://hoangphuctv.github.io/categories/hostname/</link>
     <description>Recent content in Hostname on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 09 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laptrinh.website/categories/hostname/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hoangphuctv.github.io/categories/hostname/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Đổi hostname cho Linux</title>
-      <link>https://laptrinh.website/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</guid>
       <description>Hostname là tên, dùng để đặt cho máy tính. Giúp cho người quản trị ghi nhớ dễ dàng, và phân biệt các máy mới với nhau. Để xem hostname hiện tại bạn nhìn trên terminal các bạn sẽ thấy hostname tại vị trí dấu nhắc lệnh:
 root@myserver #  Nếu không thấy hostname tại vị trí dấu nhắc lệnh, bạn có thể gõ lệnh sau để xem hostname:
 $ hostname myserver  Muốn thay đổi&amp;nbsp;myserver này các bạn chỉ cần chỉnh sửa file&amp;nbsp;&amp;nbsp;/etc/hostname Để xem nội dung hiện tại bạn gõ lệnh:</description>

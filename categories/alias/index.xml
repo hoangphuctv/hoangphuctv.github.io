@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alias on Lập trình</title>
-    <link>https://laptrinh.website/categories/alias/</link>
+    <link>https://hoangphuctv.github.io/categories/alias/</link>
     <description>Recent content in Alias on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laptrinh.website/categories/alias/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hoangphuctv.github.io/categories/alias/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mở file bằng xcode từ command line</title>
-      <link>https://laptrinh.website/blog/2019/06/30/m%E1%BB%9F-file-b%E1%BA%B1ng-xcode-t%E1%BB%AB-command-line/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/06/30/m%E1%BB%9F-file-b%E1%BA%B1ng-xcode-t%E1%BB%AB-command-line/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/06/30/m%E1%BB%9F-file-b%E1%BA%B1ng-xcode-t%E1%BB%AB-command-line/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/06/30/m%E1%BB%9F-file-b%E1%BA%B1ng-xcode-t%E1%BB%AB-command-line/</guid>
       <description>Nếu bạn đã rất thích việc mở file bằng sublime bằng lệnh subl filename.c hoặc vscode cũng tương tự code filename.c. Vậy với xcode mở file bằng command line tương tự như thế nào?
 Trước tiên máy bạn phải cài xcode trước. Bạn có thể vào App Store gõ &amp;ldquo;xcode&amp;rdquo; để tìm và cài đặt.
 Bạn thêm alias sau vào file ~/.bash_profile nếu dùng bash shell

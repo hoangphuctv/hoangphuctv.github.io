@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Lập trình</title>
-    <link>https://laptrinh.website/categories/linux/</link>
+    <link>https://hoangphuctv.github.io/categories/linux/</link>
     <description>Recent content in Linux on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 09 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laptrinh.website/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hoangphuctv.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Đổi hostname cho Linux</title>
-      <link>https://laptrinh.website/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</guid>
       <description>Hostname là tên, dùng để đặt cho máy tính. Giúp cho người quản trị ghi nhớ dễ dàng, và phân biệt các máy mới với nhau. Để xem hostname hiện tại bạn nhìn trên terminal các bạn sẽ thấy hostname tại vị trí dấu nhắc lệnh:
 root@myserver #  Nếu không thấy hostname tại vị trí dấu nhắc lệnh, bạn có thể gõ lệnh sau để xem hostname:
 $ hostname myserver  Muốn thay đổi&amp;nbsp;myserver này các bạn chỉ cần chỉnh sửa file&amp;nbsp;&amp;nbsp;/etc/hostname Để xem nội dung hiện tại bạn gõ lệnh:</description>
@@ -24,10 +24,10 @@ $ hostname myserver  Muốn thay đổi&amp;nbsp;myserver này các bạn chỉ 
     
     <item>
       <title>Đổi hostname cho Linux</title>
-      <link>https://laptrinh.website/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</guid>
       <description>Hostname là tên, dùng để đặt cho máy tính. Giúp cho người quản trị ghi nhớ dễ dàng, và phân biệt các máy mới với nhau. Để xem hostname hiện tại bạn nhìn trên terminal các bạn sẽ thấy hostname tại vị trí dấu nhắc lệnh:
 root@myserver #  Nếu không thấy hostname tại vị trí dấu nhắc lệnh, bạn có thể gõ lệnh sau để xem hostname:
 $ hostname myserver  Muốn thay đổi&amp;nbsp;myserver này các bạn chỉ cần chỉnh sửa file&amp;nbsp;&amp;nbsp;/etc/hostname Để xem nội dung hiện tại bạn gõ lệnh:</description>
@@ -35,10 +35,10 @@ $ hostname myserver  Muốn thay đổi&amp;nbsp;myserver này các bạn chỉ 
     
     <item>
       <title>Linux tìm file thư mục với lệnh find</title>
-      <link>https://laptrinh.website/blog/2019/04/07/linux-t%C3%ACm-file-th%C6%B0-m%E1%BB%A5c-v%E1%BB%9Bi-l%E1%BB%87nh-find/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/07/linux-t%C3%ACm-file-th%C6%B0-m%E1%BB%A5c-v%E1%BB%9Bi-l%E1%BB%87nh-find/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/07/linux-t%C3%ACm-file-th%C6%B0-m%E1%BB%A5c-v%E1%BB%9Bi-l%E1%BB%87nh-find/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/07/linux-t%C3%ACm-file-th%C6%B0-m%E1%BB%A5c-v%E1%BB%9Bi-l%E1%BB%87nh-find/</guid>
       <description>find là một công cụ mạnh mẽ giúp chúng ta tìm kiếm các tập tin và thư mục trên hệ thống một cách nhanh chóng.
 Tìm không có điều kiện Tìm không có điều kiện nào, tức là sẽ list tất cả các file và thư mục:
 $ find .  Dấu . tức là thư mục hiện tại, nếu bạn muốn tìm trong 1 thư mục khác, không phải thư mục đang đứng thì bạn gõ vào đường dẫn đến thư mục đó.</description>
@@ -46,29 +46,29 @@ $ find .  Dấu . tức là thư mục hiện tại, nếu bạn muốn tìm tro
     
     <item>
       <title>Tắt hiệu ứng cho gnome 3</title>
-      <link>https://laptrinh.website/blog/2019/04/07/t%E1%BA%AFt-hi%E1%BB%87u-%E1%BB%A9ng-cho-gnome-3/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/07/t%E1%BA%AFt-hi%E1%BB%87u-%E1%BB%A9ng-cho-gnome-3/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/07/t%E1%BA%AFt-hi%E1%BB%87u-%E1%BB%A9ng-cho-gnome-3/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/07/t%E1%BA%AFt-hi%E1%BB%87u-%E1%BB%A9ng-cho-gnome-3/</guid>
       <description>Ubuntu hay nhiều distro khác hiện tại đã chọn gnome làm DE mặc định cho hệ thống. Gnome đẹp nhưng quá nặng. Nếu bạn sử dụng hằng ngày bạn sẽ thấy nhiều trường hợp bị giật lag, đơ. Vậy, trên các máy có cấu hình thấp, hoặc đơn giản là bạn muốn tắt hiệu ứng đi cho nó đỡ rối mắt. Bạn có thể mở terminal ra và gõ nhanh bằng lệnh:</description>
     </item>
     
     <item>
       <title>Linux sudo không cần mật khẩu</title>
-      <link>https://laptrinh.website/blog/2019/04/04/linux-sudo-kh%C3%B4ng-c%E1%BA%A7n-m%E1%BA%ADt-kh%E1%BA%A9u/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/04/linux-sudo-kh%C3%B4ng-c%E1%BA%A7n-m%E1%BA%ADt-kh%E1%BA%A9u/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/04/linux-sudo-kh%C3%B4ng-c%E1%BA%A7n-m%E1%BA%ADt-kh%E1%BA%A9u/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/04/linux-sudo-kh%C3%B4ng-c%E1%BA%A7n-m%E1%BA%ADt-kh%E1%BA%A9u/</guid>
       <description>Trên HĐH Linux, bạn mệt mỏi phải nhập mật khẩu mỗi khi sudo mỗi khi cần gõ lệnh nào đó cần quyền root. Bạn có biết là bạn có thể sudo mà không cần nhập mật khẩu.
 Cách thực hiện: Ví dụ tên username là: phucth sudo vim /etc/sudoers.d/phucth Tên vào file nội dung như sau: phucth ALL=(ALL:ALL) NOPASSWD: ALL Lưu lại. Tiến hành kiểm tra: $ sudo ls / Bây giờ, lệnh ls thực hiện được dưới lệnh sudo mà không cần nhập nữa.</description>
     </item>
     
     <item>
       <title>Cài đặt môi trường lập trình PHP trên Ubuntu Linux</title>
-      <link>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</guid>
       <description>Để lập trình PHP trên HĐH Ubuntu, chúng ta cần cài đặt cơ bản các gói sau:
  Web server: Apache2 DB: MySQL PHP và các extension Cài đặt text editor  Cài đặt Apache2 Trước tiên, update repo:
 $ sudo apt update  Tiến hành cài apache2
@@ -77,28 +77,28 @@ $ sudo apt install apache2 -y  Mở trình duyệt vào trang chủ http://local
     
     <item>
       <title>Call to undefined function curl_init() Install cURl cho Linux</title>
-      <link>https://laptrinh.website/blog/2013/07/01/call-to-undefined-function-curl_init-install-curl-cho-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2013/07/01/call-to-undefined-function-curl_init-install-curl-cho-linux/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2013/07/01/call-to-undefined-function-curl_init-install-curl-cho-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2013/07/01/call-to-undefined-function-curl_init-install-curl-cho-linux/</guid>
       <description>Bạn chưa cài gói curl chỉ cần cài vào là giải quyết được.   $ sudo apt-get install curl libcurl3 libcurl3-dev php5-curl</description>
     </item>
     
     <item>
       <title>Cấu hình IP cho Linux</title>
-      <link>https://laptrinh.website/blog/2011/10/15/c%E1%BA%A5u-h%C3%ACnh-ip-cho-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/10/15/c%E1%BA%A5u-h%C3%ACnh-ip-cho-linux/</link>
       <pubDate>Sat, 15 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/10/15/c%E1%BA%A5u-h%C3%ACnh-ip-cho-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/10/15/c%E1%BA%A5u-h%C3%ACnh-ip-cho-linux/</guid>
       <description>&amp;nbsp; &amp;nbsp; &amp;nbsp;Khi mới bắt đầu làm quen với Linux, nhức đầu lắm với mấy cái vụ cấu hình IP :&amp;lsquo;. Ở trường làm 1 đường về nhà lại làm 1 nẻo. Một thời gian mệt mỏi, và sẽ tiếp tụp mệt mỏi&amp;hellip;. với việc cấu hình IP. Note lại vài dòng dể sau này có quên ngồi xem lại !&amp;nbsp;Tại thời điểm này, IPv4 vẫn còn thống trị. Nên giờ chỉ nói với v4 thôi, còn v6 thì để từ từ nói tiếp vậy.</description>
     </item>
     
     <item>
       <title>Fedora Thêm quyền sudo cho user thường</title>
-      <link>https://laptrinh.website/blog/2011/07/08/fedora-th%C3%AAm-quy%E1%BB%81n-sudo-cho-user-th%C6%B0%E1%BB%9Dng/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/07/08/fedora-th%C3%AAm-quy%E1%BB%81n-sudo-cho-user-th%C6%B0%E1%BB%9Dng/</link>
       <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/07/08/fedora-th%C3%AAm-quy%E1%BB%81n-sudo-cho-user-th%C6%B0%E1%BB%9Dng/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/07/08/fedora-th%C3%AAm-quy%E1%BB%81n-sudo-cho-user-th%C6%B0%E1%BB%9Dng/</guid>
       <description>Bạn được học rằng, khi cần thực hiện lệnh dưới quyền root không cần phải su qua root mà chỉ cần mượn quyền bằng lệnh sudo. Thế nhưng trên Fedora, khi bạn thực thiện lệnh [code]$ sudo gedit[/code] lại không thực hiện được.
 
 Máy báo là user bạn không được nằm trong sudoers file.
@@ -107,76 +107,76 @@ Vậy để thực hiện được lệnh mượn quyền sudo bạn cần phả
     
     <item>
       <title>Phần mềm cắt nối file 001 | 002 .. trên Linux</title>
-      <link>https://laptrinh.website/blog/2011/07/02/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-001-002-..-tr%C3%AAn-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/07/02/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-001-002-..-tr%C3%AAn-linux/</link>
       <pubDate>Sat, 02 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/07/02/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-001-002-..-tr%C3%AAn-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/07/02/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-001-002-..-tr%C3%AAn-linux/</guid>
       <description>Các file 001,&amp;hellip; đối với các bạn đã quá quen thuộc, thế nhưng trên nền Linux bạn đang loay hoay tìm một ứng dụng thay thế?? lxspit là một ứng cử viên sáng giá. Mặc dù chương trình không có giao diện (sử dụng command) thế nhưng lxspit cũng tỏ ra vô cùng mạnh mẽ!! Các lệnh với xlspit cũng rất đơn giản. Cấu trúc lệnh:
 [code]$ lxspit &amp;lt;-option&amp;gt;  [/code]</description>
     </item>
     
     <item>
       <title>Cấu hình Squid proxy để cho phép AIM, Yahoo, Gtalk và MSN Messenger truy cập mạng</title>
-      <link>https://laptrinh.website/blog/2011/06/29/c%E1%BA%A5u-h%C3%ACnh-squid-proxy-%C4%91%E1%BB%83-cho-ph%C3%A9p-aim-yahoo-gtalk-v%C3%A0-msn-messenger-truy-c%E1%BA%ADp-m%E1%BA%A1ng/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/29/c%E1%BA%A5u-h%C3%ACnh-squid-proxy-%C4%91%E1%BB%83-cho-ph%C3%A9p-aim-yahoo-gtalk-v%C3%A0-msn-messenger-truy-c%E1%BA%ADp-m%E1%BA%A1ng/</link>
       <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/06/29/c%E1%BA%A5u-h%C3%ACnh-squid-proxy-%C4%91%E1%BB%83-cho-ph%C3%A9p-aim-yahoo-gtalk-v%C3%A0-msn-messenger-truy-c%E1%BA%ADp-m%E1%BA%A1ng/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/29/c%E1%BA%A5u-h%C3%ACnh-squid-proxy-%C4%91%E1%BB%83-cho-ph%C3%A9p-aim-yahoo-gtalk-v%C3%A0-msn-messenger-truy-c%E1%BA%ADp-m%E1%BA%A1ng/</guid>
       <description>M?nh đ? có 1 bài vi?t hư?ng d?n các b?n c?u h?nh SQUID PROXY. Hôm nay gi?i thi?u ti?p đ?n các b?n trong trư?ng h?p b?n deny all các đ?a ch?, port ko mong mu?n th? khi dùng&amp;nbsp;AIM, Yahoo, Gtalk và MSN Messenger th? ko th? nào vào m?ng đư?c. Sau đây là cách thêm vào các rule cho phép proxy Squid đ?ng ? các ?ng d?ng này truy c?p m?</description>
     </item>
     
     <item>
       <title>Phần mềm cắt nối file nối file 001 | 002 |  __a | __b ....</title>
-      <link>https://laptrinh.website/blog/2011/06/29/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-n%E1%BB%91i-file-001-002-__a-__b-..../</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/29/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-n%E1%BB%91i-file-001-002-__a-__b-..../</link>
       <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/06/29/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-n%E1%BB%91i-file-001-002-__a-__b-..../</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/29/ph%E1%BA%A7n-m%E1%BB%81m-c%E1%BA%AFt-n%E1%BB%91i-file-n%E1%BB%91i-file-001-002-__a-__b-..../</guid>
       <description>Khi bạn tải các file chia sẽ trên Internet, thì việc tải các file *.001 *.__a là chuyện thường thấy. Cách chia nhỏ file này so với việc sử dụng winrar để cắt file thì an toàn hơn rất nhiều. Nếu trên môi trường Linux các bạn có thể tham khảo ở đây. Trên môi trường Windows các có thể các bạn có thể sử dụng HJSPIT hoặc FFSJ. Trong bài này mình sẽ giới thiệu tới các bạn &amp;nbsp;cách sử dụng FFHJ.</description>
     </item>
     
     <item>
       <title>Các thao tác cần nắm đối với OpenOffice</title>
-      <link>https://laptrinh.website/blog/2011/06/22/c%C3%A1c-thao-t%C3%A1c-c%E1%BA%A7n-n%E1%BA%AFm-%C4%91%E1%BB%91i-v%E1%BB%9Bi-openoffice/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/22/c%C3%A1c-thao-t%C3%A1c-c%E1%BA%A7n-n%E1%BA%AFm-%C4%91%E1%BB%91i-v%E1%BB%9Bi-openoffice/</link>
       <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/06/22/c%C3%A1c-thao-t%C3%A1c-c%E1%BA%A7n-n%E1%BA%AFm-%C4%91%E1%BB%91i-v%E1%BB%9Bi-openoffice/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/22/c%C3%A1c-thao-t%C3%A1c-c%E1%BA%A7n-n%E1%BA%AFm-%C4%91%E1%BB%91i-v%E1%BB%9Bi-openoffice/</guid>
       <description>Trong thời buổi hiện nay, Nguồn mở hóa đang là xu thế toàn cầu. Bạn có thể sử dụng bộ OpenOffice &amp;nbsp;miễn phí thay thế cho Microsoft Office đắc đỏ. Hiện tại OpenOffice hỗ trợ cho cả Windows, MAC và Linux. Hiện nay chuẩn định dạng ODF cũng đã đạt chuẩn ISO và đang được coi như là một định dạng văn bản phổ biến ở các nước Châu Âu. Vì thế nắm được những thao tác cơ bản trên OpenOffice sẽ giúp bạn từng bước chuyển từ MS Office sang OpenOffice - xu thế toàn cầu!</description>
     </item>
     
     <item>
       <title>Update bản firefox 3.6.10 mặc định lên bản 4.0</title>
-      <link>https://laptrinh.website/blog/2011/06/22/update-b%E1%BA%A3n-firefox-3.6.10-m%E1%BA%B7c-%C4%91%E1%BB%8Bnh-l%C3%AAn-b%E1%BA%A3n-4.0/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/22/update-b%E1%BA%A3n-firefox-3.6.10-m%E1%BA%B7c-%C4%91%E1%BB%8Bnh-l%C3%AAn-b%E1%BA%A3n-4.0/</link>
       <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/06/22/update-b%E1%BA%A3n-firefox-3.6.10-m%E1%BA%B7c-%C4%91%E1%BB%8Bnh-l%C3%AAn-b%E1%BA%A3n-4.0/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/22/update-b%E1%BA%A3n-firefox-3.6.10-m%E1%BA%B7c-%C4%91%E1%BB%8Bnh-l%C3%AAn-b%E1%BA%A3n-4.0/</guid>
       <description>Firefox 4.0 đã ra mắt khá lâu, trong Windows bạn có thể dễ dàng nâng cấp lên bản mới này, thế nhưng trong Linux thì ^^!, hjhj không đơn giản như thế, vì vậy mình sẽ hướng dẫn các bạn, nâng cấp lên chỉ với các bước khá đơn giản mà mình đã đọc được trên trang chủ của Mozilla Firefox :P.
 B1: Các bạn Backup profiles của firefox đang dùng bằng lệnh:</description>
     </item>
     
     <item>
       <title>Cấu hình dịch vụ Proxy trên Linux - Squid</title>
-      <link>https://laptrinh.website/blog/2011/06/21/c%E1%BA%A5u-h%C3%ACnh-d%E1%BB%8Bch-v%E1%BB%A5-proxy-tr%C3%AAn-linux-squid/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/21/c%E1%BA%A5u-h%C3%ACnh-d%E1%BB%8Bch-v%E1%BB%A5-proxy-tr%C3%AAn-linux-squid/</link>
       <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/06/21/c%E1%BA%A5u-h%C3%ACnh-d%E1%BB%8Bch-v%E1%BB%A5-proxy-tr%C3%AAn-linux-squid/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/21/c%E1%BA%A5u-h%C3%ACnh-d%E1%BB%8Bch-v%E1%BB%A5-proxy-tr%C3%AAn-linux-squid/</guid>
       <description>&amp;nbsp;&amp;nbsp; Trên HĐH Linux có rất nhiều phần mềm cung cấp dịch vụ proxy, trong đó Squid được sử dụng rộng rãi nhất.
  Giới thiệu về SQUID.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Squid là một chương trình internet proxy-caching có vai trò tiếp nhận các yêu cầu từ các client và chuyển cho Internet server thích hợp. Đồng thời,nó sẽ lưu lên đĩa những dữ liệu được trả về từ Internet server - gọi là caching.</description>
     </item>
     
     <item>
       <title>Các công cụ biên tập video miễn phí trên Linux</title>
-      <link>https://laptrinh.website/blog/2011/06/18/c%C3%A1c-c%C3%B4ng-c%E1%BB%A5-bi%C3%AAn-t%E1%BA%ADp-video-mi%E1%BB%85n-ph%C3%AD-tr%C3%AAn-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/18/c%C3%A1c-c%C3%B4ng-c%E1%BB%A5-bi%C3%AAn-t%E1%BA%ADp-video-mi%E1%BB%85n-ph%C3%AD-tr%C3%AAn-linux/</link>
       <pubDate>Sat, 18 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/06/18/c%C3%A1c-c%C3%B4ng-c%E1%BB%A5-bi%C3%AAn-t%E1%BA%ADp-video-mi%E1%BB%85n-ph%C3%AD-tr%C3%AAn-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/18/c%C3%A1c-c%C3%B4ng-c%E1%BB%A5-bi%C3%AAn-t%E1%BA%ADp-video-mi%E1%BB%85n-ph%C3%AD-tr%C3%AAn-linux/</guid>
       <description>**Trên Windows, bạn có thể sử dụng công cụ sẵn có Windows Movie Maker để biên tập video tương đối hiệu quả. Ngược lại, đối với người dùng Linux, không có bất cứ lựa chọn nào sẵn có bên trong các bản phân phối theo mặc định. Tuy nhiên, với sự trợ giúp của cộng đồng người dùng mã nguồn mở, bạn có thể tìm kiếm và sử dụng hàng loạt những ứng dụng thay thế hoàn toàn miễn phí.</description>
     </item>
     
     <item>
       <title>Cài đặt bộ gõ SCIM cho Ubuntu</title>
-      <link>https://laptrinh.website/blog/2011/06/14/c%C3%A0i-%C4%91%E1%BA%B7t-b%E1%BB%99-g%C3%B5-scim-cho-ubuntu/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/14/c%C3%A0i-%C4%91%E1%BA%B7t-b%E1%BB%99-g%C3%B5-scim-cho-ubuntu/</link>
       <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/06/14/c%C3%A0i-%C4%91%E1%BA%B7t-b%E1%BB%99-g%C3%B5-scim-cho-ubuntu/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/14/c%C3%A0i-%C4%91%E1%BA%B7t-b%E1%BB%99-g%C3%B5-scim-cho-ubuntu/</guid>
       <description>Ở tất cả các phiên bản của Ubuntu, khi cài Scim thông qua apt-get thì đều giống nhau.
 Các bạn Mở Terminal: Applications/Accessories/Terminal
 gõ lệnh, và nhập password:
@@ -189,10 +189,10 @@ Check vào mục Use SCIM.</description>
     
     <item>
       <title>Tìm group và các user trong group đó khi nhập Group ID</title>
-      <link>https://laptrinh.website/blog/2011/06/14/t%C3%ACm-group-v%C3%A0-c%C3%A1c-user-trong-group-%C4%91%C3%B3-khi-nh%E1%BA%ADp-group-id/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/14/t%C3%ACm-group-v%C3%A0-c%C3%A1c-user-trong-group-%C4%91%C3%B3-khi-nh%E1%BA%ADp-group-id/</link>
       <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/06/14/t%C3%ACm-group-v%C3%A0-c%C3%A1c-user-trong-group-%C4%91%C3%B3-khi-nh%E1%BA%ADp-group-id/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/14/t%C3%ACm-group-v%C3%A0-c%C3%A1c-user-trong-group-%C4%91%C3%B3-khi-nh%E1%BA%ADp-group-id/</guid>
       <description>Dữ liệu mà ta quan tâm nằm tại /etc/group. Vấn đề là ta chỉ cần đọc được file group và xử lí nội dung của nó.!
 
 Nội dung trong file group được lưu theo từng dòng mỗi dòng là:
@@ -204,10 +204,10 @@ vậy là, ID group nằm ở phần thứ 3 của dòng. ở đây là group id
     
     <item>
       <title>Cách lấy lại mật khẩu trên Linux</title>
-      <link>https://laptrinh.website/blog/2011/06/08/c%C3%A1ch-l%E1%BA%A5y-l%E1%BA%A1i-m%E1%BA%ADt-kh%E1%BA%A9u-tr%C3%AAn-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/08/c%C3%A1ch-l%E1%BA%A5y-l%E1%BA%A1i-m%E1%BA%ADt-kh%E1%BA%A9u-tr%C3%AAn-linux/</link>
       <pubDate>Wed, 08 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/06/08/c%C3%A1ch-l%E1%BA%A5y-l%E1%BA%A1i-m%E1%BA%ADt-kh%E1%BA%A9u-tr%C3%AAn-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/08/c%C3%A1ch-l%E1%BA%A5y-l%E1%BA%A1i-m%E1%BA%ADt-kh%E1%BA%A9u-tr%C3%AAn-linux/</guid>
       <description>Vô tình một ngày nào đó, bạn đổi pass ROOT mà nhỡ bị quên!! haizz, khổ nhỉ [:-/] nhưng đừng lo, cái gì cũng có cách [:D]http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/Linux/lbfedora1.png
 Chỉ cần làm theo hướng dẫn sau, rất đơn giản và nhanh chóng bạn sẽ có lại pass ROOT mà ko phải cài lại HĐH @.@!
 - B1: Trong lúc vừa bật máy tính lên, ấn nhanh phím e, sẽ hiện ra được menu:&amp;nbsp;</description>
@@ -215,10 +215,10 @@ Chỉ cần làm theo hướng dẫn sau, rất đơn giản và nhanh chóng b�
     
     <item>
       <title>Cấu trúc Case - shell linux</title>
-      <link>https://laptrinh.website/blog/2011/06/06/c%E1%BA%A5u-tr%C3%BAc-case-shell-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/06/c%E1%BA%A5u-tr%C3%BAc-case-shell-linux/</link>
       <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/06/06/c%E1%BA%A5u-tr%C3%BAc-case-shell-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/06/c%E1%BA%A5u-tr%C3%BAc-case-shell-linux/</guid>
       <description>Cấu trúc case in esac, là cấu trúc rẽ nhánh trong lập trình shell trên Linux. Xem ví dụ sau sẽ rõ hơn:
 
 [code]
@@ -254,10 +254,10 @@ done
     
     <item>
       <title>Liệt kê các user trong máy  - shell linux</title>
-      <link>https://laptrinh.website/blog/2011/06/06/li%E1%BB%87t-k%C3%AA-c%C3%A1c-user-trong-m%C3%A1y-shell-linux/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/06/li%E1%BB%87t-k%C3%AA-c%C3%A1c-user-trong-m%C3%A1y-shell-linux/</link>
       <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2011/06/06/li%E1%BB%87t-k%C3%AA-c%C3%A1c-user-trong-m%C3%A1y-shell-linux/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/06/li%E1%BB%87t-k%C3%AA-c%C3%A1c-user-trong-m%C3%A1y-shell-linux/</guid>
       <description>[code]
 #!/bin/bash
 #filename=$1

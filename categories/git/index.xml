@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on Lập trình</title>
-    <link>https://laptrinh.website/categories/git/</link>
+    <link>https://hoangphuctv.github.io/categories/git/</link>
     <description>Recent content in Git on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Fri, 05 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://laptrinh.website/categories/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hoangphuctv.github.io/categories/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Các lệnh git mà tất cả các lập trình viên cần PHẢI biết</title>
-      <link>https://laptrinh.website/blog/2019/04/05/c%C3%A1c-l%E1%BB%87nh-git-m%C3%A0-t%E1%BA%A5t-c%E1%BA%A3-c%C3%A1c-l%E1%BA%ADp-tr%C3%ACnh-vi%C3%AAn-c%E1%BA%A7n-ph%E1%BA%A3i-bi%E1%BA%BFt/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/04/05/c%C3%A1c-l%E1%BB%87nh-git-m%C3%A0-t%E1%BA%A5t-c%E1%BA%A3-c%C3%A1c-l%E1%BA%ADp-tr%C3%ACnh-vi%C3%AAn-c%E1%BA%A7n-ph%E1%BA%A3i-bi%E1%BA%BFt/</link>
       <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://laptrinh.website/blog/2019/04/05/c%C3%A1c-l%E1%BB%87nh-git-m%C3%A0-t%E1%BA%A5t-c%E1%BA%A3-c%C3%A1c-l%E1%BA%ADp-tr%C3%ACnh-vi%C3%AAn-c%E1%BA%A7n-ph%E1%BA%A3i-bi%E1%BA%BFt/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/04/05/c%C3%A1c-l%E1%BB%87nh-git-m%C3%A0-t%E1%BA%A5t-c%E1%BA%A3-c%C3%A1c-l%E1%BA%ADp-tr%C3%ACnh-vi%C3%AAn-c%E1%BA%A7n-ph%E1%BA%A3i-bi%E1%BA%BFt/</guid>
       <description>Ngày nay đối với lập trình viên, dù là sinh viên hay lập trình viên chuyên nghiệp, khi làm việc với số lượng lớn files và projects thì bạn không thể không dùng để công cụ quản lí source code. Mà phổ biến nhất ngày xưa là SVN, và ngay nay là GIT.
 Khi sử dụng git ở môi trường máy tính cá nhân, bạn hoàn toàn có thể sử dụng các phần mềm giao diện đồ hoạ như SourceTree, Github Desktop,&amp;hellip; hoặc đơn giản nhất cũng là Git GUI.</description>
     </item>
