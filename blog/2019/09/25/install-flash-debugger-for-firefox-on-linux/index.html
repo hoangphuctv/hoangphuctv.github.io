@@ -112,11 +112,12 @@
 
 <ul>
 <li>Giải nén ra thư mục <code>~/Download/flash_player_npapi_linux_debug.x86_64</code> (bước này cứ nhắp phải file vừa tải về. rồi chọn <code>Extract here...</code>)</li>
-<li>Move to <code>/usr/lib</code>:</li>
-</ul>
+
+<li><p>Move to <code>/usr/lib</code>:</p>
 
 <pre><code class="language-bash">$ sudo mv  ~/Download/flash_player_npapi_linux_debug.x86_64 /usr/lib/
-</code></pre>
+</code></pre></li>
+</ul>
 
 <h3 id="2-remove-old-version-or-non-debugger-flash">2./ Remove old version or non-debugger flash</h3>
 
@@ -125,7 +126,7 @@
 
 <h3 id="3-link-to-plugin">3./ Link to plugin</h3>
 
-<pre><code class="language-bash">$ sudo ln - s /usr/lib/flash_player_npapi_linux_debug.x86_64/libflashplayer.so /usr/lib/mozilla/plugins/flashplugin-alternative.so
+<pre><code class="language-bash">$ sudo ln -s /usr/lib/flash_player_npapi_linux_debug.x86_64/libflashplayer.so /usr/lib/mozilla/plugins/flashplugin-alternative.so
 </code></pre>
 
 <h2 id="4-restart-firefox">4./ Restart firefox</h2>

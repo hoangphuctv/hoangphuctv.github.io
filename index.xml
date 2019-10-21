@@ -281,10 +281,10 @@ $ sudo apt install apache2 -y  Mở trình duyệt vào trang chủ http://local
     
     <item>
       <title>Build extension cho php bất kì trên Linux/MacOS</title>
-      <link>https://hoangphuctv.github.io/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux-macos/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux/macos/</link>
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux-macos/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux/macos/</guid>
       <description>Khi bạn cài php từ source mà không phải cài từ trình quản lí gói như apt hoặc yum, brew,&amp;hellip; thì khi bạn cần cài thêm 1 extension mới cho php thì ngoài cách bạn thường hay làm (trên windows) là bạn lên mạng; tải file đã build sẵn có định dạng là *.so đối với linux, Mac.
 Trước tiên, bạn phải biết đường dẫn tới thư mục bin của php.</description>
     </item>
@@ -323,10 +323,10 @@ Ta ghép kết quả và số dư lại, kết quả đứng trước và số d
     
     <item>
       <title>Centos update VMWare không còn mount được /mnt/hgfs (thư mục share)</title>
-      <link>https://hoangphuctv.github.io/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-mnt-hgfs-th%C6%B0-m%E1%BB%A5c-share/</link>
+      <link>https://hoangphuctv.github.io/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-/mnt/hgfs-th%C6%B0-m%E1%BB%A5c-share/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-mnt-hgfs-th%C6%B0-m%E1%BB%A5c-share/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-/mnt/hgfs-th%C6%B0-m%E1%BB%A5c-share/</guid>
       <description>Fix trường hợp update centos không còn mount được ổ&amp;nbsp;/mnt/hgfs
 neu chua co cai git
 $yum install git-core
@@ -506,17 +506,6 @@ Xong !</description>
     </item>
     
     <item>
-      <title>Cài đặt Ibus Unikey cho Ubuntu Linux</title>
-      <link>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</guid>
-      <description>Để gõ được tiếng Việt trong Ubuntu cần cài Ibus unikey hoặc&amp;nbsp;xcim. Mở terminal gõ:
-$sudo apt-get install ibus-unikeyVà cuối cùng là: vào System/Preferences/Input Method Switcher. Nếu không thấy mục Input Method Switcher. Bạn có thể vào terminal gõ trực tiếp lệnh:
-$im-switchLog out, Log in lại. Bây giờ bạn đã có thể gõ được tiếng Việt bằng cách ấn phím Ctrl + Space để chuyển đổi kiểu gõ Tiếng Anh &amp;lt;-&amp;gt; Tiếng Việt!</description>
-    </item>
-    
-    <item>
       <title>Cài đặt flash player cho Ubuntu Linux</title>
       <link>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-flash-player-cho-ubuntu-linux/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
@@ -527,6 +516,17 @@ sudo apt-get install flashplugin-installer
 Cài thêm các thành phần bổ trợ đa phương tiện để play được các video:
 sudo apt-get install ubuntu-restricted-extras
 Xong !</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt Ibus Unikey cho Ubuntu Linux</title>
+      <link>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</guid>
+      <description>Để gõ được tiếng Việt trong Ubuntu cần cài Ibus unikey hoặc&amp;nbsp;xcim. Mở terminal gõ:
+$sudo apt-get install ibus-unikeyVà cuối cùng là: vào System/Preferences/Input Method Switcher. Nếu không thấy mục Input Method Switcher. Bạn có thể vào terminal gõ trực tiếp lệnh:
+$im-switchLog out, Log in lại. Bây giờ bạn đã có thể gõ được tiếng Việt bằng cách ấn phím Ctrl + Space để chuyển đổi kiểu gõ Tiếng Anh &amp;lt;-&amp;gt; Tiếng Việt!</description>
     </item>
     
     <item>
@@ -639,10 +639,10 @@ Như bạn đã biết trên Windows muốn tạo file iso thì chúng ta chỉ 
     
     <item>
       <title>Code C/C&#43;&#43; Tam giác Pascal</title>
-      <link>https://hoangphuctv.github.io/blog/2011/06/23/code-c-c-tam-gi%C3%A1c-pascal/</link>
+      <link>https://hoangphuctv.github.io/blog/2011/06/23/code-c/c-tam-gi%C3%A1c-pascal/</link>
       <pubDate>Thu, 23 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/blog/2011/06/23/code-c-c-tam-gi%C3%A1c-pascal/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2011/06/23/code-c/c-tam-gi%C3%A1c-pascal/</guid>
       <description>Đây là bài code Tam giác Pascal kinh điển. Mình lấy nguồn từ forum của lớp 08CT Hùng Vương.
 (Có chỉnh sửa đôi chút để chạy được trên Linux ^^!)
 #include &amp;lt;stdio.h&amp;gt; #define N 15 //So luong dong trong tam giac pascal void main() { int i, j, tgpascal[N], tmp[N]; tgpascal[0] = 1; for (i = 1; i &amp;lt; N; i++) tgpascal[i] = 0; for (i = 0; i &amp;lt; N; i++) { for (j = 0; j &amp;lt;= i; j++) tmp[j] = tgpascal[j]; printf(&amp;quot;n%5d&amp;quot;, tmp[0]); for (j = 1; j &amp;lt;= i; j++) { tmp[j] += tgpascal[j - 1]; printf(&amp;quot;%5d&amp;quot;, tmp[j]); } for (j = 0; j &amp;lt;= i; j++) tgpascal[j] = tmp[j]; } printf(&amp;quot;n&amp;quot;); }  </description>
@@ -726,6 +726,18 @@ vậy là, ID group nằm ở phần thứ 3 của dòng. ở đây là group id
       <description>Vô tình một ngày nào đó, bạn đổi pass ROOT mà nhỡ bị quên!! haizz, khổ nhỉ [:-/] nhưng đừng lo, cái gì cũng có cách [:D]http://i1192.photobucket.com/albums/aa330/net9_thp/n9blog/Linux/lbfedora1.png
 Chỉ cần làm theo hướng dẫn sau, rất đơn giản và nhanh chóng bạn sẽ có lại pass ROOT mà ko phải cài lại HĐH @.@!
 - B1: Trong lúc vừa bật máy tính lên, ấn nhanh phím e, sẽ hiện ra được menu:&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>asm Kiểm tra kí tự vừa nhập vào là chữ thường chữ hoa hay số</title>
+      <link>https://hoangphuctv.github.io/blog/2011/06/06/asm-ki%E1%BB%83m-tra-k%C3%AD-t%E1%BB%B1-v%E1%BB%ABa-nh%E1%BA%ADp-v%C3%A0o-l%C3%A0-ch%E1%BB%AF-th%C6%B0%E1%BB%9Dng-ch%E1%BB%AF-hoa-hay-s%E1%BB%91/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2011/06/06/asm-ki%E1%BB%83m-tra-k%C3%AD-t%E1%BB%B1-v%E1%BB%ABa-nh%E1%BA%ADp-v%C3%A0o-l%C3%A0-ch%E1%BB%AF-th%C6%B0%E1%BB%9Dng-ch%E1%BB%AF-hoa-hay-s%E1%BB%91/</guid>
+      <description>Viết chương trình cho phép nhập một ký tự từ bàn phím (dùng AH = 8h, int 21h). Nếu ký tự vừa nhập thuộc [0..9], [a..z], [A..Z], thì xuất ra màn hình ký tự đó và loại của ký tự đó (số, chữ thường, chữ hoa).
+- Nếu là chữ hoa thì xuất chữ thường và ngược lại.
+Ví du: Nhập vào một ký tự: 5
+Ký tự vừa nhập: 5 là số</description>
     </item>
     
     <item>
@@ -1058,18 +1070,6 @@ kiemtra:&amp;nbsp;
 &amp;nbsp;&amp;nbsp;int&amp;nbsp;21h
 end
 [/code]</description>
-    </item>
-    
-    <item>
-      <title>asm Kiểm tra kí tự vừa nhập vào là chữ thường chữ hoa hay số</title>
-      <link>https://hoangphuctv.github.io/blog/2011/06/06/asm-ki%E1%BB%83m-tra-k%C3%AD-t%E1%BB%B1-v%E1%BB%ABa-nh%E1%BA%ADp-v%C3%A0o-l%C3%A0-ch%E1%BB%AF-th%C6%B0%E1%BB%9Dng-ch%E1%BB%AF-hoa-hay-s%E1%BB%91/</link>
-      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/blog/2011/06/06/asm-ki%E1%BB%83m-tra-k%C3%AD-t%E1%BB%B1-v%E1%BB%ABa-nh%E1%BA%ADp-v%C3%A0o-l%C3%A0-ch%E1%BB%AF-th%C6%B0%E1%BB%9Dng-ch%E1%BB%AF-hoa-hay-s%E1%BB%91/</guid>
-      <description>Viết chương trình cho phép nhập một ký tự từ bàn phím (dùng AH = 8h, int 21h). Nếu ký tự vừa nhập thuộc [0..9], [a..z], [A..Z], thì xuất ra màn hình ký tự đó và loại của ký tự đó (số, chữ thường, chữ hoa).
-- Nếu là chữ hoa thì xuất chữ thường và ngược lại.
-Ví du: Nhập vào một ký tự: 5
-Ký tự vừa nhập: 5 là số</description>
     </item>
     
     <item>

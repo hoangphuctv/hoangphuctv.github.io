@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cài Đặt Amp Cấu Hình on Lập trình</title>
+    <title>Cài đặt &amp;amp; Cấu hình on Lập trình</title>
     <link>https://hoangphuctv.github.io/categories/c%C3%A0i-%C4%91%E1%BA%B7t-amp-c%E1%BA%A5u-h%C3%ACnh/</link>
-    <description>Recent content in Cài Đặt Amp Cấu Hình on Lập trình</description>
+    <description>Recent content in Cài đặt &amp;amp; Cấu hình on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 09 Apr 2019 00:00:00 +0000</lastBuildDate>
@@ -70,10 +70,10 @@ $ sudo apt install apache2 -y  Mở trình duyệt vào trang chủ http://local
     
     <item>
       <title>Centos update VMWare không còn mount được /mnt/hgfs (thư mục share)</title>
-      <link>https://hoangphuctv.github.io/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-mnt-hgfs-th%C6%B0-m%E1%BB%A5c-share/</link>
+      <link>https://hoangphuctv.github.io/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-/mnt/hgfs-th%C6%B0-m%E1%BB%A5c-share/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-mnt-hgfs-th%C6%B0-m%E1%BB%A5c-share/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-/mnt/hgfs-th%C6%B0-m%E1%BB%A5c-share/</guid>
       <description>Fix trường hợp update centos không còn mount được ổ&amp;nbsp;/mnt/hgfs
 neu chua co cai git
 $yum install git-core
@@ -111,17 +111,6 @@ Xong !</description>
     </item>
     
     <item>
-      <title>Cài đặt Ibus Unikey cho Ubuntu Linux</title>
-      <link>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</guid>
-      <description>Để gõ được tiếng Việt trong Ubuntu cần cài Ibus unikey hoặc&amp;nbsp;xcim. Mở terminal gõ:
-$sudo apt-get install ibus-unikeyVà cuối cùng là: vào System/Preferences/Input Method Switcher. Nếu không thấy mục Input Method Switcher. Bạn có thể vào terminal gõ trực tiếp lệnh:
-$im-switchLog out, Log in lại. Bây giờ bạn đã có thể gõ được tiếng Việt bằng cách ấn phím Ctrl + Space để chuyển đổi kiểu gõ Tiếng Anh &amp;lt;-&amp;gt; Tiếng Việt!</description>
-    </item>
-    
-    <item>
       <title>Cài đặt flash player cho Ubuntu Linux</title>
       <link>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-flash-player-cho-ubuntu-linux/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
@@ -132,6 +121,17 @@ sudo apt-get install flashplugin-installer
 Cài thêm các thành phần bổ trợ đa phương tiện để play được các video:
 sudo apt-get install ubuntu-restricted-extras
 Xong !</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt Ibus Unikey cho Ubuntu Linux</title>
+      <link>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</guid>
+      <description>Để gõ được tiếng Việt trong Ubuntu cần cài Ibus unikey hoặc&amp;nbsp;xcim. Mở terminal gõ:
+$sudo apt-get install ibus-unikeyVà cuối cùng là: vào System/Preferences/Input Method Switcher. Nếu không thấy mục Input Method Switcher. Bạn có thể vào terminal gõ trực tiếp lệnh:
+$im-switchLog out, Log in lại. Bây giờ bạn đã có thể gõ được tiếng Việt bằng cách ấn phím Ctrl + Space để chuyển đổi kiểu gõ Tiếng Anh &amp;lt;-&amp;gt; Tiếng Việt!</description>
     </item>
     
     <item>

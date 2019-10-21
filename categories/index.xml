@@ -6,112 +6,13 @@
     <description>Recent content in Categories on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
-    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hoangphuctv.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Alias</title>
-      <link>https://hoangphuctv.github.io/categories/alias/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/alias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Animations</title>
-      <link>https://hoangphuctv.github.io/categories/animations/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/animations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apache2</title>
-      <link>https://hoangphuctv.github.io/categories/apache2/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/apache2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bash</title>
-      <link>https://hoangphuctv.github.io/categories/bash/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/bash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brew</title>
-      <link>https://hoangphuctv.github.io/categories/brew/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/brew/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Budgie</title>
-      <link>https://hoangphuctv.github.io/categories/budgie/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/budgie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cli</title>
-      <link>https://hoangphuctv.github.io/categories/cli/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/cli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Curl</title>
-      <link>https://hoangphuctv.github.io/categories/curl/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/curl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cài Đặt Amp Cấu Hình</title>
-      <link>https://hoangphuctv.github.io/categories/c%C3%A0i-%C4%91%E1%BA%B7t-amp-c%E1%BA%A5u-h%C3%ACnh/</link>
-      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/c%C3%A0i-%C4%91%E1%BA%B7t-amp-c%E1%BA%A5u-h%C3%ACnh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Công Cụ</title>
-      <link>https://hoangphuctv.github.io/categories/c%C3%B4ng-c%E1%BB%A5/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/c%C3%B4ng-c%E1%BB%A5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://hoangphuctv.github.io/categories/docker/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Echo</title>
+      <title>echo</title>
       <link>https://hoangphuctv.github.io/categories/echo/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
@@ -120,74 +21,164 @@
     </item>
     
     <item>
-      <title>Extension</title>
-      <link>https://hoangphuctv.github.io/categories/extension/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Lập trình PHP</title>
+      <link>https://hoangphuctv.github.io/categories/l%E1%BA%ADp-tr%C3%ACnh-php/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/categories/extension/</guid>
+      <guid>https://hoangphuctv.github.io/categories/l%E1%BA%ADp-tr%C3%ACnh-php/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Find</title>
-      <link>https://hoangphuctv.github.io/categories/find/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>php</title>
+      <link>https://hoangphuctv.github.io/categories/php/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/categories/find/</guid>
+      <guid>https://hoangphuctv.github.io/categories/php/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Git</title>
-      <link>https://hoangphuctv.github.io/categories/git/</link>
-      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      <title>print</title>
+      <link>https://hoangphuctv.github.io/categories/print/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/categories/git/</guid>
+      <guid>https://hoangphuctv.github.io/categories/print/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gnome3</title>
-      <link>https://hoangphuctv.github.io/categories/gnome3/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>print_r</title>
+      <link>https://hoangphuctv.github.io/categories/print_r/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/categories/gnome3/</guid>
+      <guid>https://hoangphuctv.github.io/categories/print_r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://hoangphuctv.github.io/categories/go/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <title>var_dump</title>
+      <link>https://hoangphuctv.github.io/categories/var_dump/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/categories/go/</guid>
+      <guid>https://hoangphuctv.github.io/categories/var_dump/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hostname</title>
-      <link>https://hoangphuctv.github.io/categories/hostname/</link>
-      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <title>var_export</title>
+      <link>https://hoangphuctv.github.io/categories/var_export/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/categories/hostname/</guid>
+      <guid>https://hoangphuctv.github.io/categories/var_export/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Install</title>
-      <link>https://hoangphuctv.github.io/categories/install/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>alias</title>
+      <link>https://hoangphuctv.github.io/categories/alias/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/categories/install/</guid>
+      <guid>https://hoangphuctv.github.io/categories/alias/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Json</title>
+      <title>cli</title>
+      <link>https://hoangphuctv.github.io/categories/cli/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Công cụ</title>
+      <link>https://hoangphuctv.github.io/categories/c%C3%B4ng-c%E1%BB%A5/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/c%C3%B4ng-c%E1%BB%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MacOS</title>
+      <link>https://hoangphuctv.github.io/categories/macos/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xcode</title>
+      <link>https://hoangphuctv.github.io/categories/xcode/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/xcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>https://hoangphuctv.github.io/categories/bash/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sublime</title>
+      <link>https://hoangphuctv.github.io/categories/sublime/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/sublime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>svim</title>
+      <link>https://hoangphuctv.github.io/categories/svim/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/svim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://hoangphuctv.github.io/categories/vim/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>json</title>
       <link>https://hoangphuctv.github.io/categories/json/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hoangphuctv.github.io/categories/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cài đặt &amp;amp; Cấu hình</title>
+      <link>https://hoangphuctv.github.io/categories/c%C3%A0i-%C4%91%E1%BA%B7t-amp-c%E1%BA%A5u-h%C3%ACnh/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/c%C3%A0i-%C4%91%E1%BA%B7t-amp-c%E1%BA%A5u-h%C3%ACnh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hostname</title>
+      <link>https://hoangphuctv.github.io/categories/hostname/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/hostname/</guid>
       <description></description>
     </item>
     
@@ -201,7 +192,25 @@
     </item>
     
     <item>
-      <title>Lập Trình Go</title>
+      <title>docker</title>
+      <link>https://hoangphuctv.github.io/categories/docker/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://hoangphuctv.github.io/categories/go/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lập trình GO</title>
       <link>https://hoangphuctv.github.io/categories/l%E1%BA%ADp-tr%C3%ACnh-go/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -210,25 +219,7 @@
     </item>
     
     <item>
-      <title>Lập Trình Php</title>
-      <link>https://hoangphuctv.github.io/categories/l%E1%BA%ADp-tr%C3%ACnh-php/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/l%E1%BA%ADp-tr%C3%ACnh-php/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Macos</title>
-      <link>https://hoangphuctv.github.io/categories/macos/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/macos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Memcache</title>
+      <title>memcache</title>
       <link>https://hoangphuctv.github.io/categories/memcache/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -237,70 +228,7 @@
     </item>
     
     <item>
-      <title>Mips</title>
-      <link>https://hoangphuctv.github.io/categories/mips/</link>
-      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/mips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mysql</title>
-      <link>https://hoangphuctv.github.io/categories/mysql/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/mysql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Path</title>
-      <link>https://hoangphuctv.github.io/categories/path/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/path/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phalcon</title>
-      <link>https://hoangphuctv.github.io/categories/phalcon/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/phalcon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Php</title>
-      <link>https://hoangphuctv.github.io/categories/php/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/php/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Print</title>
-      <link>https://hoangphuctv.github.io/categories/print/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/print/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Print_r</title>
-      <link>https://hoangphuctv.github.io/categories/print_r/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/print_r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Redis</title>
+      <title>redis</title>
       <link>https://hoangphuctv.github.io/categories/redis/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -309,7 +237,88 @@
     </item>
     
     <item>
-      <title>Subl</title>
+      <title>animations</title>
+      <link>https://hoangphuctv.github.io/categories/animations/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/animations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brew</title>
+      <link>https://hoangphuctv.github.io/categories/brew/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/brew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>budgie</title>
+      <link>https://hoangphuctv.github.io/categories/budgie/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/budgie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>extension</title>
+      <link>https://hoangphuctv.github.io/categories/extension/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/extension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>find</title>
+      <link>https://hoangphuctv.github.io/categories/find/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/find/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gnome3</title>
+      <link>https://hoangphuctv.github.io/categories/gnome3/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/gnome3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>install</title>
+      <link>https://hoangphuctv.github.io/categories/install/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PATH</title>
+      <link>https://hoangphuctv.github.io/categories/path/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phalcon</title>
+      <link>https://hoangphuctv.github.io/categories/phalcon/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/phalcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subl</title>
       <link>https://hoangphuctv.github.io/categories/subl/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -318,34 +327,7 @@
     </item>
     
     <item>
-      <title>Sublime</title>
-      <link>https://hoangphuctv.github.io/categories/sublime/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/sublime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sudo</title>
-      <link>https://hoangphuctv.github.io/categories/sudo/</link>
-      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/sudo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Svim</title>
-      <link>https://hoangphuctv.github.io/categories/svim/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/svim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tee</title>
+      <title>tee</title>
       <link>https://hoangphuctv.github.io/categories/tee/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -354,7 +336,7 @@
     </item>
     
     <item>
-      <title>Touch</title>
+      <title>touch</title>
       <link>https://hoangphuctv.github.io/categories/touch/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -372,47 +354,65 @@
     </item>
     
     <item>
-      <title>Var_dump</title>
-      <link>https://hoangphuctv.github.io/categories/var_dump/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <title>git</title>
+      <link>https://hoangphuctv.github.io/categories/git/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/categories/var_dump/</guid>
+      <guid>https://hoangphuctv.github.io/categories/git/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Var_export</title>
-      <link>https://hoangphuctv.github.io/categories/var_export/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <title>sudo</title>
+      <link>https://hoangphuctv.github.io/categories/sudo/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/categories/var_export/</guid>
+      <guid>https://hoangphuctv.github.io/categories/sudo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Vim</title>
-      <link>https://hoangphuctv.github.io/categories/vim/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <title>apache2</title>
+      <link>https://hoangphuctv.github.io/categories/apache2/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/categories/vim/</guid>
+      <guid>https://hoangphuctv.github.io/categories/apache2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>X86</title>
+      <title>mysql</title>
+      <link>https://hoangphuctv.github.io/categories/mysql/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curl</title>
+      <link>https://hoangphuctv.github.io/categories/curl/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/curl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIPS</title>
+      <link>https://hoangphuctv.github.io/categories/mips/</link>
+      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/categories/mips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>x86</title>
       <link>https://hoangphuctv.github.io/categories/x86/</link>
       <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>https://hoangphuctv.github.io/categories/x86/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xcode</title>
-      <link>https://hoangphuctv.github.io/categories/xcode/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hoangphuctv.github.io/categories/xcode/</guid>
       <description></description>
     </item>
     

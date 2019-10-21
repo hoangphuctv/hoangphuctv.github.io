@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
-	<meta name="generator" content="Hugo 0.52" />
+	<meta name="generator" content="Hugo 0.57.2" />
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
@@ -84,6 +84,32 @@
 <div class="content container">
   <div class="posts">
     
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="https://hoangphuctv.github.io/blog/2011/06/06/li%E1%BB%87t-k%C3%AA-c%C3%A1c-user-trong-m%C3%A1y-shell-linux/">Liệt kê các user trong máy  - shell linux</a>
+      </h1>
+      <span class="post-date">Jun 6, 2011 &middot; 1 minute read
+      
+      <br/>
+      <a class="label" href="https://hoangphuctv.github.io/categories/linux">Linux</a>
+      </span>
+      
+      [code]
+#!/bin/bash
+#filename=$1
+i=0
+fname=&ldquo;/etc/passwd&rdquo;
+while&nbsp;read&nbsp;line
+do
+&nbsp;&nbsp;let&nbsp;&ldquo;i++&rdquo;
+&nbsp;&nbsp;echo&nbsp;&rdquo;$i.&nbsp;&amp;nbsp;echo&amp;nbsp;&amp;nbsp;&quot;$line&quot;&amp;nbsp;'&amp;nbsp;cut&amp;nbsp;-d:&amp;nbsp;-f1&rdquo;
+&nbsp;&nbsp;#echo&nbsp;&rdquo;$i&nbsp;$line&rdquo;
+&nbsp;&nbsp;#array[$i]=$line
+done&nbsp;&lt;$fname echo&nbsp;&rdquo;(*)&nbsp;Tong&nbsp;cong&nbsp;co&nbsp;$i&nbsp;user.&rdquo; exit&nbsp;0 [/code]
+      
+      
+    </div>
     
     <div class="post">
       <h1 class="post-title">
@@ -353,24 +379,6 @@ end
     
     <div class="post">
       <h1 class="post-title">
-        <a href="https://hoangphuctv.github.io/blog/2011/06/06/asm-ki%E1%BB%83m-tra-k%C3%AD-t%E1%BB%B1-v%E1%BB%ABa-nh%E1%BA%ADp-v%C3%A0o-l%C3%A0-ch%E1%BB%AF-th%C6%B0%E1%BB%9Dng-ch%E1%BB%AF-hoa-hay-s%E1%BB%91/">asm Kiểm tra kí tự vừa nhập vào là chữ thường chữ hoa hay số</a>
-      </h1>
-      <span class="post-date">Jun 6, 2011 &middot; 2 minute read
-      
-      <br/>
-      <a class="label" href="https://hoangphuctv.github.io/categories/x86">x86</a>
-      </span>
-      
-      Viết chương trình cho phép nhập một ký tự từ bàn phím (dùng AH = 8h, int 21h). Nếu ký tự vừa nhập thuộc [0..9], [a..z], [A..Z], thì xuất ra màn hình ký tự đó và loại của ký tự đó (số, chữ thường, chữ hoa).
-- Nếu là chữ hoa thì xuất chữ thường và ngược lại.
-Ví du: Nhập vào một ký tự: 5
-Ký tự vừa nhập: 5 là số
-      <a href="https://hoangphuctv.github.io/blog/2011/06/06/asm-ki%E1%BB%83m-tra-k%C3%AD-t%E1%BB%B1-v%E1%BB%ABa-nh%E1%BA%ADp-v%C3%A0o-l%C3%A0-ch%E1%BB%AF-th%C6%B0%E1%BB%9Dng-ch%E1%BB%AF-hoa-hay-s%E1%BB%91/">Read On &rarr;</a>
-      
-    </div>
-    
-    <div class="post">
-      <h1 class="post-title">
         <a href="https://hoangphuctv.github.io/blog/2011/06/05/b%C3%A0i-t%E1%BA%ADp-1-mips/">Bài tập 1 MIPS</a>
       </h1>
       <span class="post-date">Jun 5, 2011 &middot; 1 minute read
@@ -430,6 +438,7 @@ addi $s0, $a0, 0
     <li class="page-item">
     <a href="/page/7/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
     </li>
+    
     
     
     
@@ -536,6 +545,7 @@ addi $s0, $a0, 0
     </li>
     
 </ul>
+
 
   </div>
 </div>

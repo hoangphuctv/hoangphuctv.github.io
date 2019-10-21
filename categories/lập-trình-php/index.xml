@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lập Trình Php on Lập trình</title>
+    <title>Lập trình PHP on Lập trình</title>
     <link>https://hoangphuctv.github.io/categories/l%E1%BA%ADp-tr%C3%ACnh-php/</link>
-    <description>Recent content in Lập Trình Php on Lập trình</description>
+    <description>Recent content in Lập trình PHP on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
@@ -45,10 +45,10 @@ $ cat data.json {&amp;quot;dt&amp;quot;:1485799200,&amp;quot;main&amp;quot;:{&am
     
     <item>
       <title>Build extension cho php bất kì trên Linux/MacOS</title>
-      <link>https://hoangphuctv.github.io/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux-macos/</link>
+      <link>https://hoangphuctv.github.io/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux/macos/</link>
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoangphuctv.github.io/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux-macos/</guid>
+      <guid>https://hoangphuctv.github.io/blog/2019/03/31/build-extension-cho-php-b%E1%BA%A5t-k%C3%AC-tr%C3%AAn-linux/macos/</guid>
       <description>Khi bạn cài php từ source mà không phải cài từ trình quản lí gói như apt hoặc yum, brew,&amp;hellip; thì khi bạn cần cài thêm 1 extension mới cho php thì ngoài cách bạn thường hay làm (trên windows) là bạn lên mạng; tải file đã build sẵn có định dạng là *.so đối với linux, Mac.
 Trước tiên, bạn phải biết đường dẫn tới thư mục bin của php.</description>
     </item>

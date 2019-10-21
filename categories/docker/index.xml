@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docker on Lập trình</title>
+    <title>docker on Lập trình</title>
     <link>https://hoangphuctv.github.io/categories/docker/</link>
-    <description>Recent content in Docker on Lập trình</description>
+    <description>Recent content in docker on Lập trình</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
     <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
