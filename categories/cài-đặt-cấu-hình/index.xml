@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cài đặt - Cấu hình on Lập trình</title>
+    <link>https://hoangphuctv.github.io/categories/c%C3%A0i-%C4%91%E1%BA%B7t-c%E1%BA%A5u-h%C3%ACnh/</link>
+    <description>Recent content in Cài đặt - Cấu hình on Lập trình</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Tue, 09 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hoangphuctv.github.io/categories/c%C3%A0i-%C4%91%E1%BA%B7t-c%E1%BA%A5u-h%C3%ACnh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Đổi hostname cho Linux</title>
+      <link>https://hoangphuctv.github.io/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2019/04/09/%C4%91%E1%BB%95i-hostname-cho-linux/</guid>
+      <description>Hostname là tên, dùng để đặt cho máy tính. Giúp cho người quản trị ghi nhớ dễ dàng, và phân biệt các máy mới với nhau. Để xem hostname hiện tại bạn nhìn trên terminal các bạn sẽ thấy hostname tại vị trí dấu nhắc lệnh:
+root@myserver #  Nếu không thấy hostname tại vị trí dấu nhắc lệnh, bạn có thể gõ lệnh sau để xem hostname:
+$ hostname myserver  Muốn thay đổi&amp;nbsp;myserver này các bạn chỉ cần chỉnh sửa file&amp;nbsp;&amp;nbsp;/etc/hostname Để xem nội dung hiện tại bạn gõ lệnh:</description>
+    </item>
+    
+    <item>
+      <title>Ứng dụng nhanh docker trong công việc hằng ngày</title>
+      <link>https://hoangphuctv.github.io/blog/2019/04/08/%E1%BB%A9ng-d%E1%BB%A5ng-nhanh-docker-trong-c%C3%B4ng-vi%E1%BB%87c-h%E1%BA%B1ng-ng%C3%A0y/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2019/04/08/%E1%BB%A9ng-d%E1%BB%A5ng-nhanh-docker-trong-c%C3%B4ng-vi%E1%BB%87c-h%E1%BA%B1ng-ng%C3%A0y/</guid>
+      <description>Tình huống là: Khi cần sử dụng nhanh 1 service nào đó mà không muốn tốn thời gian cài đặt cấu hình. Xài docker chỉ vài lệnh là có thể sử dụng được service mình cần ngay lập tức: Ví dụ memcache. Không cần tải service memcache về cài đặt chỉ cần gõ lệnh:
+docker run --name my-memcache -p 11211:11211 -d memcached Những lần sau cần xài memcache gõ lệnh:</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt phalcon extension cho php</title>
+      <link>https://hoangphuctv.github.io/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2019/04/07/c%C3%A0i-%C4%91%E1%BA%B7t-phalcon-extension-cho-php/</guid>
+      <description>Hướng dẫn cài đặt phalcon extension cho php
+Môi trường:  Ubuntu 18.04 PHP 7.2  Cài đặt Cài thư viện:
+apt install gcc libpcre3-dev php-dev Clone source: ta lưu source tại /usr/local/src/
+cd /usr/local/src/ git clone --depth=1 &#34;git://github.com/phalcon/cphalcon.git&#34; sudo ./install Chờ một chút lệnh sẽ chạy thành công. Để lưu đúng cấu trúc của ext php ta tạo mới file cấu hình ini tại: /etc/php/7.2/mods-available/phalcon.ini
+Nội dung file:</description>
+    </item>
+    
+    <item>
+      <title>Cài extension PHP còn thiếu trên Linux</title>
+      <link>https://hoangphuctv.github.io/blog/2019/04/01/c%C3%A0i-extension-php-c%C3%B2n-thi%E1%BA%BFu-tr%C3%AAn-linux/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2019/04/01/c%C3%A0i-extension-php-c%C3%B2n-thi%E1%BA%BFu-tr%C3%AAn-linux/</guid>
+      <description>Khi làm việc với php bạn thường hay gặp các lỗi Undefined function, hoặc class thường là do thiếu các extension gây ra. Ví dụ như &amp;ldquo;undefined function curl_init()&amp;rdquo; là do thiếu extension curl.
+Cài thông qua trình quản lí gói Nếu bạn cài đặt php thông qua trình quản lí gói như apt, bạn chỉ cần cài thêm extension qua lệnh:
+$ apt install php-curl  Cài thông qua tool pecl Còn nếu như bạn cài thông qua build source, thì bạn có thể cd vào thư mục bin của php ví dụ: /etc/php/5.</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt môi trường lập trình PHP trên Ubuntu Linux</title>
+      <link>https://hoangphuctv.github.io/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2019/04/01/c%C3%A0i-%C4%91%E1%BA%B7t-m%C3%B4i-tr%C6%B0%E1%BB%9Dng-l%E1%BA%ADp-tr%C3%ACnh-php-tr%C3%AAn-ubuntu-linux/</guid>
+      <description>Để lập trình PHP trên HĐH Ubuntu, chúng ta cần cài đặt cơ bản các gói sau:
+ Web server: Apache2 DB: MySQL PHP và các extension Cài đặt text editor  Cài đặt Apache2 Trước tiên, update repo:
+$ sudo apt update  Tiến hành cài apache2
+$ sudo apt install apache2 -y  Mở trình duyệt vào trang chủ http://localhost. Nếu thấy trang** apache2 default page **là cài đặt thành công.</description>
+    </item>
+    
+    <item>
+      <title>Centos update VMWare không còn mount được /mnt/hgfs (thư mục share)</title>
+      <link>https://hoangphuctv.github.io/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-/mnt/hgfs-th%C6%B0-m%E1%BB%A5c-share/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2017/03/29/centos-update-vmware-kh%C3%B4ng-c%C3%B2n-mount-%C4%91%C6%B0%E1%BB%A3c-/mnt/hgfs-th%C6%B0-m%E1%BB%A5c-share/</guid>
+      <description>Fix trường hợp update centos không còn mount được ổ&amp;nbsp;/mnt/hgfs
+neu chua co cai git
+$yum install git-core
+$ git clone https://github.com/rasa/vmware-tools-patches.git
+$ cd vmware-tools-patches
+$ ./patched-open-vm-tools.sh
+$ /usr/bin/vmware-user
+xem ket qua
+$ ls /mnt/hgfs/&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt Google Chrome cho Ubuntu</title>
+      <link>https://hoangphuctv.github.io/blog/2013/07/02/c%C3%A0i-%C4%91%E1%BA%B7t-google-chrome-cho-ubuntu/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2013/07/02/c%C3%A0i-%C4%91%E1%BA%B7t-google-chrome-cho-ubuntu/</guid>
+      <description>Vào&amp;nbsp;https://www.google.com/chrome để tải file deb. Mặc định file tải về lưu trong ~/Download. Mở terminal. Gõ lệnh:
+cd ~/Download sudo dpkg -i google-chrome*.deb
+Có dấu * là vì tùy các vào phiên bản Ubuntu đang sử dụng, bản 32 bit hoặc 64 bit, nên cứ để * cho gọn ! Sau khi gõ xong lệnh thứ hai, nó chạy chút sẽ báo lỗi, gõ thêm lệnh sudo apt-get install -f sẽ cài đặt hoàn tất.</description>
+    </item>
+    
+    <item>
+      <title>Cài chương trình nghe nhạc VLC cho Ubuntu Linux</title>
+      <link>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-ch%C6%B0%C6%A1ng-tr%C3%ACnh-nghe-nh%E1%BA%A1c-vlc-cho-ubuntu-linux/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-ch%C6%B0%C6%A1ng-tr%C3%ACnh-nghe-nh%E1%BA%A1c-vlc-cho-ubuntu-linux/</guid>
+      <description>Để cài vlc vào terminal gõ lệnh:
+sudo apt-get install vlc
+Nhập mật khẩu khi có yêu cầu.
+Nhập y khi được hỏi xác nhận có muốn cài không.
+Chờ&amp;hellip;
+Xong !</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt flash player cho Ubuntu Linux</title>
+      <link>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-flash-player-cho-ubuntu-linux/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-flash-player-cho-ubuntu-linux/</guid>
+      <description>Mở terminal
+sudo apt-get install flashplugin-installer
+Cài thêm các thành phần bổ trợ đa phương tiện để play được các video:
+sudo apt-get install ubuntu-restricted-extras
+Xong !</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt Ibus Unikey cho Ubuntu Linux</title>
+      <link>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2013/07/01/c%C3%A0i-%C4%91%E1%BA%B7t-ibus-unikey-cho-ubuntu-linux/</guid>
+      <description>Để gõ được tiếng Việt trong Ubuntu cần cài Ibus unikey hoặc&amp;nbsp;xcim. Mở terminal gõ:
+$sudo apt-get install ibus-unikeyVà cuối cùng là: vào System/Preferences/Input Method Switcher. Nếu không thấy mục Input Method Switcher. Bạn có thể vào terminal gõ trực tiếp lệnh:
+$im-switchLog out, Log in lại. Bây giờ bạn đã có thể gõ được tiếng Việt bằng cách ấn phím Ctrl + Space để chuyển đổi kiểu gõ Tiếng Anh &amp;lt;-&amp;gt; Tiếng Việt!</description>
+    </item>
+    
+    <item>
+      <title>Chuyển Bookmark từ Chrome sang Firefox</title>
+      <link>https://hoangphuctv.github.io/blog/2011/06/25/chuy%E1%BB%83n-bookmark-t%E1%BB%AB-chrome-sang-firefox/</link>
+      <pubDate>Sat, 25 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoangphuctv.github.io/blog/2011/06/25/chuy%E1%BB%83n-bookmark-t%E1%BB%AB-chrome-sang-firefox/</guid>
+      <description>Các bạn đang sử dụng song song hai trình duyệt Chrome và Firefox? Đôi việc sử dụng song song hai trình duyệt này hoặc muốn chuyển từ Chrome sang dùng Firefox cũng làm cho bạn cảm thấy khó khăn vì khi đánh dấu các trang ưa thích trong Chrome thì khi sang Firefox lại phải đánh dấu các trang lại từ đầu [:&amp;lsquo;]. Hôm nay, mình sẽ hướng dẫn các bạn chuyển các mục đánh dấu từ Chrome sang Firefox bằng video.</description>
+    </item>
+    
+  </channel>
+</rss>
