@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Bắt đầu | LẬP TRÌNH</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yegor256/tacit@gh-pages/tacit-css.min.css"/>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', '');
+	</script>
+
+</head>
+	<body>
+		<div class="container">
+	<h2><a class="navbar-brand mr-auto mr-lg-0" href="/">LẬP TRÌNH</a></h2>
+
+	<script>
+	  function search_submit(){
+		  var q = document.body.querySelector('#text-q');
+		  console.log(q )
+		  q.value = q.value + " site:" + location.hostname;
+		  return true;
+	  };
+	</script>
+	<form class="form-inline my-2 my-lg-0" id="frmsearch" action="https://google.com/search" onsubmit="search_submit(this)">
+		<input class="form-control mr-sm-2" name="q" id="text-q" type="text" placeholder="Search on google" aria-label="Search">
+	    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+	  </form>
+
+	<p class="separator"></p>
+</div>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css">
+		<div class="container">
+			<div class="markdown-body">
+				<h1 class="page-title">Bắt đầu</h1>
+				<p>Lập trình máy tính là một nghệ thuật, thủ công và khoa học của việc viết chương trình xác định cách máy tính hoạt động. Quyển sách này hướng dẫn bạn cách viết chương trình sử dụng một ngôn ngữ lập trình được thiết kế bởi Google tên là Go.</p>
+<p>Go là một ngôn ngữ lập trình đa mục đích với nhiều tính năng và cấu trúc rõ ràng. Bởi vì nó có trên nhiều nên tảng, tài liệu cho các thư viện được viết đầy đủ và nó tập trung vào các nguyên tắc phát triển phần mềm. Go là một ngôn ngữ lý tưởng cho ngôn ngữ lập trình đầu tiên của bạn.</p>
+<p>Quá trình mà chúng tôi sử dụng để viết phần mềm bằng Go (cũng như hầu hết các ngôn ngữ khác) khá đơn giản như sau:</p>
+<ul>
+<li>Thu tập yêu cầu</li>
+<li>Tìm giải pháp</li>
+<li>Viết code để triển khai giải pháp</li>
+<li>Compile source code thành file thực thi</li>
+<li>Chạy và test chương trình để chắc chắn rằng nó hoạt động đúng.</li>
+</ul>
+<p>Quy trình này cứ lặp đi lặp lại (có nghĩa là nó được thực hiện nhiều lần) và các bước thường chồng chéo nhau. Nhưng trước khi chúng ta viết chương trình đầu tiên bằng Go chúng ta cần nắm được vài điều kiện tiên quyết như sau.</p>
+<h2>File và folders</h2>
+<p>File là một tập hợp các dữ liệu được lưu trữ như một đơn vị dưới một cái tên. Các HĐH hiện đại (như Windows hay MacOS) chứa hàng triệu file chứa nhiều loại thông tin khác nhau - mọi thứ từ tài liệu văn bản đến file chương trình thực thi đến các file đa phương tiện.</p>
+<p>Tất cả các file được lưu với cách thức tương tự nhau trên một máy tính:  tất cả đều một cái tên, một dung lượng xác định (được đo bằng bytes) và với một kiểu định dạng. Thường thì định dạng file được quy định bởi file extension - đó là một phần của tên file phía sau dấu <code>.</code>. Ví dụ như một file với cái tên <code>hello.txt</code> thì có phần mở rộng là <code>txt</code> được sử dụng để đại diện cho dữ liệu văn bản.</p>
+<p>Folder (hay còn được gọi là directory) được sử dụng để nhóm nhiều files lại với nhau. Chúng có thể chứa được folder khách. Trên Windows đường dẫn (path)  file và folder (hay còn gọi là location) được biểu diễn bằng dấu <code>\</code> (backslash), ví dụ: <code>C:\Users\john\example.txt</code>. <code>example.txt</code> là tên file, nó được chứa trong thư mục <code>john</code>, thư mục <code>john</code> lại được chứa trong thư mục <code>Users</code>, Thư mục <code>Users</code> lại được chứa trong ổ đĩa <code>C</code> (là biểu diễn cho ổ đĩa vật lý chính trên Windows). Trên OSX (và hầu hết các HĐH khác) đường dẫn file và folder được biểu diễn bằng dấu <code>/</code> (forward slash). Ví dụ: <code>/Users/john/example.txt</code>. Giống như trên Windows <code>example.txt</code> là tên file, nó được chứa trong thư mục <code>john</code>, và thư mục <code>john</code> lại được chứa trong thư mục <code>Users</code>. Không giống như trên Windows, OSX không có chỉ rõ tên ổ đĩa mà file được lưu.</p>
+<h3>Windows</h3>
+<p>Trên Windows file và folder được duyệt bằng phần mêm Windows Explorer (truy cập được bằng cách bấm đúp vào &quot;My Computer&quot; hoặc gõ win+e).</p>
+<p><img src="http://www.golang-book.com/public/img/intro/10000201000004B0000003B4415431D2.370046167.png" alt="img" /></p>
+<h3>OSX</h3>
+<p>Trên OSX file và folder có thể sử dụng Finder (truy cập bằng cách bấm vào Finder icon - icon gương mặt trên thanh bên dưới màn hình).</p>
+<p><img src="http://www.golang-book.com/public/img/intro/10000201000004B0000002A351BA6C59.3165535652.png" alt="img" /></p>
+<h3>Terminal</h3>
+<p>Ngày nay, hầu hết mọi tương tác với máy tính đều thông qua giao diện trực quan (GUIs). Chúng ta sử dụng bàn phím, chuột và màn hình chạm để tương tác với các nút hoặc các loại điều khiển khác nhau hiển thị trên màn hình.</p>
+<p>Nhưng không phải lúc nào cũng theo cách đó. Trước khi GUI xuất hiện, chúng ta tương tác với máy tính thông qua terminal - là một giao diện văn bản đơn giản hơn để tương tác với máy tính. Thay vì tương tác với máy tính qua các nút trên màn hình thì chúng ta ra gõ các lệnh và nhận được phản hồi. Chúng ta đối thoại với máy tính.</p>
+<p>Mặc dù cso vẻ như thế giới máy tính đã xem terminal như là di tích của khứ, nhưng thực tế thì đối với việc lập trình máy tính, terminal vẫn là giao diện người dùng cơ bản được sử dụng ở hầu hết các ngôn ngữ. Go vẫn không ngoại lệ, và vì thế chúng ta viết một chương trình Go chúng ta cần một sự hiểu viết cơ bản nhất về cách mà terminal hoạt động.</p>
+<h4>Windows</h4>
+<p>Trên HĐH Windows termnial (còn được gọi là command line) có thể được mở bằng cách bấm <code>window</code> + <code>r</code> (giữ nút <code>window</code> sau đó ấn nút <code>r</code>), gõ <code>cmd.exe</code> và bấm <code>enter</code>. Bạn sẽ nhìn thấy một cửa sổ đen xuất hiện trông như bên dưới:</p>
+<p><img src="http://www.golang-book.com/public/img/intro/10000201000004B0000002474EAE2B1A.2526087635.png" alt="img" /></p>
+<p>Mặc định command line bắt đầu ở thư mục home. (Trường hợp của tôi là <code>C:\Users\caleb</code>) Bạn ra lệnh bằng các gõ chúng và bấm enter. Thử gõ lệnh <code>dir</code>, đây là lệnh sẽ hiển thị nội dung của thư mục. Bạn có thể sẽ thấy kết quả như bên dưới:</p>
+<pre><code>C:\Users\caleb&gt;dir
+Volume in drive C has no label.
+Volume Serial Number is B2F5-F125</code></pre>
+<p>Theo sau một danh sách các file và thư mục được chứa trong thư mục home của bạn. Bạn có thể thay đổi thư mục bằng lệnh <code>cd</code>. Ví dụ như bạn có thư mục là <code>Desktop</code>. Bạn có thể thấy nội dung của nó bằng cách gõ lệnh <code>cd Desktop</code> và rồi gõ lệnh <code>dir</code>. Để quay trở lại thư mục home của bạn, bạn có thể dùng một thư mục đặc biệt tên là <code>..</code> (2 dấu chấm cạnh nhau): <code>cd ..</code>. Một dấu chấm đại diện cho thư mục hiện tại (được gọi là working folder), vì thế <code>cd .</code> không làm gì cả. Có nhiều lệnh bạn có thể sử dụng, nhưng bao nhiêu đây là đủ để bắt đầu rồi.</p>
+<h4>OSX</h4>
+<p>Ở HĐH OSX mở terminal bằng cách vào Finder -&gt; Applications -&gt; Utilities -&gt; Terminal. Bạn sẽ thấy terminal như sau:</p>
+<p><img src="http://www.golang-book.com/public/img/intro/10000201000004B0000002F094337FAB.1861288316.png" alt="img" /></p>
+<p>Mặc định termnial bắt đầu tại thư mục home của bạn. (Trường hợp của tôi là <code>/Users/caleb</code>) Bạn ra lệnh bằng cách gõ chúng và gõ enter. Thử gõ lệnh <code>ls</code>, nó sẽ hiện ra nội dung của thư mục. Bạn sẽ thấy nội dung tương tự như sau:</p>
+<pre><code>caleb-min:~ caleb$ ls
+Desktop      Downloads      Movies     Pictures
+Documents    Library        Music      Public</code></pre>
+<p>Đây là các file và folder nằm trong thư mục home (trường hợp của tôi không có file nào). Bạn có thể thay đổi thư mục bằng cách dùng lệnh <code>cd</code>. Ví dụ bạn có thư mục <code>Desktop</code>. Bạn có thể thấy nội dung của nó bằng cách gõ lệnh <code>cd Desktop</code> và rồi gõ lệnh <code>ls</code>. Để quay về thư  mục home của bạn bạn có thể sử dụng một thư mục đặc biệt tên <code>..</code> (2 dấu cách cạnh nhau): <code>cd ..</code>. Một kí tự đại diện cho thư mục hiện tại (được gọi là working folder). vì thế <code>cd .</code> không làm gì cả. Có nhiều lệnh bạn có thể sử dụng, nhưng bao nhiêu đây là đủ để bắt đầu rồi.</p>
+<h3>Text Editors</h3>
+<p>Công cụ chính của một lập trình viên đó chính là text editor. Text editor tương tự như trình xử lí văn bản (Microsoft Word, Open Office,...) nhưng không giống ở chỗ chúng không có các định dạng văn bản (không in đậm, hay nghiêng,...) thay vào đó chúng xử lí văn bản plain text (văn bản thuần túy). Cả OSX và Windows đều có text editor kèm theo, nhưng chúng bị giới hạn các chức năng, vì vậy tôi gợi ý nên cài 1 cái khác ngon hơn.</p>
+<p>Để dễ dàng hơn cho việc cài đặt tại trang chủ của quyển sách <a href="http://www.golang-book.com/">http://www.golang-book.com/</a> có một trình cài đặt, giúp bạn cài đặt cả bộ Go tool và cài đặt biến môi trường, editor đầy đủ.</p>
+<h4>Windows</h4>
+<p>Text editor được gợi ý trên Windows là Scite...</p>
+<p><img src="http://www.golang-book.com/public/img/intro/10000201000004B00000038773C3C446.3630450129.png" alt="img" /></p>
+<p>Text editor có một vùng trắng lớn để bạn có thể nhập nội dung vào. Ở bên trái bạn có thể thấy thanh số dòng. Ở dưới của cửa sổ hiển thị thông tin trạng thái hiển thị thông tin về file và vị trí hiện tại của con trỏ.  Hiện tại (theo hình) nó nói rằng chúng ta đang ở dòng 1, cột 1, văn bản đang được chèn bình thường và chúng tôi đang sử dụng các dòng mới theo kiểu windows.</p>
+<p>Bạn có thể mở file bằng cách bấm File → Open và duyệt đến file bạn cần. Có thể lưu file bằng cách File → Save or File → Save As.</p>
+<p>Khi bạn làm việc trong một trình soạn thảo văn bản, sẽ rất hữu ích khi học các phím tắt. Menu hiện các phím tắt ở phía bên phải. Sau đây là vài phím tắt thông dụng:</p>
+<ul>
+<li>Ctrl + S – lưu file hiện tại</li>
+<li>Ctrl + X – cắt văn bản đang được chọn (Xóa bỏ nó và lưu nó vào bộ nhớ đệm clipboard để bạn có thể dán nó sau đó)</li>
+<li>Ctrl + C – copy văn bản đang được chọn</li>
+<li>Ctrl + V – dán văn bản trong clipboard ra vị trí con trỏ.</li>
+<li>Sử dụng các phím mũi tên để di chuyển, <code>Home</code> để về đầu dòng và <code>End</code> để về cuối dòng.</li>
+<li>Ấn giữ phím <code>shift</code> trong khi sử dụng các phím mũi tên (or <code>Home</code> and <code>End</code>) để chọn văn bản mà không dùng chuột.</li>
+<li>Ctrl + F – Hiện lên một hộp thoại mà bạn có thể tìm được nội dung của file hiện tại.</li>
+</ul>
+<h4>OSX</h4>
+<p>Trên OSX trình cài đặt sẽ cài Text Wrangler:</p>
+<p><img src="http://www.golang-book.com/public/img/intro/10000201000004B000000447FA964939.1399355206.png" alt="img" /></p>
+<p>Giống như Scite trên Windows, Text Wrangler có một vùng trắng lớn để bạn nhập văn bản vào. Bạn có thể mở file bằng cách bấm File → Open và duyệt đến file bạn cần. Có thể lưu file bằng cách File → Save or File → Save As. Sau đây là vài phím tắt có ích (<code>Command</code> là phím có kí tự <code>⌘</code> key):</p>
+<ul>
+<li>Command + S – lưu file hiện tại</li>
+<li>Command + X – cắt văn bản đang được chọn (Xóa bỏ nó và lưu nó vào bộ nhớ đệm clipboard để bạn có thể dán nó sau đó)</li>
+<li>Command + C – copy văn bản đang được chọn</li>
+<li>Command + V –  dán văn bản trong clipboard ra vị trí con trỏ.</li>
+<li>Sử dụng các phím mũi tên để di chuyển</li>
+<li>Command + F – Hiện lên một hộp thoại mà bạn có thể tìm được nội dung của file hiện tại.</li>
+</ul>
+<h3>Go Tools</h3>
+<p>Go là ngôn ngữ biên dịch, có nghĩa là source code (code mà bạn viết) được dịch ra thành một ngôn ngữ mà máy tính có thể hiểu được. Vì thế trước khi chúng ta viết một chương trình Go, chúng ta cần có Go compiler.</p>
+<p>Trình cài đặt sẽ giúp cài đặt hoàn toàn tự động. Chúng ta sử dụng go phiên bản 1. (Muốn xem thêm bạn có thể vào link  <a href="https://www.golang.org/">http://www.golang.org</a>)</p>
+<p>Hãy chắc chắn rằng bạn đã cài đặt go thành công. Bạn hãy mở terminal ra và gõ lệnh:</p>
+<pre><code>go version</code></pre>
+<p>Bạn sẽ thấy nội dung như sau:</p>
+<pre><code>go version go1.0.2</code></pre>
+<p>Số phiên bản của bjan có thể khác đôi chút. Nếu bạn bị lỗi khi gõ lệnh trên thì bạn có thể thử restart máy tính sau khi cài.</p>
+<p>Go tool gồm nhiều command và nhiều sub command. Để xem bạn có thể gõ lệnh sau:</p>
+<pre><code>go help</code></pre>
+<p>Chúng ta sẽ xem cách sử dụng chúng ở chương tiếp theo.</p>
+<hr />
+<p><em>Ghi chú của người dịch</em>:</p>
+<ul>
+<li>HĐH ghi tắt của Hệ điều hành</li>
+<li>OSX là phiên bản trước đây của HĐH macOS, có thể coi OSX hay Mac OS X hay macOS là một (khác phiên bản).</li>
+<li>Phiên bản Go stable mới nhất tại thời điểm dịch bài là go1.13. </li>
+<li>... kí hiệu 1 đoạn không quan trọng đã bị bỏ đi. </li>
+</ul>
+<hr />
+<p>Source: <a href="http://www.golang-book.com/books/intro/1">http://www.golang-book.com/books/intro/1</a></p>				<p>---</p>
+				Phuc Tran Hoang			</div>
+			<div id="fb-root"></div>
+<script async defer src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=&autoLogAppEvents=1"></script>
+
+<div class="fb-comment-embed" data-href="http://hoangphuctv.github.io./blog/books/An-Introduction-to-Programming-in-Go/01-bat-dau.md?/mdb" data-width="100%" data-include-parent="false"></div>
+		</div>
+		<br/>
+		<div class="container">
+			<hr>
+						<div class="my-3 p-3 bg-white rounded shadow-sm">
+	<h6 class="border-bottom border-gray pb-2 mb-0">Các bài viết khác</h6>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/00-gioi-thieu.md">An Introduction to Programming in Go - Giới thiệu lập trình bằng ngôn ngữ Go</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/01-bat-dau.md">Bắt đầu</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/02-chuong-trinh-dau-tien-cua-ban.md">Chương trình đầu tiên của bạn</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/03-kieu-du-lieu.md">Kiểu dữ liệu - Types</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/04-bien.md">http://www.golang-book.com/books/intro/4</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/05-cau-truc-dieu-khien.md">http://www.golang-book.com/books/intro/5</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/06-arrays-slices-va-maps.md">http://www.golang-book.com/books/intro/6</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/07-functions.md">http://www.golang-book.com/books/intro/7</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/08-con-tro.md">http://www.golang-book.com/books/intro/8</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/09-struct-va-interface.md">http://www.golang-book.com/books/intro/9</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/10-concurrency.md">http://www.golang-book.com/books/intro/10</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/11-package.md">http://www.golang-book.com/books/intro/11</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/12-testing.md">http://www.golang-book.com/books/intro/12</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/13-core-package.md">http://www.golang-book.com/books/intro/13</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/14-cac-buoc-ke-tiep.md">http://www.golang-book.com/books/intro/14</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+	</div>					</div>
+
+		<div class="container footer">
+	<hr>
+	<div class="row">
+		<div class="col-12">
+			<p class="text-center"> &copy; Phuc Tran Hoang 2019 | Powered by <a href="https://github.com/hoangphuctv/mdblog">mdblog</a> & Github</p>
+		</div>
+	</div>
+</div>
+<style>
+	pre {border-left:1.8px solid #275a90;}
+	code {color:#275a90;}
+	.container {width: 1024px; margin:0 auto;}
+</style>	</body>
+</html>

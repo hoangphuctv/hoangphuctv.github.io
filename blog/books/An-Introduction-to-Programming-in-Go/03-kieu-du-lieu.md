@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Kiểu dữ liệu - Types | LẬP TRÌNH</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yegor256/tacit@gh-pages/tacit-css.min.css"/>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', '');
+	</script>
+
+</head>
+	<body>
+		<div class="container">
+	<h2><a class="navbar-brand mr-auto mr-lg-0" href="/">LẬP TRÌNH</a></h2>
+
+	<script>
+	  function search_submit(){
+		  var q = document.body.querySelector('#text-q');
+		  console.log(q )
+		  q.value = q.value + " site:" + location.hostname;
+		  return true;
+	  };
+	</script>
+	<form class="form-inline my-2 my-lg-0" id="frmsearch" action="https://google.com/search" onsubmit="search_submit(this)">
+		<input class="form-control mr-sm-2" name="q" id="text-q" type="text" placeholder="Search on google" aria-label="Search">
+	    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+	  </form>
+
+	<p class="separator"></p>
+</div>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css">
+		<div class="container">
+			<div class="markdown-body">
+				<h1 class="page-title">Kiểu dữ liệu - Types</h1>
+				<p>Ở chương trước, chúng ta đã sử dụng kiểu dữ liệu string để lưu trữ chuỗi <code>Hello World</code>. Kiểu dữ liệu phân loại một bộ dữ liệu liên quan, mô tả các phép tính (operation) có thể thực hiện được trên chúng và định nghĩa cách thức lưu trữ. Vì kiểu dữ liệu là một ý tưởng khá khó, vì vậy chúng ta sẽ đi qua vài ví dụ cụ thể trước khi xem xét đi chúng được triểu khai trong Go như thế nào.</p>
+<p>Các nhà triết học thường phân biệt giữ các &quot;khuôn mẫu&quot; (type) và các biểu hiện (token). Ví dụ như bạn có một con chó tên là Max. Max là một biểu hiện (token) (là một thực thể hoặc một thành viên) và chó là một khuôn mẫu (type) (một khái niệm chung). &quot;Chó&quot; hay &quot;Tính chó&quot; mô tả một loạt các thuộc tính của tất cả các con chó đều có. Mặc dù quá đơn giản, chúng ta có thể thấy lý do như thế này: Tất cả các con chó có 4 chân. Max là một con chó, vì thế Max có 4 chân. Kiểu dữ liệu trong ngôn ngữ lập trình tương tự như vậy: Tất cả strings đều có độ dài, x là string, vì thế x có độ dài.</p>
+<p>Trong toán học, chúng ta thường hay nói về tập hợp (sets). Ví dụ: ℝ (là một tập hợp số thực) hoặc ℕ (là một tập hợp số nguyên). Mỗi thành viên của các bộ này có chung thuộc tính với những thành viên khác của tập hợp. Ví dụ tất cả các số tự nhiên có tính liên kết: &quot;Tất cả các số tự nguyên a, b, c, thì a+(b+c)=(a+b)+c và (a×b)×c=a×(b×c).&quot;. Nói như vầy, thì tập hợp tương tự như kiểu dữ liệu trong ngôn ngữ lập trình, vì tất cả các giá trị của cùng một loại kiểu dữ liệu có chung thuộc tính nhất định.</p>
+<p>Go là một ngôn ngữ lập trình kiểu dữ liệu tĩnh (static type). Điều này có nghĩa là các biến được chỉ định rõ kiểu dữ liệu và kiểu dữ liệu đó không thể thay đổi. Kiểu dữ liệu tĩnh lúc đầu trông có vẻ là một trở ngại. Bạn sẽ phải tốn khá nhiều thời gian chỉ để sửa chương trình của bạn để có thể compile được. Nhưng kiểu dữ liệu sẽ giúp chúng ta suy đoán và bắt được một loạt các lỗi phổ biến.</p>
+<p>Go đi kèm với nhiều loại kiểu dữ liệu tích hợp, bây giờ chúng ta sẽ xem xét chi tiết hơn.</p>
+<h2>Numbers</h2>
+<p>Go có nhiều kiểu dữ liệu để trình bày các con số. Nhìn chung chúng ta chia các con số thành 2 loại: số nguyên (integer) và số thực (số chấm động) (floating-point).</p>
+<h3>Integers</h3>
+<p>Integers - giống như bản sao bên toán học - là các con số không có thành phần thập phân. (...,-3,-2,-1,0,1...) Không giống như hệ đếm số 10 như chúng ta biểu diễn các con số. Máy tính sử dụng hệ nhị phân để biểu diễn.</p>
+<p>Hệ thống đếm số của chúng ta được tạo ra từ 10 con sô khác nhau. Khi sử dụng hết lần lượt 1 con số trong 10 con số này, chúng ta tăng lên 2 con số rồi 3, 4, 5,... con số. Ví dụ sau số 9 là số 10, sau số 99 là sô 100 và cứ tiếp tục như vậy. Máy tính cũng làm tương tự, nhưng chúng chỉ có 2 con số mà thôi. Vì vậy chúng cách máy tính đếm như sau: 0, 1, 10, 11, 100, 110, 111 và cứ tiếp tục như vậy. Sự khác biệt giữa hệ thống số chúng ta sử dụng và máy tính sử dụng là các số nguyên có kích thước xác định. Bởi vì chúng có số lượng số nhất định. Ví dụ như interget 4bit sẽ trông như thế này: 0000, 0001, 0010, 0011, 0100. Và cuối cùng khi hết các vị trí, hầu hết máy tính sẽ quay về như khi bắt đầu. (Điều này dẫn đến một vài hành vi bất thường ở máy tính).</p>
+<p>Kiểu dữ liệu integer trong Go gồm có: uint8, uint16, uint32, uint64, int8, int16, int32 and int64. Các con số 8, 16, 32 và 64 nói cho chúng ta biết kiểu dữ liệu này sử dụng bao nhiêu bit để lưu trữ. <code>uint</code> có nghĩa là &quot;usigned integer&quot; và <code>int</code> là &quot;signed integer&quot;. Unsigned integer chỉ chứa các con số dương và số 0. Có 2 kiểu dữ liệu được đặt trùng tên là: <code>byte</code> tương tự như <code>uint8</code> và <code>rune</code> tương tự như <code>int32</code>. Bytes là một đơn vị đo lường sử dụng phổ biến trong máy tính</p>
+<pre><code> 1 byte = 8 bits
+ 1024 bytes = 1 kilobyte
+ 1024 kilobytes = 1 megabyte
+ …</code></pre>
+<p>và vì thế kiểu dữ liệu byte của Go thường được sử dụng để định nghĩa các kiểu dữ liệu khác. Và có 3 kiểu dữ liệu integer phụ thuộc vào kiến trúc máy tính là: uint<code>,</code>int<code>and</code>uintptr. Chúng phụ thuộc vào máy tính vì chúng có kích thước phụ thuộc vào kiến trúc máy tính mà bạn đang sử dụng.</p>
+<p>Nhìn chung bạn làm việc với số nguyên thì thường nên sử dụng kiểu <code>int</code>.</p>
+<h3>Dấu chấm động (số thực)</h3>
+<p>Số dấu chấm động là số chứa phần thập phân (số thực). Như:  1.234, 123.4, 0.00001234, 12340000. Các xử lí chúng trên máy tính khá phức tạp, tạm thời chúng ta chưa cần quan tâm đến các chúng biểu diễn trong máy tính, chỉ cần biết cách sử dụng là được. Chỉ cần lưu ý các điều sau:</p>
+<ul>
+<li>Số dấu chấm động là con số không chính xác. Đôi khi không thể đại diện cho một con số. Ví dụ như phép tính <code>1.01 - 0.99</code> kết quả là: <code>0.020000000000000018</code> - Một con số gần bằng với chúng ta mong muốn, nhưng nó không chính xác. [Điều này là do cách lưu trữ số chấm động trên máy tính, vẫn gặp ở các ngôn ngữ khác, khong chỉ riêng ở Go]</li>
+<li>Giống với số integer, số chấm động cũng có kích thước xác định (32bit hoặc 64 bit). Sử dụng dụng số có kích thước lớn hơn sẽ chính xác hơn.</li>
+<li>Ngoài các con số chúng còn có thể biểu thị một số loại giá trị khác như: &quot;not a number - không phải là con số&quot; - NaN, ví dụ ở trường hợp là 0/0 và cộng trừ vô cùng (+∞, −∞) </li>
+</ul>
+<p>Go có 2 loại số chấm động là float32 và float64. và 2 loại bổ sung để biểu diễn các con số phức tạp <code>complex64</code> và <code>compex128</code>. </p>
+<p>Nhìn chung bạn làm việc với số dấu chấm động (số thực) thì thường nên sử dụng kiểu <code>float64</code>.</p>
+<h3>Ví dụ</h3>
+<p>Giờ hãy thử viết một chương trình sử dụng các con số. Đầu tiên chúng ta tạo thư mục tên là <code>chapter3</code> và tạo 1 file <code>main.go</code> trong thư mục này có nội dung như sau:</p>
+<pre><code class="language-go">package main
+
+import "fmt"
+
+func main() {
+  fmt.Println("1 + 1", 1 + 1)
+}</code></pre>
+<p>Nếu bạn chạy chương trình này bạn sẽ thấy như sau:</p>
+<pre><code>$ go run main.go
+1 + 1 = 2</code></pre>
+<p>Chương trình trên này rất giống với chương trình ở chương 2. Nó chưa một dòng khai báo package, lệnh import tương tự, lệnh khai báo function tương tự và sử dụng giống luôn function <code>Println</code>. Nhưng lần này, thay vì xuất ra màn hình dòng chữ <code>Hello World</code> thì chúng ta in ra chuỗi <code>1 + 1</code> theo sau là một biểu thức <code>1+1</code>. Biểu thức này gồm 3 phần là một con số <code>1</code> (kiểu int) phép tính <code>+</code> và một con số khác <code>1</code>. Giờ ta thử làm tương tự với số chấm động:</p>
+<pre><code>fmt.Println("1 + 1 =", 1.0 + 1.0)</code></pre>
+<p>Lưu ý rằng chúng ta sử dụng thêm <code>.0</code> ở phía sau con số 1 để báo cho Go biết rằng chúng ta đang sử dụng dấu chấm động thay vì số nguyên.</p>
+<p>Chạy chương trình này, bạn cũng nhận được kết quả tương tự. Trong Go, có một số phép toán như sau:</p>
+<table>
+<thead>
+<tr>
+<th>+</th>
+<th>cộng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>-</td>
+<td>trừ</td>
+</tr>
+<tr>
+<td>*</td>
+<td>nhân</td>
+</tr>
+<tr>
+<td>/</td>
+<td>chia</td>
+</tr>
+<tr>
+<td>%</td>
+<td>chia lấy phần nguyên</td>
+</tr>
+</tbody>
+</table>
+<h2>Strings</h2>
+<p>Chúng ta thấy ở chapter 2 một chuỗi là một chuỗi các kí tự với độ dài xác định sử dụng để trình bày văn bản. String trong Go được tạo thành từ các byte, thường thì mỗi kí tự là 1 byte. Các kí tự khác như chữ TQ được lưu trữ nhiều hơn 1 byte.</p>
+<p>String được tạo bằng các sử dụng dấu ngoặc kép <code>"Hello World"</code> hoặc dấu huyền <code>`Hello World</code> <code>.  Sự khác biệt là chuỗi được tạo từ dấu ngoặc kép không thể chứa các kí tự xuống dòng và các kí tự đặc biệt, như kí tự</code>\n<code>là kí tự xuống dòng, hoặc</code>\t` là kí tự tab.</p>
+<ul>
+<li>Một số thao tác với chuỗi như tìm độ dài  <code>len("Hello World")</code></li>
+<li>Truy cập vào tự kí tự  <code>"Hello World"[1]</code></li>
+<li>Cộng 2 chuỗi lại với nhau  <code>"Hello" + "World"</code>.</li>
+</ul>
+<p>Hãy sửa chương trình trước đó để xem thử:</p>
+<pre><code>package main
+
+import "fmt"
+
+func main() {
+  fmt.Println(len("Hello World"))
+  fmt.Println("Hello World"[1])
+  fmt.Println("Hello " + "World")
+}</code></pre>
+<p>Vài điều cần lưu ý:</p>
+<ul>
+<li>Dấu cách (khoảng trắng) cũng được xem là một kí tự, vì thế độ dài của chuỗi là 11 không phải là 10.  Và dòng lệnh thứ 3 của chúng ta là &quot;Hello &quot; chứ không phải là &quot;Hello&quot;.</li>
+<li>String bắt đầu vị trí từ 0 không phải là 1. Khi chúng ta lấy kí tự tại vị trí <code>[1]</code> sex cho bạn kí tự thứ 2 của chuỗi. Không phải là kí tự thứ nhất. Và, khi xuất kí tự này ra bạn cũng sẽ nhìn thấy con số 101 chứ không phải là kí tự <code>e</code> khi bạn chạy chương trình. Điều này bởi vì kí tự này được biểu diễn bằng 1 byte và byte cũng là một con số. </li>
+<li>Phép nối chuỗi sử dụng kí tự tương tự như phép cộng. Go compiler sẽ biết cách xử lí dự trên kiểu dữ liệu của tham số. Vì cả 2 phía của dấu <code>+</code> là chuỗi compiler sẽ xem như bạn đang có ý muốn nối chuỗi chứ không phải là phép cộng. Phép cộng không có ý nghĩa đối với string.</li>
+</ul>
+<h2>Booleans</h2>
+<hr />
+<p>Source: <a href="http://www.golang-book.com/books/intro/3">http://www.golang-book.com/books/intro/3</a></p>				<p>---</p>
+				Phuc Tran Hoang			</div>
+			<div id="fb-root"></div>
+<script async defer src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=&autoLogAppEvents=1"></script>
+
+<div class="fb-comment-embed" data-href="http://hoangphuctv.github.io./blog/books/An-Introduction-to-Programming-in-Go/03-kieu-du-lieu.md?/mdb" data-width="100%" data-include-parent="false"></div>
+		</div>
+		<br/>
+		<div class="container">
+			<hr>
+						<div class="my-3 p-3 bg-white rounded shadow-sm">
+	<h6 class="border-bottom border-gray pb-2 mb-0">Các bài viết khác</h6>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/00-gioi-thieu.md">An Introduction to Programming in Go - Giới thiệu lập trình bằng ngôn ngữ Go</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/01-bat-dau.md">Bắt đầu</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/02-chuong-trinh-dau-tien-cua-ban.md">Chương trình đầu tiên của bạn</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/03-kieu-du-lieu.md">Kiểu dữ liệu - Types</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/04-bien.md">http://www.golang-book.com/books/intro/4</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/05-cau-truc-dieu-khien.md">http://www.golang-book.com/books/intro/5</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/06-arrays-slices-va-maps.md">http://www.golang-book.com/books/intro/6</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/07-functions.md">http://www.golang-book.com/books/intro/7</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/08-con-tro.md">http://www.golang-book.com/books/intro/8</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/09-struct-va-interface.md">http://www.golang-book.com/books/intro/9</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/10-concurrency.md">http://www.golang-book.com/books/intro/10</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/11-package.md">http://www.golang-book.com/books/intro/11</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/12-testing.md">http://www.golang-book.com/books/intro/12</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/13-core-package.md">http://www.golang-book.com/books/intro/13</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/books/An-Introduction-to-Programming-in-Go/14-cac-buoc-ke-tiep.md">http://www.golang-book.com/books/intro/14</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+	</div>					</div>
+
+		<div class="container footer">
+	<hr>
+	<div class="row">
+		<div class="col-12">
+			<p class="text-center"> &copy; Phuc Tran Hoang 2019 | Powered by <a href="https://github.com/hoangphuctv/mdblog">mdblog</a> & Github</p>
+		</div>
+	</div>
+</div>
+<style>
+	pre {border-left:1.8px solid #275a90;}
+	code {color:#275a90;}
+	.container {width: 1024px; margin:0 auto;}
+</style>	</body>
+</html>
