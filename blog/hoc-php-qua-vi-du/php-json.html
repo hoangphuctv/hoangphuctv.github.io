@@ -6,13 +6,13 @@
 	<title>Làm việc với JSON trong PHP. | LẬP TRÌNH</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yegor256/tacit@gh-pages/tacit-css.min.css"/>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-90002072-6"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
 
-	  gtag('config', '');
+	  gtag('config', 'UA-90002072-6');
 	</script>
 
 </head>
@@ -39,7 +39,8 @@
 		<div class="container">
 			<div class="markdown-body">
 				<h1 class="page-title">Làm việc với JSON trong PHP.</h1>
-				<p>Chuyển array thành json string</p>
+				<h2>Chuyển array thành json string</h2>
+<h3>Array thành json string</h3>
 <pre><code>$user = [
     'id' =&gt; 1,
     'username' =&gt; 'admin',
@@ -47,22 +48,69 @@
 
 echo json_encode($user);</code></pre>
 <p>Kết quả:</p>
-<p>{&quot;id&quot;:1,&quot;username&quot;:&quot;admin&quot;}</p>
+<p><code>{"id":1,"username":"admin"}</code></p>
 <p>Nếu muốn format đẹp hơn ta cho thêm tham số: </p>
-<p>echo json_encode($user, JSON_PRETTY_PRINT);</p>
-<p>Kết quả:
-{
-&quot;id&quot;: 1,
-&quot;username&quot;: &quot;admin&quot;
-}</p>
-<p>Chuyển Object thành json string</p>
-<p>Ta giả sử có class user như sau:</p>				<p>---</p>
+<p><code>echo json_encode($user, JSON_PRETTY_PRINT);</code></p>
+<p>Kết quả:</p>
+<pre><code>{
+    "id": 1,
+    "username": "admin"
+}</code></pre>
+<h3>Chuyển ngược lại json string thành array</h3>
+<p>Cách thực hiện đơn giản như sau:</p>
+<pre><code>$json = '{"id":1,"username":"admin"}';
+$user = json_decode($json, true);</code></pre>
+<p>Tham số thứ 2 true của hàm json_decode là để hàm trả về kết quả là array. </p>
+<h2>Chuyển Object thành json string</h2>
+<h3>Encode</h3>
+<p>Ta giả sử có class user như sau:</p>
+<pre><code>class User {
+    public $id;
+    public $username;
+}</code></pre>
+<p>Sử dụng class như sau:</p>
+<pre><code>$user = new User();
+$user-&gt;id = 1;
+$user-&gt;username = 'admin';
+
+echo json_encode($user);</code></pre>
+<p>Ta cũng sẽ được kết quả tương tự như trên:</p>
+<p>`{&quot;id&quot;:1,&quot;username&quot;:&quot;admin&quot;}</p>
+<h3>Decode</h3>
+<p>Vậy làm sao để decode được json to object của class User
+Có khá nhiều cách nhưng cách đơn giản và hiệu quả nhất như sau:</p>
+<pre><code>// Khai báo class
+class User {
+    public $id;
+    public $username;
+}
+
+// json string
+$json = '{"id":1,"username":"admin"}';
+
+// thực hiện decode như ở trên
+$data = json_decode($json, true);
+
+// tạo object User
+$user = new User();
+
+// Gắn dữ liệu vào object User
+foreach ($data as $key =&gt; $value) {
+    $user-&gt;{$key} = $value;
+}
+
+// Thu được kết quả
+var_export($user);</code></pre>
+<p>Kết quả:</p>
+<pre><code>User::__set_state(array(
+   'id' =&gt; 1,
+   'username' =&gt; 'admin',
+))</code></pre>				<p>---</p>
 				Phuc Tran Hoang			</div>
 			<div id="fb-root"></div>
-<script async defer src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=&autoLogAppEvents=1"></script>
+<script async defer src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=1292999954097903&autoLogAppEvents=1"></script>
 
-<div class="fb-comment-embed" data-href="http://hoangphuctv.github.io./blog/hoc-php-qua-vi-du/php-json.md?/mdb" data-width="100%" data-include-parent="false"></div>
-		</div>
+<div class="fb-comments" data-href="https://hoangphuctv.github.io//blog/hoc-php-qua-vi-du/php-json.html"" data-width="100%" data-numposts="5"></div>		</div>
 		<br/>
 		<div class="container">
 			<hr>
@@ -72,16 +120,6 @@ echo json_encode($user);</code></pre>
 		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
 		<strong class="d-block text-gray-dark">
 			<a href="/blog/hoc-php-qua-vi-du/php-json.html">Làm việc với JSON trong PHP.</a>
-		</strong>
-		<br>
-		<small>Phuc Tran Hoang</small>
-		<small></small>
-		</p>
-	</div>
-		<div class="media text-muted pt-3">
-		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
-		<strong class="d-block text-gray-dark">
-			<a href="/blog/hoc-php-qua-vi-du/php-web-server.html"></a>
 		</strong>
 		<br>
 		<small>Phuc Tran Hoang</small>
