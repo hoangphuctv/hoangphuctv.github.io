@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Làm việc với JSON trong PHP. | LẬP TRÌNH</title>
+	<title>Cài đặt extension php mongodb trên máy MacOS | LẬP TRÌNH</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yegor256/tacit@gh-pages/tacit-css.min.css"/>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
@@ -38,30 +38,31 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css">
 		<div class="container">
 			<div class="markdown-body">
-				<h1 class="page-title">Làm việc với JSON trong PHP.</h1>
-				<p>Chuyển array thành json string</p>
-<pre><code>$user = [
-    'id' =&gt; 1,
-    'username' =&gt; 'admin',
-];
-
-echo json_encode($user);</code></pre>
-<p>Kết quả:</p>
-<p>{&quot;id&quot;:1,&quot;username&quot;:&quot;admin&quot;}</p>
-<p>Nếu muốn format đẹp hơn ta cho thêm tham số: </p>
-<p>echo json_encode($user, JSON_PRETTY_PRINT);</p>
-<p>Kết quả:
-{
-&quot;id&quot;: 1,
-&quot;username&quot;: &quot;admin&quot;
-}</p>
-<p>Chuyển Object thành json string</p>
-<p>Ta giả sử có class user như sau:</p>				<p>---</p>
+				<h1 class="page-title">Cài đặt extension php mongodb trên máy MacOS</h1>
+				<p>Mở terminal và gõ vào các lệnh sau:</p>
+<ol>
+<li>Cài đặt php từ brew</li>
+</ol>
+<pre><code>brew install php@7.2</code></pre>
+<ol start="2">
+<li>Link php</li>
+</ol>
+<pre><code>brew link --force php@7.2
+echo 'export PATH="/usr/local/opt/php@7.2/bin:$PATH"' &gt;&gt; ~/.bash_profile
+echo 'export PATH="/usr/local/opt/php@7.2/sbin:$PATH"' &gt;&gt; ~/.bash_profile</code></pre>
+<ol start="3">
+<li>Cài đặt extension </li>
+</ol>
+<pre><code>pecl install mongodb</code></pre>
+<ol start="4">
+<li>Cài đặt php library</li>
+</ol>
+<pre><code>composer install mongodb/mongodb</code></pre>				<p>---</p>
 				Phuc Tran Hoang			</div>
 			<div id="fb-root"></div>
 <script async defer src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=&autoLogAppEvents=1"></script>
 
-<div class="fb-comment-embed" data-href="http://hoangphuctv.github.io./blog/hoc-php-qua-vi-du/php-json.md?/mdb" data-width="100%" data-include-parent="false"></div>
+<div class="fb-comment-embed" data-href="http://hoangphuctv.github.io./blog/setup/install-mongodb-extension-php-on-mac.md?/mdb" data-width="100%" data-include-parent="false"></div>
 		</div>
 		<br/>
 		<div class="container">
@@ -71,27 +72,7 @@ echo json_encode($user);</code></pre>
 		<div class="media text-muted pt-3">
 		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
 		<strong class="d-block text-gray-dark">
-			<a href="/blog/hoc-php-qua-vi-du/php-json.md">Làm việc với JSON trong PHP.</a>
-		</strong>
-		<br>
-		<small>Phuc Tran Hoang</small>
-		<small></small>
-		</p>
-	</div>
-		<div class="media text-muted pt-3">
-		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
-		<strong class="d-block text-gray-dark">
-			<a href="/blog/hoc-php-qua-vi-du/php-web-server.md"></a>
-		</strong>
-		<br>
-		<small>Phuc Tran Hoang</small>
-		<small></small>
-		</p>
-	</div>
-		<div class="media text-muted pt-3">
-		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
-		<strong class="d-block text-gray-dark">
-			<a href="/blog/hoc-php-qua-vi-du/redirect.md">Redirect - Chuyển hướng trang bằng PHP</a>
+			<a href="/blog/setup/install-mongodb-extension-php-on-mac.html">Cài đặt extension php mongodb trên máy MacOS</a>
 		</strong>
 		<br>
 		<small>Phuc Tran Hoang</small>

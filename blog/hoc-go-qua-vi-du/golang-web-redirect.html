@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Copyright | LẬP TRÌNH</title>
+	<title>Go redirect location | LẬP TRÌNH</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yegor256/tacit@gh-pages/tacit-css.min.css"/>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
@@ -38,15 +38,53 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css">
 		<div class="container">
 			<div class="markdown-body">
-				<h1 class="page-title">Copyright</h1>
-				<hr />
-<p>Copyright © 1997 - 2020 by the PHP Documentation Group. This material may be distributed only subject to the terms and conditions set forth in the Creative Commons Attribution 3.0 License or later. A copy of the Creative Commons Attribution 3.0 license is distributed with this manual. The latest version is presently available at » <a href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</a>.</p>
-<p>If you are interested in redistribution or republishing of this document in whole or in part, either modified or unmodified, and you have questions, please contact the Copyright holders at » doc-license@lists.php.net. Note that this address is mapped to a publicly archived mailing list.</p>				<p>---</p>
+				<h1 class="page-title">Go redirect location</h1>
+				<h2>Code</h2>
+<pre><code class="language-go">package main
+
+import (
+    "log"
+    "net/http"
+)
+
+func redirectHome(w http.ResponseWriter, r *http.Request) {
+
+    http.Redirect(w, r, "/", 301)
+}
+
+func main() {
+    http.HandleFunc("/", redirectHome)
+    err := http.ListenAndServe(":8123", nil)
+    if err != nil {
+        log.Fatal("ListenAndServe: ", err)
+    }
+}
+</code></pre>
+<h2>Test CURL output</h2>
+<pre><code>$ curl -v localhost:8123
+* Rebuilt URL to: localhost:8123/
+*   Trying 127.0.0.1...
+* TCP_NODELAY set
+* Connected to localhost (127.0.0.1) port 8123 (#0)
+&gt; GET / HTTP/1.1
+&gt; Host: localhost:8123
+&gt; User-Agent: curl/7.54.0
+&gt; Accept: */*
+&gt;
+&lt; HTTP/1.1 301 Moved Permanently
+&lt; Content-Type: text/html; charset=utf-8
+&lt; Location: /
+&lt; Date: Wed, 05 Feb 2020 07:20:54 GMT
+&lt; Content-Length: 36
+&lt;
+&lt;a href="/"&gt;Moved Permanently&lt;/a&gt;.
+
+* Connection #0 to host localhost left intact</code></pre>				<p>---</p>
 				Phuc Tran Hoang			</div>
 			<div id="fb-root"></div>
 <script async defer src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=&autoLogAppEvents=1"></script>
 
-<div class="fb-comment-embed" data-href="http://hoangphuctv.github.io./blog/php.doc/copyright.md?/mdb" data-width="100%" data-include-parent="false"></div>
+<div class="fb-comment-embed" data-href="http://hoangphuctv.github.io./blog/hoc-go-qua-vi-du/golang-web-redirect.md?/mdb" data-width="100%" data-include-parent="false"></div>
 		</div>
 		<br/>
 		<div class="container">
@@ -56,7 +94,7 @@
 		<div class="media text-muted pt-3">
 		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
 		<strong class="d-block text-gray-dark">
-			<a href="/blog/php.doc/copyright.md">Copyright</a>
+			<a href="/blog/hoc-go-qua-vi-du/golang-web-redirect.html">Go redirect location</a>
 		</strong>
 		<br>
 		<small>Phuc Tran Hoang</small>

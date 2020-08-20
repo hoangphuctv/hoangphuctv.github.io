@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Sử dụng imageproxy để tạo ảnh thumbnail thay thế timthumb.php | LẬP TRÌNH</title>
+	<title>Chuyển tiếng Việt thành slug không dấu | LẬP TRÌNH</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yegor256/tacit@gh-pages/tacit-css.min.css"/>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
@@ -38,16 +38,39 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css">
 		<div class="container">
 			<div class="markdown-body">
-				<h1 class="page-title">Sử dụng imageproxy để tạo ảnh thumbnail thay thế timthumb.php</h1>
-				<pre><code class="language-php">
-function imageproxy($url, $width='', $height='') {
-    return sprintf('https://your-domain.com/thumb/%dx%d/%s', $width, $height, urlencode($url));
+				<h1 class="page-title">Chuyển tiếng Việt thành slug không dấu</h1>
+				<pre><code class="language-javascript">function slug(title) { 
+    //Đổi chữ hoa thành chữ thường
+    slug = title.toLowerCase();
+
+    //Đổi ký tự có dấu thành không dấu
+    slug = slug.replace(/á|à|ả|ạ|ã|ă|ắ|ằ|ẳ|ẵ|ặ|â|ấ|ầ|ẩ|ẫ|ậ/gi, 'a');
+    slug = slug.replace(/é|è|ẻ|ẽ|ẹ|ê|ế|ề|ể|ễ|ệ/gi, 'e');
+    slug = slug.replace(/i|í|ì|ỉ|ĩ|ị/gi, 'i');
+    slug = slug.replace(/ó|ò|ỏ|õ|ọ|ô|ố|ồ|ổ|ỗ|ộ|ơ|ớ|ờ|ở|ỡ|ợ/gi, 'o');
+    slug = slug.replace(/ú|ù|ủ|ũ|ụ|ư|ứ|ừ|ử|ữ|ự/gi, 'u');
+    slug = slug.replace(/ý|ỳ|ỷ|ỹ|ỵ/gi, 'y');
+    slug = slug.replace(/đ/gi, 'd');
+    //Xóa các ký tự đặt biệt
+    slug = slug.replace(/\`|\~|\!|\@|\#|\||\$|\%|\^|\&amp;|\*|\(|\)|\+|\=|\,|\.|\/|\?|\&gt;|\&lt;|\'|\"|\:|\;|_/gi, '');
+    //Đổi khoảng trắng thành ký tự gạch ngang
+    slug = slug.replace(/ /gi, "-");
+    //Đổi nhiều ký tự gạch ngang liên tiếp thành 1 ký tự gạch ngang
+    //Phòng trường hợp người nhập vào quá nhiều ký tự trắng
+    slug = slug.replace(/\-\-\-\-\-/gi, '-');
+    slug = slug.replace(/\-\-\-\-/gi, '-');
+    slug = slug.replace(/\-\-\-/gi, '-');
+    slug = slug.replace(/\-\-/gi, '-');
+    //Xóa các ký tự gạch ngang ở đầu và cuối
+    slug = '@' + slug + '@';
+    slug = slug.replace(/\@\-|\-\@|\@/gi, '');
+    return slug;
 }</code></pre>				<p>---</p>
 				Phuc Tran Hoang			</div>
 			<div id="fb-root"></div>
 <script async defer src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=&autoLogAppEvents=1"></script>
 
-<div class="fb-comment-embed" data-href="http://hoangphuctv.github.io./blog/review-services/imageproxy.md?/mdb" data-width="100%" data-include-parent="false"></div>
+<div class="fb-comment-embed" data-href="http://hoangphuctv.github.io./blog/javascript/chuyen-tieng-viet-thanh-slug.md?/mdb" data-width="100%" data-include-parent="false"></div>
 		</div>
 		<br/>
 		<div class="container">
@@ -57,7 +80,17 @@ function imageproxy($url, $width='', $height='') {
 		<div class="media text-muted pt-3">
 		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
 		<strong class="d-block text-gray-dark">
-			<a href="/blog/review-services/imageproxy.md">Sử dụng imageproxy để tạo ảnh thumbnail thay thế timthumb.php</a>
+			<a href="/blog/javascript/chuyen-tieng-viet-thanh-slug.html">Chuyển tiếng Việt thành slug không dấu</a>
+		</strong>
+		<br>
+		<small>Phuc Tran Hoang</small>
+		<small></small>
+		</p>
+	</div>
+		<div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+		<strong class="d-block text-gray-dark">
+			<a href="/blog/javascript/js-pad-number.html">JS pad number, cách thêm số 0 vào trước số cho đủ vị trí.</a>
 		</strong>
 		<br>
 		<small>Phuc Tran Hoang</small>
