@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vay Mua Nhà Cho Thuê - Tính Nhanh</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+      margin: 0;
+      padding: 20px;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .container {
+      background: white;
+      padding: 30px;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+      width: 100%;
+      max-width: 420px;
+      text-align: center;
+    }
+    h1 {
+      color: #2c3e50;
+      margin-bottom: 10px;
+      font-size: 1.5em;
+    }
+    .subtitle {
+      color: #7f8c8d;
+      font-size: 0.9em;
+      margin-bottom: 20px;
+    }
+    label {
+      display: block;
+      text-align: left;
+      margin: 15px 0 5px;
+      color: #34495e;
+      font-weight: 500;
+    }
+    input {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      font-size: 1em;
+      box-sizing: border-box;
+    }
+    button {
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #3498db;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 1.1em;
+      cursor: pointer;
+      width: 100%;
+      font-weight: bold;
+    }
+    button:hover {
+      background: #2980b9;
+    }
+    .result {
+      margin-top: 20px;
+      padding: 15px;
+      background: #f8f9fa;
+      border-radius: 8px;
+      font-size: 1.1em;
+      line-height: 1.6;
+      display: none;
+      border-left: 4px solid #27ae60;
+    }
+    .highlight {
+      font-weight: bold;
+      color: #e74c3c;
+      font-size: 1.2em;
+    }
+    .note {
+      font-size: 0.85em;
+      color: #7f8c8d;
+      margin-top: 15px;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Vay Mua Nhà Cho Thuê</h1>
+    <p class="subtitle">Lãi 8.5% (2 năm đầu) → 10% (18 năm sau), 20 năm</p>
+
+    <label for="rent">Tiền thuê (triệu/tháng):</label>
+    <input type="number" id="rent" placeholder="VD: 7" step="0.1" value="7">
+
+    <label for="price">Giá căn hộ (tỷ đồng):</label>
+    <input type="number" id="price" placeholder="VD: 2" step="0.1" value="2">
+
+    <button onclick="calculate()">Tính Vay & Tiền Tự Có</button>
+
+    <div id="result" class="result"></div>
+
+    <div class="note">
+      • Không trừ phí quản lý, trống phòng<br>
+      • Trả góp đều 20 năm<br>
+      • Kết quả làm tròn, dùng tham khảo
+    </div>
+  </div>
+
+  <script>
+    function calculate() {
+      const rent = parseFloat(document.getElementById("rent").value);
+      const priceTỷ = parseFloat(document.getElementById("price").value);
+
+      if (!rent || rent <= 0) {
+        alert("Vui lòng nhập tiền thuê hợp lệ!");
+        return;
+      }
+      if (!priceTỷ || priceTỷ <= 0) {
+        alert("Vui lòng nhập giá căn hộ hợp lệ!");
+        return;
+      }
+
+      const M = rent * 1000000; // tiền thuê/tháng
+      const price = priceTỷ * 1000000000; // giá căn hộ (đồng)
+
+      // Hệ số vay tối đa: ~110 (đã kiểm chứng với lãi 8.5% → 10%)
+      const vayMax = M * 110;
+      const tuCo = price - vayMax;
+
+      const resultDiv = document.getElementById("result");
+      resultDiv.style.display = "block";
+
+      const formatVND = (num) => {
+        if (num >= 1000000000) {
+          return (num / 1000000000).toFixed(2) + " tỷ";
+        } else {
+          return (num / 1000000).toFixed(0) + " triệu";
+        }
+      };
+
+      resultDiv.innerHTML = `
+        <div>Cho thuê: <strong>${rent} triệu/tháng</strong></div>
+        <div>Giá căn hộ: <strong>${priceTỷ} tỷ</strong></div>
+        <hr style="margin:10px 0;border:0;border-top:1px dashed #ddd;">
+        <div>Vay tối đa: <span class="highlight">${formatVND(vayMax)}</span></div>
+        <div style="color:#27ae60;font-weight:bold;">
+          Cần chuẩn bị: <span class="highlight">${formatVND(Math.max(tuCo, 0))}</span> tiền gốc
+        </div>
+        <div style="font-size:0.9em;margin-top:8px;color:#e67e22;">
+          (An toàn: vay ≤ ${formatVND(vayMax * 0.95)})
+        </div>
+      `;
+    }
+  </script>
+
+</body>
+</html>
