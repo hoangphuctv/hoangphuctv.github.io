@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thẻ Tín Dụng Cá Nhân</title>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f1117;
+    --surface: #1a1d27;
+    --surface2: #22263a;
+    --border: #2e3350;
+    --blue: #4f8ef7;
+    --blue-dim: #1e3a6e;
+    --green: #34d399;
+    --green-dim: #0d3326;
+    --red: #f87171;
+    --red-dim: #3b1010;
+    --gold: #fbbf24;
+    --gold-dim: #3b2a0a;
+    --text: #e8eaf6;
+    --muted: #6b7280;
+    --font: 'Be Vietnam Pro', sans-serif;
+    --mono: 'JetBrains Mono', monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: var(--font);
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 24px 16px 48px;
+  }
+
+  /* ── header ── */
+  .header {
+    max-width: 700px; margin: 0 auto 28px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .header h1 { font-size: 1.3rem; font-weight: 700; }
+  .header span { font-size: 0.78rem; color: var(--muted); margin-top: 2px; }
+  .dot { width: 8px; height: 8px; border-radius: 50%;
+         background: var(--green); box-shadow: 0 0 8px var(--green); animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+
+  /* ── card grid ── */
+  .grid { max-width: 700px; margin: 0 auto; display: grid;
+          grid-template-columns: 1fr 1fr; gap: 12px; }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 20px;
+    position: relative;
+    overflow: hidden;
+    transition: border-color .2s;
+  }
+  .card:hover { border-color: #3e4470; }
+  .card.full { grid-column: 1 / -1; }
+  .card.blue  { border-top: 2px solid var(--blue); }
+  .card.green { border-top: 2px solid var(--green); }
+  .card.red   { border-top: 2px solid var(--red); }
+  .card.gold  { border-top: 2px solid var(--gold); }
+
+  .card-label {
+    font-size: 0.72rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: .08em; color: var(--muted); margin-bottom: 8px;
+  }
+  .card-value {
+    font-family: var(--mono); font-size: 1.7rem; font-weight: 600;
+    line-height: 1; margin-bottom: 4px;
+  }
+  .card-sub { font-size: 0.72rem; color: var(--muted); }
+
+  .blue  .card-value { color: var(--blue); }
+  .green .card-value { color: var(--green); }
+  .red   .card-value { color: var(--red); }
+  .gold  .card-value { color: var(--gold); }
+
+  /* status badge */
+  .badge {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 4px 10px; border-radius: 20px;
+    font-size: 0.78rem; font-weight: 600; margin-top: 6px;
+  }
+  .badge.ok  { background: var(--green-dim); color: var(--green); }
+  .badge.bad { background: var(--red-dim);   color: var(--red); }
+
+  /* ── editable number ── */
+  .editable {
+    font-family: var(--mono); font-size: 1.7rem; font-weight: 600;
+    background: transparent; border: none; outline: none;
+    color: inherit; width: 100%; cursor: text;
+    border-bottom: 1px dashed #3e4470;
+    transition: border-color .2s;
+  }
+  .editable:focus { border-bottom-color: var(--blue); }
+
+  /* ── button ── */
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 10px 18px; border-radius: 10px; border: none;
+    font-family: var(--font); font-size: 0.85rem; font-weight: 600;
+    cursor: pointer; transition: all .15s; white-space: nowrap;
+  }
+  .btn-primary {
+    background: var(--blue); color: #fff;
+  }
+  .btn-primary:hover { background: #6fa3ff; transform: translateY(-1px); }
+  .btn-primary:active { transform: translateY(0); }
+  .btn-ghost {
+    background: var(--surface2); color: var(--muted); border: 1px solid var(--border);
+  }
+  .btn-ghost:hover { color: var(--text); border-color: #3e4470; }
+
+  /* ── section ── */
+  .section-title {
+    max-width: 700px; margin: 28px auto 12px;
+    font-size: 0.78rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .1em; color: var(--muted);
+    display: flex; align-items: center; gap: 8px;
+  }
+  .section-title::after { content:''; flex:1; height:1px; background: var(--border); }
+
+  /* ── trả góp table ── */
+  .tbl-wrap { max-width: 700px; margin: 0 auto;
+              background: var(--surface); border: 1px solid var(--border);
+              border-radius: 16px; overflow: hidden; }
+  table { width: 100%; border-collapse: collapse; }
+  thead tr { background: var(--surface2); }
+  th { padding: 10px 16px; font-size: 0.72rem; font-weight: 700;
+       text-transform: uppercase; letter-spacing: .07em; color: var(--muted);
+       text-align: left; }
+  td { padding: 10px 16px; font-size: 0.88rem; border-top: 1px solid var(--border); }
+  tr:hover td { background: #1e2235; }
+
+  .td-input {
+    background: transparent; border: none; outline: none;
+    font-family: var(--font); font-size: 0.88rem; color: var(--text);
+    width: 100%; border-bottom: 1px dashed transparent;
+    transition: border-color .15s;
+  }
+  .td-input:focus { border-bottom-color: var(--blue); }
+  .td-money {
+    font-family: var(--mono); font-size: 0.9rem; color: var(--gold); text-align: right;
+  }
+  .td-money-input {
+    background: transparent; border: none; outline: none;
+    font-family: var(--mono); font-size: 0.9rem; color: var(--gold);
+    width: 100%; text-align: right;
+    border-bottom: 1px dashed transparent; transition: border-color .15s;
+  }
+  .td-money-input:focus { border-bottom-color: var(--gold); }
+
+  .add-row { padding: 10px 16px; border-top: 1px solid var(--border); }
+  .tbl-footer { padding: 12px 16px; background: var(--surface2);
+                border-top: 1px solid var(--border);
+                display: flex; justify-content: space-between; align-items: center; }
+  .tbl-total { font-family: var(--mono); font-size: 1rem; font-weight: 600; color: var(--gold); }
+
+  /* delete btn */
+  .del { background: none; border: none; cursor: pointer; color: #3e4470;
+         font-size: 1rem; line-height: 1; transition: color .15s; padding: 2px 6px; }
+  .del:hover { color: var(--red); }
+
+  /* ── lịch sử ── */
+  .log-wrap { max-width: 700px; margin: 0 auto;
+              background: var(--surface); border: 1px solid var(--border); border-radius: 16px; overflow: hidden; }
+  .log-entry { display: grid; grid-template-columns: 100px 1fr auto;
+               gap: 12px; padding: 11px 16px; border-top: 1px solid var(--border);
+               font-size: 0.85rem; align-items: center; }
+  .log-entry:first-child { border-top: none; }
+  .log-date { font-family: var(--mono); font-size: 0.78rem; color: var(--muted); }
+  .log-amt.pos { color: var(--green); font-family: var(--mono); font-weight: 600; }
+  .log-amt.neg { color: var(--red);   font-family: var(--mono); font-weight: 600; }
+  .log-empty { padding: 20px 16px; color: var(--muted); font-size: 0.85rem; }
+
+  /* ── toast ── */
+  .toast {
+    position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%) translateY(80px);
+    background: var(--green); color: #000; padding: 10px 20px;
+    border-radius: 20px; font-size: 0.85rem; font-weight: 600;
+    transition: transform .3s; z-index: 999; pointer-events: none;
+  }
+  .toast.show { transform: translateX(-50%) translateY(0); }
+
+  /* responsive */
+  @media(max-width:480px){
+    .card-value, .editable { font-size: 1.35rem; }
+    .grid { grid-template-columns: 1fr; }
+    .card.full { grid-column: 1; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="dot"></div>
+  <div style="flex:1">
+    <h1>💳 Thẻ Tín Dụng Cá Nhân</h1>
+    <span id="today-label"></span>
+  </div>
+  <div style="display:flex;gap:8px;flex-shrink:0">
+    <button class="btn btn-ghost" style="font-size:0.75rem;padding:7px 12px" onclick="xuatFile()" title="Xuất backup ra file JSON">⬇ Backup</button>
+    <label class="btn btn-ghost" style="font-size:0.75rem;padding:7px 12px;cursor:pointer" title="Nhập lại từ file JSON">⬆ Restore<input type="file" accept=".json" style="display:none" onchange="nhapFile(event)"></label>
+  </div>
+</div>
+
+<!-- KPI GRID -->
+<div class="grid">
+
+  <div class="card blue">
+    <div class="card-label">🏦 Hạn Mức Đang Giữ</div>
+    <input class="editable card-value" id="han-muc" type="text" value="5.000.000" onchange="saveAll()" oninput="formatInput(this)">
+    <div class="card-sub">Tổng tiền trong ví riêng</div>
+  </div>
+
+  <div class="card green">
+    <div class="card-label">💰 Số Dư Thực Tế</div>
+    <input class="editable card-value" id="so-du" type="text" value="5.000.000" onchange="saveAll()" oninput="formatInput(this)">
+    <div class="card-sub">Tiền thực đang có</div>
+  </div>
+
+  <div class="card red">
+    <div class="card-label">⚠️ Dư Nợ Chưa Trả</div>
+    <input class="editable card-value" id="du-no" type="text" value="0" onchange="saveAll()" oninput="formatInput(this)">
+    <div class="card-sub">= chi tiêu chưa hoàn trả</div>
+  </div>
+
+  <div class="card gold">
+    <div class="card-label">📈 Lãi Tích Lũy</div>
+    <div class="card-value" id="lai-display">0</div>
+    <div class="card-sub">4.5%/năm trên số dư</div>
+  </div>
+
+  <div class="card full" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:14px; padding:16px 20px;">
+    <div>
+      <div class="card-label" style="margin-bottom:6px;">✅ Kỷ Luật</div>
+      <div id="ky-luat-badge" class="badge ok">✅ Tốt – không có dư nợ</div>
+    </div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;">
+      <button class="btn btn-primary" onclick="congLai()">⬆ Cộng lãi vào hạn mức</button>
+      <button class="btn btn-ghost" onclick="showThem()">+ Ghi thêm lãi thủ công</button>
+    </div>
+  </div>
+
+</div>
+
+<!-- TRẢ GÓP -->
+<div class="section-title">🗂 Lịch Trả Góp</div>
+<div class="tbl-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th style="width:40%">Mô tả / Mua gì</th>
+        <th style="width:35%;text-align:right">Còn phải trả</th>
+        <th style="width:15%;text-align:right">Hạn</th>
+        <th style="width:10%"></th>
+      </tr>
+    </thead>
+    <tbody id="tbl-body"></tbody>
+  </table>
+  <div class="add-row">
+    <button class="btn btn-ghost" style="font-size:0.8rem;padding:7px 14px;" onclick="addRow()">＋ Thêm khoản trả góp</button>
+  </div>
+  <div class="tbl-footer">
+    <span style="font-size:0.78rem;color:var(--muted)">Tổng còn trả góp</span>
+    <span class="tbl-total" id="tbl-total">0 đ</span>
+  </div>
+</div>
+
+<!-- LỊCH SỬ -->
+<div class="section-title">📋 Lịch Sử Thay Đổi Hạn Mức</div>
+<div class="log-wrap">
+  <div id="log-list"><div class="log-empty">Chưa có lịch sử. Nhấn "Cộng lãi vào hạn mức" để bắt đầu.</div></div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// ── helpers ───────────────────────────────────────────
+function parseNum(str) {
+  return parseFloat((str+'').replace(/[^\d]/g,'')) || 0;
+}
+function fmt(n) {
+  return Math.round(n).toLocaleString('vi-VN') + ' đ';
+}
+function fmtPlain(n) {
+  return Math.round(n).toLocaleString('vi-VN');
+}
+function formatInput(el) {
+  let raw = parseNum(el.value);
+  el.value = raw === 0 ? '0' : fmtPlain(raw);
+}
+function today() {
+  return new Date().toLocaleDateString('vi-VN');
+}
+function toast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
+}
+
+// ── state ─────────────────────────────────────────────
+let state = {
+  hanMuc: 5000000,
+  soDu:   5000000,
+  duNo:   0,
+  laiTichLuy: 0,
+  rows: [],          // [{id, mo_ta, so_tien, han}]
+  log:  []           // [{date, note, delta}]
+};
+
+function loadState() {
+  try {
+    const s = localStorage.getItem('thetindung_v2');
+    if (s) state = JSON.parse(s);
+  } catch(e) {}
+}
+function saveAll() {
+  state.hanMuc = parseNum(document.getElementById('han-muc').value);
+  state.soDu   = parseNum(document.getElementById('so-du').value);
+  state.duNo   = parseNum(document.getElementById('du-no').value);
+  // laiTichLuy computed
+  localStorage.setItem('thetindung_v2', JSON.stringify(state));
+  render();
+}
+
+// ── main actions ──────────────────────────────────────
+function congLai() {
+  const lai = parseFloat((state.soDu * 0.045 / 12).toFixed(0));
+  if (lai <= 0) { toast('Số dư = 0, không có lãi để cộng'); return; }
+  state.hanMuc += lai;
+  state.laiTichLuy = 0;
+  state.log.unshift({ date: today(), note: `Cộng lãi tháng (4.5%/năm)`, delta: +lai });
+  localStorage.setItem('thetindung_v2', JSON.stringify(state));
+  renderAll();
+  toast(`✅ Đã cộng ${fmt(lai)} vào hạn mức!`);
+}
+
+function showThem() {
+  const s = prompt('Nhập số lãi muốn cộng thêm (đ):');
+  if (!s) return;
+  const n = parseNum(s);
+  if (!n) return;
+  state.hanMuc += n;
+  state.log.unshift({ date: today(), note: `Cộng lãi thủ công`, delta: +n });
+  localStorage.setItem('thetindung_v2', JSON.stringify(state));
+  renderAll();
+  toast(`✅ Đã cộng thêm ${fmt(n)}`);
+}
+
+// ── trả góp ──────────────────────────────────────────
+let rowId = 0;
+function addRow() {
+  state.rows.push({ id: rowId++, mo_ta: '', so_tien: 0, han: '' });
+  renderTable(); saveState();
+}
+function delRow(id) {
+  state.rows = state.rows.filter(r => r.id !== id);
+  renderTable(); saveState();
+}
+function updateRow(id, field, val) {
+  const r = state.rows.find(r => r.id === id);
+  if (r) { r[field] = val; saveState(); renderTable(); }
+}
+function saveState() {
+  localStorage.setItem('thetindung_v2', JSON.stringify(state));
+}
+
+// ── render ────────────────────────────────────────────
+function render() {
+  const soDu = parseNum(document.getElementById('so-du').value);
+  const duNo = parseNum(document.getElementById('du-no').value);
+  const hanMuc = parseNum(document.getElementById('han-muc').value);
+
+  const lai = Math.round(soDu * 0.045 / 12);
+  document.getElementById('lai-display').textContent = fmt(lai);
+
+  const badge = document.getElementById('ky-luat-badge');
+  if (duNo <= 0) {
+    badge.className = 'badge ok';
+    badge.textContent = '✅ Tốt – không có dư nợ';
+  } else {
+    badge.className = 'badge bad';
+    badge.textContent = `⚠️ Còn dư nợ ${fmt(duNo)}`;
+  }
+}
+
+function renderTable() {
+  const tbody = document.getElementById('tbl-body');
+  if (state.rows.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="4" style="color:var(--muted);font-size:.82rem;padding:14px 16px;">Chưa có khoản trả góp nào.</td></tr>';
+    document.getElementById('tbl-total').textContent = '0 đ';
+    return;
+  }
+  let total = 0;
+  tbody.innerHTML = state.rows.map(r => {
+    total += parseNum(r.so_tien);
+    return `<tr>
+      <td><input class="td-input" value="${r.mo_ta}" placeholder="Tên món đồ..." oninput="state.rows.find(x=>x.id==${r.id}).mo_ta=this.value;saveState()"></td>
+      <td class="td-money"><input class="td-money-input" value="${fmtPlain(r.so_tien)}" oninput="formatInput(this)" onchange="updateRow(${r.id},'so_tien',parseNum(this.value))"></td>
+      <td style="color:var(--muted);font-size:.8rem;text-align:right"><input class="td-input" style="text-align:right;font-size:.8rem;color:var(--muted)" value="${r.han}" placeholder="mm/yyyy" oninput="state.rows.find(x=>x.id==${r.id}).han=this.value;saveState()"></td>
+      <td><button class="del" onclick="delRow(${r.id})">✕</button></td>
+    </tr>`;
+  }).join('');
+  document.getElementById('tbl-total').textContent = fmt(total);
+}
+
+function renderLog() {
+  const el = document.getElementById('log-list');
+  if (!state.log || state.log.length === 0) {
+    el.innerHTML = '<div class="log-empty">Chưa có lịch sử.</div>';
+    return;
+  }
+  el.innerHTML = state.log.slice(0,30).map(l =>
+    `<div class="log-entry">
+      <span class="log-date">${l.date}</span>
+      <span>${l.note}</span>
+      <span class="log-amt ${l.delta>0?'pos':'neg'}">${l.delta>0?'+':''}${fmt(l.delta)}</span>
+    </div>`
+  ).join('');
+}
+
+function renderAll() {
+  // sync inputs from state
+  document.getElementById('han-muc').value = fmtPlain(state.hanMuc);
+  document.getElementById('so-du').value   = fmtPlain(state.soDu);
+  document.getElementById('du-no').value   = fmtPlain(state.duNo);
+  render();
+  renderTable();
+  renderLog();
+}
+
+// ── backup / restore ─────────────────────────────────
+function xuatFile() {
+  const data = JSON.stringify(state, null, 2);
+  const blob = new Blob([data], { type: 'application/json' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  const d    = new Date();
+  const stamp = `${d.getFullYear()}${String(d.getMonth()+1).padStart(2,'0')}${String(d.getDate()).padStart(2,'0')}`;
+  a.href = url;
+  a.download = `the_tin_dung_backup_${stamp}.json`;
+  a.click();
+  URL.revokeObjectURL(url);
+  toast('✅ Đã xuất file backup!');
+}
+
+function nhapFile(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = function(ev) {
+    try {
+      const parsed = JSON.parse(ev.target.result);
+      if (parsed.hanMuc === undefined) throw new Error('Sai định dạng');
+      state = parsed;
+      if (state.rows && state.rows.length) rowId = Math.max(...state.rows.map(r=>r.id)) + 1;
+      localStorage.setItem('thetindung_v2', JSON.stringify(state));
+      renderAll();
+      toast('✅ Restore thành công!');
+    } catch(err) {
+      alert('❌ File không hợp lệ. Hãy chọn đúng file backup JSON.');
+    }
+    e.target.value = ''; // reset input
+  };
+  reader.readAsText(file);
+}
+
+// ── init ──────────────────────────────────────────────
+document.getElementById('today-label').textContent = 'Hôm nay: ' + today();
+
+loadState();
+// restore rowId
+if (state.rows && state.rows.length) rowId = Math.max(...state.rows.map(r=>r.id)) + 1;
+renderAll();
+
+// live update on input changes
+['han-muc','so-du','du-no'].forEach(id => {
+  document.getElementById(id).addEventListener('input', render);
+});
+</script>
+</body>
+</html>
