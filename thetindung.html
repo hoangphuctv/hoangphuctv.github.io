@@ -225,8 +225,8 @@
 
   <div class="card red">
     <div class="card-label">⚠️ Dư Nợ Chưa Trả</div>
-    <input class="editable card-value" id="du-no" type="text" value="0" onchange="saveAll()" oninput="formatInput(this)">
-    <div class="card-sub">= chi tiêu chưa hoàn trả</div>
+    <input class="editable card-value" id="du-no" type="text" value="0" readonly style="cursor:default;border-bottom-style:solid;opacity:.85">
+    <div class="card-sub">= Hạn Mức − Số Dư Thực Tế</div>
   </div>
 
   <div class="card gold">
@@ -323,7 +323,7 @@ function loadState() {
 function saveAll() {
   state.hanMuc = parseNum(document.getElementById('han-muc').value);
   state.soDu   = parseNum(document.getElementById('so-du').value);
-  state.duNo   = parseNum(document.getElementById('du-no').value);
+  state.duNo   = Math.max(0, state.hanMuc - state.soDu); // tự động tính
   // laiTichLuy computed
   localStorage.setItem('thetindung_v2', JSON.stringify(state));
   render();
