@@ -374,8 +374,11 @@ function saveState() {
 // ── render ────────────────────────────────────────────
 function render() {
   const soDu = parseNum(document.getElementById('so-du').value);
-  const duNo = parseNum(document.getElementById('du-no').value);
   const hanMuc = parseNum(document.getElementById('han-muc').value);
+
+  // Tự động tính Dư Nợ = Hạn Mức - Số Dư (tối thiểu 0)
+  const duNo = Math.max(0, hanMuc - soDu);
+  document.getElementById('du-no').value = fmtPlain(duNo);
 
   const lai = Math.round(soDu * 0.045 / 12);
   document.getElementById('lai-display').textContent = fmt(lai);
