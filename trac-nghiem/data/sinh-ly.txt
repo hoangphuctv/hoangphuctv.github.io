@@ -1,0 +1,1912 @@
+Sinh lý
+1. Các áp suất ảnh hưởng đến quá trình lọc tại cầu thận, chọn câu sai: 
+A. Áp suất thuỷ tĩnh mao mạch cầu thận
+B. Áp suất thuỷ tĩnh trong khoang Bowman
+C. Áp suất keo trong máu
+D. Áp suất keo trong nước tiểu (*)
+---
+2. Yếu tố nào quyết định sự chênh lệch áp suất trong quá trình lọc tại cầu thận
+A. Áp suất thuỷ tĩnh mao mạch cầu thận (*)
+B. Áp suất thuỷ tĩnh trong khoang Bowman
+C. Áp suất keo trong máu
+D. Áp suất keo trong nước tiểu
+---
+3. Điều nào dưới đây đúng với màng lọc cầu thận
+A. Màng gồm 2 thành phần: chọn lọc điện tích và chọn lọc kích thước (*)
+B. Màng đc cấu tạo từ 2 lớp: lớp nội mô và lớp biểu mô cầu thận
+C. Sự chênh lệch áp suất qua màng vào khoảng 30mmHg
+D. Màng lọc cho phép hầu hết các phân tử protein đi qua
+---
+4. Các thành phần cấu tạo màng lọc cầu thận, chọn câu sa
+A. Lớp nội mô mao mạch cầu thận
+B. Lớp biểu mô chân giả
+C. Lớp biểu mô ống thận (*)
+D. Lớp màng đáy
+---
+5. Thành phần nào trong màng lọc cầu thận quyết định sự chọn lọc kích thước các phân tử đi qua? 
+A. Lớp nội mô mao mạch cầu thận 
+B. Lớp biểu mô chân giả (*)
+C. Lớp biểu mô ống thận
+D. Lớp màng đáy
+---
+6. Điều nào dưới đây gần với nguyên lý lọc tại cầu thận nhất: 
+A. Hoạt động của hệ thống bình lọc nước
+B. Cách pha cà phê bằng phin lộc (*) 
+C. Hoạt động của máy ép trái cây
+D. Cách pha trà bằng lá trà tươi
+---
+7. Trong dịch lọc qua cầu thận không có thành phần nào dưới đây?
+A. Glucose
+B. Protein
+C. Ion Na+
+D. Hồng cầu (*)
+---
+8. Đơn vị cấu tạo và chức năng của hai thận là gì?
+A. Cầu thuận
+B. Tiểu Thùy thận
+C. Nephron (*)
+D. Ống thuận
+---
+9. Chắc nào chính xác nhất được sử dụng để đánh giá độ lọc cầu thận
+A. Inulin (*)
+B. Creatinin
+C. Insulin
+D. Ure
+---
+10. Chất nào thường được sử dụng nhất trên thực tế để ước đoán độ lọc cầu thận ?
+A. Inulin
+B. Creatinin (*)
+C. Insulin
+D. Ure
+---
+11. Cách ước đoán độ lọc cầu thận nào dưới đây không cần hiệu chỉnh theo diện tích da của bệnh nhân?
+A. Ước đoán bằng creatinin trong nước tiểu 24h
+B. Ước đoán theo công thức Cockroft Gault
+C. Ước đoán theo công thức MDRD (*)
+D. Ước đoán theo công thức kinh điển (C creatinin = U x V/P)
+---
+12. Vị trí tay hấp thụ nước và muối nhiều nhất trong hệ thống ông thận là?
+A. Ống lượn gần (*)
+B. Ống lượn xa
+C. Quai Henle
+D. Ống góp
+---
+13. Sự tái hấp thu nước tại ống góp phụ thuộc vào hormon nào sau đây
+A. Aldosterone
+B. ADH (vasopressin) (*)
+C. Oxytocxin
+D. Renin
+---
+14. Chức năng chính của quai Henle tại các nephron cận tuỷ là gì
+A. Tái hấp thu nước
+B. Tại hấp thu muối
+C. Duy trì sự ưu trương tại tuỷ thận (*)
+D. Cô đặc nước tiểu
+---
+15. Tế bào biểu mô của vùng nào sau đây biệt hóa thành các tế bào vết đặc trong phức hợp cận tiểu cầu?
+A. Ống lượn gần 
+B. Ống lượn xa (*)
+C. Quai Henle
+D. Ống góp
+---
+16. Hormon nào dưới đây không do tuyến yên trước tiết ra?
+A. FSH
+B. GH 
+C. ADH (*)
+D. TSH
+---
+17. Hormon nào sau đây kích thích tuyến giáp tiết ra hormon T3, T4 
+A. ACTH
+B. TSH (*)
+C. FSH
+D. LH
+---
+18. Hormon nào có tác dụng kích thích mô tuyến vú tiết sữa khi cho con bú?
+A. Oxytocin
+B. Prolactin (*)
+C. ADH
+D. GH
+---
+19. Hormon nào kích thích sự phát triển theo chiều dài của xương qua đĩa sụn
+A. GH (*) 
+B. ACTH
+C. FSH
+D. TSH
+---
+20. Bệnh nào dưới đây gây nên do tuyến yên tăng cường bài tiết hormon tăng trưởng (GH) sau tuổi dậy thì
+A. Bệnh khổng lồ
+B. Đái tháo đường
+C. Cường giáp
+D. Bệnh to đầu chi (*)
+---
+21. Hormon tuyến giáp T3, T4 có bản chất là gì
+A. Protein
+B. Steroid
+C. Acid amin(*)
+D. Peptid
+---
+22. Dạng hormon giáp có tác động chính tại mô đích là
+A. T3 (*)
+B. T4 
+C. TSH 
+D. TRH
+---
+23. Trên thực tế người ta thường lấy máu đo nồng độ của thành phần nào dưới đây để đánh giá chức năng tuyến giáp?
+A. T3 
+B. T4 
+C. TRH
+D. fT4 (free T4)(*)
+---
+24. Một bệnh nhân đến khám vì mất ngủ, sụt cân nhiều, hay bị sốt. Bệnh nhân được bác sĩ cho lấy máu đo chức năng tuyến giáp. Kết quả cho thấy fT3 tăng, fT4 tăng, TSH giảm. Chuẩn đóan phù hợp nhất là
+A. Cường giáp
+B. Cường giáp tại tuyến giáp (*) 
+C. Cường giáp tại tuyến yên
+D. Cường giáp tại vùng hạ đồi
+---
+25. Khi hormon giáp được bài tiết quá nhiều vào máu sẽ gây nên các hiện tượng sau, ngoại trừ: 
+A. Nhịp tim nhanh
+B. Kích thích thần kinh, mất ngủ
+C. Tăng cân (*) 
+D. Dễ cáu giận
+---
+26. Hormon nào Sao đây được ứng dụng để hỗ trợ làm con hồi tử cung sau sinh trong sản khoa.
+A. Prolactin 
+B. ADH
+C. Oxytocin (*)
+D. Aldosterone
+---
+27. Sự tại hấp thu muối Na+ tại ống lượn xa và ống góp (trong các nephron) phụ thuộc vào hormon nào dưới đây
+A. Aldosterone (*)
+B. ADH 
+C. Cortisol
+D. Renin
+---
+28. Hormon nào của tuyến yên cứt thích sự bài tiết hormon cortisol tại vỏ thượng thận
+A. FSH
+B. TSH
+C. ACTH (*)
+D. LH
+---
+29. Khi vỏ thượng thận tăng tiết aldosterone Sẽ làm ảnh hưởng đến huyết áp như thế nào?
+A. Hạ huyết áp
+B. Tăng huyết áp (*) 
+C. Không làm thay đổi quyết áp
+D. Gây huyết áp kẹp
+---
+30. Hormon cortisol Đo lớp nào của võ thượng thận tiết ra:
+A. Lớp cầu
+B. Lớp bó (*) 
+C. Lớp lưới
+D. Cả ba lớp
+---
+31. Hormon nào sau đây có tác động làm hạ đường huyết ?
+A. Insulin (*)
+B. Glucagon
+C. Cortisol
+D. Somatostatin
+---
+32. Các mô đích chính của Insulin trong cơ thể là:
+A. Mô gan
+B. Mô cơ
+C. Mô mỡ
+D. Tất cả đều đúng (*)
+---
+33. Yếu tố chính tham gia điều hoà bài tiết Insulin từ đảo tuỵ là:
+A. Tuyến yên trước
+B. Nồng độ lipid máu
+C. Hormon Glucagon
+D. Nồng độ đường huyết(*)
+---
+34. Cơ quan đệm đường huyết quan trọng nhất trong cơ thể là:
+A. Tụy
+B. Ruột
+C. Cơ bắp
+D. Gan(*)
+---
+35. Insulin là hormon duy nhất trong cơ thể có chức năng làm hạ Glucose huyết
+A. Đúng(*)
+B. Sai
+---
+36. Tế bào có chức năng bài tiết hormon testosterone ở nam là?
+A. Tế bào hạt
+B. Tế bào Leydig(*)
+C. Tết bào mầm
+D. Tết bào Sertoli
+---
+37. Vai trò của hormon LH tại tinh hoàn?
+A. Kích thích tế bào Leydig tiết testosterone(*)
+B. Kích thích tế bào Sertoli tiết testosterone
+C. Kích thích tế bào Leydig sản sinh tinh trùng
+D. Kích thích tế bào Sertoli sản sinh tinh trùng
+---
+38. Ở nam giới, vô sinh được chuẩn đoán khi số lượng tinh trùng là?
+A. < 100 triệu/mL
+B. <  80 triệu/mL
+C. <  50 triệu/mL
+D. <  20 triệu/mL (*)
+---
+39. Tế bào chính yếu tạo thành hàng rào máu - tinh hoàn?
+A. Tế bào Leydig
+B. Tế bào mầm
+C. Tế bào Sertoli(*)
+D. Tế bào kẽ
+---
+40. Cổ tinh trùng có chức năng gì?
+A. Chứa vật chất di truyền bên trong
+B. Tạo thành thể cực đầu giúp phá vỡ màn trứng lúc thụ tinh
+C. Chưa nhiều ty thể năng lượng vận động đuôi(*)
+D. Chưa nhiều chất dinh dưỡng để nuôi dưỡng tinh trùng
+---
+41. Vai trò của hormon FSH ở buồng trứng?
+A. Chọn lọc và kích thích nan phát triển(*)
+B. Kích thích tạo thể vàng
+C. Kích thích sự rụng trứng
+D. Kích thích sự phân chia tế bào
+---
+42. Tế bào trứng đã trở thành giao tử thật sự trước khi tham gia thụ tinh
+A. Đúng
+B. Sai(*)
+---
+43. Trong chu kì kinh nguyệt, tương ứng với pha thể vàng tại buồng trứng thì tử cung đang biến đổi như thế nào?
+A. Đang ở pha tăng sinh
+B. Đang ở pha hành kinh
+C. Đang ở pha xuất tiết(*)
+D. Không có biến đổi tương ứng
+---
+44. Sự phản hồi ngược dương tính của estradiol ở nồng độ cao là duy nhất trong số các hormon. Sự phản hồi ngược dương tính này kích thích tuyến yên tiết hormon nào?
+A. FSH
+B. LH(*)
+C. Progesterone
+D. Androgen
+---
+45. Biện pháp tránh thai nào dưới đây ứng dụng các hormon sinh dục nữ vào việc ngăn chặn chu kỳ kinh nguyệt xảy ra?
+A. Thuốc ngừa thai "sáng hôm sau"
+B. Thuốc ngừa thai chưa progestin(*)
+C. Thuốc diệt tinh trùng
+D. Dụng cụ tử cung
+---
+46. Đường dẫn truyền từ trung ương ra ngoại biên của hệ thần kinh tự chủ gồm bao nhiêu neuron?
+A. 1
+B. 2(*)
+C. 3
+D. 4
+---
+47. Vị trí hạch ngoại biên của hệ thần kinh đối giao cảm nằm tại đâu?
+A. Là các hạch cạnh sống
+B. Tại cổ là hạch cổ trên, cổ giữa, cổ dưới
+C. Nằm gần các tạng(*)
+D. Hệ đối giao cảm không có hạch ngoại biên
+---
+48. Hệ thần kinh đối giao cảm có trung ương nằm tại đâu?
+A. Thân não
+B. Các khoanh tủy cùng S2-4
+C. A và B đều đúng (*)
+D. Chỉ A đúng
+---
+49. Chất dẫn truyền hậu hạch của hệ thần kinh giao cảm?
+A. Norepinehrine(*)
+B. Acetylcholine
+C. Serotonine
+D. Glutamate
+---
+50. Chất dẫn truyền hậu hạch của hệ thần kinh đối giao cảm?
+A. Norepinehrine
+B. Acetylcholine(*)
+C. Serotonine
+D. Glutamate
+---
+51. Một cung phản xạ tuỷ bình thường gồm mấy thành phần
+A. 2 
+B. 3
+C. 4
+D. 5 (*)
+---
+52. Phản xạ nào dưới đây là phản xạ 1 synap?
+A. Phản xạ căn cơ (*) 
+B. Phản xạ gân cơ
+C. Phản xạ gấp
+D. Phản xạ duỗi chéo
+---
+53. Cảm giác nào sau đây không phải là cảm giác sâu
+A. Rung âm thoa
+B. Phân biệt hai điểm 
+C. Vị trí tư thế
+D. Nóng lạnh (*)
+---
+54. Vùng vận động chính của vỏ não nào là
+A. Vùng số 4 (*)
+B. Vùng số 6
+C. Vùng số 10
+D. Vùng số 22
+---
+55. Vùng nào sau đây chiếm nhiều diện tích nhất vùng vỏ não vận động
+A. Vùng vận động cho chân
+B. Vùng vận động cho mặt và tay (*)
+C. Vùng vận động đầu
+D. Vùng vận động cho thân mình
+---
+56. Vùng vỏ não chịu trách nhiệm cho chức năng thị giác là
+A. Vùng trán
+B. Vùng đính
+C. Vùng chẩm (*)
+D. Vùng thái dương
+---
+57. Đường dẫn truyền từ trung ương ra ngoại biên của hệ thần kinh tự chủ gồm bao nhiêu neuron? 
+A. 1
+B. 2 (*)
+C. 3 
+D. 4
+---
+58. Điều nào sau đây đúng với hoạt động của một tuyến nội tiết
+A. Không có ống dẫn
+B. Chất tiết còn gọi là hormon  theo mạch máu đến các cơ quan khác
+C. Chất tiết Thường có tác dụng toàn thân
+D. Tất cả đều đúng (*)
+Thạch Thị Cẩm Vang
+---
+59. Nhóm hormon nào sau đây có thụ thể tại tế bào đích là thụ thể nhân
+A. Glucid
+B. Protein
+C. Steroid (*)
+D. Tất cả sai
+---
+60. Nhóm hormon steroid tác động lên tế bào đích thông qua cơ chế nào sau đây? 
+A. Hoạt hoá tế bào tạo ra AMP vòng
+B. Tác động lên DNA và quá trình tổng hợp protein (*)
+C. Hoạt hóa thụ thể trên màng tế bào
+D. Tác động lên các cơn ion trên màng tế bào
+---
+61. Hormon prolactin do tuyến nào sau đây bài tiết ra
+A. Tuyến giáp
+B. Tuyến vú
+C. Tuyến yên (*)
+D. Vùng hạ đồi
+Thạch Thị Cẩm Vang
+---
+62. Hormon aldosteron có bản chất là gì 
+A. Protein
+B. Steroid (*)
+C. Acid amin
+D. Glucid
+---
+63. Sự tạo tinh trùng tại các ống sinh tinh cần sự có mặt của hormon nào sau đây? 
+A. Testosteron
+B. FSH
+C. LH
+D. A và B đúng (*)
+Thạch Thị Cẩm Vang
+---
+64. Hormon FSH do tuyến yên tiết ra tác động chủ yếu lên tế bào nào sau đây? 
+A. Tác động trực tiếp lên các tinh trùng
+B. Tác động lên các tế bào sinh tinh lưỡng bội
+C. Tác động lên các tế bào mô kẻ Leydig
+D. Tác động lên tế bào sertoli (*)
+---
+65. Sự rụng trúng trong mỗi chu kỳ kinh nguyệt ở người nữ xảy ra tại đỉnh tiết của hormon nào sau đây
+A. FSH
+B. LH (*)
+C. Estradiol
+D. Progesterone
+---
+66. Nói về pha phát triển nang noãn, Điều nào sau đây đúng?
+A. Xảy ra trong nữa sau của chu kỳ kinh nguyệt
+B. Tương ứng với pha tăng sinh của nội mạc tử cung (*)
+C. Nồng độ progesterone tăng cao trong máu
+D. Các tuyến tử cung đầu xuất tiết, báo tử cung là dãn rộng
+Thạch Thị Cẩm Vang
+---
+67. Biện pháp Ngừa thai nào sau đây dựa trên nguyên tắc ngăn hiện tượng làm tổ của trứng đã thụ tinh ?
+A. Giao hợp gián đoạn
+B. Dùng hormon nhân tạo progestin dạng uống hằng ngày
+C. Dùng hormon progerin kết hợp với estradiol uống hằng ngày
+D. Thuốc ngừa thai nhóm Mifepristone (*)
+Thạch Thị Cẩm Vang
+---
+68. Đỉnh tiết của estradiol trong chu kì kinh nguyệt dẫn đến hiện tượng điều hòa ngược dương tính lên hormon nào sau đây tại tuyến yên
+A. FSH
+B. LH (*)
+C. ACTH
+D. Prolactin
+---
+69. Tác dụng có lợi của hormon estrogen ở nữ, chọn câu sai
+A. Ngăn ngừa loãng xương
+B. Ngăn ngừa xơ vữa động mạch
+C. Ngăn ngừa tạo huyết khối tĩnh mạch (*)
+D. Ức chế tạo mụn đầu đen
+Thạch Thị Cẩm Vang
+---
+70. Điều gì sau đây diễn ra ở người nam khi sử dụng các nhóm thuốc uống hoặc thực phẩm có chứa nhiều testosterone ? 
+A. Giảm nồng độ testosterone trong máu
+B. Kích thích tinh hoàn tăng tạo tinh trùng
+C. Kích thích tuyến yên tăng tiết FSH
+D. Giảm nồng độ testosterone trong tin hoàn (*)
+Thạch Thị Cẩm Vang
+---
+71. Hàng rào máu-tinh hoàn do tế bào nào sau đây tạo thành
+A. Các tế bào sinh tinh lưỡng bội
+B. Tế bào nội mô mạch máu
+C. Tế bào Leydig
+D. Tế bào Sertoli (*)
+Thạch Thị Cẩm Vang
+---
+72. Đỉnh tiết của hormon LH tại tuyến Yên là do quá trình điều hòa ngược dương tính từ hormon nào sau đây? 
+A. FSH
+B. Inhibin
+C. Estradiol (*) 
+D. Progesterone
+---
+73. Vị trí tái hấp nước và muối nhiều nhất trong hệ thống ống thận là:
+A. Ống lượn gần (*)
+B. Ống lượn xa
+C. Quai Henle
+D. Ống góp
+---
+74. Sự hấp thu nước tại ông góp phụ thuộc vào hormon nào sau đây?
+A. Aldosterone
+B. ADH (vasopressin) (*)
+C. Oxytocin 
+D. Renin
+---
+75. Chất nào sau đây là chất ngoại tiết của tuyến tuỵ
+A. Lipase (*)
+B. Isulin
+C. Pepsin
+D. Muối mật
+---
+76. Sau khi được bài tiết vào tá tràng trypsinogen được đổi thành dạng hoạt động là trypsin bởi chất nào sau đây? 
+A. Prosarboxypolypeptidase
+B. Lipase tuỵ
+C. Amylase tuỵ 
+D. pH kềm (*)
+---
+77. Sự thành lập micelle cần thiết cho sự hấp thu của chất nào sau đây? 
+A. Muối mật
+B. Sắt
+C. Cholesterol (*)
+D. Glucose
+---
+78. Enzyme nào sau đây có vai trò tiêu hoá protid tại ruột non? 
+A. Pepsin
+B. Tripsin (*)
+C. Amylase
+D. Lipase
+---
+79. Chất nào sau đây có vai trò quan trọng nhất trong sự điều hòa kích thích bài tiết HCl của dạ dày
+A. Secretin
+B. Epinephrine
+C. Gastrin (*)
+D. Histamin
+Thạch Thị Cẩm Vang
+---
+80. Một trong những câu nào sau đây không đúng đối với sự bài tiết của dạ dày? 
+A. Pepsin Được bài tiết dưới dạng tiền men gọi là pepsinogen
+B. Tế bào thành bài tiết cả HCl và yếu tố nội tại
+C. Giữa các bữa ăn dạ dày không có sự bài tiết dịch vị (*)
+D. Sự bài tiết HCl giảm do cách thuốc bức chế hoạt động của bơm proton
+---
+81. Các câu sau điều đúng với sự bài tiết của tuyến tụy ngoại tiết, ngoại trừ:
+A. Dịch giàu bicarbonate Được bài tiết bởi tế bào biểu mô ống dẫn dưới tác dụng của secretin
+B. Men được bài tiết bởi các tế bào nang tuyến dưới tác dụng của cholecystokinin
+C. Dịch tụy đã được bài tiết trước khi thức ăn vào đến ruột
+D. Gastrin kích thích sự bài tiết men (*)
+---
+82. Hoạt động nào sau đây làm giảm sự bài tiết HCl của dạ dày
+A. Bài tiết gastrin do niêm mạc hang vị
+B. Kích thích dây X
+C. Bài tiết somatostatin do hệ thần kinh ruột (*)
+D. căn thành dạ dày
+---
+83. Huyết tương gồm các thành phần sau, ngoại trừ:
+A. Protein
+B. Glucose
+C. Acid amin
+D. Hồng cầu (*)
+---
+84. Chất điện giải nào sau đây cần cho quá trình đông máu?
+A. Na+
+B. Ca2+ (*)
+C. K+
+D. H+
+---
+85. Thành phần nào dưới đây chiếm tỉ lệ cao nhất trong số các protein huyết tương
+A. Alpha globulin
+B. Fibrinogen
+C. Gama globulin
+D. Cả ba đều sai 
+---
+86. Protein nào dưới đây tham gia vào quá trình cầm máu?
+A. Albumin
+B. lgG
+C. Beta globulin
+D. Fibrinogen(*)
+---
+87. Thành phần cholesterol nào được xem là có lợi cho cơ thể
+A. VLDL
+B. IDL
+C. HDL (*)
+D. LDL
+---
+88. Những nguyên nhân sau đây làm giảm số lượng hồng cầu trong máu, NGOẠI TRỪ:
+A. Thiếu sắt
+B. Thiếu B12
+C. Thiếu Vitamin A(*)
+D. Thiếu yếu tố nội tại
+---
+89. Trường hợp nào sau đây gọi là đa hồng cầu sinh lý?
+A. Sống ở vùng núi cao (*)
+B. Mất nước giờ nôn ói
+C. Bệnh Vaquez
+D. Sống miền biển
+---
+90. Trong đánh giá bệnh nhân thiếu máu, Yếu tố nào sau đây quan trọng nhất?
+A. Số lượng hồng cầu
+B. Thể tích trung bình của mỗi hồng cầu
+C. Nồng độ hemoglobin trong máu(*)
+D. Dung tích hồng cầu
+---
+91. Bạch cầu nào sau đây không thuộc nhóm bạch cầu có hạt
+A. Đa nhân trung tính
+B. Đơn nhân (*)
+C. Bạch cầu ái kiềm
+D. Bạch cầu ái toan
+---
+92. Đại thực bào có nguồn gốc từ tế bào nào sau đây?
+A. Bạch cầu đơn nhân
+B. Bạch cầu Lympho
+C. Bạch cầu đa nhân(*)
+D. Bạch cầu ái toan
+---
+93. Các thành phần của hệ thần kinh vận động?
+A. Thần kinh trung ương
+B. Thần kinh vận động (dây ly tâm)
+C. Khe synape
+D. Cơ xương
+E. Tất cả đúng (*)
+---
+94. Cấu tạo của chất xám gồm mấy sừng?
+A. 1
+B. 2
+C. 3(*)
+D. 4
+---
+95. Chức năng của sừng sau:
+A. Cảm giác (*)
+B. Vận động
+C. Tự chủ
+D. Cả ba đều sai
+---
+96. Cơ quan trung ương của phản xạ?
+A. Tủy sống(*)
+B. Bộ não
+C. Sừng sau
+D. Tất cả đúng
+---
+97. Cung phản xạ tủy 1 synape gồm mấy neuron
+A. 1
+B. 2 (*)
+C. 4
+D. 4
+---
+98. Cung phản xạ đa synape gồm mấy neuron?
+A. 1
+B. 2
+C. 3 trở lên(*)
+D. Tất cả sai
+---
+99. Trong cung phản xạ thành phần nào quan trọng nhất:
+A. Neuron cảm giác
+B. Neuron trung gian (*)
+C. Neuron vận động 
+D. Tất cả sai
+---
+100. Neuron trung gian có trong phản xạ gấp - duỗi chéo
+A. Đúng(*)
+B. Sai
+---
+101. Vùng vỏ não chịu trách nhiệm cho chức năng cảm giác thân thể
+A. Vùng trán
+B. Vùng đính (*)
+C. Vùng chẩm
+D. Vùng thái dương
+---
+102. Vùng võ não chịu trách nhiệm cho chức năng cảm giác thính giác?
+A. Vùng trán
+B. Vùng đỉnh
+C. Vùng chấm
+D. Vùng thái dương(*)
+---
+103. Phản xạ gấp-duỗi chéo có tác dụng đưa cơ thể tránh xa những cách thức ban đầu?
+A. Đúng (*)
+B. Sai
+---
+104. Bó tháp phần lớn bắt chéo tại hành não
+A. Đúng(*)
+B. Sai
+---
+105. Thành phần của một cung phản xạ tủy, câu nào sai?
+A. Thụ thể cảm giác
+B. Dây thần kinh hướng tâm
+C. Neuron vận động ở võ đại não(*)
+D. Dây thần kinh ly tâm
+---
+106. Vùng số 4 Brodman nằm ở vùng nào?
+A. Vùng trán(*)
+B. Vùng đính
+C. Vùng chẩm
+D. Tất cả sai
+---
+107. Bó thần kinh nào dẫn truyền xung động thần kinh từ vỏ não xuống tới sừng trước của tủy sống?
+A. Bó tháp(*)
+B. Bó ngoại tháp
+C. Bó trám tủy
+D. Tất cả sai
+---
+108. Trung ương của hệ thần kinh giao cảm nằm ở:
+A. Sừng bên các khoanh tủy ngực
+B. ba khoanh tủy thắt lưng đầu tiên
+C. A & B Sai
+D. A & B Đúng(*)
+---
+109. Trong hệ thần kinh giao cảm, các hạch giao cảm nằm 2 bên cột sống
+A. Đúng(*)
+B. Sai
+---
+110. Chức năng của hệ thần kinh giao cảm là làm tăng hoạt động của hầu hết các cơ quan trong cơ thể, NGOẠI TRỪ:
+A. Hệ tim mạch
+B. Hệ hô hấp
+C. Hệ tiêu hóa(*)
+D. Tất cả sai
+---
+111. Trong hệ thần kinh đối giao cảm có: sợi tiền hạch dài, sợi hậu hạch ngắn?
+A. Sai
+B. Đúng(*)
+---
+112. Insulin có bản chất là
+A. Glucid
+B. Protein(*)
+C. Steroid
+D. lipid
+---
+113. Glucagon và cortisol là hormon có tác dụng làm tăng đường huyết nhiều nhất
+A. Sai
+B. Đúng(*)
+---
+114. Hormon steroid của tuyến sinh dục bao gồm?
+A. estrogen
+B. Progesterone
+C. testosterone
+D. Cả 3 điều đúng(*)
+---
+115. Hormon steroid của vỏ thượng thận
+A. Aldosterone
+B. Cortisol
+C. Aldrogen
+D. Tất cả đúng(*)
+---
+116. Hormon tan trong lipid là?
+A. Steroid
+B. T3,T4
+C. A & B đúng(*)
+D. A & B sai
+---
+117. Phân loại hormon có 2 nhóm: tan trong nước và tan trong lipid
+A. Đúng(*)
+B. Sai
+---
+118. Thụ thể màng dùng cho hormon tan trong nước:
+A. Đúng(*)
+B. Sai
+---
+119. Insulin và Glucagon là các hormon không phụ thuộc vào trục hạ đồi tuyến yên
+A. Sai
+B. Đúng (*)
+---
+120. T4 tăng, TSH tăng là do bệnh lý tại:
+A. Tuyến yên(*)
+B. Tuyến giáp
+C. A, B Đúng
+D. A, B sai
+---
+121. Trong bệnh lý tại tuyến giáp thì T4 và TSH thay đổi ngược chiều nhau(T4 tăng TSH giảm)
+A. Đúng(*)
+B. Sai
+---
+122. Chức năng chính của quai Henle là duy trì sự ưu trương tại tủy thận?
+A. Đúng(*)
+B. Sai
+---
+123. Vỏ thượng thận bao gồm?
+A. Lớp cầu (tiết aldosteron)
+B. Lớp bó (tiết cortisol)
+C. Lớp lưới (tiết Aldrogen)
+D. Cả ba lớp (*)
+---
+124. Lớp bó tiết cortisol có tác dụng làm tăng đường huyết giúp cơ thể vượt qua stress
+A. Đúng(*)
+B. Sai
+---
+125. Người bị cắt dạ dày cần phải bổ sung Vitamin B12 để tranh thiếu máu hồng cầu to
+A. Đúng(*)
+B. Sai
+---
+126. Muối mật giúp hấp thu Vitamin nào sau đây?
+A. B6
+B. B12
+C. Vitamin C
+D. Vitamin A(*)
+---
+127. Tế bào thành tiết chất nào sau đây?
+A. Gastrin
+B. cholecystokinin
+C. secretin
+D. Yếu tố nội tại(*)
+---
+128. Hoạt động nào sau đây làm tăng bài tiết HCl của dạ dày
+A. Tăng bài tiết gastrin bởi hang vị 
+B. Ngửi thấy mùi thức ăn
+C. Kích thích hệ đối giao cảm
+D. Tất cả đúng(*)
+---
+129. Enzyme nào sau đây có chức năng tiêu hóa tinh bột tại ruột non
+A. Lactase
+B. Maltase
+C. Amylase(*)
+D. Surase
+---
+130. Muối mật có chức năng giúp tiêu hóa chất béo là do
+A. là Enzyme Lipase
+B. giúp hoạt hóa Lipase
+C. Muối mật giúp nhũ tương hóa chất béo(*)
+D. Tất cả đúng 
+---
+131. Các yếu tố cần thiết cho sự tạo hồng cầu, ngoại trừ:
+A. Sắt
+B. Acid amin
+C. B1(*)
+D. Erythropoietin
+---
+132. Bình thường hồng cầu bị phá hủy nhiều nhất tại đâu
+A. Lòng mạch
+B. Lách(*)
+C. Tủy xương
+D. A, B, C Đúng
+---
+133. Thiếu máu tán huyết từ đi kèm với sự tăng nồng độ của chất nào sau đây trong máu:
+A. Acid folic
+B. Ferrtine
+C. Bilirubin(*)
+D. A B C đúng
+---
+134. Khi nói về các nguyên nhân gây giảm số lượng bạch cầu đa nhân, điều nào sau đây đúng?
+A. Suy tủy
+B. Nhiêm khuẩn nặng
+C. Thiếu B12
+D. Tất cả các câu trên đúng(*)
+---
+135. Giảm số lượng, chức năng của các yếu tố đông máu có thể gặp trong các bệnh lý sau, ngoại trừ:
+A. Suy gan
+B. Hemophilia
+C. Thiếu Vitamin K
+D. Henoch_scholein(*)
+---
+136. Tăng hoạt động của các yếu tố đông máu thường gặp trong các trường hợp nào sau đây?
+A. Xơ vữa động mạch
+B. Bất động lâu ngày(*)
+C. Đái tháo đường
+D. Hút thuốc lá
+---
+137. Nói về tế bào mast, câu nào đúng
+A. Khởi phát phản ứng dị ứng(*)
+B. phóng thích các hạt chứa dopamin, Serotonin
+C. Ức chế tổng hợp prostaglandin, leukotriene
+D. Tất cả các câu trên đúng
+---
+138. Bình thường hồng cầu được sinh ra nhiều nhất tại đâu?
+A. Tủy xương đùi
+B. Tủy xương chậu(*)
+C. Tủy xương cánh tay
+D. Tủy xương chày
+---
+139. Thiếu máu tán huyết thường đi kèm với sự tăng nồng độ của chất nào sau đây trong máu?
+A. Transferin
+B. Ferrtine
+C. Bilirubin gián tiếp(*)
+D. Bilirubin trực tiếp
+---
+140. Khi nói về các nguyên nhân gây giảm số lượng bạch cầu đa nhanh điều nào sau đây không đúng?
+A. Suy tủy
+B. Nhiễm khuẩn nặng
+C. Thiếu B12
+D. Viêm phổi cộng đồng
+---
+141. Chức năng của gan, chọn câu sai:
+A. Giúp ổn định các thành phần trong nội mô
+B. Loại bỏ các vi khuẩn hiện diện trong máu tĩnh mạch cửa
+C. Tiết dịch tiêu hóa các chất trong thức ăn như protein, Glucid, lipid(*)
+D. Dự trữ các chất dinh dưỡng và Vitamin cho cơ thể
+---
+142. Vàng da tán huyết thường gây nên kiểu tăng Bilirubin nào sau đây?
+A. Tăng Bilirubin trực tiếp
+B. Tăng Bilirubin gián tiếp(*)
+C. Tăng cả Bilirubin trực tiếp và gián tiếp
+---
+143. Tác nhân nào thường gây viêm gan ở đối tượng suy giảm miễn dịch
+A. Virus viêm gan B
+B. Virus viêm gan C
+C. Virus HIV
+D. Virus Herpes simpex (*)
+---
+144. Báng bụng (tràn dịch màng bụng) trong bệnh lý xơ gan thường do cơ chế nào sau đây gây nên?
+A. Giả tổng hợp Fibrinogen
+B. Giảm tổng hơp thrombopoietine
+C. Tăng áp lực tĩnh mạch cửa (*)
+D. Tăng thuần hoàn bàng hệ da bụng
+---
+145. Muối mật có chức năng giúp tiêu hóa chất béo và các Vitamin tan trong dâu (A, D, E, K) là do:
+A. Muối mật là một Enzyme thuộc nhóm Lipase
+B. Tạo môi trường kiềm để thuận lợi cho hoạt động của Lipase
+C. Muối mật giúp nhũ tương hóa chất béo (*)
+D. Muối mật giúp hoạt hóa Lipase
+---
+146. Bệnh nhân bị suy gan mãn tính thường có rối loạn chuyển hóa glucid theo kiểu tăng đường huyết sau bữa ăn, và hạ đường huyết khi xa bữa ăn là do:
+A. mất khả năng tổng hợp enzyme chuyển hóa glucose nội bào
+B. mất kho dự trữ glycogen (*)
+C. mất sự điều hòa từ tuyến tụy nội tiết (qua hormon Insulin và Glucagon)
+D. mất khả năng kiểm soát sự thèm ăn
+---
+147. vàng da do u đầu tụy chèn ép ống mật chủ thường gây nên kiểu tăng bilirubin nào sau đây?
+A. tăng bilirubin gián tiếp 
+B. tăng bilirubin trực tiếp (*)
+C. tăng cả bilirubin trực tiếp và gián tiếp
+D. tăng bilirubin gián tiếp trong nước tiểu 
+---
+148. kháng thể nào sau đây được phân bố trên bề mặt tế bào lympho B
+A. IgG
+B. IgE
+C. IgM
+D. IgD (*)
+---
+149. khi virus viêm gan B xâm nhập vào tế bào gan, chúng sẽ được tế bào gan trình diện trên phân tử nào sau đây
+A. HLA lớp I (*)
+B. HLA lớp II
+C. HLA lớp III
+D. HLA lớp IV
+---
+150. Mỗi kháng thể gồm hai chuỗi nhẹ (L) và hia chuỗi nặng (H). hãy xác định công thức đúng của kháng thể IgM
+A. ά2κ2
+B. γ2κ2
+C. λ2κ2
+D. μ2κ2(*)
+---
+151. Vai trò của bổ thể trong hệ thống miễn dịch, ngoại trừ: 
+A. Tạo phản ứng gắn kết với kháng nguyên đặc hiệu (*)
+B. Opsonin hoá vật thể lạ xâm nhập
+C. Hoá ứng động thu hút bạch cầu
+D. Tạo phức hợp tấn công màng, tiêu huỷ vi khuẩn
+---
+152. Dấu ấn bề mặt nào sau đây là của lympho T ?
+A. Thụ thể TCR (*)
+B. Phân tử CD2
+C. Phân tử phù hợp mô HLA II
+D. Thụ thể EBV-R
+---
+153. Cơ quan lympho trung ương nào sau đây chịu trách nhiệm giáo dục và chọn lọc lypho B trong quá trình biệt hoá ở người
+A. Tuỷ xương (*)
+B. Túi Bursa Fabricius
+C. Tuyến ức
+D. Lách
+---
+154. Chọn lọc âm tính lympho T tại tuyến ức là quá trình 
+A. Giáo dục lympho T nhận diện phân tử HLA
+B. Giáo dục lympho T nhận diện phân tử MHC
+C. Giáo dục lympho T không được nhận diện tự kháng nguyên (*)
+D. Giáo dục lympho T không được nhận diện tự kháng thể
+---
+155. Tế bào trình diện kháng nguyên cho lympho T CD8 có chứa phân tử HLA thuộc lớp nào sau đây
+A. HLA lớp I (*)
+B. HLA lớp II
+C. HLA lớp III
+D. HLA lớp IV
+---
+156. Quần thể lympho T CD4 nào dưới đây tiết ra các cytokine để kích hoạt miễn dịch tế bào
+A. Quần thể Th1 (*)
+B. Quần thể Th2
+C. Quần thể Th3
+D. Quần thể Th4
+---
+157. Tế bào nội tiết là tế bào có khả năng tiết ra sản phẩm mà sản phẩm này
+A. Đi theo ống dẫn để ra khỏi tuyến
+B. Thường chỉ tác động lên 1 loại tế bào đích
+C. Đóng vai trò là các enzyme tại mô đích
+D. Tất cả đều sai (*)
+---
+158. Chọn cặp hormon và tác dụng của hormon đó
+A. Oxytocin - kích thích tuyến vú tạo sữa
+B. Glucagon - làm tăng glucose máu (*)
+C. Insulin - làm tăng glucose máu
+D. TSH - ức chế hoạt động tuyến giáp
+---
+159. Các hormon sau đây có tác dụng làm tăng đường huyết, ngoại trừ
+A. GH
+B. Glucagon
+C. Insulin (*)
+D. Cortisol
+---
+160. Khi tuyến yên giảm tiết TSH kéo dài thì gây ra bệnh lý nào sau đây
+A. Suy sinh dục
+B. Suy giáp (*)
+C. Bệnh khổng lồ
+D. Đái tháo nhạt
+---
+161. Sự gia tăng quá mức nồng độ của kháng thể kháng thụ thể TSH trong máu gây ra bệnh lý nào sau? 
+A. Bệnh cường giáp (*)
+B. Bệnh cushing
+C. Bệnh đái tháo nhạt
+D. Bệnh đái tháo đường
+---
+162. Sự phân loại các giai đoạn bệnh thận mạn (CKD) theo hội thận học hoa kỳ (KDOQI 2002) dựa trên yếu tố nào sau đây? 
+A. Mức độ tiểu đạm
+B. Mức độ tiểu máu
+C. Độ lọc cầu thận GFR (*)
+D. Mức độ tăng huyết áp
+---
+163. Thuộc tính nào không phải của đáp ứng miễn dịch đặc hiệu
+A. Đáp ứng tức thời khi lần đầu gặp tác nhân gây bệnh (*)
+B. Tính phân biệt cấu trúc  bản thân và ngoại lai
+C. Tính đặc hiệu
+D. Có trí nhớ miễn dịch
+---
+164. Chọn đáp án không phù hợp:
+A. Hapten Không có tính đặc hiệu kháng nguyên (*)
+B. Hapten Không có tính sinh miễn dịch
+C. Hapten Chỉ có tính tái sinh miễn dịch khi được gắn lên một phân tử protein tải
+D. Hapten là một kháng nguyên không hoàn chỉnh
+---
+165. Các chất nào sau đây không có tính sinh miễn dịch, chọn câu đúng nhất
+A. Các chất dẻo, polystyrene (*)
+B. Proteine
+C. Polysaccharide
+D. Các polypeptid có cấu tạo từ axit amin có vòng thơm
+---
+166. Kháng thể nào sau đây được phân bố trên bề mặt tế bào ái kiềm? 
+A. IgG
+B. IgA
+C. IgM
+D. IgM (*)
+D. IgE (*)
+---
+167. Dấu ấn bè mặt nào sau đây là của lympho T độc tế bào? 
+A. Phân tử CD8 (*)
+B. Phân tử CD2  
+C. Phân tử phù hợp mô HLA II
+D. Phân tử CD4
+---
+168. Cơ quan lympho trung ương nào sau đây chịu trách nhiệm giáo dục và chọn lọc lympho B trong quá trình bị hóa ở tim
+A. Tủy xương
+B. Túi Bursa Fabricius (*)
+C. Tuyến mức
+D. Lách
+---
+169. Chọn lọc dương tính lympho T tải tuyến ức là quá trình
+A. Giáo dục lympho T Nhận diện phân tử CD4
+B. Giáo dục lympho T Nhận diện phân tử HLA (*)
+C. Giáo dục lympho T Không được nhận diện tự kháng nguyên
+D. Giáo dục lympho T Không được nhận diện tự kháng thể
+---
+170. Tế bào nào sau đây tiết ra yếu tố nội tại tại niêm mạc dạ dày
+A. Tế bào thành (*)
+B. Tế bào chính
+C. Tế bào nhày 
+D. Tế bào G
+---
+171. Các thụ thể có tác dụng kích thích tiết acid HCl tại niêm mạc dạ dày, ngoại trừ
+A. Thụ thể acetylcholin (dây thần kinh X)
+B. Thụ thể Gastrin
+C. Thụ thể Histamin (H2)
+D. Thụ thể somatostatin (*)
+---
+172. Cơ chế nào sau đây gây ra tiêu chảy là do sự tấn công trực tiếp của vi khuẩn:
+A. Tiêu chảy thẩm thấu
+B. Tiêu chảy tiết dịch
+C. Tiêu chảy do tăng Nhu động thuộc
+D. Tiêu chảy do tổn thương niêm mạc ruột (*)
+---
+173. Gang bài tiết chất nào sau đây vào tá tràng
+A. Gastrin
+B. Lipase
+C. Cholesterol (*)
+D. Histamine
+---
+174. Amylase nước bọt là men tiêu hóa của chất nào sau đây?
+A. Sucrose
+B. Glucose 
+C. Maltose
+D. Tinh bột(*)
+---
+175. Cấu trúc nào dưới đây quyết định chính yếu sự chọn lọc kích thước của các phân tử đi qua màng lọc cầu thận
+A. Lớp tế bào nội mô mao mạch cầu thận
+B. Lớp màng đáy
+C. Lớp tế bào biểu mô có chân (*) 
+D. Tất cả đều đúng
+---
+176. Chắc nào sau đây thường được sử dụng để ước đoán độ lộc cầu thận (GFR)? 
+A. Creatinin (*)
+B. Inulin
+C. Ure 
+D. PAH
+---
+177. Tế bào nào sau đây tiết ra men pepsinogen tại niêm mạc dạ dày? 
+A. Tế bào chính (*)
+B. Tế bào thành
+C. Tế bào nhày
+D. Tế bào G
+---
+178. Dạng tắc ruột nào sau đây kèm theo tắc cả mạch máu nuôi ruột
+A. Tắc ruột cơ năng
+B. Tắc ruột do bít
+C. Tắc ruột do u bên ngoài chèn ép
+D. Tắc ruột do thắt (*)
+---
+179. Nguyên nhân hàng đầu gây suy thận mạn trên thế giới hiện nay là gì? 
+A. Bệnh lý cầu thận
+B. Sỏi thận
+C. Đái tháo đường (*)
+D. Hẹp động mạch thận
+---
+180. Điều kiện thúc đẩy hình thành các trụ niệu bất thường là gì
+A. Mất nhiều protein qua nước tiểu (*)
+B. Mất nhiều glucose qua nước tiểu
+C. Mất nhiều natri qua nước tiểu
+D. Mất nhiều kali qua nước tiểu
+---
+1001.  Các hiện tượng sau là biểu hiện của đáp ứng miễn dịch ngoại trừ
+A.  Hiện tượng viêm
+B.  Choáng phản vệ do tiêm Penicillin
+C.  Choáng do xuất huyết (*)
+D.  Phản ứng với lao tố
+E.  Tiêm chủng phòng uốn ván tạo  được đề kháng
+---
+1002. Đáp ứng miễn dịch và vật chủ, ngoại trừ:
+A.  Đáp ứng miễn dịch đặc hiệu luôn luôn có lợi cho vật chủ (*)
+B.  Đáp ứng miễn dịch đặc hiệu có thể gây ra các tai biến chết người
+C.  Đáp ứng miễn dịch đặc hiệu có khi chống lại KN của chính vật chủ
+D.  Đáp ứng miễn dịch có thể hữu ích trong đề kháng ung thư
+E.  Tùy hoàn cảnh đáp ứng miễn dịch có thể có lợi hoặc có hại cho vật chủ
+---
+1003. Một BN trước khi tiêm HT chống uốn ván, thầy thuốc hỏi trước đây đã tiêm HT chống uốn ván hay chưa, sở dĩ như vậy là vì:
+A.  Nếu đã tiêm rùi thì không tiêm nữa
+B.  Nếu đã tiêm thì nay có trí nhớ miễn dịch chống uốn ván
+C.  Nếu đã tiêm sợ nhờn thuốc nay phải tăng liều
+D.  Nếu đã tiêm nay tiêm lại sợ choáng phản vệ (*)
+E.  Tất cả đề đúng
+---
+1004. Tế bào tham gia vào đáp ứng miễn dịch đặc hiệu:
+A.  TB mầm ở tủy xương
+B.  Các đơn nhân thực bào
+C.  TB mast
+D.  Các lympho bào (tế bào T) (*)
+E.  Tế bào TK
+---
+1005. Tế bào tham gia vào đáp ứng miễn dịch không đặc hiệu:
+A.  TB mast
+B.  Bạch cầu ái kiềm, tương bào
+C.  TB mast, Bạch cầu ái kiểm, BC đa nhân trung tính (*)
+D.  Tế bào trí nhớ
+E.  Tế bào trí nhớ, tế bào mast
+---
+1006.  Tế bào T có đặc điểm sau, ngoại trừ:
+A.  Được biệt hóa ở Thymus
+B.  Có Ig bề mặt (*)
+C.  Có TCR
+D.  Có dấu ấn CD4 hay CD8
+E.  Có sự sắp xếp lại các gen V, D, J và V, J
+---
+1007. Tế bào B có đặc điểm, ngoại trừ:
+A.  Có phân tử HLA lớp II trên bề mặt
+B.  Có nhiều ở lớp vỏ nông của hạch
+C.  Có nhiều ở lớp vỏ sâu của hạch (*)
+D.  Có thụ thể với Fc (FcR) bề mặt
+E.  Tất cả đều đúng
+---
+1008. Cơ quan lympho trung ương là:
+A.  Lá lách
+B.  Tủy xương
+C.  Tuyến Thymus
+D.  Hạch bạch huyết (*)
+E.  Mảng Payer
+---
+1009. Thành phần dịch thể của đáp ứng miễn dịch không đặc hiệu, ngoại trừ:
+A.  Interferon
+B.  CRP
+C.  Mảnh Fc (*)
+D.  Bổ thể
+E.  Lysozyme
+---
+1010. KN hoàn chỉnh thường:
+A.  Chỉ có 1 epitop cho mỗi phân tử kháng nguyên
+B.  Có nhiều epitop giống nhau trên một phân tử
+C.  Có nhiều epitop có đặc hiệu khác nhau (*)
+D.  Có khả năng trực tiếp hoạt tác lympho bào T ở nguyên trạng
+E.  Di chuyển được vào thymus khi gây miễn dịch
+---
+1011. Khi gây miễn dịch bằng hapten thì:
+A.  Cơ thể không tạo được đáp ứng miễn dịch chống hapten (*)
+B.  Liều hapten cao sẽ gây được đáp ứng miễn dịch
+C.  Tiêm tĩnh mạch sẽ gây được đáp ứng miễn dịch
+D.  Tiêm vào hạch bạch tuyết sẽ tạo được đáp ứng miễn dịch
+E.  Cho thêm tá dược miễn dịch sẽ tạo được đáp ứng miễn dịch
+---
+1012. Phản ứng chéo giữa 2 kháng nguyên xảy ra khi:
+A.  Chúng có các epitop hoàn toàn giống nhau
+B.  Chúng chia sẻ với nhau một số đặc hiệu epitop (*)
+C.  Khi chúng có khả năng hoạt hóa tế bào T
+D.  Khi chúng được được trình diện bởi đơn nhân thực bào
+E.  Khi chúng bị bắt giữ đồng thời bởi đơn nhân
+---
+1013. Các thuộc tính sau đây thường làm cho một chất có tính sinh miễn dịch mạnh khi tiêm vào 1 cơ thể:
+A.  Khối lượng phân tử cao
+B.  Có cấu tạo phức tạp
+C.  Có khả năng được phân hủy trong cơ thể
+D.  Tất cả các tính chất trên
+E.  Tất cả các tính chất trên là cần song chưa đủ (*)
+---
+1014. Biến độc tố thành giải độc tố (độc tố bạch hầu, uốn ván…) để làm vacin tức là:
+A.  Làm cho độc tố tăng tính sinh miễn dịch
+B.  Làm giảm hay mất tính độc mà vẫn giữ được tính sinh miễn dịch đặc hiệu (*)
+C.  Làm thúc đẩy miễn dịch tự nhiên
+D.  Làm tăng hiện tượng thực bào
+E.  Làm tăng sinh tế bào lympho
+---
+1015. Các lớp Globulin miễn dịch có khả năng hoạt hóa bổ thể khi kết hợp với KN:
+A.  Lớp IgG, lớp IgM (*)
+B.  Lớp IgE, lớp IgA
+C.  Lớp IgD, lớp IgE
+D.  Lớp IgG, lớp IgA
+E.  Lớp IgE, lớp IgM
+---
+1016. Dạng sau đây từ phân tử kháng thể thuộc lớp IgG có khả năng Opsonin hóa:
+A.  Fab
+B.  F(ab)2
+C.  Fv
+D.  Fc
+E.  Phân tử IgG nguyên vẹn (*)
+---
+1017. Các lớp Globulin miễn dịch tự do có thể trên tế bào mast và bạch cầu ái kiểm:
+A.  IgG
+B.  IgE (*)
+C.  IgM
+D.  IgD
+E.  IgA
+---
+1018. Các lớp Ig có chứa thành phần dưới lớp là:
+A.  IgE, IgD
+B.  IgA, IgG (*)
+C.  IgM, IgG
+D.  IgD, IgA
+E.  IgG, IgE
+---
+1019. Lớp IgM có khả năng hoạt hóa bổ thể mạnh nhất khi kết hợp với kháng nguyên là do:
+A.  IgM là lớp chỉ có trong lòng mạch
+B.  IgM là lớp được tổng hợp đầu tiên trong đáp ứng miễn dịch
+C.  IgM ở dạng 5 phân tử (*)
+D.  IgM có trọng lượng phân tử cao
+E.  IgM có chuỗi phụ J
+---
+1020. Đặc điểm tổng quát của hệ thống bổ thể:
+A.  Thuộc thành phần của đáp ứng miễn dịch đặc hiệu
+B.  Chỉ được hoạt hóa khi có sự kết hợp kháng nguyên – kháng thể
+C.  Gồm rất nhiều yếu tố có hoạt tính men khi hoạt hóa
+D.  Có thể hoạt hóa bởi tất cả các lớp Ig khi kết hợp với kháng nguyên đặc hiệu
+E.  Có mặt bình thường trong huyết tương ở dạng không hoạt động (*)
+---
+1021. Khi truyền nhầm nhóm máu hệ ABO có xảy ra hiện tượng tán huyết, cơ chế của hiện tượng tán huyết là do:
+A.  Kháng thể đặc hiệu chống kháng nguyên hệ ABO
+B.  Do hoạt hóa hệ thống bổ thể theo đường tắt
+C.  Do hoạt hóa hệ thống bổ thể theo đường kinh điển
+D.  Do hồng cầu bị thực bào theo cơ chế Opspnine hóa
+E.  Do phối hợp giữa các thành phần của đáp ứng miễn dịch đặc hiệu và không đặc hiệu (*)
+---
+1022. Nồng độ glucose trong đường huyết bình thường là:
+A.  80-120 mg% hay 4-6 mmol/l (*)
+B.  80-120 mg% hay 8-10 mmol/l
+C.  100-140 mg% hay 4-6 mmol/l
+D.  100-140 mg% hay 8-10 mmol/l
+E.  Tất cả đều sai
+---
+1023. Đường huyết được điều hòa bởi:
+A.  Hệ tuần hoàn
+B.  Gan
+C.  Hệ thần kinh
+D.  A, B, E đúng
+E.  Hệ nội tiết
+---
+1024. Insulin:
+A.  Do tế bào α tụy tiết ra
+B.  Do tế bào β tụy tiết ra (*)
+C.  Do tế bào tụy tiết ra
+D.  Do tế bào ε tụy tiết ra
+E.  Do tế bào γ tụy tiết ra
+---
+1025. Hậu quả của rối loạn chuyển hóa glucid là
+A.  Đường huyết tăng hay giảm (*)
+B.  Shock
+C.  Phù
+D.  Viêm phổi
+E.  Viêm gan
+---
+1026. Chất nào sau đây là thể ceton:
+A.  Acetic acid
+B.  Acetoacetic acid (*)
+C.  Chlorhydric acid
+D.  Butyric acid
+E.  Becetone
+---
+1027. Trong bệnh tiểu đường, đường huyết tăng là do:
+A.  Tuy giảm tộng hợp và tiết Insulin
+B.  Tế bào đích kém nhạy cảm với Insulin
+C.  Chế độ ăn quá nhiều nên tế bào không sử dụng hết
+D.  A và B đúng (*)
+E.  A và C đúng
+---
+1028. Triệu chứng tiểu nhiều của bệnh tiểu đường là do:
+A.  BN uống nhiều nước
+B.  Do đường huyết tăng
+C.  Do đường huyết vượt ngưỡng của thận, glucose bị thải kéo theo nước (*)
+D.  Do đường có sẵn trong nước tiểu gây lợi tiểu thẩm thấu
+E.  Do độ lọc cầu thận nặng
+---
+1029. Triệu chứng uống nhiều trong bệnh tiểu đường là do:
+A.  BN ăn nhiều nên khát
+B.  Do tiểu nhiều gây mất nước và điện giai (*)
+C.  Do đường trong máu cao
+D.  Do yếu tố thần kinh nội tiết
+E.  Do rối loạn cân bằng acid-base
+---
+1030. Triệu chứng ăn nhiều trong bệnh tiểu đường là do:
+A.  Tế bào không sử dụng được glucose (*)
+B.  BN tiểu đường
+C.  BN uống nhiều nước
+D.  Đường trong máu cao
+E.  Cơ thể đòi hỏi nhiều năng lượng
+---
+1031. Ngoài tiểu nhiều, uống nhiều, ăn nhiều, tiểu đường con một triệu chứng điển hình nữa là:
+A.  Nhanh chóng lên cân
+B.  Gầy nhanh (*)
+C.  Phù
+D.  Viêm thân
+E.  Sốt
+---
+1032. Biến chứng trước mắt của bệnh tiểu đường:
+A.  Nhiễm trùng, nhiễm toan, hôn mê tăng thẩm thấu (*)
+B.  Biến chứng thần kinh
+C.  Suy thận
+D.  Xơ mạch
+E.  Tất cả đều đúng
+---
+1033. Hôn mê tăng thẩm thấu do:
+A.  Lợi tiểu thẩm thấu
+B.  BN uống quá nhiều nước
+C.  BN ăn quá nhiều
+D.  BN béo phì
+E.  BN khôn uống đủ nước bù nước mất (*)
+---
+1034. Biến chứng xơ mạch vành ở BN tiểu đường:
+A.  Tăng đường huyết
+B.  Tăng insulin huyết
+C.  Tăng VLDL
+D.  Giảm HDL cholesterol
+E.  Tất cả đều đúng (*)
+---
+1035. Mục tiêu của điều trị tiểu đường là:
+A.  Duy trì đường huyết càng gần mức bình thường càng tốt (*)
+B.  Phòng ngừa viêm phổi
+C.  Tránh biến chứng viêm thận
+D.  Giúp BN lên cân
+E.  Tránh biến chứng nhiễm trùng
+---
+1036. Vấn đề hàng đầu trong điều trị tiểu đường:
+A.  Insulin
+B.  Sulfonylureas
+C.  Chế độ ăn (*)
+D.  Vận động
+E.  Miễn dịch trị liệu
+---
+1037. Nguyên nhân nào sau đây gây mất nước do cơ chề ngoài thận
+A.  Suy thận mãn
+B.  Suy thận cấp
+C.  Hội chứng Bartter
+D.  Thận đa nang
+E.  Xuất huyết (*)
+---
+1038. Nguyên nhân nào sau đây là nguyên nhân thường gặp nhất gây giảm thể tích đáng kể:
+A.  Xuất huyết
+B.  Tiêu chảy (*)
+C.  Tắc ruột
+D.  Nôn
+E.  Đổ mồ hôi
+---
+1039. Phù xảy ra trong trường hợp nào sau đây:
+A.  Giảm tính thấm thành mạch
+B.  Tăng áp suất keo
+C.  Giảm áp suất thủy tĩnh
+D.  Giảm áp suất thẩm thấu
+E.  Tắc mạch bạch huyết (*)
+---
+1040. Rối loạn vận mạch tại ổ viêm:
+A.  Tại nơi tổn thương hiện tượng co mạch lúc đầu là do tác động của chất gây co mạch
+B.  Chất gây dãn mạch trong viêm chủ yếu là histamine
+C.  Hiện tượng xung huyết động mạch và tĩnh mạch chủ yếu là do các chất gây dãn mạch
+D.  Ứ trệ tuần hoàn trong viêm là do các mạch máu bị tổn thương, đông máu, tắc mạch (*)
+E.  Dãn mạch và ứ trệ tuần hoàn là một phản ứng có lợi trong viêm
+---
+1041. Thành phần của dịch viêm
+A.  Thành phần chủ yếu của dịch viêm là Protein
+B.  Protein trong dịch viêm nhiều nên phản ứng Rivalta (+), lúc đó protein trong dịch viêm đã vượt 15mg/l
+C.  Dịch viêm là dịch thấm vì các chất gây dãn mạch làm tăng tính thấm thành mạch (*)
+D.  Dịch viêm có kháng thể, bạch cầu, fibrinogene nên luôn có lợi vì có thể tiêu diệt yếu tố gây viêm
+E.  Tất cả đều sai
+---
+1042. Quan niệm nào đúng nhất:
+A.  Viêm là 1 phản ứng phức tạp xảy ra khi có nhiễm khuẩn
+B.  Viêm bao gồm các triệu chứng sưng, đỏ, nóng, đau, trong đó đau là khó chịu nhất
+C.  Viêm là 1 phản ứng nhằm sửa chữa các tổn thương nhằm bảo vệ cơ thể (*)
+D.  Viêm có hại vì gây sốt đau mất ngủ sụt cân
+E.  Viêm là 1 phản ứng tại chỗ có biểu hiện toàn thân
+---
+1043. Nguyên nhân gây viêm:
+A.  Viêm có thể do các nguyên nhân từ bên ngoài như vật lý, hóa học, sinh học
+B.  Viêm có thể do chấn thương hay do tắc nghẽn mạch máu
+C.  Viêm có thể do xuất huyết
+D.  Viêm có thể ghây ra do sự kết hợp giữa kháng nguyên và kháng thể tương ứng.
+E.  Tất cả đều đúng (*)
+---
+1044. Yếu tố gây sốt:
+A.  Các yếu tố gây sốt tác động lên trung tâm điều nhiệt làm sản xuất ra arachi-donic acid, lúc đó điểm điều nhiệt sẽ thay đổi
+B.  Virus, VK và các kháng nguyên đều có thể gây sốt (*)
+C.  Các tế bào bứu có thể gây sốt do tác động trực tiếp lên trung tâm điều nhiệt
+D.  Các chất từ ổ viêm và ổ hoại tử có thể hoạt hóa tế bào lympho gây sốt
+E.  Tất cả đều sai
+---
+1045. Trong cơ chế phát sốt:
+A.  Điểm điều nhiệt bị thay đổi dưới tác động của nội độc tố từ vi khuẩn
+B.  Sự tăng sản nhiệt có thể khởi phát bởi CRF từ vùng dưới đồi
+C.  Khi bắt đầu sốt có tình trạng dãn mạch ngoại vi giúp gia tăng sản nhiệt (*)
+D.  Lau mát là cách làm giảm thân nhiệt hữu hiệu nhất
+E.  Tất cả đều sai
+---
+1046. Hiện tượng phì đại tim là do:
+A. Glucagon
+B. Insulin
+C. GH
+D. Epinephrine
+E. Nor Epinephrine (*)
+---
+1047. Trong suy tim, phì đại tim do:
+A. Làcơchếbùtrừ
+B. Do tăng số đơn vị sarcomere
+C. Giúpsứccocơtimbìnhthường
+D. Gâyđaungựcdomáunuôicơtimkhôngđủ
+E. Tất cả đều đúng (*)
+---
+1048. Bản chất lâm sàng của suy tim trái là:
+A. Ứ máu ngoại vi
+B. Ứmáuởphổi(*)
+C. Thiếumáunuôitim
+D. Giảm thông khí tốt
+E. Tất cả đều đúng
+---
+1049. Đặc điểm của triệu chứng khó thở trong suy tim trái:
+A. Khó thở khi cố gắng sức
+B. Khó thở khi nằm
+C. Khó thở khi ở tư thế đứng
+D. Khó thở về đêm
+E. Tất cả đều đúng (*)
+---
+1050. Bản chất cơ chế biểu hiện lâm sàng của suy tim phải:
+A. Ứ máu ngoại vi (*)
+B. Ứ máu ở phổi
+C. Thiếu máu nuôi tim
+D. Khó thở về đêm
+E. Tất cả đề sai
+---
+1051. Tình trạng gan trong suy tim phải:
+A. Ứ máu làm gan to
+B. Khi điều trị làm tim phải hoạt động tốt thì gan nhỏ lại
+C. Ứ máu kéo dài dẫn đến xơ gan
+D. A, C đúng
+E. A,B,C đúng (*)
+---
+1052. Cơ chế gây giảm bài tiết nước tiểu trong suy tim:
+A. Máu giảm đến thận
+B. Giảm độ lọc cầu thận
+C. Cường Aldosterone thứ phát
+D. Tăng giữ muối và nước
+E. Tất cả đều đúng (*)
+---
+1053. Cơ chế gây sưng phù trong suy tim phải là:
+A. Tăng tính thấm thành mạch.
+B. Tăng áp suất thủy tĩnh (*)
+C. Giảm áp lực keo
+D. Giảm lọc cầu thận
+E. Tất cả đề sai
+---
+1054. Các yếu tố sau đây ảnh hưởng đến huyết áp:
+A. Lưu lượng tim và sức cản ngoại vi (*)
+B. Thể tích máu về tim và lượng oxy bảo hòa
+C. Sức co cơ tim và thể tích thông khí ở phổi
+D. Tốc độ của máu và glucosen trong máu
+E. Tất cả đều sai
+---
+1055. Các yếu tố dẫn đến cao huyết áp do rối loạn chuyển hóa mỡ:
+A. Giảm cholesteron máu
+B. Bất thường thụ thể LDL (*)
+C. Giảm LDL trong máu
+D. Tăng LDL trong máu
+E. Giảm sử dụng acid béo tự do
+---
+1056. U tủy thượng thận gây huyết áp cao do:
+A. Tăng tiết catecholamine
+B. Tăng sức cản ngoại vị
+C. Tăng lưu lượng tim
+D. B và C đúng
+E. A B C đúng (*)
+---
+1057. Bệnh CHA tiên phát chủ yếu:
+A. Cơ chế rối loạn thần kinh (*)
+B. Cơ chế rối loạn tiêu hóa
+C. Cơ chế rối loạn tiết niệu
+D. Cơ chế rối loạn sinh dục
+E. Tất cả đều sai
+---
+1058. CHA có thể gây 1 số biến chứng:
+A. Phì đại tim
+B. Suy tim
+C. TBMMN
+D. NMCT
+E. Tất cả đều đúng (*)
+---
+1059. CHA là 1 triệu chứng nguy hiểm vì:
+A. BN sẽ ngất
+B. BN sẽ bị thiếu máu
+C. BN sẽ bị rối loạn thần kinh
+D. Máu không đủ nuôi các mô, đặ biệt là tim và não (*)
+E. Dẫn đến NMCT
+---
+1060. Tế bào có khả năng trình diện KN cho Lympho TCD4 là những tế bào nào sau đây,
+ngoại trừ:
+A. Đai thực bào
+B. Lympho B
+C. Lympho T (*)
+D. Tế bào xòe ngón tay
+E. Tế bào Lagerhans
+---
+1061. Thành phần dịch thể duy nhất của miễn dịch đặc hiệu là:
+A. Interferon
+B. Lysozyme
+C. Protein C phản ứng
+D. Bổ thể
+E. Kháng thể (*)
+---
+1062. Kháng thể qua được nhau thai là:
+A. IgA
+B. IgD
+C. IgM
+D. IgG (*)
+E. IgE
+---
+1063. Tế bào đóng vai trò trung tâm trong đáp ứng miễn dịch đặ hiệu là:
+A. TCD3+
+B. TCD4+ (*)
+C. TCD5+
+D. TCD6+
+E. TCD7+
+---
+1064. Các tế bào sau tham gia đáp ứng miễn dịch không đặc hiệu, ngoại trừ:
+A. Bạch cầu hạt
+B. Bạch cầu đơn nhân
+C. Tế bào mast
+D. Lymphocyte T,B (*)
+E. Tế bào chết tự nhiên
+---
+1065. Rối loạn chức năng và chuyển hóa xảy ra khi phát sốt là:
+A. Tăng nhịp tim (*)
+B. Giảm thông khí
+C. Giảm thái hóa protein từ cơ
+D. Tăng dự trữ glycogen
+E. Giảm nhu cầu sử dụng vitamin
+---
+1066. Trong rối loạn vận mạch tại ổ viêm, hiện tượng xảy ra sớm nhất là:
+A. Ứ trệ tuần hoàn
+B. Sung huyết tĩnh mạch
+C. Sung huyết động mạch
+D. Co mạch (*)
+E. Dãn mạch
+---
+1067. Kháng thể tham gia vào phản ứng quá mẫn là:
+A. IgA
+B. IgD
+C. IgM
+D. IgG
+E. IgE (*)
+---
+1068. Chức năng của nhóm MHC I và II là:
+A. Phòng ngừa thải loại mảnh ghép
+B. Trình diện kháng nguyên cho tế bào B
+C. Trình diện kháng nguyên cho tế bào T (*)
+D. Vận dụng kháng nguyên đến tế bào trình diện kháng nguyên
+E. Xử lý kháng nguyên
+---
+1069. Trong quá trình hoạt hóa bổ thể, con đường tắt và con đường lectin hoàn toàn giống
+nhau ở giai đoạn nào:
+A. Hoạt tác
+B. Định vị
+C. Khuếch tán
+D. Đục thủng màng (*)
+E. Tất cả đề sai
+---
+1070. Các kháng thể tham gia hoạt hóa bổ thể theo con đường cổ điển
+A. Ige, IgA
+B. IgM, IgG (*)
+C. IgA, IgG
+D. IgD, IgM
+E. Tất cả đều đúng
+---
+1101.  Điều nào sau đây đúng với hoạt động của một tuyến nội tiết:
+A.  Có thể có ống dẫn
+B.  Chất tiết gọi là pherormon
+C.  Chất tiết thường có tác động cục bộ, tại chỗ
+D.  Chất tiết theo mạch máu đến các cơ quan khác (*)
+---
+1102.  Nhóm hormon nào sau đây có thụ thể tại tế bào đích là thụ thể nhân
+A.  Insulin
+B.  ACTH (*)
+C.  Hormon giáp
+D.  Prolactin
+---
+1103.  Nhóm hormon steroid tác động lên tế bào đích thông qua cơ chế nào sau đây
+A.  Hoạt hóa tế bào tạo ra AMP vòng
+B.  Tác động lên DNA và quá trình tổng hợp protein (*)
+C.  Hoạt hóa thụ thể trên màng tế bào
+D.  Tác động lên các kênh ion trên màng tế bào
+---
+1104.  Hormon nào sau đây được ứng dụng để phòng ngừa băng huyết sau sinh?
+A.  Prolactin
+B.  ACTH
+C.  ADH
+D.  Oxytocin (*)
+---
+1105.  Hormon nào sau đây có tác động làm tăng sự đào thải K+ ra khỏi tế bào?
+A.  Aldosterone (*)
+B.  Insulin
+C.  Cortisol
+D.  Adrenaline
+---
+1106.  Hormon PIH do tuyến nào sau đây tiết ra?
+A.  Tuyến giáp
+B.  Tuyến vú
+C.  Tuyến yên (*)
+D.  Vùng hạ đồi
+---
+1107.  Hormon nào sau đây có vai trò kích thích tuyến vỏ thượng thận tiết ra cortisol
+A.  ACTH (*)
+B.  TSH
+C.  LH
+D.  FSH
+---
+1108.  Hormon insulin có bản chất là gì:
+A.  Protein (*)
+B.  Steroid
+C.  Acid amin
+D.  Glucid
+---
+1109.  Hormon nào dưới đây KHÔNG do tuyến yên trước tiết ra ?
+A.  FSH
+B.  GH
+C.  ADH (*)
+D.  TSH
+---
+1110. Hormon nào sau đây tăng cao trong 3 tháng đầu của thai kỳ
+A.  Oxytocin
+B.  Prolactin
+C.  Estrogen
+D.  Progesterone (*)
+---
+1111. Sự tạo tinh trùng tại các ống sinh tinh cần sự có mặt của hormon nào sau đây ?
+A.  Testosterone và FSH (*)
+B.  FSH và LH
+C.   Testosterone và LH
+D.  LH và ACTH
+---
+1112. Hormon FSH do tuyến yên tiết ra có tác động chủ yếu lên tế bào nào sau đây ?
+A.  Tác động trực tiếp lên các tinh trùng
+B.  Tác động lên các tế bào sinh tinh lưỡng bội
+C.  Tác động lên các tế bào mô kẽ Leydig
+D.  Tác động lên tế bào Sertoli (*)
+---
+1113. Sự rụng trứng trong mỗi chu kỳ kinh nguyệt xảy ra tại đỉnh tiết của hormon nào sau đây ?
+A.  FSH
+B.  LH (*)
+C.  Estradiol
+D.  Progesterone
+---
+1114. Nói về pha nang noãn, điều nào sau đây là đúng :
+A.  Xảy ra trong nửa sau của chu kỳ kinh nguyệt
+B.  Tương ứng với pha tăng sinh của nội mạc tử cung (*)
+C.  Nồng độ progesterone tăng cao trong máu
+D.  Các tuyến tử cung bắt đầu xuất tiết, mạch máu tử cung dãn rộng
+---
+1115. Biện pháp ngừa thai nào KHÔNG dựa trên nguyên tắc ngăn tinh trùng gặp trứng
+A.  Giao hợp gián đoạn
+B.  Dùng hormon nhân tạo progestin dạng uống hằng ngày
+C.  Dùng hormon progerin kết hợp với estradiol uống hàng ngày
+D.  Thuốc ngừa thai nhóm Mifepristone (*)
+---
+1116. Đỉnh tiết estradiol dẫn đến điều hòa ngược dương tính lên hormon nào tại tuyến yên?
+A.  FSH
+B.  LH (*)
+C.  ACTH
+D.  Prolactin
+---
+1117. Tác dụng có lợi của hormon estrogen ở nữ, CHỌN CÂU SAI:
+A.  Ngăn ngùa loãng xương
+B.  Ngăn ngừa xơ vữa động mạch
+C.  Ức chế tạo huyết khối tĩnh mạch (*)
+D.  Ức chế tạo mụn đầu đen
+---
+1118. Điều gì diễn ra ở người nam khi sử dụng các nhóm thuốc uống chứa nhiều testoterone
+A.  Giảm testoterone trong máu
+B.  Kích thích tinh hoàn tăng tạo tinh trùng
+C.  Kích thích tuyến yên tăng tiết FSH
+D.  Giảm testoterone tại tinh hoàn (*)
+---
+1119. Hàng rào máu – tinh hoàn chủ yếu do tế bào nào sau đây tạo thành:
+A.  Các tế bào sinh tinh lưỡng bội
+B.  Tế bào nội mô mạch máu
+C.  Tế bào Leydig
+D.  Tế bào Sertoli (*)
+---
+1120. Hormon nào sau đây tham gia chủ yếu vào quá trình chiêu mộ các nang noãn lần 2?
+A.  FSH
+B.  LH
+C.  Estradiol (*)
+D.  Progesterone
+---
+1121. Huyết tương gồm các thành phần sau, NGOẠI TRỪ:
+A.  Acid béo
+B.  Glucose
+C.  Vitamin
+D.  Tiểu cầu (*)
+---
+1122. Chất điện giải nào sau đây cần để duy trì áp suất thma63 thấu máu?
+A.  Na+ (*)
+B.  Ca2+
+C.  K+
+D.  H+
+---
+1123. Thành phần nào dưới đây chiếm tỷ lệ cao nhất trong số các protein huyết tương?
+A.  Alpha globulon
+B.  Fibrinogen
+C.  Gamma globulin
+D.  Albumin (*)
+---
+1124. Protein nào dưới đây tham gia vào quá trình đông cầm máu
+A.  Albumin (*)
+B.  Gamma globulin
+C.  Beta globulin
+D.  Thrombin
+---
+1125. Thành phần cholesteron nào được xem là có lợi cho phòng ngừa các bệnh tim mạch?
+A.  VLDL
+B.  IDH
+C.  HDL (*)
+D.  LDL
+---
+1126. Những nguyên nhân nào sau đây làm giảm số lượng hồng cầu trong máu ngoại trừ
+A.  Thiếu sắt
+B.  Thiếu B12
+C.  Thiếu vitamin A (*)
+D.  Thiếu yếu tố nội tại.
+---
+1127. Trường hợp nào sau đây gọi là đa hồng cầu sinh lý?
+A.  Sống ở vùng núi cao (*)
+B.  Mất nước do nôn ói
+C.  Bệnh Vaquez
+D.  Sống ở miền biển
+---
+1128. Trong đánh giá BN thiếu máu, yếu tố nào sau đây quan trọng nhất?
+A.  Số lượng hồng cầu
+B.  Thể tích trung bình của mỗi hồng cầu
+C.  Nồng độ hemoglobin trong máu (*)
+D.  Dung tích hồng cầu
+---
+1129. Bạch cầu nào sau đây không thuộc nhóm bạch cầu có hạt
+A.  Đa nhân trung tinh
+B.  Đơn nhân (*)
+C.  Bạch cầu ái kiềm
+D.  Bạch cầu ái toan
+---
+1130. Đại thực bào có nguồn gốc từ tế bào nào sau đây
+A.  Bạch cầu đơn nhân
+B.  Bạch cầu lympho
+C.  Bạch cầu đa nhân (*)
+D.  Bạch cầu ái toan
+---
+1131. Nút xoang bình thường là nút tạo nhịp cho toàn tim vì ly do nào sau đây
+A.  Ở gần nút nhĩ – thất
+B.  Tạo các xung thần kinh
+C.  Nhịp xung cao hơn các nơi khác (*)
+D.  Chịu kiểm soát thần kinh thực vật
+---
+1132. Tiếng tim T1 xảy ra khi nào?
+A.  Van động mạch chủ đóng
+B.  Van động mạch phổi đóng
+C.  Van nhĩ thất đóng (*)
+D.  Máu dội vào thành thất khi tim hút máu
+---
+1133. Ở người bình thường, lượng máu do tim bơm ra trong 1 nhịp sẽ tang trong điều kiện nào sau đây:
+A.  Tăng kích thích giao cảm đến tim (*)
+B.  Tăng kích thích phó giao cảm đến tim
+C.  Tang kháng lực ngoại biên
+D.  Giảm thể tích cuối tâm trương
+---
+1134. Tiếng tim T3 trên thanh tâm đồ tương ứng với thời kỳ nào sau đây?
+A.  Van bán nguyệt đóng
+B.  Van nhĩ thất đóng
+C.  Máu dội vào thành thất khi tim hút máu về (*)
+D.  Máu dội vào thành thất khi nhĩ thu đẩy máu xuống thất
+---
+1135. Mạch máu nào mang máu tĩnh mạch từ đầu và cổ về tim
+A.  Tĩnh mạch phổi
+B.  Động mạch chủ ngược
+C.  Động mạch phổi
+D.  Tĩnh mạch chủ trên (*)
+---
+1136. Buồng nào của tim có khối cơ tim dày nhất
+A.  Thất phải
+B.  Nhĩ phải
+C.  Thất trái (*)
+D.  Nhĩ trái
+---
+1137. vận tốc máu chậm nhất tại đâu trong hệ thống tuần hoàn
+A.  Động mạch chủ
+B.  Tiểu động mạch
+C.  Mao mạch (*)
+D.  Tĩnh mạch chủ
+---
+1138. Thể tích máu chứa trong hệ mạch nào nhiều nhất?
+A.  Trong động mạch
+B.  Trong tĩnh mạch (*)
+C.  Trong mao mạch
+D.  Tĩnh mạch chủ
+---
+1139. sự trao đổi chất dinh dưỡng và khí giữa máu và mô xảy ra tại nơi nào sau đây?
+A.  Mạch bạch tuyết
+B.  Tiểu động mạch
+C.  Tiểu tĩnh mạch
+D.  Mao mạch (*)
+---
+1140. Buồng tim nào sau đây nhận máu đã oxy hóa từ phổi?
+A.  Thất phải
+B.  Nhĩ phải
+C.  Thất trái
+D.  Nhĩ trái (*)
+---
+1141.Khi thở ra gắng sức, cơ co chủ động là cơ nào?
+A.  Cơ ức đòn chum
+B.  Cơ hoành
+C.  Cơ thành bụng trước (*)
+D.  Cơ liên sườn ngoài
+---
+1142. Về mặt cơ học hô hấp, các câu sau đây đều đúng, NGOẠI TRỪ:
+A.  Bó vỏ sống điều khiển cơ hô hấp một cách tự ý
+B.  Bó bụng bên điều khiển cơ hô hấp một cách tự động
+C.  Cơ liên sườn trong là cơ hít vào gắng sức (*)
+D.  Cơ thành bụng trước là cơ thở ra gắng sức
+---
+1143. Đường dẫn khí có nhiệm vụ dẫn khí thuần túy chấm dứt ở cuối cấu trúc nào sau đây
+A.  Tiểu phế quản
+B.  Tiểu phế quản tận cùng (*)
+C.   Tiểu phế quản hô hấp
+D.  ống phế nang
+---
+1144. Câu nào sau đây đúng với cơ liên sườn ngoài
+A.  Cơ hít vào bình thường (*)
+B.  Cơ thở ra bình thường
+C.  Cơ thở ra gắng sức
+D.  Cơ hít vào gắng sức
+---
+1145. Tổng dung lượng phổi là tổng của các thể tích nào sau đây?
+A.  Khí cặn và khí cặn cơ năng
+B.  Khí lưu thông và khí cặn cơ năng
+C.  Dung tích sống và khí cặn (*)
+D.  Dung tích sống và khí cặn cơ năng
+---
+1146. Câu nào sau đây đúng với dung tích khí cặn cơ năng
+A.  Lượng khí thở ra sau khi hít vào gắng sức
+B.  Lượng khí thở ra sau khi hít vào bình thường (*)
+C.  Lượng khí còn lại sau khi thở ra bình thường
+D.  Lượng khí còn lại sau khi thở ra gắng sức
+---
+1147. Câu nào cho những vị trị số đúng của áp suất phần các khí trong phế nang (mmHg)
+A.  pO2= 95, pCO2=40, pH20=47
+B.  pO2= 100, pCO2=46, pH20=47
+C.  pO2= 95, pCO2=46, pH20=47
+D.  pO2= 100, pCO2=40, pH20=47 (*)
+---
+1148. Máu tĩnh mạch trộn ở đầu mao mạch phổi có các phân khí (mmHg) là bao nhiêu?
+A.  pO2= 40, pCO2=40
+B.  pO2= 95, pCO2=40
+C.  pO2= 40, pCO2=46 (*)
+D.  pO2= 100, pCO2=46
+---
+1149. Diện tích màng phế nang mao mạch (m2) ở người lớn bằng khoảng bao nhiêu
+A.  60-70
+B.  70-80
+C.  70-90 (*)
+D.  90-100
+---
+1150. Nguyên nhân nào làm đường cong phân ly oxyhemoglobin lệch phải?
+A.  CO2 thấp
+B.  pH thấp (*)
+C.  2,3 – DPG thấp
+D.  Hợp chất phosphate thấp
+---
+1151. Câu nào sau đây đúng đối với gan
+A.  Muối mật được bài tiết bởi tế bào ống dẫn mật
+B.  Gan tham gia vào việc điều hòa lượng đường huyết (*)
+C.  Gan là nơi duy nhất tổng hợp các acid amin “ cần thiết”
+D.  Gan có thể dự trữ tối đa 3 lít máu
+---
+1152. Câu nào sau đây KHÔNG ĐÚNG đối với mật?
+A.  Chứa muối mật và sắc tố mật
+B.  Có tác dụng nhũ tương hóa lipid
+C.  Được dự trữ tại túi mật
+D.  Muối mật được tạo ra từ hemoglobin (*)
+---
+1153. Muối mật làm tang hấp thu mỡ là do khả năng thực hiện các điều sau, NGOẠI TRỪ:
+A.  Thành lập các hạt micelle
+B.  Vận chuyển lipid đến bờ bàn chải niêm mạc ruột
+C.  Nhũ tương hóa chất béo
+D.  Kích thích sự tiêu hóa tiếp theo của lipid trong tế bào biểu mô ruột (*)
+---
+1154. Các vitamin sau đây cần có muối mật trong quá trình hấp thu, NGOẠI TRỪ:
+A.  Vitamin A
+B.  Vitamin C (*)
+C.  Vitamin D
+D.  Vitamin E
+---
+1155. Sỏi mật có thể do thành phần nào sau đây tạo nên:
+A.  Muối mật
+B.  Bilirubin
+C.  Lecithin
+D.  Phospholipid (*)
+---
+1156. Các câu sau đây đều đúng đối với sự bài tiết mật của gan, NGOẠI TRỪ:
+A.  Thành phần chính trong mật là enzyme lipase (*)
+B.  Sự bài tiết mật giúp thải cholesterol
+C.  Mật tham gia vào sự tiêu hóa và hấp thu lipid
+D.  Nếu bị tắc mật phân sẽ nhạt máu
+---
+1157. Khi tắc ống dẫn mật sẽ gây vàng da. Triệu chứng vàng da này là do tang chất nào sau đây trong huyết tương
+A.  Biliverdin
+B.  Urobilin
+C.  Bilirubin (*)
+D.  Stercobilin
+---
+1158. Các yếu tố đông máu sau đây được tổng hợp tại gan, NGOẠI TRỪ:
+A.  Fibrinogen
+B.  Yếu tố VII
+C.  Yếu tố VIII (*)
+D.  Yếu tố IX
+---
+1159. Chất nào sau đây tang cao trong máu khi bị hôn mê gan?
+A.  Glucose
+B.  Cholesterol
+C.  Ure (*)
+D.  NH3
+---
+1160. Gan dự trữ các chất sau đây, NGOẠI TRỪ:
+A.  Sắt
+B.  Glycogen
+C.  Calcium (*)
+D.  Vitamin B12

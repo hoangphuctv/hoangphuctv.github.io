@@ -1,0 +1,429 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Trắc nghiệm</title>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <link rel="stylesheet" href="./tacit-css.min.css" />
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-90002072-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    <link rel="stylesheet" type="text/css" href="css/app.css">
+    <script src="js/func.js"></script>
+</head>
+<body>
+    <div id="progress">
+        <div id="progress-precent"></div>
+    </div>
+    <h1 style="text-align: center"><span id="page-title"></span><br/><span id="timer">00:00</span>
+	</h1>
+    <div id="result-msg">
+        <h2>Kết quả</h2>
+        <h3></h3>
+        <p></p>
+        <div class="pages-list">
+        </div>
+    </div>
+    <div id="questions">Đang tải ...</div>
+    <div class="controls">
+        <table border="0" width="100%">
+            <tr width="100%">
+                <td style="text-align: left; width: 50%"><a href="javascript:void(0)" class="ctrl-prev">Câu trước</a>
+                </td>
+                <td style="text-align: right; width: 50%">
+                    <a class="show-result" href="javascript:show_result()">KQ</a>
+                    <a href="javascript:void(0)" class="ctrl-next">Câu kế tiếp</a>
+                </td>
+            </tr>
+        </table>
+
+        <a href="javascript:void(0)" class="status position">Vị trí 0/0</a>
+        <a href="javascript:void(0)" class="status done">Đã làm 0/0</a>
+    </div>
+
+    <ul class="paginator">
+    </ul>
+
+
+    <script type="text/javascript">
+		var sj =  findGetParameter('subject');
+        var CURR_SUBJECT = sj.length >0 ? sj : 'ddcs2';
+        //var CURR_SUBJECT = 'slbmd';
+
+        var QUESTIONS = [];
+        var MAX_QUESTION;
+        var TIME_MINUTES;
+        var countDownDate;
+        
+        var CHECKED = [];
+        var FLG_SHOW_RESULT = false;
+        var ALL_SCORE_POINT = 10;
+        var FLG_FINISH = false;
+        var TIME_INTERVAL;
+
+        var FLG_ALERT = true;
+
+        var RESULT_SHOWED = false;
+
+        function count_time(){
+            // Get todays date and time
+            var now = new Date().getTime();
+
+            // Find the distance between now an the count down date
+            var distance = countDownDate - now;
+
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            if (minutes<0) {minutes = 0;}
+            if (seconds<0) {seconds = 0;}
+
+            if (minutes<10) {minutes = '0'+minutes;}
+            if (seconds<10) {seconds = '0'+seconds;}
+            $('#timer').text(minutes+":"+seconds);
+
+            // If the count down is finished, write some text
+            if ((distance/1000) < 300 && FLG_ALERT) {
+                FLG_ALERT=false;
+                alert("Bạn còn "+minutes+":"+seconds+" phút nữa để nộp bài");
+            }
+            if (distance < 0) {
+                clearInterval(TIME_INTERVAL);
+                show_result(true);
+            }
+        };
+        function is_answer_correct(question, answer){
+            return typeof question.checked != 'undefined'
+                && typeof question.checked[answer] != 'undefined'
+                && question.checked[answer];
+        }
+        function get_answers_correct(question){
+            if (typeof question.checked == 'undefined' ) {
+                return [];
+            }
+            return Object.keys(question.checked);
+        }
+        function show_result(force) {
+            if (typeof force == 'undefined') {
+                force = false;
+            }
+
+            if (RESULT_SHOWED) { return false;}
+            if (QUESTIONS.length != Object.keys(CHECKED).length && force==false) {
+                var remain_question = QUESTIONS.length - Object.keys(CHECKED).length;
+                alert("Bạn còn "+remain_question+"/"+ QUESTIONS.length+" câu chưa trả lời\nVui lòng hoàn thành câu chưa trả lời");
+                if (!confirm('Bạn có muốn nộp bài luôn không?')) {
+                    return false;
+                }
+            }
+            RESULT_SHOWED = true;
+
+            // clear timer
+            if (typeof TIME_INTERVAL != 'undefined') {
+                clearInterval(TIME_INTERVAL);
+            }
+
+
+            var correct_num = 0;
+            var uncorrect_num = 0;
+            var div_result_msg = $('#result-msg');
+            var div_page_list = div_result_msg.find('.pages-list');
+            div_page_list.html('');
+
+            for (var i=0; i< QUESTIONS.length; i++){
+                var page_num =i+1;
+                var span_page = $('<a href="#question-item-'+i+'" />');
+                var answert_correct = typeof CHECKED[i] != 'undefined' ? CHECKED[i] : false;
+                span_page.text(page_num);
+                if (answert_correct) {
+                    correct_num++;
+                    span_page.addClass('right');
+                }else {
+                    uncorrect_num++;
+                    span_page.addClass('wrong');
+                }
+                span_page.data('checked', 'A');
+                if (answert_correct) {
+                }else {
+                    span_page.addClass('right');
+                }
+                div_page_list.append(span_page);
+
+                var corrects = get_answers_correct(QUESTIONS[i]);
+
+                $.each(corrects, function (_i,e){
+                    var correct_id = '.answer-item-'+i+'-'+e;
+                    if ($(correct_id).length>0) {
+                        $(correct_id).addClass('checked');
+                        if ($(correct_id).find('input[type=checkbox]:checked').length>0) {
+                            $(correct_id).addClass('true');
+                        }else {
+                            $(correct_id).addClass('false');
+                        }
+                    }
+                });
+            }
+
+            div_result_msg.slideDown();
+            $('#question-list > li').addClass('active');
+            $('.controls').slideUp();
+
+            var score_per_question = ALL_SCORE_POINT/QUESTIONS.length;
+            var score = score_per_question*correct_num;
+            score = score.toFixed(2);
+            // alert("Điểm của bạn là: "+ (score));
+            div_result_msg.find('h3').text(score + ' đ');
+            div_result_msg.find('').html("Đúng "+correct_num+"/"+QUESTIONS.length);
+
+            FLG_FINISH = true;
+            // disable change question
+            $('input[type=checkbox]').click(function(){return false;});
+        }
+        function controls_change_page(func, uncheck){
+            if (typeof uncheck == 'undefined' && QUESTIONS.length > Object.keys(CHECKED).length){
+                uncheck = true;
+            }
+            var active_ele = $('#question-list > li.active');
+            var index = $('#question-list > li').index($('#question-list > li.active'));
+            var max_index = $('#question-list > li').length;
+            if (active_ele.length <= 0) {
+                controls_show_status();
+                $('#question-list > li:eq(0)').addClass("active");
+                return;
+            }
+            var next_ele;
+            if (index==0 && func=='prev') {
+                // currenly in first page goto last page
+                next_ele = $('#question-list > li').last();
+            }else if (index==max_index-1 && func=='next') {
+                // currenly in last page goto first page
+                next_ele = $('#question-list > li').first();
+            }else{
+                next_ele = active_ele[func]();
+            }
+
+            if (uncheck && func =='next') {
+                var ind = 0;
+
+                while (ind < QUESTIONS.length) {
+                    if (next_ele.hasClass('un-check')) {
+                        break;
+                    }
+                    next_ele = next_ele[func]();
+                    ind++;
+                }
+                if (next_ele.length == 0) {
+                    next_ele = $('#question-list > li:eq(0)');
+                }
+            }
+
+            next_ele.addClass("active");
+            next_ele.addClass(func);
+            active_ele.removeClass('active');
+            active_ele.removeClass('prev');
+            active_ele.removeClass('next');
+            controls_show_status();
+        }
+        function controls_show_status() {
+            var index = $('#question-list > li').index($('#question-list > li.active'));
+            if (index < 0){
+                index = 0;
+            }
+            index ++;
+            var str = 'Vị trí '
+                + index
+                + "/"
+                + $('#question-list > li').length;
+            var percent = Object.keys(CHECKED).length/$('#question-list > li').length*100;
+            $('#progress-precent').width(percent+'%');
+            $('.controls .status.position').text(str);
+            $('.controls .status.done').text("Đã làm "+Object.keys(CHECKED).length+"/"+$('#question-list > li').length);
+        }
+
+        $(function(){
+            $.get('/trac-nghiem/data/'+CURR_SUBJECT+'.txt', function(data){
+
+                //trac nghiem
+                // var data = $('#data').text().trim();
+                data = data.split("\n");
+
+                var index =0;
+                var question = {};
+                var m;
+                var line;
+                line = data.shift();
+                $('#page-title').text(line);
+                $('title').html($('title').html() + " " +line);
+                while(line = data.shift()){
+                    line = line.trim();
+                    if (!line) { continue; }
+
+                    if (line == '---') {
+                        // next question
+                        if (!jQuery.isEmptyObject(question)) {
+							// check not have answer question
+                            if (typeof question.checked == 'undefined'
+								|| jQuery.isEmptyObject(question.checked)) {
+                                prompt("Câu sau chưa có chọn câu trả lời:", question.name)
+								continue;
+                            }else {
+                                // just add a question checked answer
+                                QUESTIONS.push(question);
+                            }
+
+                        }
+                        index = 0;
+                        question = {};
+                        continue;
+                    }
+
+                    // question name
+                    if (line.match(/^(\d+)\./)) {
+                        line = line.replace(/^(\d+)\./,'');
+                        question.name = line;
+                        continue;
+                    }
+
+                    m = line.match(/^([A-Z])\./);
+                    if (m) {
+                        if (typeof question.answers == 'undefined') {
+                            question.answers={};
+                        }
+
+                        // check is correct answer
+                        if (line.match(/\(\*\)/)) {
+                            if (typeof question.checked == 'undefined') {
+                                question.checked={};
+                            }
+
+                            line = line.replace(/\(\*\)/, '');
+                            question.checked[m[1]] = true;
+                        }
+
+                        line = line.replace(/^([A-Z])\.\s+/, '');
+                        question.answers[m[1]] = line;
+
+                    }else {
+                        if (typeof question.name == 'undefined') {
+                            question.name = '';
+                        }
+                        question.name += '<br/>' + line;
+                    }
+                }// end while
+
+                // for the last question without line break '---'
+                if (question) {
+                    QUESTIONS.push(question);
+                }
+
+                var QS = [];
+                // random 60 cau
+
+                MAX_QUESTION = prompt("Số câu hỏi: ", QUESTIONS.length);
+                TIME_MINUTES = prompt("Số phút: ", MAX_QUESTION/2);
+
+                // increase timers
+                countDownDate = new Date(new Date().getTime() + TIME_MINUTES*60000);
+
+                for (var i=0; i<MAX_QUESTION; i++) {
+                    if (QUESTIONS.length <= 0) {break;}
+                    var rand = Math.floor(Math.random() * QUESTIONS.length);
+                    QS.push(QUESTIONS[rand]);
+                    QUESTIONS.splice(rand,1);
+                }
+                QUESTIONS = QS
+
+                // init questions
+                if (QUESTIONS.length > 0) {
+                    // found questions
+
+                    $('#questions').html('');
+                    $('<ol id="question-list"/>').appendTo('#questions');
+                    var ol = $('#question-list');
+
+                    for (var i in QUESTIONS) {
+                        var item = QUESTIONS[i];
+                        var li = $('<li class="un-check" id="question-item-'+i+'"/>');
+                        var _i = parseInt(i) +1;
+                        var question_name = $('<h4 />').html(_i+". "+item.name);
+                        li.append(question_name);
+                        var sub_ol = $('<ol type="A" class="answers"/>');
+                        for (var j in item.answers){
+                            var jtem = item.answers[j];
+                            var sub_li = $('<li class="answer-item answer-item-'+i+'-'+j+'"/>');
+                            var sub_label = $('<label />');
+                            var sub_checkbox = $("<input type='checkbox'/>");
+                            sub_checkbox.attr('name', 'question_'+i);
+                            sub_checkbox.attr('value', i+'_'+j);
+                            sub_label.append(sub_checkbox);
+                            sub_label.append($("<span/>"));
+                            sub_label.append(jtem);
+                            sub_li.append(sub_label);
+                            sub_ol.append(sub_li);
+                        }
+                        li.append(sub_ol);
+                        ol.append(li);
+                    } // end for
+
+
+                    controls_change_page('next');
+
+                    $('.controls a.ctrl-next').click(function(){
+                        controls_change_page('next');
+                    });
+                    $('.controls a.ctrl-prev').click(function(){
+                        controls_change_page('prev');
+                    });
+
+
+                    $('input[type=checkbox]').change(function(){
+                        var val = $(this).val();
+                        var parts = val.split('_');
+                        var id = parts[0];
+                        var answer = parts[1];
+                        var corrected = is_answer_correct(QUESTIONS[id], answer);
+
+                        if (FLG_SHOW_RESULT) {
+                            $(this).parents('.answer-item').siblings().each(function(){$(this).find('label').css('color', 'black');});
+                            $(this).parent().css('color', corrected ? 'green' : 'red');
+                        }
+                        CHECKED[id] = corrected;
+                        controls_show_status();
+                        $(this).parent().parent().parent().parent().removeClass('un-check')
+                        // console.log(id, answer, corrected);
+                    });
+                }
+                $('table td:eq(0)').width($(document.body).width()/3);
+                $('table td:eq(1)').width($(document.body).width()/3*2);
+                $("body").keyup(function(event) {
+                    if (event.keyCode === 32) {
+                        controls_change_page('next');
+                    }
+                    var key_number = parseInt(event.key);
+                    if (key_number != NaN) {
+                        key_number --;
+                        var answer_index = $('#question-list > li.active').find('ol>li').eq(key_number);
+                        if(answer_index.length>0) {
+                            answer_index.find('input[type=checkbox]').click();
+                        }
+                    }
+                });
+
+                TIME_INTERVAL = setInterval(count_time, 1000);
+            });
+        });
+
+    </script>
+
+    <pre id="data" style="display: none">
+    </pre>
+</body>
+</html>

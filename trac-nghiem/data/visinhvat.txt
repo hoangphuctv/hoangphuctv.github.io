@@ -1,0 +1,2494 @@
+VI SINH VẬT
+127. Clostridia Là các vi khuẩn:
+A.	gram (-),Sinh nha bào
+B.	Gram (+), Kỵ khí, sinh nha bào (*)
+C.	 gram (+),hiếu khí, sinh nha bào
+D.	 gram (-), kỵ khí, không sinh nha bào
+---
+128.  nhân của vi khuẩn chứa axit nucleic sau:
+A.	  ARN
+B.	 ARN và ADN
+C.	 một số ADN một số ARN
+D.	 AND (*)
+---
+129.  nơi nhân gắn liền với màn Nguyên tương gọi là:
+A.	 Polysome
+B.	 tiểu thể
+C.	 lưới nội mô
+D.	mạc thể (*)
+---
+130.  kháng nguyên lông ở vi khuẩn gram (-) có bản chất:
+A.	 protein (*)
+B.	lipopolisaccharide
+C.	lipoprotein
+D.	 mucopeptid
+---
+131. Phag P22:
+A.	Được tìm thấy ở môi trường nuôi cấy L2.
+B.	 động lực với L2 nhưng ôn hòa với L22 (*)
+C.	Độc lực với L22 nhưng ôn hòa với L2
+D.	Được tìm thấy ở môi trường nuôi cấy L22
+---
+132. Trong thiên nhiên sự tái nạp có thể:
+A.	 tạo nên những vi khuẩn phối hợp nhiều đột biến khác nhau
+B.	 tạo nên những chủng vi khuẩn gram âm kháng nhiều thuốc
+C.	 làm lây lan các plasmit kháng thuốc ở vi khuẩn gram Dương (*)
+D.	 làm lây lan các plasmit kháng thuốc ở vi khuẩn gram âm
+---
+133. tế bào Hfr:
+A.	 có nhân tố F nằm ngoài nhiễm sắc thể
+B.	 có nhân tố F không đầy đủ
+C.	 vận chuyển gen với một tần số cao (*)
+D.	 vận chuyển gen với một tần số thấp
+---
+134.  kháng sinh ức chế tổng hợp nhân vi khuẩn bằng kết hợp với Enzym ARN polimerase phụ thuộc ADN là:
+A.	Quinolone và các fluoroquinolone
+B.	Rifamycin (*)
+C.	Chloramphenicol
+D.	Sulfamethoxazol + Trimethoprim
+---
+135. 2 Kháng sinh thuộc họ aminoglycoside là:
+A.	 strptomycin, gentamycin (*)
+B.	strptomycin, Bactrim
+C.	gentamycin, Chloramphenicol
+D.	gentamycin, Tetracyclin
+---
+136. Các giai đoạn tự nhiên của bệnh nhiễm trùng được tính
+A.	 hai giai đoạn
+B.	 ba giai đoạn
+C.	 bốn giai đoạn (*)
+D.	 năm giai đoạn
+---
+137. biểu hiện tại chỗ hoặc toàn thân của cơ thể vật chủ trong bệnh nhiễm trùng phụ thuộc vào:
+A.	 độc lực của vi sinh vật gây bệnh
+B.	 đường xâm nhập của vi sinh vật
+C.	 các yếu tố ngoại cảnh
+D.	 độc lực của vi sinh vật gây bệnh và đáp ứng của cơ thể vật chủ (*)
+---
+138. LD50  là liệu vi sinh vật hoặc độc tố của nó:
+A.	Gây chết động vật thí nghiệm có trọng lượng nhất định trong thời gian thí nghiệm
+B.	 có khả năng gây chết cho người nặng 50kg
+C.	 có khả năng gây chết 50 súc vật thí nghiệm
+D.	 có khả năng gây chết 50% súc vật thí nghiệm có trọng lượng nhất định trong thời gian thí nghiệm(*)
+---
+139. hiệu quả bảo vệ cơ thể của hàng rào da và niêm mạc được tăng cường nhờ:
+A.	 cơ chế thực bào
+B.	 các chất tiết ở da và niêm mạc (*)
+C.	 các yếu tố hòa tan trong huyết thanh
+D.	 các kháng thể bảo vệ
+---
+140.  Đại thực bào có chức năng:
+A.	 thực bào, tiêu hóa, miễn dịch
+B.	 thực bào, bài tiết, xử lý vật lạ (*)
+C.	 thực bào, bài tiết, miễn dịch tế bào
+D.	 thực bào, miễn dịch tế bào
+---
+141.  các yếu tố hòa tan trong huyết thanh của cơ chế miễn dịch không đặc hiệu gồm:
+A.	 bổ thể, interferon, kháng thể, globulin
+B.	 Interferon, properdin,  protein, tự kháng thể
+C.	 bổ thận, properdin, kháng thể tự nhiên, interferon (*)
+D.	 các axit béo chưa no, glycoprotein, lysozym
+---
+142.  interferon là những:
+A.	polysccharit
+B.	lipoprotein
+C.	glycoprotein (*)
+D.	lipopolysaccharit
+---
+143. Các kháng thể có khả năng ngăn cản vi sinh vật bám vào niêm mạc đường tiêu hóa thường là:
+A.	 igE
+B.	 IgD
+C.	igA tiết (*)
+D.	igE và igG
+---
+144.  đáp ứng miễn dịch dịch thể tích là:
+A.	 khả năng sinh sản các Lympho bào T phản ứng đặc hiệu với kháng nguyên.
+B.	 khả năng hình thành kháng thể đặc hiệu với kháng nguyên (*)
+C.	 khả năng tiết ra các chất hòa tan như lymphokin
+D.	 khả năng hình thành các yếu tố hòa tan như kháng thể tự nhiên
+---
+145. Trong phát hiện kháng nguyên:
+A.	 phản ứng ngưng kết dẫn đầu về Độ nhạy
+B.	 phản ứng ngưng kết  dẫn đầu về Độ nhạy
+C.	 phản ứng kết tủa dẫn đầu về Độ nhạy
+D.	 các kỹ thuật miễn dịch enzym và miễn dịch phóng xạ dẫn đầu về độ nhạy (*)
+---
+146.  phản ứng kết tủa:
+A.	 là phản ứng giữa kháng nguyên hòa tan và kháng thể đối ứng(*)
+B.	 xảy ra giữa kháng nguyên hòa tan được hấp thụ lên bề mặt hồng cầu với kháng thể đối ứng
+C.	 là phản ứng giữa kháng thể hòa tan và kháng thể không hòa tan
+D.	 xảy ra giữa vi sinh vật chết với kháng thể đối ứng
+---
+147.  phản ứng khuếch tán kép:
+A.	 là phản ứng kết tủa ở môi trường lỏng
+B.	 trong đó cả kháng nguyên lẫn khán thể đều khuếch tán vào nhau và hình thành các đường của (*)
+C.	 trong đó chỉ một mình Khánh Nguyên hoặc kháng thể khuếch tán
+D.	 là phản ứng kết tủa thực hiện trên phiến kính
+---
+148.  chức năng của màng Nguyên tương vi khuẩn:
+A.	 tạo cho Vi khuẩn có kích thước nhất định
+B.	 tạo cho Vi khuẩn có hình thái nhất định
+C.	 nêu tác dụng của các thuốc kháng sinh
+D.	 hấp thụ, chuyển hóa, bài xuất của chất (*)
+---
+149.  chức năng chuyển hóa của màng Nguyên tương của vi khuẩn giống với:
+A.	 lưới nội bào ở tế bào eukaryota
+B.	Lục lạp ở tế bào thực vật
+C.	 bộ golgi ở tế bào động vật và thực vật
+D.	 ti Lạp thể của tế bào động vật và thực vật (*)
+---
+150.  nha bào của vi khuẩn:
+A.	 được tạo ở tất cả vi khuẩn
+B.	 chỉ được tạo ở vi khuẩn gram (+)
+C.	 chỉ được tạo ở vi khuẩn gram (-)
+D.	 được tạo ra ở các Clostridia (*)
+---
+151. một số vi khuẩn tạo nha bào có đặc điểm:
+A.	 nha bào của vi khuẩn có khả năng gây bệnh khi xâm nhập vào cơ thể
+B.	 nha bào có thể ở hẳn một đầu hoặc ở giữa thân vi khuẩn
+C.	 không bao giờ có hai hay nhiều hơn nha bào trong một tế bào vi khuẩn
+D.	 cả 3 đều đúng (*)
+---
+152.  ở vi khuẩn tính kháng thuốc hình thành do:
+A.	 biến đổi gen ở nhiễm sắc thể (*)
+B.	 sử dụng kháng sinh bừa bãi
+C.	 sử dụng kháng sinh không đúng liều lượng
+D.	 tiếp nhận plasmit F
+---
+153.  nhân tố R:
+A.	 chứa  nhân tố Vận Chuyển đề kháng
+B.	 chứa RTF và quyết định đề kháng (*)
+C.	 chứa quyết định đề kháng
+D.	 tìm thấy vi khuẩn gram âm và gram Dương
+---
+154. plasmit kháng thuốc được vận chuyển:
+A.	bằng giao phối
+B.	 bằng biến nạp
+C.	 bằng những cơ chế khác nhau tùy theo vi khuẩn (*)
+D.	 bằng tiếp xúc trực tiếp giữa vi khuẩn
+---
+155.  sự tái tổ hợp giữa hai vi khuẩn, mỗi vi khuẩn kháng một loại kháng sinh:
+A.	 làm xuất hiện những vi khuẩn kháng thuốc
+B.	 làm xuất hiện những vi khuẩn kháng với một loại kháng sinh
+C.	 làm xuất hiện một số vi khuẩn kháng với kháng sinh thứ nhất và một số vi khuẩn kháng với loại kháng sinh thứ hai
+D.	 làm xuất hiện những vi khuẩn kháng với cả 2 loại kháng sinh(*)
+---
+156.  các vi khuẩn trở nên đề kháng với thuốc kháng sinh thì:
+A.	 trở nên gây bệnh cho người
+B.	 nguyên tương luôn luôn có các plasmit kháng thuốc
+C.	 luôn có sự thay đổi bất thường trong bộ nhiễm sắc thể
+D.	 vi khuẩn phát triển được khi có một nồng độ thuốc kháng sinh nhất định (*)
+---
+157.  phản ứng kết hợp giữa kháng nguyên và kháng thể:
+A.	 là một phản ứng hóa học
+B.	 rất đặc hiệu (*)
+C.	 chỉ được sử dụng để xác định hiệu giá kháng thể ở trong Huyết Thanh người
+D.	 không đặc hiệu
+---
+158.  vi khuẩn ở trạng thái sinh lý không nhân lên:
+A.	 dễ bị giết chết bởi kháng sinh
+B.	 không bị tác dụng của thuốc kháng sinh (*)
+C.	 thuốc kháng sinh có tác dụng ở mức độ hạn chế
+D.	 vi khuẩn thích nghi với thuốc kháng sinh
+---
+159.  vi sinh vật sinh trưởng và phát triển mạnh nhất trong điều kiện nuôi cấy:
+A.	pha lag
+B.	pha log (*)
+C.	pha cân bằng
+D.	 pha suy vong
+---
+160.  vách vi khuẩn gram (-) có cấu tạo là :
+A.	Mucopeptid, lipoprotein, polysaccharid (*)
+B.	Mucopeptid, axit teicchoic, polysaccharid
+C.	polysaccharid, Mucopeptid
+D.	lipoprotein, polysaccharid
+---
+161. Lớp mucopeptid của vách vi khuẩn gram (-)
+A.	 nằm ở ngoài cùng và mỏng hơn so với vi khuẩn gram +
+B.	 nằm trong cùng chiếm phần lớn trọng lượng khô của vách
+C.	 nằm ở lớp giữa và dày hơn vi khuẩn gram +
+D.	 nằm trong cùng và mạnh hơn vi khuẩn gram + (*)
+---
+162. vách của vi khuẩn gram (-) là:
+A.	kháng nguyên thân hay kháng nguyên O (*)
+B.	 độc lực của vi khuẩn
+C.	 ngoại độc tố của vi khuẩn
+D.	 yếu tố chịu nhiệt của vi khuẩn
+---
+163.  lông của vi khuẩn
+A.	 có ở tất cả các vi khuẩn
+B.	 khi mất đi vi khuẩn bị chết
+C.	 không bao giờ ở quanh thân
+D.	 cơ quan vận động của vi khuẩn (*)
+---
+164.  mỗi gen quyết định:
+A.	 sự tổng hợp các enzym
+B.	 sự hình thành các cấu trúc của tế bào
+C.	 sự tổng hợp một protein đặc hiệu (*)
+D.	 sự tổng hợp DNA
+---
+165. sự biến nạp là:
+A.	 sự vận chuyển gen của nhiễm sắc thể giữa các tế bào
+B.	 sự vận chuyển DNA hòa tan của nhiễm sắc thể từ tế bào cho sang tế bào nhận (*)
+C.	Sự vận chuyển DNA của nhiễm sắc thể giữa các tế bào qua tiếp xúc
+D.	 Sự vận chuyển DNA của nhiễm sắc thể giữa các tế bào
+---
+166.  nhân tố biến nạp là:
+A.	RNA
+B.	RNA , DNA
+C.	DNA (*)
+D.	DNA và protein
+---
+167. Sự tái nạp ở vi khuẩn là:
+A.	 sự sao chép nhiễm sắc thể
+B.	 sự tích hợp DNA tổng hợp vào nhiễm sắc thể
+C.	 quá trình vận chuyển gen qua tiếp xúc
+D.	 quá trình vận chuyển game qua trung gian của phage (*)
+---
+168.  cơ chế tác dụng kháng khuẩn của Chloramphenicol là:
+A.	ức chế tổng hợp protein bằng ức chế enzym peptidyl transferase (*)
+B.	Ức chế tổng hợp protein bằng hoạt hóa enzym peptidyl transferase
+C.	 ức chế tổng hợp những vi khuẩn
+D.	 ức chế tổng hợp nhân và protein
+---
+169.  các Sulfonamide  có tác dụng chống vi khuẩn bằng cơ chế:
+A.	 ức chế tổng hợp vách tế bào
+B.	 cạnh tranh PABA trong quá trình tổng hợp axit folic (*)
+C.	chức năng màn nguyên tương
+D.	 ức chế enzym ADN gyrase
+---
+170. kháng sinh ức chế tổng hợp nhân vi khuẩn bằng kết hợp với Enzim ARN polymerase phụ thuộc ADN là:
+A.	Quinolone và các fluoroquinolone
+B.	Rifamycin (*)
+C.	Chloramphenicol
+D.	Sulfamethoxazol + trimethoprim
+---
+171. Pha cân bằng”
+A.	 số vi sinh vật sinh ra bằng số vi sinh vật chết đi (*)
+B.	 số vi sinh vật sinh ra nhỏ hơn số vi sinh vật chết đi
+C.	 số vi sinh vật sinh ra lớn hơn số vi sinh vật chết đi
+D.	 không có vi sinh vật sinh ra
+---
+172.  phản ứng trung hòa enzim,  ví dụ:
+A.	 phản ứng Widal
+B.	 phản ứng FTA-Abs
+C.	 phản ứng ASO, ASK (*)
+D.	 phản ứng VDRL
+VI SINH (2)
+---
+1.	Khái niệm xoắn khuẩn :
+A.	Là những vi khuẩn lượng xoắn, di động được nhờ có lông
+B.	 là những vi khuẩn lượng xoắn, di động (*)
+C.	 di động hoặc không, Nếu di động thì có lông quanh thân
+D.	 không di động
+---
+2.  đặc điểm cấu tạo tế bào của vi khuẩn:
+A.	 có nhân điển hình
+B.	 không có nhân
+C.	 Không có màng nhân (*)
+D.	 có bộ máy phân bào
+---
+3.  đặc điểm chất nguyên sinh của vi khuẩn:
+A.	 protein và polipeptid chiếm khoảng 50% trọng lượng khô (*)
+B.	protein và polipeptid chiếm khoảng 80% trọng lượng khô
+C.	Không có enzim nội bào
+D.	 chứa Nội độc tố
+---
+4.  đặc điểm màng nguyên sinh của tế bào:
+A.	 có tính thẩm thấu chọn lọc và vận chuyển điện tử (*)
+B.	 là nơi tổng hợp nhân của vi khuẩn
+C.	 là nơi tổng hợp các ribosom cho tế bào
+D.	 là nơi bám của các lông của vi khuẩn
+---
+5.  đặc điểm vạch của vi khuẩn gram Dương:
+A.	 gồm nhiều lớp petidoglycan,  có tính vững chắc (*)
+B.	 gồm một lớp petidoglycan, tính vững chắc thấp
+C.	petidoglycan bản chất hóa học là lipid và axit amin
+D.	 thành phần axit teichoic có ở nhóm vi khuẩn này
+---
+6.  đặc điểm vạch của vi khuẩn gram âm:
+A.	 gồm nhiều lớp petidoglycan nên có tính vững chắc
+B.	 bên ngoài vách còn có lớp lipopolysaccharit (*)
+C.	tính đặc hiệu kháng nguyên thấp
+D.	 cấu tạo bởi phức hợp lipopolysaccharit
+---
+7.  một trong những tính chất sau không thuộc đặc tính của vách vi khuẩn:
+A.	 quyết định tính kháng nguyên thân
+B.	 có tính thẩm thấu chọn lọc (*)
+C.	 là nơi tác động của một số kháng sinh
+D.	 là nơi mang các điểm tiếp nhận đặc hiệu cho thực khuẩn thể
+---
+8.  đặc điểm vách tế bào vi khuẩn:
+A.	 quyết định nên hình thể của vi khuẩn (*)
+B.	 quyết định tính chất gây bệnh của vi khuẩn
+C.	 được cấu tạo bởi phức hợp lipopolysaccharit (LPS)
+D.	 bao bên ngoài vỏ của vi khuẩn
+---
+9.  đặc điểm cấu tạo vỏ của vi khuẩn:
+A.	 là một lớp vỏ cứng bao ngoài vách,  có vai trò bảo vệ Vi khuẩn
+B.	 là một lớp nhầy, lỏng lẻo, không rõ rệt bao quanh vi khuẩn (*)
+C.	 mọi loại vi khuẩn đều có võ khi gặp điều kiện không thuận lợi
+D.	 chỉ những trực khuẩn gram âm mới có vỏ
+---
+10.  đặc điểm cấu tạo và chức năng của lông vi khuẩn:
+A.	 là những sợi protein dài và xoắn (*)
+B.	 xuất phát từ màng tế bào xuyên qua vách tế bào
+C.	vi khuẩn tồn tại được trong những điều kiện không thuận lợi
+D.	 giúp vi khuẩn truyền giới tính từ vi khuẩn này sang vi khuẩn khác
+---
+11.  đặc điểm cấu tạo và chức năng của pili của vi khuẩn:
+A.	 cấu tạo hóa học là protein (*)
+B.	 nếu mất pili vi khuẩn sẽ không tồn tại được
+C.	 nếu mất pili vi khuẩn sẽ không truyền được các yếu tố di truyền từ vi khuẩn này sang vi khuẩn khác được
+D.	 một vi khuẩn đực có thể có một hoặc nhiều pili giới tính
+---
+12.  đặc điểm cấu tạo và chức năng của nha bào của vi khuẩn:
+A.	 mỗi loài vi khuẩn trong điều kiện sống không thuận lợi đều có khả năng sinh nha bào
+B.	 ở trạng thái nha bào vi khuẩn vẫn có khả năng gây bệnh
+C.	 màn nha bào bao bên ngoài nhân AND
+D.	 nha bào có 2 lớp vách trong và ngoài (*)
+---
+13.  đặc điểm chuyển hóa và dinh dưỡng của vi khuẩn:
+A.	 tất cả vi khuẩn gây bệnh đều là vi khuẩn tự dưỡng
+B.	 vi khuẩn chuyển hóa được là nhờ các enzim nội và ngoại bào (*)
+C.	 vi khuẩn chuyển hóa được nhờ các enzim ngoại bào
+D.	 chỉ những vi khuẩn ký sinh trong tế bào mới gây bệnh được
+---
+14. đặc điểm chuyển hóa và dinh dưỡng của vi khuẩn:
+A.	 quá trình chuyển hóa tạo ra một số chất như Nội độc tố, vitamin
+B.	 tất cả các vi khuẩn gây bệnh đều là vi khuẩn tự dưỡng
+C.	 tất cả các vi khuẩn gây bệnh đều là vi khuẩn dị dưỡng (*)
+D.	 enzim ngoại bào có vai trò thực hiện quá trình chuyển hóa phức tạp
+---
+15.  đặc điểm các loại môi trường nhân tạo để nuôi cấy vi khuẩn:
+A.	 môi trường cơ bản: phải đủ các yếu tố dinh dưỡng cần thiết cho đa số vi khuẩn (*)
+B.	 môi trường cơ bản: để nuôi cấy các vi khuẩn tăng trưởng nhanh
+C.	 môi trường chuyên biệt: là môi trường cơ bản có thêm hồng cầu
+D.	 môi trường chuyên biệt: để nuôi cấy các vi khuẩn tăng trưởng chậm
+---
+16.  thuốc kháng sinh là những chất ngăn chặn vi khuẩn nhân lên hay tiêu diệt vi khuẩn bằng cơ chế:
+A.	 tác động vào sự cân bằng lý học của tế bào vi khuẩn
+B.	 tác động vào các giai đoạn chuyển hóa của đời sống vi khuẩn (*)
+C.	 ức chế sinh tổng hợp protein
+D.	 tác động vào giai đoạn phân chia của tế bào vi khuẩn
+---
+17. Kháng sinh có đặc điểm
+A.	 có nguồn gốc cơ bản từ các chất hóa học
+B.	 có nguồn gốc cơ bản từ thực vật
+C.	 mỗi loại kháng sinh chỉ tác động lên một nhóm 21 loại vi khuẩn nhất định (*)
+D.	 kháng sinh có hoạt phổ rộng là kháng sinh tiêu diệt được nhiều loại vi khuẩn gây bệnh
+---
+18. Chất tẩy uế và chất sát khuẩn giống nhau ở điểm
+A.	 có thể tổng hợp bằng phương pháp hóa học, ly trích từ động vật, thực hoặc vi sinh vật
+B.	 có thể dùng tại chỗ như bôi ngoài da
+C.	 thường chỉ dùng để tẩy uế đồ vật
+D.	 gây độc hại cho cơ thể (*)
+---
+19.  kháng sinh làm hư hại màng Nguyên tương vi khuẩn theo cơ chế:
+A.	 kháng sinh làm thay đổi tính thẩm thấu chọn lọc của vách vi khuẩn
+B.	 kháng sinh làm tăng tính thẩm chọn lọc của màng nguyên tương vi khuẩn
+C.	 kháng sinh làm thay đổi tính thẩm thấu chọn lọc của màng nguyên tương (*)
+D.	 kháng sinh làm thay đổi tính thẩm thấu của màng nhân
+---
+20.  kháng sinh ức chế sinh tổng hợp protein của vi khuẩn theo một trong các cơ chế sau:
+A.	 phá hủy tiểu phần 30S của ribosom
+B.	phá hủy tiểu phần 50S của ribosom
+C.	Cản trở sự liên kết của các axit amin ở tiểu phần 50S (*)
+D.	 tác động vào enzim catalase ở tiểu phần 50S
+---
+21.  một trong các cơ chế tác động của kháng sinh vào tiểu phần 30S của vi khuẩn là
+A.	 kháng sinh phá hủy ARN thông tin
+B.	  kháng sinh cản trở ARN thông tin trượt trên polysom (*)
+C.	 kháng sinh nhắn vào 30S của ribosom vi khuẩn gây nên đọc sai mã của ARN thông tin
+D.	 kháng sinh phá hủy các ARN vận chuyển
+---
+22.  một trong các cơ chế tác động của kháng sinh trong quá trình sinh tổng hợp axit nucleic của vi khuẩn:
+A.	 ức chế enzym gyrase nên ngăn cản sự sao chép của AND(*)
+B.	 tác động vào ARN khuôn, ức chế tổng hợp ARN
+C.	tác động vào ARN khuôn, ức chế tổng hợp ADN
+D.	ngăn cản sinh tổng hợp AND-polymerase phụ thuộc ARN
+---
+23.  kháng sinh tác động lên vách của tế bào vi khuẩn làm cho:
+A.	 vi khuẩn sinh ra không có vách, do đó dễ bị tiêu diệt(*)
+B.	 chức năng thẩm thấu chọn lọc của vách bị thay đổi, vi khuẩn bị tiêu diệt
+C.	 cấu trúc hóa học của vách bị thay đổi Nên vi khuẩn bị tiêu diệt
+D.	 các cụ thể trên bề mặt vách bị phá hủy nên vi khuẩn bị tiêu diệt
+---
+24. Chất sát khuẩn là những chất:
+A.	 ức chế sự phát triển của vi sinh vật ở mức độ phân tử
+B.	 gây độc hại cho mô sống của cơ thể(*)
+C.	 thường chỉ dùng để tẩy uế đồ vật hay sát trùng ngoài da
+D.	 độc tính cao nên không thể dùng tại chỗ như bôi ngoài da
+---
+25.  chất tẩy uế có đặc điểm:
+A.	 có nguồn gốc từ các chất hóa học hay tự động vật thực vật
+B.	 chỉ dùng để tẩy uế đồ vật(*)
+C.	 có khả năng tiêu diệt các vi sinh vật nên có thể dùng tại chỗ như bôi ngoài da
+D.	 có tác động mạnh với vi khuẩn, làm ngưng sự phát triển của vi khuẩn
+---
+26.  đặc điểm sự đề kháng kháng sinh của vi khuẩn
+A.	 có bốn dạng đề kháng là: đề kháng thật, đề khán giả, đề kháng tự nhiên, đề kháng thu được
+B.	 để kháng giả: bao gồm đề kháng tự nhiên và đề kháng thu được
+C.	 đề kháng thật: bao gồm đề kháng tự nhiên và đề kháng thu được(*)
+D.	 đề kháng tự nhiên là đề kháng nhưng không phải là bản chất, không rõ nguồn gốc di truyền
+---
+27.  ở vi khuẩn kháng kháng sinh, gen đề kháng tạo ra sự đề kháng bằng cách:
+A.	 làm giảm tính thắm của vách
+B.	 làm giảm tính thấm của màng nguyên tương (*)
+C.	 làm giảm tính thấm của màng nhân
+D.	 làm giảm tính thấm của vỏ
+---
+28.  vi khuẩn kháng thuốc kháng sinh theo cơ chế:
+A.	 vi khuẩn sản xuất enzym để phá hủy hoạt tính của thuốc(*)
+B.	 vi khuẩn làm giảm khả năng thẩm thấu của vách tế bào đối với thuốc
+C.	 vi khuẩn không còn enzym nên không chịu ảnh hưởng của kháng sinh
+D.	 vi khuẩn không còn màng tế bào
+---
+29.  đặc điểm của đề kháng thu được trong kháng thuốc kháng sinh của vi khuẩn:
+A.	 chiếm tỷ lệ thấp trong sự kháng thuốc của vi khuẩn
+B.	  kháng thuốc theo cơ chế đột biến là chủ yếu
+C.	 các gen đề kháng có thể nằm trên nhiễm sắc thể, plasmit hay transposon (*)
+D.	 gen đề kháng chỉ được truyền từ vi khuẩn được F+ sang vi khuẩn cái F-
+---
+30.  đặc điểm của vi khuẩn có R-plasmid:
+A.	tồn tại được trong môi trường có kháng sinh (*)
+B.	 không tồn tại được trong môi trường có kháng sinh
+C.	 có ở những vi khuẩn nhạy cảm với kháng sinh
+D.	 có ở mọi loại vi khuẩn gây bệnh
+---
+32. Kháng sinh đồ là kỹ thuật:
+A.	 xác định độ nhạy cảm của vi khuẩn với kháng sinh (*)
+B.	 xác định độ nhạy cảm của kháng sinh với vi khuẩn
+C.	 Xác định vi khuẩn gây bệnh sau khi phân lập, định danh vi khuẩn
+D.	  xác định Nồng độ kháng thuốc kháng sinh của vi khuẩn
+---
+33.  sử dụng kháng sinh rộng rãi không đúng chỉ định sẽ dẫn đến tình trạng:
+A.	 các vi khuẩn kháng thuốc bị tiêu diệt
+B.	  các vi khuẩn nhạy cảm với thuốc bị tiêu diệt (*)
+C.	 các vi khuẩn nhạy cảm được tự do phát triển mà không bị ức chế cạnh tranh bởi các vi khuẩn khác
+D.	 tất cả các vi khuẩn nhạy cảm và kháng thuốc đều bị tiêu diệt
+---
+34.  một trong những biện pháp phòng chống kháng thuốc ở vi khuẩn là:
+A.	  chỉ điều trị khi có kết quả kháng sinh đồ
+B.	 chỉ điều trị khi phân lập định danh được vi khuẩn
+C.	 chọn  kháng sinh theo kết quả kháng sinh đồ (*)
+D.	 phối hợp nhiều loại kháng sinh và tăng liều kháng sinh
+---
+35.  một số khái niệm về nhiễm trùng:
+A.	 bệnh nhiễm trùng thể ẩn là trạng thái bệnh kéo dài triệu chứng không dữ dội
+B.	  bệnh nhiễm trùng cấp tính: diễn tiến bệnh nhanh sau đó bệnh nhân thường tử vong
+C.	 bệnh nhiễm trùng mạn tính: bệnh kéo dài triệu chứng không dữ dội (*)
+D.	nhiễm trùng tiềm tàng: người bị nhiễm trùng không có dấu hiệu lâm sàng
+---
+36.  virus là một đơn vị sinh vật học đặc biệt vì:
+A.	 kích thước rất nhỏ từ 20 đến 300 mm
+B.	 chỉ nhân lên được trong môi trường giàu chất dinh dưỡng
+C.	 tuy nhỏ bé nhưng vẫn duy trì được nói giống qua các thế hệ và gây nhiễm trùng cho tế bào(*)
+D.	 có hệ thống enzym chuyển hóa
+---
+37.  axit nucleic của virus gồm:
+A.	 ARN
+B.	AND
+C.	ARN, AND
+D.	Hoặc ARN hoặc ARN (*)
+---
+38. Thành phần capsid của virus có chức năng:
+A.	giữ cho hình thái và kích thước của virus luôn ổn định (*)
+B.	 tham gia vào giai đoạn lắp ráp và giải phóng virus ra khỏi tế bào sau chu kì nhân lên
+C.	 mang mọi mật mã di truyền đặc trưng cho từng virus
+D.	 Quyết định khả năng gây nhiễm trùng của virus.
+---
+39.  axit nucleic của virus có đặc điểm:
+A.	 là một sợi AND dạng vòng kép trọng lượng 1 đến 2% hạt virus
+B.	quyết định khả năng gây nhiễm trùng của virus trong tế bào cảm thụ (*)
+C.	 tham gia vào sự bám của virus trên các vị trí thích hợp của tế bào cảm thụ
+D.	  mang mọi mật mã di truyền chung cho Virus
+---
+40.  đặc điểm vai trò enzim cấu trúc của virus
+A.	có chức năng trong quá trình chuyển hóa trao đổi chất của virus
+B.	 chỉ có một vài loại virus
+C.	 có tính kháng nguyên chuyên biệt (*)
+D.	 là enzym hô hấp của virus
+---
+41.  họ vi khuẩn đường ruột có đặc điểm chung:
+A.	 gồm nhiều loại trực khuẩn gram âm, gram Dương sống ở ống tiêu hóa của người và động vật
+B.	 là các vi khuẩn gây bệnh cho đường tiêu hóa
+C.	 Hiếu khí hoặc Kỳ khí tùy tiện (*)
+D.	kị khí tuyệt đối
+---
+42.  họ vi khuẩn đường ruột có đặc điểm:
+A.	 sắp xếp thành đôi hai thành chổi
+B.	 có thể sinh bào tử một số có vỏ
+C.	 trực khuẩn gram âm (*)
+D.	 trực khuẩn gram âm hoặc gram Dương
+---
+43.  đặc điểm sinh học của Salmonella:
+A.	 vi khuẩn chỉ phát triển được ở nhiệt độ 37 độ C
+B.	 sinh nha bào Nếu điều kiện môi trường không thuận lợi
+C.	 H2S (-)
+D.	Oxidase (-) (*)
+---
+44.  đặc điểm gây bệnh sốt thương hàn của salmonella:
+A.	 vi khuẩn xâm nhập cơ thể theo đường tiêu hóa, đường hô hấp
+B.	 vi khuẩn bám trên bề mặt niêm mạc ruột non làm niêm mạc bị hoại tử
+C.	 vi  khuẩn nhân lên trong hạch mạc treo ruột (*)
+D.	 phải có khoảng 102 đến 103 Vi khuẩn xâm nhập vào cơ thể theo đường tiêu hóa mới có khả năng gây bệnh
+---
+45.  đặc điểm sinh vật học của vi khuẩn tả:
+A.	 chỉ tồn tại được ở ph 8,5 đến 9,5
+B.	 hiếu khí -  kị khí kỳ ngộ  (*)
+C.	 kị khí tuyệt đối
+D.	 oxidase (-)
+---
+46. khả năng gây bệnh của vi khuẩn tả chủ yếu dựa vào:
+A.	 ngoại độc tố gây rối loạn hấp thu nước và điện giải (*)
+B.	 sự xâm nhập của tả vào bào tương niêm mạc ruột làm hoại tử niêm mạc
+C.	 Nội độc tố gây hủy hoại niêm mạc ruột
+D.	 Các Enzym của tả gây rối loạn hấp thu tinh bột ở niêm mạc ruột
+---
+47.  đặc điểm bệnh học của haemophilus influenzae:
+A.	 khoảng 75% trẻ em mắc bệnh viêm đường hô hấp do nhiễm vi khuẩn này
+B.	 khoảng 75% sẽ lành có mang vi khuẩn này ở họng mũi (*)
+C.	 vi khuẩn gây bệnh thường là vi khuẩn không có vỏ, type a
+D.	 vi khuẩn gây bệnh thường là vi khuẩn không có vỏ, type b
+---
+48.  haemophilus influenzae không gây nên một trong những bệnh cảnh sau:
+A.	 viêm màng não
+B.	 viêm đường hô hấp trên
+C.	 nhiễm trùng sinh dục
+D.	 viêm dạ dày- ruột cấp (*)
+---
+49.  thử nghiệm Koch chứng tỏ miễn dịch của cơ thể với vi khuẩn lao là:
+A.	đáp ứng miễn dịch qua trung gian tế bào (*)
+B.	 đáp ứng miễn dịch thể dịch
+C.	 phản ứng trung hòa độc tố
+D.	 đáp ứng của cả miễn dịch dịch thể và miễn dịch tế bào
+---
+50.  đặc điểm sinh vật học của nhóm Clostridium:
+A.	 trực khuẩn gram Dương, hiếu khí kỵ khí tùy ngộ
+B.	 trực khuẩn gram âm, kỵ khí tuyệt đối
+C.	 trực khuẩn gram Dương, kị khí tuyệt đối (*)
+D.	trực khuẩn gram Dương, hiếu khí tuyệt đối
+---
+51.  thuốc kháng sinh là những chất ngăn chặn vi khuẩn nhân lên hay tiêu diệt vi khuẩn bằng cơ chế:
+A.	 tác động vào sự cân bằng lí học của tế bào vi khuẩn
+B.	 tác động vào các giai đoạn chuyển hóa của đời sống vi khuẩn (*)
+C.	 ức chế sinh tổng hợp protein
+D.	 tác động vào giai đoạn phân chia của tế bào vi khuẩn
+---
+52.  kháng sinh có đặc điểm:
+A.	 có nguồn gốc cơ bản từ các chất hóa học
+B.	 có nguồn gốc cơ bản từ thực vật
+C.	 mỗi loại kháng sinh chỉ tác động lên một nhóm hay một loại vi khuẩn nhất định
+D.	 kháng sinh có hoạt phổ rộng là kháng sinh tiêu diệt được nhiều loại vi khuẩn gây bệnh khác nhau (*)
+---
+53.  chất tẩy uế và chất sát khuẩn giống nhau ở điểm:
+A.	 có thể tổng hợp bằng phương pháp hóa học, ly trích từ động vật, thực vật hoặc vi sinh vật
+B.	 có thể dùng tại chỗ như bôi da
+C.	 thường chỉ dùng để tẩy uế đồ vật (*)
+D.	 gây độc hại cho cơ thể
+---
+54.  kháng sinh làm hư hại màng nguyên tương vi khuẩn theo cơ chế:
+A.	 kháng sinh làm thay đổi tính thẩm thấu chọn lọc của vách vi khuẩn
+B.	 kháng sinh làm tăng tính thấm chọn lọc của màng nguyên tương vi khuẩn
+C.	 kháng sinh làm thay đổi tính thẩm thấu chọn lọc của màng nguyên tương
+D.	 kháng sinh làm thay đổi tính thẩm thấu của màng nhân (*)
+---
+55.  kháng sinh ức chế sinh tổng hợp protein của vi khuẩn theo một trong các cơ chế sau:
+A.	 phá hủy tiểu phần 30s của ribosom
+B.	phá hủy tiểu phần 50s của ribosom
+C.	 cản trở sự liên kết của các axit amin ở tiểu phần 50s (*)
+D.	 tác động vào enzim catalase ở tiểu phần 50s
+---
+56. một trong các cơ chế tác động của kháng sinh trong sinh tổng hợp axit nucleic của vi khuẩn:
+A.	 ức chế enzym gyrase nên ngăn cản sự sao chép của AND (*)
+B.	tác động vào ARN khuôn, ức chế tổng hợp ARN
+C.	tác động vào ARN khuôn, ức chế tổng hợp ADN
+D.	ngăn cản sinh tổng hợp AND polymerase  phụ thuộc ARN.
+---
+57. kháng sinh tác động lên vách của tế bào vi khuẩn làm cho:
+A.	 vi khuẩn sinh ra không Có vách do đó dễ bị tiêu diệt (*)
+B.	 chức năng thẩm thấu chọn lọc của vách bị thay đổi vi khuẩn bị tiêu diệt
+C.	  vách không còn khả năng phân chia nên vi khuẩn bị tiêu diệt
+D.	 các thụ thể trên bề mặt sắt bị phá hủy nên vi khuẩn bị tiêu diệt
+---
+58.  chất sát khuẩn là những chất:
+A.	 ức chế sự phát triển của vi sinh vật ở mức độ phân tử
+B.	 gây độc hại cho môi sống của cơ thể (*)
+C.	 thường chỉ để tẩy uế đồ vật hay sát trùng ngoài da
+D.	 độc tính cao nên không thể dùng tại chỗ như bôi ngoài da
+---
+59. Tính gây bệnh của vi sinh vật phụ thuộc vào:
+A.	 độc lực của vi sinh vật (*)
+B.	 độc tố của vi khuẩn gây bệnh xâm nhập
+C.	 đường xâm nhập của vi khuẩn gây bệnh vào cơ thể
+D.	 đường xâm nhập của vi sinh vật vào cơ thể
+---
+60.  đặc điểm của bệnh nhiễm trùng mạn tính:
+A.	 bệnh kéo dài triệu chứng không dữ dội (*)
+B.	 bệnh kéo dài không có dấu hiệu lâm sàng
+C.	 hay gặp hơn các thể bệnh nhiễm trùng khác
+D.	 thường không tìm thấy vi sinh vật gây bệnh trong bệnh phẩm
+---
+61.  Coagulase của một số vi khuẩn có tác dụng:
+A.	Làm tan chất tạo keo và sợi cơ của cơ thể
+B.	 làm tăng hồng cầu
+C.	 giúp vi khuẩn bám chắc vào niêm mạc đường hô hấp
+D.	  làm đông kết huyết tương (*)
+---
+62.  ngoại độc tố của vi khuẩn có tính chất:
+A.	 được giải phóng ra trong quá trình vi khuẩn bị ly giải
+B.	 gây rối loạn điển hình đặc biệt (*)
+C.	Một vi sinh tính kháng nguyên mạnh do bản chất là glycopeptid
+D.	bị hủy ở 100 độ C sau 30 phút
+---
+63.  các tính chất của nội độc tố vi khuẩn:
+A.	 tính kháng nguyên thay đổi tùy theo loại vi khuẩn
+B.	 có kháng độc tố điều trị
+C.	 chỉ được giải phóng ra khi tế bào vi khuẩn bị li giải (*)
+D.	 chịu nhiệt kém
+---
+64.  các tính chất của nội độc tố vi khuẩn:
+A.	 có ở các clostridium, bạch hầu, tả, E. coli, Shigella
+B.	chỉ có ở vi khuẩn gram âm (*)
+C.	 độc tính rất mạnh
+D.	 bản chất là phức hợp phospholipid a và b
+---
+65.  một vi sinh vật ngoài các yếu tố độc lực còn cần hai yếu tố phải có để gây được bệnh nhiễm trùng đó là:
+A.	 sự xâm nhập của độc tố
+B.	 yếu tố bám và xâm nhập (*)
+C.	 yếu tố bám và độc tố
+D.	  độc tố và enzim ngoại bào
+---
+66.  enzim ngoại bào protease của vi khuẩn có tác dụng
+A.	làm tăng hồng cầu
+B.	 làm tan tơ huyết
+C.	 làm đông kết huyết tương
+D.	 làm vô hiệu hóa kháng thể IgA1 (*)
+---
+67. Các đặc điểm của interferon (IFN):
+A.	xuất hiện từ ngày thứ 4 đến 7 sau khi có virus xâm nhập cơ thể
+B.	IFN của loài động vật nào sản xuất ra chỉ có tác dụng với loại đó (*)
+C.	 có tác dụng đặc hiệu với kháng nguyên
+D.	 ngăn chặn virus nhân lên do phá vỡ vỏ capsid của virus
+---
+68.  trong hệ thống phòng ngự tự nhiên của cơ thể, hàng rào đầu tiên chống lại sự xâm nhập của vi sinh vật gây bệnh vào cơ thể là:
+A.	 hàng rào ra, hàng rào tế bào
+B.	 hàng rào niêm mạc,  hàng rào tế bào
+C.	 hàng rào ra, hàng rào niêm mạc (*)
+D.	 hàng rào tế bào, hàng rào thể dịch
+---
+69.  cầu khuẩn là:
+A.	 những vi khuẩn hình cầu
+B.	  những vi khuẩn hình cầu hoặc tương đối giống hình cầu (*)
+C.	 có đường kính trung bình khoảng 1 nm
+D.	 sắp xếp thành từng đám hay rải rác
+---
+70.  chức năng màng nguyên sinh tế bào vi khuẩn:
+A.	 thẩm thấu chọn lọc và vận chuyển các chất hòa tan (*)
+B.	 là nơi tổng hợp Nội độc tố của vi khuẩn gram âm
+C.	 là nơi cung cấp thức ăn cho tế bào
+D.	 là nơi tổng hợp các loại độc tố của tế bào
+---
+71. Chức năng của vách vi khuẩn:
+A.	 thẩm thấu chọn lọc và vận chuyển các chất hòa tan
+B.	 là nơi tập trung của các Enzym chuyển hóa và hô hấp
+C.	 tham gia tổng hợp võ của vi khuẩn gram âm
+D.	 mang những kháng nguyên quan trọng của vi khuẩn (*)
+---
+72.  đặc điểm vỏ và lông của vi khuẩn:
+A.	 vỏ chỉ có ở vi khuẩn gram âm
+B.	 võ có cấu tạo là polysccharit hoặc poplipeptid (*)
+C.	Lông có bản chất là polysccharit
+73 . sinh lý của vi khuẩn:
+A.	 tất cả vi khuẩn gây bệnh đều là vi khuẩn tự dưỡng
+B.	 tất cả vi khuẩn gây bệnh đều là vi khuẩn dị dưỡng (*)
+C.	 vi khuẩn chuyển hóa được nhờ có ARN Vận Chuyển
+D.	 sự dinh dưỡng của vi khuẩn nhờ khả năng vận chuyển qua màng của ARN Vận Chuyển
+---
+74.    đặc điểm kháng nguyên vỏ của vi khuẩn:
+A.	 có tính kháng nguyên mạnh
+B.	 có tính kháng nguyên yếu (*)
+C.	 bao bên ngoài vách tế bào nên có tính kháng nguyên đá đặt hiệu
+D.	 bản chất hóa học là phức hợp Lipopolysaccharit
+---
+75.  yếu tố độc lực chính quyết định sự nhiễm trùng là:
+A.	 độc tố của vi khuẩn
+B.	 một số enzim ngoại bào của vi khuẩn
+C.	 sự xâm nhập và sinh sản của vi khuẩn (*)
+D.	 sự bám vào tế bào của vi khuẩn
+---
+76.  muốn xác định được type sinh hóa của vi khuẩn đường ruột phải:
+A.	 xác định tính chất sinh vật hóa học của vi khuẩn (*)
+B.	 phải có môi trường phân biệt chọn lọc khá SS
+C.	 phải có môi trường phân biệt chọn lọc ít Mac Conkey
+D.	 phải có môi trường giàu dinh dưỡng BA
+---
+77.  đặc điểm của họ vi khuẩn đường ruột:
+A.	 là những trực khuẩn gram âm có lông quanh thân
+B.	 là những trực khuẩn gram Dương di động (+/-)
+C.	 sử dụng đường Glucose, sinh hơi (+/-) (*)
+D.	 sinh nha bào hoặc không tùy theo loại vi khuẩn
+---
+78.  một trong những tính chất sau không phải của vi khuẩn đường ruột:
+A.	khử nitrat thành nitrit
+B.	Catelase (-) (*)
+C.	 di động (+/-)
+D.	 Glucose (+)
+---
+79.  Salmonella có thể gây ra những bệnh cảnh sau:
+A.	 viêm dạ dày hạch mạc treo ruột
+B.	  nhiễm khuẩn và nhiễm độc thức ăn (*)
+C.	 viêm não xơ chai bán cấp
+D.	 viêm gan mạn tính
+---
+80.  đặc điểm sinh học của Haemophilus influenzae:
+A.	 có lông hoặc không có lông tùy theo điều kiện phát triển
+B.	 có vỏ hoặc không có vỏ tùy theo điều kiện phát triển  (*))
+C.	 cầu trực khuẩn nhỏ, gram Dương
+D.	 chỉ nuôi cấy được trên môi trường giàu chất dinh dưỡng: thạch máu, CA
+---
+81.  đặc điểm độc tố của tetanospasmin của vi khuẩn uốn ván:
+A.	 bị Bất Hoại ở 120 độ C sau 15 phút
+B.	 là độc tố thần kinh (*)
+C.	 bản chất là nội độc tố
+D.	 geely giải hồng cầu người, ngựa, thỏ
+---
+82.  vi khuẩn chlamydia bắt buộc phải sống kí sinh nội bào vì:
+A.	không có enzim nội bào nên không tự chuyển hóa trao đổi chất
+B.	 không có enzim ngoại bào nên không tự chuyển hóa trao đổi chất
+C.	 không có khả năng tạo ATP bằng hiện tượng oxy hóa (*)
+D.	 không có vách nên không thể tồn tại ngoài môi trường
+---
+83.  đặc điểm sinh vật học của vi khuẩn lao:
+A.	 trực khuẩn ngắn, gram âm
+B.	 trực khuẩn mảnh đôi khi phân nhánh (*)
+C.	 di động (+) không sinh nha bào
+D.	 trong điều kiện không thuận lợi có thể sinh nha bào
+---
+84.  đặc điểm sinh vật học của vi khuẩn lao”
+A.	 kị khí tuyệt đối
+B.	  có tốc độ tăng trưởng chậm hoặc rất chậm (*)
+C.	 dễ phát triển trên các môi trường nuôi cấy thông thường
+D.	 khi nhuộm bằng phương pháp nhuộm Gram vi khuẩn mắt màu đỏ
+---
+85.  đặc điểm kháng nguyên của vỏ vi khuẩn:
+A.	 có tính kháng nguyên mạnh
+B.	 có tính kháng nguyên yếu (*)
+C.	 bao bên ngoài vách tế bào nên có tính kháng nguyên đa đặc hiệu
+D.	 bản chất hóa học là phức hợp Lipopolysaccharit
+---
+86.  đặc điểm các kháng nguyên hòa tan của virus:
+A.	 là những thành phần của hạt virus đã được tách ra trong quá trình sản xuất vắc xin
+B.	  là các loại độc tố của vi rút tổng hợp ra trong quá trình nhân lên
+C.	 các kháng nguyên này ít có giá trị trong chẩn đoán và sản xuất vắc xin (*)
+D.	 các kháng nguyên này rất có giá trị trong chẩn đoán và sản xuất vắc xin
+---
+87.  đặc điểm kháng nguyên của axit nucleic của virus:
+A.	 axit nucleic là những kháng nguyên hoàn toàn
+B.	 axit nucleic là những kháng nguyên không hoàn toàn (*)
+C.	 nucleoprotein là những kháng nguyên không hoàn toàn
+D.	 Kháng nguyên nucleoprotein có những virút có cấu trúc đối xứng khối
+---
+88.  đặc điểm cơ chế thuốc kháng sinh ức chế sinh tổng hợp protein vi khuẩn:
+A.	 điểm tác động là tiểu phần 50S (*)
+B.	 điểm tác động là vách
+C.	 điểm tác động là màng nguyên tương
+D.	 điểm tác động là AND
+---
+90.  cơ chế đề kháng thuốc kháng sinh là do:
+A.	 vi khuẩn làm tăng tính thấm của màng nguyên tương
+B.	 vi khuẩn làm mất đích tác động của thuốc
+C.	 vi khuẩn tạo ra các isoenzim không có ái lực với thuốc nữa (*)
+D.	 vi khuẩn ức chế sinh tổng hợp axit nucleic
+---
+91. kháng sinh đồ là kỹ thuật:
+A.	 xác định độ nhạy cảm của vi khuẩn với kháng sinh (*)
+B.	 xác định độ nhạy cảm của kháng sinh với vi khuẩn
+C.	 Xác định vi khuẩn gây bệnh sau khi phân lập định danh vi khuẩn
+D.	 xác định Nồng độ kháng thuốc kháng sinh của vi khuẩn
+---
+92.  biện pháp hạn chế gia tăng vi khuẩn kháng kháng sinh:
+A.	 chọn lựa kháng sinh theo chẩn đoán lâm sàng
+B.	 tăng liều lượng kháng sinh
+C.	 chỉ dùng kháng sinh để điều trị khi có dấu hiệu nhiễm trùng
+D.	 dùng kháng sinh đủ liều lượng thời gian (*)
+---
+93.  một số khái niệm về nhiễm trùng:
+A.	 nhiễm trùng là sự xâm nhập vào mô của các vi sinh vật gây bệnh (*)
+B.	 nhiễm trùng là sự xâm nhập vào cơ thể của các vi sinh vật
+C.	 nhiễm trùng mãn tính: do một số virus thời gian ủ bệnh kéo dài
+D.	 nhiễm trùng tiềm tàng: không có dấu hiệu lâm sàng không tìm thấy vi sinh vật gây bệnh
+---
+94.  các thành phần bề mặt của vi khuẩn Tham gia bán đặc hiệu vào tế bào là:
+A.	Fibrin
+B.	Pili (*)
+C.	Lypopolysaccharit bề mặt
+D.	 các phân tử bám khác nhau như lypoprotein bề mặt màng tế bào
+
+---
+95. Yếu tố động lực chính quyết định sự nhiễm trùng lạ:
+A.	 độc tố của vi khuẩn
+B.	 một số enzim ngoại bào của vi khuẩn
+C.	 sự xâm nhập và sinh sản của vi khuẩn (*)
+D.	 sự bám vào tế bào của vi khuẩn
+---
+96.  ngoại độc tố có tính chất:
+A.	 độc lực: không độc bằng nội độc tố
+B.	 bản chất: lipopolysaccharit
+C.	 chịu nhiệt cao
+D.	 tính kháng nguyên mạnh (*)
+---
+97.  Nội độc tố có tính chất:
+A.	 là chất độc do vi khuẩn tiết ra trong quá trình phát triển
+B.	 có ở các vi khuẩn gram Dương
+C.	bản chất: lipopolysaccharit (*)
+D.	 tính kháng nguyên mạnh
+---
+98.  đặc điểm nhân lên của virus:
+A.	 chỉ nhân lên được trong tế bào sống
+B.	Chỉ nhân lên được trong tế bào sống cảm thụ (*)
+C.	 chỉ nhân lên được trong cơ thể sống
+D.	 có thể nhân lên được trong môi trường nhân tạo chuyên biệt
+---
+99.  đặc điểm của interferon:
+A.	 bản chất là kháng thể dịch thể
+B.	 bản chất là lipopolysaccharit
+C.	Có tác dụng ức chế hoạt động của ARN vận chuyển của virus
+D.	 có tác dụng ức chế hoạt động của ARN thông tin của virus (*)
+---
+100.  tính đặc hiệu kháng nguyên vách (O) của vi khuẩn gram Dương được quyết định bởi:
+A.	 thành phần peptidoglycan (*)
+B.	 thành phần axit axetic và  protein M hay protein A
+C.	 thành phần peptidoglycan và polyscchrit
+D.	 tùy mỗi loại Virus mà một trong các thành phần trên quyết định tính đặc hiệu kháng nguyên thân
+---
+101.  Kháng nguyên enzym của vi khuẩn có đặc điểm:
+A.	 là nhóm enzym nội bào
+B.	 là enzym động lực của nhóm enzim ngoại bào (*)
+C.	 bản chất là phức hợp lipid polysaccharit nên tính sinh miễn dịch yếu
+D.	 bản chất là ngoại độc tố nên tính sinh miễn dịch cao
+---
+102.  Kháng nguyên enzim của vi khuẩn có đặc điểm:
+A.	là các pôlipeptit hoặc phức hợp protid nên tính kháng nguyên mạnh (*)
+B.	 là các chủ nhắn polysaccharit nên tính kháng nguyên yếu
+C.	 Độc lực mạnh nên không thể dùng trong điều trị một số bệnh
+D.	 độc lực mạnh nên được sử dụng trong chẩn đoán một số bệnh
+---
+103.  đặc điểm kháng nguyên của vỏ vi khuẩn:
+A.	 bản chất hóa học là pôlipeptid Hoặc polysaccharit (*)
+B.	 vỏ chỉ có ở vi khuẩn gram Dương
+C.	 kích thích cơ thể sinh miễn dịch mạnh do bản chất là pôlipeptid
+D.	 gây được miễn dịch nhân yếu do bản chất là lipid
+---
+104.  đặc điểm vỏ của vi khuẩn:
+A.	 quan sát được võ khi nhuộm bằng phương pháp nhuộm Gram
+B.	 là một lớp nhầy lỏng lẻo không rõ rệt bao bên ngoài vách của một số vi khuẩn (*)
+C.	 chỉ có ở những vi khuẩn gram âm
+D.	 Chỉ có ở những vi khuẩn không có vách
+---
+105. bản chất hóa học của vỏ vi khuẩn có hai loại:
+A.	 pôlipeptid hoặc lipoprotein
+B.	 polysaccharit hoặc protein
+C.	  pôlipeptit hoặc polysaccarit (*)
+D.	 protein hoặc lipoprotein
+---
+106.  đặc điểm vỏ của vi khuẩn:
+A.	 là một kháng nguyên hoàn toàn
+B.	 có tính kháng nguyên nhưng yếu (*)
+C.	 có thể chế thành giải độc tố do bản chất là protein
+D.	 không thể chế thành vắc xin do không gây được miễn dịch
+---
+107. vỏ của một số vi khuẩn có tác dụng chống lại sự thực bào do:
+A.	 có lớp vỏ dày nên đại thực bào không tiêu diệt được vi khuẩn
+B.	 có  khả năng tiết ra độc tố tiêu diệt đại thực bào
+C.	 làm tăng sự opsonin hóa giúp vi khuẩn tồn tại
+D.	 có khả năng bảo hòa sử opsonin hóa giúp vi khuẩn tồn tại (*)
+---
+108.  lipopolysaccharit của vi khuẩn không được sử dụng để sản xuất thành vắc xin gì:
+A.	 có tính độc cao nên gây nguy hiểm cho cơ thể
+B.	 là một kháng nguyên không hoàn toàn nên tính sinh miễn dịch yếu
+C.	 kháng thể được tạo ra bởi kháng nguyên này mang tính đặc hiệu (*)
+D.	 không có tính đặc hiệu kháng nguyên riêng
+---
+109.  đặc điểm vỏ của vi khuẩn:
+A.	 tất cả mọi vi khuẩn đều có vỏ
+B.	 chỉ trực khuẩn gram âm mới có vỏ
+C.	 tất cả vi khuẩn có vỏ đều là vi khuẩn gây bệnh
+D.	 một số vi khuẩn có thể có vỏ hoặc mứt vỏ trong quá trình phát triển (*)
+---
+110.  đặc điểm lông của vi khuẩn:
+A.	 tất cả các vi khuẩn đều có lông
+B.	 lông giúp cho vi khuẩn bám được lên bề mặt tế bào
+C.	 lông được tạo thành bởi các protein sợi (*)
+D.	 là một bán kháng nguyên do bản chất là các sợi polysaccharit trùng hợp
+---
+111.  đặc điểm lông của vi khuẩn:
+A.	 là một kháng nguyên hoàn toàn (*)
+B.	 là một bán kháng nguyên
+C.	 không có vai trò kháng nguyên
+D.	 là cầu giao phối giúp cho vi khuẩn truyền các yếu tố di truyền
+---
+112.  tính chất sau không phải là đặc điểm của lông vi khuẩn:
+A.	 lông mọc từ nguyên sinh chất của tế bào vi khuẩn
+B.	 Long được tổng hợp từ các axit amin dạng D
+C.	 chỉ những vi khuẩn có lông mới di động được (*)
+D.	 Kháng nguyên lông được dùng để phân loại một số vi khuẩn
+---
+113.  kháng nguyên hòa tan của virus là những kháng nguyên thu được từ nuôi cấy tế bào nhiễm virus:
+A.	sau khi đã loại bỏ virus và nước nuôi cấy virus
+B.	 sau khi đã Loại bỏ các thành phần của tế bào
+C.	 sau khi đã loại bỏ virus và các thành phần của tế bào (*)
+D.	 sau khi đã loại bỏ nước nuôi cấy virus và các thành phần của tế bào
+---
+114.  đặc điểm tính kháng nguyên của các thành phần hạt virion:
+A.	 vỏ capsid có tính kháng nguyên đặc hiệu nhất (*)
+B.	 vỏ envelop có tính kháng nguyên đặc hiệu nhất
+C.	 axit nucleic không có tính kháng nguyên
+D.	  axit nucleic có tính kháng nguyên cao
+---
+115.  Đặc điểm kháng nguyên của võ các sếp của vi rút:
+A.	 bản chất vỏ capsid là lipoprotein nên có tính kháng nguyên cao
+B.	 chữa phần lớn rô ti in của virus nên là những kháng nguyên quan trọng (*)
+C.	 là một phức hợp kháng nguyên nucleoprotein
+D.	 là một phức hợp kháng nguyên glucoprotein
+---
+116.  đặc điểm kháng nguyên của vỏ envelope của virus:
+A.	 bản chất vỏ lipoprotein nên tính kháng nguyên không mạnh
+B.	 bản chất vỏ là glycoprotein nên tính kháng nguyên không mạnh
+C.	 vỏ có thể là lipoprotein hoặc glycoprotein (*)
+D.	 vỏ có chứa các kháng nguyên đặc hiệu hemaglutinin và neraminidase
+---
+117. đặc điểm kháng nguyên của vỏ envelope của virus:
+A.	 các gai nhú trên vỏ là những kháng nguyên quan trọng trong chẩn đoán (*)
+B.	 các khe vú trên vỏ là những kháng nguyên ít có giá trị trong chẩn đoán
+C.	 các gai nhú trên vỏ có tác dụng giúp virus di chuyển trong gian bào
+D.	 các gai nhú trên vỏ có tác dụng giúp virus xâm nhập vào tế bào
+---
+118.  chức năng của vách vi khuẩn
+A.	  thẩm thấu chọn lọc và vận chuyển các chất hòa tan
+B.	 là Nơi tập trung của các men chuyển hóa và hô hấp
+C.	 tham gia tổng hợp các enzim ngoại bào
+D.	 mang những kháng nguyên quan trọng của vi khuẩn (*)
+---
+119.  đặc điểm hô hấp của vi khuẩn:
+A.	 hô hấp kị khí: chất dẫn điện tử cuối cùng là ion
+B.	 hô hấp hiếu khí: O2 là chất nhận điện tử cuối cùng (*)
+C.	 hô hấp hiếu khí kị khí tùy ngộ: chấp nhận điện tử cuối cùng là một chất vô cơ
+D.	 hô hấp hiếu khí kị khí tùy ngộ: chấp nhận điện tử cuối cùng là một chất vô cơ hoặc hữu cơ
+---
+120.  đặc điểm sinh sản và phát triển của vi khuẩn:
+A.	 đa số vi khuẩn sinh sản theo kiểu nảy chồi
+B.	đa số vi khuẩn sinh sản theo kiểu trực phân (*)
+C.	 khuẩn lạc là một tế bào vi khuẩn thuần khiết
+D.	 hình dạng khuẩn lạc chính là hình dạng của vi khuẩn
+---
+121.  các tính chất của đột biến vi khuẩn có đặc điểm:
+A.	 độc lập và đặc hiệu: di truyền cho thế hệ sau
+B.	 ngẫu nhiên: đột biến tính chất này không ảnh hưởng đến đột biến tính chất khác
+C.	  vững bền: đặc tính đột biến di truyền cho thế hệ sau (*)
+---
+122.  các phương thức vận chuyển di truyền:
+A.	  tiếp hợp: là sự vận chuyển một đoạn AND của vi khuẩn cho nạp vào vi khuẩn nhận nhờ sự có mặt của phage
+B.	 Tải nạp: là sự vận chuyển chất liệu di truyền từ vi khuẩn cho sang vi khuẩn nhận nhờ sự có mặt của phage (*)
+C.	 biến nạp: là sự vận chuyển chất liệu di truyền từ vi khuẩn đực sang vi khuẩn cái khi hai vi khuẩn tiếp xúc với nhau
+D.	 Tải nạp chung hoàn chỉnh: đoạn gen của vi khuẩn cho mang sang nằm tự do trong bào tương vi khuẩn nhận
+---
+123.  cấu tạo plasmid của tế bào vi khuẩn:
+A.	 là những phân tử AND nhỏ
+B.	 là những phân tử AND dạng vòng tròn
+C.	 là những phân tử AND dạng vòng tròn nằm ngoài nhiễm sắc thể (*)
+D.	 plasmid chỉ nhân lên được cùng với sự nhân lên của tế bào
+---
+124.  trên môi trường đặc, khuẩn lạc của trực khuẩn đường ruột có đặc điểm:
+A.	 dạng S: khuẩn lạc tròn, bờ không đều, mặt khô
+B.	 dạng R: khuẩn lạc xù xì, mặt bóng, dẹp
+C.	 dạng M: khuẩn lạc nhầy trơn tròn lồi bóng
+D.	 đa số khuẩn lạc phát triển nhanh sau 24 đến 48 giờ (*)
+---
+125.  đặc điểm kháng nguyên O của vi khuẩn đường ruột:
+A.	 là kháng nguyên bề mặt của vi khuẩn
+B.	 chịu nhiệt kém
+C.	bản chất là phức hợp lypopolysaccharit
+D.	 bản chất là phức hợp protein polyosid lipid (*)
+---
+126.   đặc điểm sau không phải của họ vi khuẩn đường ruột:
+A.	H2S (+/-) khi chuyển hóa một số chất có lưu huỳnh
+B.	 bị ức chế trên môi trường Mac conkey bởi mối mật (*)
+C.	 Không sinh nha bào
+D.	 một số loại hình thể không ổn định khi nuôi cấy trong điều kiện đặc biệt
+---
+127.  đặc điểm phát triển của họ vi khuẩn đường ruột trên môi trường lỏng:
+A.	vi khuẩn phát triển nhanh làm đục môi trường (*)
+B.	 vi khuẩn phát triển nhanh tạo váng trên bề mặt môi trường
+C.	 vi  khuẩn hiếu khí tuyệt đối nên tạo váng trên bề mặt môi trường
+---
+128.  trong bệnh sốt thương hàn, bệnh nhân sốt cao li bì là do:
+A.	 vi khuẩn xâm nhập vào máu gây tình trạng nhiễm khuẩn huyết
+B.	 vi khuẩn vào máu kích thích trung tâm thần kinh thực vật ở não
+C.	 Nội độc tố tác động trung tâm thần kinh thực vật ở não thất 3 (*)
+D.	 ngoại độc tố tác động trung tâm thần kinh thực vật ở não thất 3
+---
+129.  trong bệnh sốt thương hàn, vi khuẩn có thể cư trú tại các cơ quan dẫn đến tình trạng người lành mang bệnh, hay gặp nhất là ở các cơ quan:
+A.	 thận, bàng quang
+B.	gan, mật, mảng payer
+C.	 bàng quang, mật (*)
+D.	 mảnh payer, đại tràng
+---
+130.  trong chẩn đoán trực tiếp bệnh thương hàn, tùy theo giai đoạn tiến triển của bệnh để lấy bệnh phẩm là:
+A.	 cấy máu ở tù khi mới phát bệnh cho tỉ lệ dương tính cao (*)
+B.	 cấy phân ở tuần đầu khi mới phát bệnh cho tỉ lệ dương tính cao
+C.	 cấy nước tiểu ở tuần đầu khi mới phát bệnh cho tỉ lệ dương tính cao
+D.	 cấy máu từ ngày 12 đến 14 của bệnh trở đi mới cho tỉ lệ dương tính cao
+---
+131.  trong bệnh thương hàn, thời gian sớm nhất xuất hiện các kháng thể trong máu có thể phát hiện thấy trong thử nghiệm widal là:
+A.	 kháng thể O xuất hiện sau 12 đến 14 ngày
+B.	 kháng thể O xuất hiện sau 2 đến 4 ngày
+C.	 kháng thể H xuất hiện sau 7 đến 10 ngày
+D.	 kháng thể H xuất hiện sau 12 đến 14 ngày(*)
+---
+132.  vi khuẩn Chlamydia bắt buộc phải sống kí sinh nội bào vì:
+A.	 không có enzim nội bào nên không tự chuyển hóa trao đổi chất
+B.	 không có khả năng tạo ATP bằng hiện tượng oxy hóa (*)
+C.	 không có enzim ngoại bào nên không tự chuyển hóa trao đổi chất
+D.	 không có khách nên không thể tồn tại ngoài môi trường
+---
+133.  đặc điểm sinh vật học của vi khuẩn lao:
+A.	 trực khuẩn ngắn, gram âm
+B.	 trực khuẩn mảnh, đôi khi phân nhánh (*)
+C.	di động (+), không sinh nha bào
+D.	 trong điều kiện không thuận lợi có thể sinh nha bào
+---
+1.	Cầu khuẩn gồm các hình thái sau:
+A.	Hình cầu, hình trứng, hình hạt cafe.(*)
+B.	Hinh trứng, hình dài, hình vòng
+C.	Hình hạt cafe hoặc hình cong
+D.	Hình tròn đều hoặc đa hình thái
+---
+2.	Vi khuẩn có hình que thẳng gọi là
+A.	Vibrio
+B.	Vi khuẩn gram (-)
+C.	Vi khuẩn gram (+)
+D.	Trực khuẩn(*)
+---
+3.	Nhân của vi khuẩn có thể khảo sát bằng
+A.	Nhuộm gram
+B.	Nhuộm đơn
+C.	Nhuộm albert
+D.	Nhuộm nhân(*)
+---
+4.	Nguyên tương của vi khuẩn có chứa nhiều
+A.	Tiêu thể không nhuộm màu
+B.	Hạt dự trữ glycogen, ranulasa hoặc polymetaphotphat(*)
+C.	Nhiễm sắc thể
+D.	Phiến chlorophyl
+---
+5.	Người phát hiện ra bệnh dịch hạch
+A.	Louis Pasture
+B.	A.J.E Yesin(*)
+C.	Antoni van Leeuwenhockk
+D.	Robert Kock
+---
+6.	Chọn câu sai: Chức năng của màng tế bào
+A.	Giữ gìn nhìn hình dạng đặc trưng, bảo vệ tế bào khỏi vỡ ra khi chất lỏng chảy ra khỏi tế bào do hiện tượng thẩm thấu.
+B.	điều tiết Sự vận chuyển các chất đi vào và thoát ra khỏi tế bào vẩy tổng hợp thành phần của vách
+C.	Tham gia quá trình hô hấp và thu giữ năng lượng trong ATP chứa gốc chuyên mao.
+D.	tổng hợp thành phần của vách hỗ trợ sao chép DNA chế tiết protein(*)
+---
+7.	Kháng nguyên yếu
+A.	Kháng nguyên lipid(*)
+B.	Kháng nguyên polysaccharid
+C.	Kháng nguyên prôtêin
+D.	Kháng nguyên hỗn hợp
+---
+8.	Điền vào chỗ trống: “………… là một chất khi đưa vào cơ thể sẽ gây ra ở cơ thể đó một đáp ứng miễn dịch đặc hiệu, tức là sự hình thành các kháng thể và/hoặc tế bào T phản ứng đặc hiệu với kháng nguyên đưa vào”
+A.	Kháng nguyên(*)
+B.	Kháng thể
+C.	Kháng sinh
+D.	Tất cả đều sai
+---
+9.	Phage λ có thể:
+A.	Vận chuyển bất kỳ gen nào của Ecoli
+B.	Vận chuyển nhóm gen Gel của Ecoli
+C.	Làm tan tế bào nhiều loại vi khuẩn
+D.	Không tích hợp vào nhiễm sắc thể của vi khuẩn
+---
+10.	Sự tiếp hợp là hiện tượng vận chuyển di truyền:
+A.	Lúc chỉ có vi khuẩn cho là vi khuẩn khuyết dưỡng
+B.	Lúc chỉ có vi khuẩn nhận là vi khuẩn khuyết dưỡng
+C.	Qua sự tiếp xúc của vi khuẩn
+D.	Qua trung gian của phage
+---
+11.	Các penicillin và cácc cephalosporin là các kháng sinh họ beta lactamin vì:
+A.	Đều có tác dụng chống vi khuẩn gram(+)
+B.	Có tác dụng diệt khuẩn
+C.	Bị enzymbeta lactamase phá huỷ
+D.	Có cấu trúc vòng beta lactam trong công thức phân tử
+---
+12.	Kháng sinh nhóm penicilin có hoạt tính chủ yếu chống lại vi khuẩn gram âm (-) và bị enzym pennicilinase phá huỷ là:
+A.	Methicillin
+B.	Cefamandol
+C.	Amplicillin
+D.	Ceftriazon
+---
+13.	Vi khuyaarn kháng tetracyclin do:
+A.	Sản xuất enzym phá huỷ tetracyclin
+B.	Phát triển một con đường tổng hợp protein mới
+C.	Giảm sự thấm của tetracyclin vào tring tế bào vi khuẩn
+D.	Thay đổi cấu trúc ribosom của vi khuẩn
+---
+14.	Các tiêu chuẩn nào sau đây của thuốc kháng sinh nên được_______ bệnh nhiễm trùng
+A.	Hiệu lực, ít tai biến, đắt tiền
+B.	Hiệu lực, ít độc rẻ tiền(*)
+C.	Hiệu lực, chỉ gây đọc cho một số cơ quan, rẻ tiền
+D.	Kém hiệu lực, ít đọc, gía rẻ.
+---
+15.	Mối quan hệ giữa vi sinh vật gây bệnh xâm nhập vào cơ thể vật chủ trong quá trình nhiễm trùng được xem là:
+A.	Một bệnh truyền nhiễm
+B.	Một phản ứng sinh học đối kháng(*)
+C.	Một phản ứng lý sinh học
+D.	Một phản ứng hoá sinh học
+---
+16.	Kháng thể nào đóng vai trò chủ yếu trong đáp ứng miễn dịch thứ phát
+A.	IgM
+B.	IgA
+C.	IgG(*)
+D.	IgE
+---
+17.	Mụn, nhọt đầu đinh là ví dụ:
+A.	Biểu hiện của bệnh nhiễm trùng
+B.	Hiện tại chỗ của bệnh nhiễm trùng tụ cầu vàng(*)
+C.	Những triệu chứng của bên nhiễm trùng toàn thân
+D.	Về sức khỏe kháng cơ thể vật chủ tốt
+---
+18.	Nguyên nhân của bệnh nhiễm trùng là:
+A.	Côn trùng truyền bệnh
+B.	Động vật bị bệnh cắn
+C.	Sức đề kháng của cơ thể và chủ kém
+D.	Vi sinh vật gây bệnh(*)
+---
+19.	Các cơ chế miễn dịch không đặc hiệu rất quan trọng:
+A.	Trong việc đề phòng sự tái nhiễm vi sinh vật gây bệnh
+B.	Trong các nhiễm trùng đường tiêu hóa
+C.	Trong nhiều trường hợp nhiễm vi sinh vật gây bệnh(*)
+D.	Trong các nhiễm trùng đường hô hấp
+---
+20.	Khi miễn dịch đặc hiệu xuất hiện thì:
+A.	Các ức chế không đặc hiệu lại được khuyếch đại thêm(*)
+B.	Các cơ chế không đặc hiệu bị ức chế
+C.	Hoạt động của các ức chế không đặc hiệu giảm dần
+D.	Xuất hiện các kháng thể tự nhiên
+---
+21.	Chức năng miễn dịch của đại thực bào là:
+A.	Trình diện kháng nguyên tạo kháng thể(*)
+B.	Sinh kháng thể và tiêu diệt các mầm bệnh nội bào
+C.	Tiết lymphokin và khở động đáp ứng miễn dịch đặc hiệu
+D.	Khởi động Đáp ứng miễn dịch đặc hiệu và tham gia đáp ứng miễn dịch tế bào
+---
+22.	 Kháng thể tự nhiên là:
+A.	Kháng thể được hình thành do sự kích thích của các kháng nguyên bảo vệ của các vi sinh vật gây bệnh
+B.	Kháng thể có khả năng làm tan hồng cầu
+C.	Kháng thể có một cách tự nhiên trong huyết thanh của cơ thể bình thường(*)
+D.	Kháng thể khi phản ứng với kháng nguyên thì có thể gắn bó với bổ thể
+---
+23.	Bổ thể là một hệ thống:
+A.	Gama glulobin huyết thanh
+B.	Có tác dụng làm tan hồng cầu(*)
+C.	Trung hòa emzym
+D.	Glycoprotein
+---
+24.	Các cơ chế miễn dịch đặc hiệu của cơ thể vật chủ là:
+A.	Miễn dịch tế bào và các yếu tố hòa tan trong huyết thanh
+B.	Miễn dịch dịch thể và miễn dịch tế bào(*)
+C.	Miễn dịch dịch thể và cơ chế thực bào
+D.	Lympho tế bào TC và lympho bào TDTH
+---
+25.	Phản ứng ngưng kết hồng cầu thụ động đảo ngược:
+A.	Là dùng hồng cầu gắn kháng nguyên hòa tan đề phát hiện và đo lường kháng thể tương ứng
+B.	Là dùng các hạt như latex đi gắn kháng thể tương ứng với các kháng nguyên có sẵn tự nhiên trên bề mặt hồng cầu
+C.	Là phản ứng ngưng kết trong đó hồng cầu được dùng làm giá thể để gắn kháng thể(*)
+D.	Là phản ứng ngưng kết để xác định hiệu giá của kháng huyết thanh
+---
+26.	Kỷ thuật kháng thể huỳnh quang gián tiếp, thành phần được gắn thuốc nhuộm huỳnh quang là:
+A.	Kháng thể(*)
+B.	Bổ thể
+C.	Kháng nguyên
+D.	Kháng thể hoặc kháng nguyên
+---
+27.	Phản ứng kết hợp giữa kháng nguyên và kháng thể rõ nét nhất:
+A.	Trong  phản ứng kết tủa
+B.	Lúc kháng nguyên gặp kháng thể tương ứng
+C.	Lúc thừa hoặc thiếu kháng nguyên hoặc kháng thể
+D.	Lúc số phân tử kháng nguyên tương đương với số phân tử kháng thể(*)
+---
+28.	Một kháng nguyên:
+A.	Có thể phản ứng với bất kỳ kháng thể nào
+B.	Có thể phản ứng với nhiều loại kháng thể
+C.	Chỉ phản ứng với kháng thể do nó kích động tạo thành (*)
+D.	Thường hóa trị hai
+---
+29.	Nguyên tương của vi khuẩn:
+A.	Giống cấu trúc nguyên tương của tế bào động vật
+B.	Chứa ti thể và hạt vùi
+C.	Chứa lục lạp và hạt vùi
+D.	Không chứa ty thể và lục lạp(*)
+---
+30.	Plasmit của vi khuẩn là
+A.	Phân tử ADN mang các gen kháng thuốc
+B.	Phân tử ARN nhỏ ngoài nhiễm sắc thể có khả năng tự sao chép
+C.	Phân tử ADN nhỏ năm fngoafi nhiễm sắc thể có khả năng tự sao chép(*)
+D.	Phân tử ADN hoặc ARN nhỏ nằm ngoài nhiễm sắc thể có khả năng tự sao chép
+---
+31.	Cấu tạo của mảng nguyên tương là:
+A.	Protein, glucid
+B.	Protein, lipit(*)
+C.	Lipit và glucid
+D.	Lipit và polysacharid
+---
+32.	Chức năng của vách vi khuẩn
+A.	Chống lại sự thực bào
+B.	Bảo vệ tạo hình thái vi khuẩn(*)
+C.	Sảm phẩm độc cho vi khuẩn khác
+D.	Nơi tác động của các thuốc kháng sinh
+---
+33.	Vi khuẩn ở trạng thái nha bào
+A.	Nhạy cảm cao với tác nhân vật lý và hoá học
+B.	Có thể gây bệnh khi xâm nhập cơ thể con người(*)
+C.	Vi khuẩn phát triển nhanh về số lượng
+D.	Bị giết chết khi đun sôi ở 1000 độC trong 15-20p
+---
+34.	Kháng nguyên thân ô ở vi khuẩn gram (-) xuất phát từ
+A.	Vỏ vi khuẩn
+B.	Màn nguyên tương
+C.	Vách và vỏ của vi khuẩn
+D.	Vách vi khuẩn(*)
+---
+35.	Sự hình thành tính kháng thuốc là do
+A.	Biến đổi gen ở nhiễn sắc thể
+B.	Tiếp nhập plasmit kháng thuốc
+C.	Tiếp xúc trực tiếp nhận phage
+D.	Biến đổi gen ở nhiễn sắc thể hoặc tiếp nhập plasmit kháng thuốc(*)
+---
+36.	Nhân tố kháng thuốc R
+A.	Ko thể lan tràn như 1 bệnh truyền nhiễm
+B.	Ko thể lan tràn trong các vi khuẩn gram (-)
+C.	Lây truyền qua trung gian của phage
+D.	Lây truyền qua các vi khuẩn qua tiếp xúc (*)
+---
+37.	Plasmit kháng thuốc ở vi khuẩn gram (-)
+A.	Ko thể lây truyền trong các vi khuẩn đường ruột
+B.	Ko thể tách ra làm 2 phần
+C.	Là nhân tố R (*)
+D.	Là nhân tố RTF
+---
+38.	Vi sinh vật là:
+A.	Tên gọi chung của những vi sinh vật có kích thước nhỏ bé, mà mắt thường ko nhìn thấy được, chỉ có thể quan sát chúng bằng kính hiển vi(*)
+B.	Là tên gọi chung của những vi sinh vật mà mắt thường có thể nhìn thấy được bao gồm nấm men, nấm mốc, tảo,…
+C.	A & B đều đúng
+D.	A & B đều sai
+---
+39.	Có thể nêu tác dụng của kháng sinh chống vi khuẩn như sau:
+A.	Các kháng sinh có tác dụng đặc hiệu đối với 1 loại vi khuẩn hoặc 1 nhóm vi khuẩn nhất định (*)
+B.	Các kháng sinh có tác dụng chống tất cả vi khuẩn trong tự nhiên
+C.	Các kháng sinh có tác dụng chống tất cả vi khuẩn gây bệnh cho người
+D.	Các kháng sinh có tác dụng chống hầu hết tác dụng cho người và động vật
+---
+40.	Sự kết hợp giữa kháng nguyên và kháng thể phụ thuộc vào
+A.	Cấu tạo hoá học của phân tử kháng nguyên
+B.	Cấu trúc của phân tử kháng nguyên
+C.	Tính “lạ” của phân tử kháng nguyên
+D.	Cấu trúc bề mặt của kháng nguyên và kháng thể(*)
+---
+41.	Sự kháng thuốc của vi khuẩn
+A.	Có nguồn gốc duy nhất là đột biến nhiễm sắc thể
+B.	Do tiếp nhận plasmit kháng thuốc
+C.	Hiếm khi do tiếp nhận plasmit kháng thuốc
+D.	Do thay đổi nhiễm sắc thể hoặc do tiếp nhận plasmit kháng thuốc(*)
+---
+42.	Yếu tố R đề kháng là:
+A.	Một lớp plasmit mang gen F
+B.	Lớp plasmit quy định khả năng gây bệnh
+C.	Một lớp plasmit mang các gen đề kháng với 1 hoặc nhiều thuốc kháng sinh(*)
+D.	Một lớp plastmit mang các gen cần thiết để chuyển hoá protein
+---
+43.	Các vật liệu di truyền kháng thuốc
+A.	Ko thể truyền được cho nhau giữa các vi khuẩn
+B.	Có thể truyền đc cho nhau giữa các vi khuẩn bằng tiếp hợp(*)
+C.	Chỉ có truyền được giữa các vi khuẩn gram (-) mà thoi
+D.	Chỉ có thể truyền được cho nhau giữa các vi khuẩn gây bệnh
+---
+44.	Vách của vi khuẩn gram (+) có cấu tạo
+A.	Axit teichoic và các peptid
+B.	Muicopeptid và lipolysaccharid
+C.	Muicopeptid và Axit teichoic(*)
+D.	Lipoprotein và lipolysaccharid
+---
+45.	Vi khuẩn có tên gọi gram dương hoặc gram âm do
+A.	Đặc điểm di truyền học khác nhau
+B.	Cấu tạo hoá học, cấu tạo hoá học vách tế bào vi khuẩn khác nhau
+C.	Sự bắt màu khác nhau khi nhuộm gram(*)
+D.	Sự tác động khác nhau của các kháng sinh
+---
+46.	Vách của vi khuẩn gram âm có đặc điểm sau:
+A.	Có thành phần Axit teichoic
+B.	Giải phóng vật liệu của vác khi vi khuẩn sống
+C.	Là thành phần nội độc tố của vi khuẩn(*)
+D.	Có tính sinh kháng mạnh
+---
+47.	Cơ sở vật chất của di truyền của vi khuẩn là:
+A.	DNA
+B.	RNA
+C.	DNA và RNA
+D.	Nhiễm sắc thể(*)
+---
+48.	Trong thí nhiệm của Griffith
+A.	Tiêm phế cầu S1 sống vào chuột và chuột không chết
+B.	Tiêm phế cầu R1 sống vào chuột và chuột chết
+C.	Tiêm phế cầu S1 chết vào chuột và chuột chết
+D.	Tiêm hỗn hợp phế cầu S1 chết và R1 sống thì chuột chết(*)
+---
+49.	trong biến nạp ng ta nhận thấy trong 1 quần thể vi khuẩn có
+A.	một quần thể tế bào có khả năng tiếp nhận DNA hoà tan
+B.	nhiều tế bào có khả năng tiếp nhận DNA hoà tan
+C.	phần lớn tế bào có khả năn tiếp nhận DNA hoà tan
+D.	một số nhỏ tế bào khả nạp có khả năng tiếp nhận DNA hoà tan(*)
+---
+50.	Sự tải nạp chung:
+A.	Được khám phá lần đầu ở Ecoli
+B.	Được khám phá lần đầu Salmolella(*)
+C.	Do  lederberg và tatum khám phá
+D.	Do Avery và mac. Leod khám phá
+---
+51.	Cơ chế tác dụng kháng khuẩn của tetracyclin
+A.	ức chế tổng hợp protein bằng gắn vào đơn vị 50s của riboxom
+B.	ức chế chức năng màn nguyên tương
+C.	ức chế tổng hợp vách
+D.	ức chế tổng hợp protein qua việc gắn vào 30s của riboxom(*)
+---
+52.	Các vi khuẩn trở nên đề kháng với thuốc kháng sinh thì
+A.	Trở nên gây bệnh cho người
+B.	Nguyên tương luôn luôn có các plasmit kháng thuốc
+C.	Luôn có sự thay đổi bất thường trong bộ nhiễm sắc thể
+D.	Vi khuẩn phát triển được khi có 1 nồng độ thuốc kháng sinh nhất định(*)
+---
+53.	Hapten
+A.	Có tính sinh miễn dịch, có tính đặc hiệu kháng nguyên
+B.	Không có tính sinh miễn dịch, có tính đặc hiệu kháng nguyên(*)
+C.	Có tính sinh miễn dịch
+D.	Tất cả đúng
+---
+54.	Trong phát hiện kháng nguyên
+A.	Phản ưng ngưng kết dẫn đầu về độ nhạy
+B.	Phản ưng kết tủa dẫn đầu về độ nhạy
+C.	Phản ứng kết hợp bổ thể dẫn đầu về độ nhaỵ(*)
+D.	Các kỹ thuật miễn dịch enzym và miễn dịch phóng xạ dẫn đầu về độ nhạy
+---
+55.	Kết quả huyết thanh học định tính
+A.	Cho biết hiệu giá kháng thể
+B.	Độ nhạy của phản ứng
+C.	Cho biết trong huyết thanh có kháng thể tương ứng với kháng nguyên mẫu dùng trong phản ứng(*)
+D.	Cho biết ranh giới hiệu giá kháng thể bình thường và hiệu giá kháng thể định lý
+---
+56.	Bệnh nhiễm trùng được gọi là bệnh truyền nhiễm khi:
+A.	Bệnh rất nặng có nguy cơ tử vong
+B.	Vi sinh vật gây bệnh luôn cư trú trong cơ thể ng bệnh
+C.	Vi sinh vật  gây bệnh có khuynh hướng làm phát sinh các nhiễm trùng mới(*)
+D.	Bệnh nhân có khuynh hướng phát sinh nhiễm trùng
+---
+57.	Bệnh nhiễm trùng sẽ được khống chế hữu hiệu bằng giải pháp sau
+A.	Thực hiện tiêm chủ vắt xin phòng bệnh(*)
+B.	Mở rộng cơ sở điều trị bệnh nhiễm trùng
+C.	Cải thiện chế độ làm việc
+D.	Diệt côn trùng trung gian truyền bệnh
+---
+58.	Vi khuẩn gram âm bắt màu gì:
+A.	Màu tím
+B.	Màu hồng (*)
+C.	Không bắt màu
+D.	Tất cả đều sai
+---
+59.	Màng tế bào chủ yếu chứa
+A.	Phospholipit, protein
+B.	Phospholipit, protein, lipit
+C.	Protein, lipit
+D.	Phospholipit, lipit
+---
+60.	Clostridia là các vi khuẩn:
+A.	Gram (-) sinh nha bào
+B.	Gram (+) kỵ khí, sinh nha bào
+C.	Gram (+), hiếu khí, sinh nha bào
+D.	Gram (-), kỵ khí, không sinh nha bào
+---
+61.	Nhân của vi khuẩn chứa axit nucleic sau:
+A.	ARN
+B.	ARN và ADN
+C.	Một số ADN một số ARN
+D.	ADN (*)
+---
+62.	 Nơi nhân gắn liền với màng nguyên tương gọi là
+A.	Polysome
+B.	Tiêu thể
+C.	Lưới nội mô
+D.	Mạc thể(*)
+---
+63.	Kháng nguyên lông ở vi khuẩn gram (-) có bản chất là:
+A.	Protein(*)
+B.	Lipopolisaccharide
+C.	Lipoprotein
+D.	Mucopeptid
+---
+64.	Kháng sinh ức chê tổng hợp nhân vi khuẩn bằng kết hợp với enzym ARN polymerase phụ thuộc ADN là:
+A.	Quinolone và các fluoroquinolone(*)
+B.	 Rifamycin
+C.	Chloramphenicol
+D.	Sulfamethoxazol + trimethoprim
+---
+65.	Biểu hiện tại chỗ hoặc toàn thân của cơ thể vật chủ trong bệnh nhiễm trùng phụ thuộc vào:
+A.	Độc lực của vi sinh vật  gây bệnh
+B.	Đường xâm nhập của vi sinh vật
+C.	Các yếu tố ngoại cảnh
+D.	Độc lực của vi sinh vật  gây bệnh và đáp ứng của cơ thể vật chủ(*)
+---
+66.	LD50 là liều vi sinh vật  hoặc độc tố của nó:
+A.	Gây chết động vật thí nghiệm có trọng lượng nhất định trong thời gian thí nghiệm
+B.	Có khả năng gây chết cho người nặng 50kg
+C.	Có khả năng gây chết 50 súc vật thí nghiệm
+D.	Có khả năng gây chết 50% súc vật thí nghiệmco1 trọng lượng nhất định trong thời gian thí nghiệm (*)
+---
+67.	Hiệu quả bảo vệ cơ thể của hàng rào da và niêm mạc được tăng cường nhờ:
+A.	Cơ chế thực bào
+B.	Các chất tiết ở da và niêm mạc(*)
+C.	Các yếu tố hoà tan trong huyết thanh
+D.	Các kháng thể bảo vệ
+---
+68.	Đại thực bào có chức năng :
+A.	Thực bào, tiêu hoá, miễn dịch (*)
+B.	Thực bào, bài tiết, xử lý bật lạ
+C.	Thực bào, bài tiết, miễn dịch tế bào
+D.	Thực bào, miễn dịch tế bào
+---
+69.	Các yếu tố hoà tan trong huyết thanh của cơ chế miễn dịch không đặc hiệu gồm:
+A.	Bổ thể, interferon, kháng thể, glubulin
+B.	Interferon, properdin, protein, tự kháng thể
+C.	Bổ thể, properdin, kháng thể tự nhiên, interferon(*)
+D.	Các axit béo chưa no, glycoprotein, lysozym
+---
+70.	Interferon là những:
+A.	Polysaccharit
+B.	Lipoprotein
+C.	Glycoprotein(*)
+D.	Lipopolysaccharit
+---
+71.	Các kháng thể có khả năng ngăn cản vi sinh vật  bám vào niêm mạc đường tiêu hoá thường là:
+A.	IgE
+B.	IgD
+C.	IgA tiết(*)
+D.	IgG và IgE
+---
+72.	Đáp ứng miễn dịch dịch thể tức là:
+A.	Khả năng sinh sản các lypho bào T phản ứng đặc hiệu với kháng nguyên
+B.	Khả năng hình thành kháng thể đặc hiệu với kháng nguyên (*)
+C.	Khả năng tiết ra các chất hoà tan như lymphokin
+D.	Khả năng hình thành các yếu tố hoà tan như kháng thể tự nhiên
+---
+73.	Chức năng của màn nguyên tương của vi khuẩn giống với:
+A.	Lưới nội bào ở tế bào eukaryota
+B.	Lục lạp ở tế bào thực vật
+C.	Bộ goli ở tế bào động vật và thực vật
+D.	Ti lạp thể của tế bào động vật và thực vật(*)
+---
+74.	Nha bào của vi khuẩn
+A.	Được tạo ở tất cả các vi khuẩn
+B.	Chỉ được tạo ra ở vi khuẩn gram (+)
+C.	Chỉ được tạo ra ở vi khuẩn gram (-)
+D.	Được tạo ra ở các clostridia(*)
+---
+75.	Một số vi khuẩn tạo nha bào có đặc điểm
+A.	Nha bào của vi khuẩn có khả năng gây bệnh khi xâm nhập vào cơ thể
+B.	Nha bào của cơ thể ở hẳn 1 đầu hoặc ở giữa thân vi khuẩn
+C.	Không bao giờ có 2 hay nhiều hơn 1 nha bào trong một tế bào vi khuẩn
+D.	Cả 3 câu trên đều đúng(*)
+---
+76.	Các vi khuẩn trở nên đề kháng với thuốc kháng sinh thì:
+A.	Trở nên gây bệnh cho người
+B.	Nguyên tương luôn luôn có các plasmit kháng thể
+C.	Luôn có sự thay đổi bất thường trong bộ nhiễm sắc thể
+D.	Vi khuẩn phát triển được khi có một nồng độ thuốc kháng sinh nhất định(*)
+---
+77.	Phản ứng kết hợp giữa kháng nguyên và kháng thể:
+A.	Là một phản ứng hoà học
+B.	Rất đặc hiệu(*)
+C.	Chỉ được sử dụng để xác định hiệu giá kháng thể ở trong huyết thanh người
+D.	Không đặc hiệu
+---
+78.	Vi khuẩn ở trạng thái sinh lý không nhân lên:
+A.	Dễ bị giết chết bởi kháng sinh
+B.	Không bị tác dụng của thuốc kháng sinh(*)
+C.	Thuốc kháng sinh có tác dụng ở mức độ hạn chế
+D.	Vi khuẫn thích nghi với thuốc kháng sinh
+---
+79.	Vi sinh vật  sinh trưởng và phát triển mạnh nhất trong điều kiện nuôi cấy
+A.	Pha lag
+B.	Pha log(*)
+C.	 Pha cân bằng
+D.	Pha suy vong
+---
+80.	Vách vi khuẩn gram(-) có cấu tạo là:
+A.	Mucopeptid, lipoprotein, polysaccarid(*)
+B.	Mucopeptid, axit teichoic, polysaccarid
+C.	Polysaccarid, Mucopeptid
+D.	Poliprotein, Polysaccarid
+---
+81.	Lớp Mucopeptid của vách vi khuẩn gram(-)
+A.	Nằm ở ngoài cùng và mỏng hơn so với vi khuẩn gram (+)
+B.	Nằm trong cùng chiếm phần lớn trọng lượng khô của vách
+C.	Nằm ở lớp giữa và dày hơn vi khuẩn gram(+)
+D.	Nằm trong cùng và mỏng hơn vi khuẩn gram (+)(*)
+---
+82.	Vách của vi khuẩn gram (-) là:
+A.	Kháng nguyên thân hay kháng nguyên O(*)
+B.	Độc lực của vi khuẩn
+C.	Ngoại độc tố của vi khuẩn
+D.	Yếu tố chịu nhiệt của vi khuẩn
+---
+83.	Lông của vi khuẩn
+A.	Có ở tất cả các vi khuẩn
+B.	Khi mất đi vi khuẩn không bị chết
+C.	Không bao giờ ở quanh thân
+D.	Cơ quan vận động của vi khuẩn(*)
+---
+84.	Mỗi gen quyết định
+A.	Sự tổng hợp của các enzym
+B.	Sự hình thành các cấu trúc của tế bào
+C.	Sự tổng hợp của một protein đặc hiệu(*)
+D.	Sự tổng hợp DNA
+---
+85.	Sự biến nạp là:
+A.	Sự vận chuyển gen của nhiễm sắc thể giữa các tế bào
+B.	Sự vận chuyển DNA hoà tan của nhiễm sắc thể từ tế bào cho sang tế bào nhận(*)
+C.	Sự vận chuyển DNA của nhiễm sắc thể giữa tế bào qua tiếp xúc
+D.	Sự vận chuyển DNA của nhiễm sắc thể giữa các tế bào.
+---
+86.	Nhân tố biến nạp là:
+A.	RNA
+B.	RNA và DNA
+C.	DNA(*)
+D.	DNA và protein
+---
+87.	Sự tải nạp ở vi khuẩn là:
+A.	Sự sao chép nhiễm sắc thể
+B.	Sự tích hợp DNA tổng hợp vào nhiễm sắc thể
+C.	Quá trình vận chuyển gen qua tiếp xúc
+D.	Quá trình vận chuyển gen qua trung gian của phage(*)
+---
+88.	Cơ chế của tác dụng kháng khuẩn của chloramphenicol là:
+A.	ức chế tổng hợp protein bằng ức chế enzym peptidyl transferase(*)
+B.	ức chế tổng hợp protein bằng hoạt hoá enzym peptidyl transerase
+C.	ức chế tổng hợp nhân vi khuẩn
+D.	ức chế tổng hợp nhân và protein
+---
+89.	Các sulfonamide có tác dụng chống vi khuẩn bằng cơ chế
+A.	ức chế tổng hợp vácg tế bào
+B.	cạnh tranh PABA trong quá trình tổng hợp acid folic(*)
+C.	ức chế chức năng màng nguyên tương
+D.	ức chế enzym ADN gyrase
+---
+90.	Kháng sinh ức chế tổng hợp nhân vi khuần bằng kết hợp với enzym ARN polyemrase phụ thuộc AND
+A.	Quinolone và các fluoroquinolone
+B.	Rifamycin(*)
+C.	Choramphenicol
+D.	Sulfamethonxazol + trimethoprim
+---
+91.	Pha cân bằng
+A.	Số vi sinh vật  sinh ra bằng số vi sinh vật  chết đi
+B.	Số vi sinh vật  sinh ra nhỏ hơn số vi sinh vật  chết đi
+C.	Số vi sinh vật  sinh ra lớn hơn số vi sinh vật  chết đi
+D.	Không có vi sinh vật  sinh ra
+---
+92.	Phản ứng trung hoà enzym, ví dụ
+A.	Phản ứng widal
+B.	Phản ứng FTA-Abs
+C.	Phản ứng ASO, ASK(*)
+D.	Phản ứng VDRL
+---
+93.	Phản ứng ngưng kết hồng cầu thụ động đảo ngược
+A.	Là dùng hồng cầu gắn kháng nguyên hoà tan để phát hiện và đo lường kháng thể tương ứng
+B.	Là dùng các hạt trơ như latex để gắn các kháng thể tương ứng với các kháng nguyên có sẵn tự nhiên trên bền mặt hồng cầu
+C.	Là phản ứng ngưng kết, trong đó, hồng cầu được dùng làm giá thể để gắn kháng thể.(*)
+D.	Là phản ứng ngưng kết để xác định hiệu giá của kháng huyết thanh
+---
+94.	Kỷ thuật kháng thể huỳnh quang gián tiếp, thành phần được gắn với thuốc nhuộm huỳnh quang là:
+A.	Kháng thể (*)
+B.	Bổ thể
+C.	Kháng nguyên
+D.	Kháng thể hoặc kháng nguyên
+---
+95.	vi khuẩn bám dính được trên các tế bào biểu mô cơ thể vật chủ do:
+A.	tổ chức có nhiều dinh dưỡng phù hợp với môi trường sống của vi khuẩn
+B.	tổ chức cơ thể có nhiệt độ thích hợp cho vi khuẩn phát triển
+C.	vi khuẩn có khả năng sinh độc tố làm tế bào kết dính
+D.	sự phù hợp đặc hiệu giữa các phân tử bề mặt vi khuẩn và các receptor của tế bào(*)
+---
+96.	Những vi sinh vật  tránh né được sức đề kháng của cơ thể vật chủ thì:
+A.	Luôn đề kháng với kháng sinh
+B.	Sản xuất ra nhiều độc tố
+C.	Có khả năng hơn để gây bệnh(*)
+D.	Trong tết bào chứa nhiều enzym
+---
+97.	Kháng thể duy nhất được truyềntwf mẹ sang con:
+A.	IgA
+B.	IgE
+C.	IgD
+D.	IgG(*)
+---
+98.	Chức năng của kháng thể IgM :
+A.	Chống các bệnh đường tiêu hoá hay hô hấp
+B.	Bảo vệ bào thai khỏi sự hiễm khuẩn
+C.	Có vai trong trong miễn dịch tại chỗ(*)
+D.	Hoạt động dại thực bào và bạch cầu ái toan, tăng cường thực bào hay tăng cường độc tính của bạch cầu trung tính đối với giun sán
+---
+99.	Vùng nhân:
+A.	Chứa phospholipid và protein
+B.	Là chất bán lỏng, 4/5 là nước, 1/5 là các chất hoà tan hay lơ lửng trong nước
+C.	Giữ nhiệm vụ duy trìh những đặc tính của loại vi khuẩn cho thế hệ sau
+D.	Tất cả đều đúng(*)
+---
+100.	Kháng nguyên mạnh nhất:
+A.	Kháng nguyên lipid
+B.	Kháng nguyên acid nhân
+C.	Kháng nguyên protein(*)
+D.	Kháng nguyên hỗn hợp
+---
+101.	Thời kỳ từ lúc vi sinh vật  xâm nhập đến lúc cơ thể xuất hiện triệu chứng đầu tiên:
+A.	Thời kỳ nhiễm trùng tiềm tàng
+B.	Thời kỳ ủ bệnh(*)
+C.	Thời kỳ toàn phát
+D.	Thời kỳ khởi phát
+---
+102.	Những nhận định nào dưới đây là đúng với tế bào vi khuẩn
+A.	Nhân được phân cách với phần còn lại bởi màn nhân
+B.	Vật chất di truyền là DNA kết hợp với protein histon
+C.	Không có màn nhân (*)
+D.	Vật chất di truyền là DNA không kết hợp với protein histon
+---
+103.	Vi sinh vật  học là khoa học nghiên cứu
+A.	Các cơ thể sống hiển vi và siêu hiển vi, cấu tạo tế bào và quy luật hoạt động của chúng
+B.	Sử dụng các vi sinh vật  nhằm phục vụ lợi ích của con người và giữ vững hệ sinh thái trên trái đất
+C.	A B đúng(*)
+D.	A B Sai
+---
+104.	Vi nắm là các vi sinh vật
+A.	Thuộc giới nấm, tế bào nhân thực, có diệp lục không có vách ngăn hoặc có vách ngăn, nhưng ở giữa phân thành nhiều nhánh
+B.	Thuộc giới nấm tế bào nhân thật, không có diệp lục, thường đơn bào, có nhóm giả đa bào
+C.	Thuộc giới nấm tế bào nhân thật có diệp lục, thường đơn bào có nhóm đa bào cơ thể phân nhiều nhánh
+D.	Thuộc giới nấm tế bào nhân thật, không có diệp lục thường đơn bào, có nhóm giả đa bào, cơ thể phân nhiều nhánh, không có vách ngăn, hoặc có vách ngăn nhưng ở giữa phân nhiều nhánh (*)
+---
+105.	Trong cơ thể vật chủ các vi khuẩn gây bệnh có khả năng bám vào các mô cơ quan của vật thể chủ để:
+A.	Có thể phân chia tạo nhiều thế hệ mới từ đó gây bệnh
+B.	Tránh bị các hàng rào vật lý của vật chủ đào thải
+C.	A, B đúng
+D.	A, B sai (*)
+---
+106.	Nhận định nào sau đây là sai
+A.	Khả năng tiếp cận và xâm nhập vào các tế bào của vật chủ là 1 trong những nhân tố gây bệnh quan trọng ở nấm
+B.	Các nghiên cứu về cơ chế xâm nhiễm và gây bệnh chủ yếu mới được quan tâm nhiều ở các loài vi khuẩn ‘
+C.	Khả năng xâm nhiễm và gây bệnh ở nấm đã được nghiên cứu tường tận và đầy đủ hơn so với vi khuẩn (*)
+D.	Khả năng xâm nhiễm và gây bệnh ở nấm chưa được nghiên cứu tường tận như là ở vi khuẩn
+---
+107.	Tiên mao
+A.	Không phải có mặt ở mọi vi khuẩn, chúng quyết định khả năng và phương thức di động của vi khuẩn, tiên mao là những sợi dai có bản chất là chinne
+B.	Có mặt ở mọi vi khuẩn, chúng quyết định khả năng và phương thức di động của vi khuẩn, tiên mao là những sợi dài
+C.	Không phải có mặt ở mọi vi khuẩn, chúng quyết định khả năng và phương thức di động của vi khuẩn, tiên mao là những sợi dài có bản chất là polysacharide
+D.	 Không phải có mặt ở mọi vi khuẩn, chúng quyết định khả năng và phương thức di động của vi khuẩn, tiên mao là những sợi dài (*)
+---
+108.	Nấm men là vi sinh vật
+A.	Có cấu tạo đơn bào, có kích thước lớn, cấu tạo hoàn chỉnh không di động, sinh sản chủ yếu bằng hình thức nảy chồi (*)
+B.	Có cấu tạo đa bào, cấu tạo hoàn chỉnh, không di động, sinh sản chủ yếu bằng hình thức nảy chồi có kích thước lớn
+C.	Có cấu tạo đơn bào, không di động, sinh sản chủ yếu bằng hình thức nãy chồi, có kích thước bé, cấu tạo hoàn chỉnh
+D.	Có cấu tạo đơn bào, có kích thước lớn, cấu tạo khôn hoàn chỉnh, không di động, sinh sản chủ yếu bằng hình thức nảy chồi
+---
+109.	Tính miễn dịch là:
+A.	Khả năng miễn nhiễm với tất cả các dịch bệnh
+B.	Khả năng phục hòi hoàn toàn của cơ thể sau khi mắc bệnh
+C.	Khả năng cống lại dịch bệnh có nguồn gốc nội dinh hay bên ngoài
+D.	Khả năng bảo vệ của cơ thể chống lại các tác nhân gây bệnh từ bên ngoài(*)
+---
+110.	Nhân của tế bào nấm men:
+A.	Là nhân thật , nhân đã có sự phân hoá, chưa có kết cấu hoàn chỉnh và ổn định, có màn nhân, nhân có hình tròn hya hình bầu dục, bắt đầu có những biểu hiện của tế bào tiến hoá, đó là phân chia theo hình thức giảm phân
+B.	Là nhân thật, nhân đã có sự phân hoá, có kết cấu hoàn chỉnh và ổn định, không có màng nhân, nhân có hình tròn hay hình bầu dục, bắt đầu có những biểu hiện của tế bào tiến hoá, đó là phân chia theo hình thức giảm phân
+C.	Là nhân thật, nhân đã ó sự phân hoá, có kết cấu hoàn chỉnh và ổn định, có màn nhân, nhân có hình tròn hay hình bầu dục, bắt đầu có những biểu hiện của tế bào tiến hoá, đó là phân chia theo hình thức giảm phân(*)
+D.	Là nhân thật, nhân đã có sjw phân hoá, có kết cấu hoàn chỉnh và ổn định có màn nhân, nhân chưa có hình dạng ổn định bắt đàu có những biẻu hiệ của tế bào tiến hoá đó là phân chia theo hình thức giảm phân
+---
+111.	Sinh sản vô tính bằng hình thức nảy chồi ở nấm men:
+A.	Khác với các loại nấm khác, nảy chồi là hình thức sinh sản phổ biến nhất ở nấm men(*)
+B.	Khác với các loại nấm khác, nảy chồi không phải là hình thức sinh sản phổ biến nhất ở nhấm men
+C.	Khác với các loại nấm khác, phân cắt là hình thức sinh sản phổ biến nhất ở nấm men,
+D.	Khác với các loại nhấm khác, tạo bào tử là hình thức sinh sản phổ biến nhất ở nấm men
+---
+112.	Nấm mốc là nhóm vi sinh vật
+A.	Có kết cấu dạng sợi không phân nháh, tế bào cấu tạo hoàn chỉnh, kích thước lớn, có thể là đơn bào đa nhân, hoặc đa bào đơn nhân
+B.	Có kết cấu dạng sơi phân nhánh, tế bào cấu tạo hoàn chỉnh kích thước lớn, có thể là đơn bào đa nhân hoặc đa bào đơn nhân(*)
+C.	Có kết cấu dạng sơi phân nhánh, kích thước bé, có thể là đơn bào đa nhân hoặc đa bào đơn nhân, tế bào cấu tạo hoàn chỉnh
+D.	Có kết cấu dạng sơi phân nhánh, có thể là đa bào đa nhân hoặc đơn bào đơn nhân tế bào cấu tạo hoàn chỉnh kích thước lớn
+---
+113.	Đáp ứng miễn dịch là:
+A.	Quá trình tạo ra các chất chống lại tac nhân gây bệnh nội sinh(*)
+B.	Quá trình nhận biết chất lạ và hậu quả của sự nhận biết đó trong một cơ thể sinh vật
+C.	Quá trình tấn công tiêu diệt mầm biênhj của hệ miễn dịch
+D.	Quá trình sản sinh interferon để tiêu diệt vi sinh vật  gây bệnh
+---
+114.	Khuẩn ty cơ chất
+A.	Phát triển sâu vào trong không khí làm nhiệm vụ hấp thu dinh dưỡng nên còn gọi là khuẩn ty dinh dưỡng, tồn tại ở 2 dạng là thể đệm và hạch nấm
+B.	Phát triển sâu vào môi trường làm nhiệm vụ hấp thu dinh dưỡng nên còn gọi là khuẩn ty dinh dưỡng, tồn tại ở 2 dạng là thể đệm và hạch nấm(*)
+C.	Phát triển sâu vào môi trường làm nhiệm vụ bà tiết chất dinh dưỡng nên còn gọi là khuẩn ty dinh dưỡng, tồn tại ở hai dạng là thể đệm và hạch nấm
+D.	Phát triển sâu vào môi trường làm nhiệm vụ sinh sản nên còn gọi là khuẩn ty sinh sản, tồn tại ở 2 dạng là: thể đệm và hạch nấm
+---
+115.	Miễn dịch tự nhiên có tính chất:
+A.	Di truyền trong các cơ thể cùng lại(*)
+B.	Không di truyền trừ khi lai tạo giống
+C.	Có trí nhớ miễn dịch
+D.	Đáp ứng miễn dịch đặc hiệu và nhanh chóng
+---
+116.	Nhân tế bào ở tảo
+A.	Không khác nhiều so với các tế bào nhân thật khác nhưng hầu hết là nhân đơn bội
+B.	Khác biệt rất nhiều so với các tế bào nhân thật khác nhưng hầu hết là nhân đa bội
+C.	Không khác nhiều so với các tế bào nhân thật khác nhưng hầu hết là nhân đa bội
+D.	Khác nhiều so với các tế bào nhân thật khác nhưng hầu hết là nhân đơn bội và nhân đa bội (*)
+---
+117.	Các tế bào lympho có nguồn gốc từ đâu?
+A.	Các tế bào nguồn , còn gọi là tế bào gốc, không biệt hoá trong tuỷ xương(*)
+B.	Các tế bào trung tâm trong hệ thống miễn dịch được biệt hoá trong lá lách
+C.	Các tế bào mầm trung mô trong giai đoạn phát triển phôi thai
+D.	Tất cả các đáp án trên đều đúng
+---
+118.	Một trong những chức năng của ty thể là
+A.	Thực hiện qúa trình phân giải protein
+B.	Thực hiện các phản ứng oxy hoá khử(*)
+C.	Tham gia tổng hợp acid admin
+D.	Tham gia tổng hợp ATP
+---
+119.	Tảo lục có
+A.	3 hình thức sinh sản
+B.	4 hình thức sinh sản
+C.	5 Hình thức sinh sản
+D.	2 hình thức sinh sản(*)
+---
+120.	Phát biểu nào sau đây là đúng về đại thực bào
+A.	Đại thực bào là các tế bào có kích thước lớn có khả năng nhận diện kháng nguyên và gây độc kháng thể
+B.	Đại thực bào là các tế bào có kích thước lớn có khả năng di chuyển tư do có nhiều trong máu và hệ bạch huyết
+C.	Đại thực bào là các tế bào có kích thước lớn có khả năng bắt giữ , nuốt và phá huỷ kháng nguyên
+D.	Đại thực bào là các tế bào có kích thước lớn tuy nhiên nó không có khả năng trình diện kháng nguyên (*)
+---
+121.	Tảo lục sinh sản hữu tính bằng các hình thức:
+A.	Tiếp hợp, dị giao, noãn giao(*)
+B.	Giao phối, đẳng giao, noãn giao
+C.	Đẳng giao, dị giao, hình thành cầu sinh chất
+D.	Đẳng giao, dị giao, noãn giao
+---
+122.	Khi nghiên cứu khả năng miễn dịch của cơ thể động vật người ta chủ yếu dựa vào yếu tố nào?
+A.	Đường xâm nhập của kháng nguyên vào cơ thể(*)
+B.	Tính chất của kháng nguyên
+C.	Sức đề kháng của cơ thể
+D.	Tuổi của cá thể được tiêm
+---
+123.	Kháng thể có bản chất là
+A.	Lypoprotein
+B.	Polysaccharide
+C.	Glycoprotein(*)
+D.	Protein
+---
+124.	Dựa vào nhu cầu về năng lượng vi sinh vật  chia thành những loại nào?
+A.	Vi sinh vật  tự dưỡng, vi sinh vật  hoá dưỡng
+B.	Vi sinh vật  dị dưỡng, vi sinh vật  tự dưỡng
+C.	Vi sinh vật  quang dưỡng, vi sinh vật  hoá dưỡng(*)
+D.	Vi sinh vật  tự dưỡng, vi sinh vật  dị dưỡng
+---
+125.	Các đặc điểm di truyền của vi sinh vật
+A.	Cấu tạo tế bào phức tạp, nhân ở thể đa bội sinh sản chậm
+B.	Cấu tạo tế bào đơn giản, nhân ở thể đa bội sinh sản chậm
+C.	Cấu tạo tế bào đơn giản, nhân ở thể đơn bội sinh sản nhanh
+D.	Cấu tạo tế bào phức tạp, nhân ở thể đơn bội sinh sản nhanh(*)
+---
+126.	Đặc điểm sinh sản của virus
+A.	Sinh sản trực phân,
+B.	Sinh sản phân đoạn
+C.	Sinh sản theo kiểu tổng hợp các thành phần sau đó lắp ráp lại(*)
+D.	Sinh sản gián đoạn
+---
+11. Vi khuẩn nào có khả năng gây nhiễm độc thức ăn?
+A. Neisseria gonorryhone
+B. Staphylococcus nurreus (*)
+C. Corynerbacrerium diphtheria
+D. Treponema pallidum
+---
+12. Tìm ý đúng về khuẩn lậu
+A. Neisseria gonorrhone song cầu, gram âm (*)
+B. Sức đề kháng cao khó bị diệt bởi hoá chất và thuốc sát trùng thông thường
+C. Neisseria meningitides, song cầu, gram âm
+D. Không sinh bào tử, không có pili
+---
+13. Chọn ý đúng về Salmonnella
+A. Trực khuẩn gram âm, có lông, có vỏ
+B. Trực khuẩn gram dương, có lông, không có vỏ
+C. Gây bệnh thương hàn, gây nhiễm trùng, nhiễm độc thức ăn
+D. Sức đề kháng kém
+---
+14. Chọn ý sai về virus cúm
+A. Kháng nguyên vỏ ít có khả năng biến đổi
+B. Lây theo đường hô hấp, có thể gây thành dịch
+C. Có kháng nguyên lõi và vỏ
+D. Gây bệnh ở người và động vật
+E. Gây bệnh lớn ở 3 type A, B, C
+---
+15. Tìm ý sai về Campolybacter
+A. Phát triển ở điều kiện giàu O2
+B. Phát triển ở điều kiện vi hiếu khí (5% O2 + 10% CO2 + 85% N2)
+C. Một trong những tác nhân hay gây ỉa chảy ở trẻ em
+D. Hay gặp ở khách du lịch đến các nước nhiệt đới
+---
+16. Tìm ý đúng về bệnh Zona
+A. Trẻ em tiếp xúc với người bị Zona sẽ bị bệnh thuỷ đậu
+B. Zona gây viêm sưng sau tuỷ sống và các hạch thần kinh nên rất đau
+C. Tổn thương trong bệnh Zona là những mụn nước dọc theo dây thần kinh, rất đau
+---
+17. Chọn ý đúng về đường lây của HBV, VGB
+A. Lây theo đường: thai nhi, máu, hô hấp, tình dục
+B. Lây theo đường: tình dục, máu, thai nhi (*)
+C. Lây theo đường: máu, tình dục, tiêu hoá
+D. Lây theo đường: tiêu hoá, hô hấp, máu
+---
+18. Chọn ý đúng về ảnh hưởng của nhiệt độ với vi sinh vật
+A. Không một loài vi sinh vật nào phát triển được ở nhiệt độ trên 45 độ C
+B. Hầu hết vi sinh vật phát triển ở nhiệt độ 4-45 độ C, một số có thể ở dưới 4 độ C và nhiệt độ cao từ 45-65 độ C
+C. Tất cả các loại vi sinh vật chỉ phát được ở nhiệt độ  25-45 độ C
+D. Tất cả các loại vi khuẩn bị diệt ở 100 độ C
+---
+19. Chọn ý đúng nhất về phương pháp khử trùng Tyndall
+A. Chỉ diệt thể sinh dưỡng
+B. Chỉ diệt thể nha bào
+C. Diệt cả thể sinh dưỡng và nha bào
+D. Không thể diệt được nha bào
+---
+20. Hãy chọn nhiệt độ và thời gian nào chắc chắn diệt được nha bào
+A. Luộc sôi 100 độ C/20 phút
+B. Hấp ướt 110 độ C/20 phút
+C. Hấp ướt 121 độ C/20 phút
+D. Hấp ước 121 độ C/30 phút
+---
+21. Tìm ý đúng về bệnh do phế cầu
+A. Gây viêm phổi, nhiễm khuẩn tiết niệu, sinh dục
+B. Gây nhiễm khuẩn máu, viêm ruột, ỉa chảy
+C. Gây nhiễm khuẩn phổi, phế quản ở trẻ nhỏ
+D. Gây bệnh dịch hạch, nhất là ở trẻ em
+---
+22. Chọn ý đúng về đường lây của HBV
+A. Lây theo đường: hô hấp, tiêu hóa, máu
+B. Lây theo đường: máu, tình dục, tiêu hóa.
+C. Lây theo đường: tình dục, máu, thai nhi
+D. Lây theo đường: thai nhi, máu, hô hấp, tình dục
+---
+23. Thể bệnh nào dưới đây không phải do vi khuẩn than
+A. Thể mủ da, niêm mạc.
+B. Thể nhiễm khuẩn phổi.
+C. Thể nhiễm khuẩn máu.
+D. Thể vàng da, tan huyết (*)
+---
+24. Tìm Ý đúng nhất về vắcxin.
+A. Vắcxin là kháng nguyên vi sinh vật đã bất hoạt
+B. Vắcxin là kháng nguyên vi sinh vật đã làm mất khả năng gây bệnh (*)
+C. Vắcxin là kháng nguyên LPS
+D. Vắcxin là vi sinh vật đã chết
+---
+25. Vi khuẩn kháng lại kháng sinh chủ yếu do:
+A. Đột biến gen
+B. Tải nạp gen
+C. Nhân gen kháng thuốc (*)
+D. Gia tăng sử dụng kháng sinh trong chăn nuôi
+---
+26.  Tìm Ý đúng về vaccine:
+A. Vaccine có thể là nội độc tố
+B. Vaccine có thể là ngoại độc tố
+C. Vaccine có thể là giải độc tố
+D. Vaccine có thể là kháng độc tố
+---
+27. Chọn Ý đúng nhất về sử dụng huyết thanh miễn dịch:
+A. Phòng bệnh và điều trị
+B. Điều trị dự phòng
+C. Phòng bệnh khẩn cấp và điều trị (*)
+D. Phòng bệnh
+---
+28. Chọn ý đúng nhất về interferon
+A. Tác động trực tiếp lên vi khuẩn
+B. Tác động trực tiếp lên virus
+C. Tác động trực tiếp lên acid nhân của virus và phá hủy chúng
+D. Tác động gián tiếp lên virus, ức chế sự nhân lên của chúng (*)
+D. Mang tính đặc hiệu cho loại virút gây bệnh
+---
+29. Chọn Ý đúng nhất về bản chất của huyết thanh miễn dịch
+A. Gammaglobulin (*)
+B. Protein
+C. Albumin
+D. Glycoprotein
+---
+30. Tìm ý sai nói về thể nhiễm trùng do virus
+A. Nhiễm virus cấp
+B. Nhiễm virus mãn tính
+C. Nhiễm virus chậm
+D. Nhiễm virus thể tiềm tàng
+E. Không có thể người lành mang virus (*)
+---
+31. Vaccine giải độc tố chế tạo từ
+A. Nội độc tố
+B. Kháng độc tố
+C. Ngoại độc tố (*)
+D. Độc tố vi sinh vật
+---
+32. Chọn ý sai nói về sinh lý của vi khuẩn
+A. Vi khuẩn sinh sản nhanh cần lượng thức ăn lớn
+B. Có hệ enzyme để phân giải thức ăn
+C. Một số vi khuẩn phải kí sinh bắt buộc trong tế bào
+---
+32. Vi khuẩn có các loại hình thể cơ bản sau
+A. Hình cầu, hình que, hình thoi
+B. Hình khối ổn định, hình cầu, hình cong
+C. Hình cong, hình que, hình đinh ghim
+D. Hình cầu, hình que, hình cong (*)
+E. Đa hình (sợi chỉ, xoắn, hình thoi,....)
+---
+34. Đơn vị đo của vi khuẩn
+A. 1/1000mm (*)
+B. 1/100000 micromet
+C. 1/1000 m
+D. 1/10000 mm
+---
+35. Điểm nào nói sai về cấu trúc vi khuẩn
+A. Nhân của vi khuẩn là 1 sợi ADN
+B. Có AND, bào tương, màng nhân, nhân, các ribosom,... (*)
+C. Vi khuẩn có cấu tạo tế bào nhưng đơn giản
+D. Một số vi khuẩn có khả năng sinh bào tử
+---
+36. Tìm ý đúng nói về hình thể vi khuẩn
+A. Vi khuẩn có kích thước hiển vi, đơn vị đo là nanomet
+B. Vi khuẩn có kích thước rất nhỏ, đơn vị đo là micromet (*)
+C. Kích thước của vi khuẩn không thay đổi trong các giai đoạn phát triển
+D. Muốn thấy hình thể vi khuẩn phải dùng kính hiển vi 10X
+---
+37. Tìm ý đúng về tính chất bắt màu của vi khuẩn
+A. Các vi khuẩn đều bắt màu đỏ khi nhuộm gram
+B. Vi khuẩn nói chung khó bắt màu khi nhuộm gram
+C. Một số bắt màu gram âm, một số gram dương, một số khó bắt màu gram (*)
+D. Vi khuẩn gram dương bắt màu đỏ, vi khuẩn gram âm bắt màu tím
+E. Có vi khuẩn không thể nhuộm được bằng phương pháp nhuộm gram
+---
+38. Chọn ý sai nói về nha bào vi khuẩn
+A. Nha bào tồn tại nhiều năm ở ngoại cảnh
+B. Nha bào bị diệt ở nhiệt độ 100 độ C/30 phút khi hấp ướt (*)
+C. Nha bào là một hình thái bảo tồn của vi khuẩn trong điều kiện bất lợi
+D. Nha bào chỉ có ở một số vi khuẩn như lao, giang mai, dịch hạch (*)
+---
+39. Tìm ý đúng về quan sát hình thể vi khuẩn
+A. Vi khuẩn gây bệnh được chẩn đoán xác định bằng quan sát hình thể
+B. Không thể chẩn đoán được vi khuẩn bằng quan sát hình thể
+C. Trong một số trường hợp, quan sát hình thể mang lại giá trị chẩn đoán chắc chắn nếu kết hợp với lâm sàng và vị trí lấy bệnh nhân (*)
+D. Hình thể vi khuẩn không thay đổi theo môi trường nuôi cấy
+---
+40. Tìm ý đúng về cấu trúc vi khuẩn
+A. Hầu hết vi khuẩn gram dương có pili sinh dục
+B. Vỏ là yếu tố độc lực của vi khuẩn và không có kháng nguyên
+C. Lông giúp vi khuẩn di động trong môi trường lỏng (*)
+D. Mọi vi khuẩn đều có khả năng sinh bào tử trong điều kiện bất lợi
+---
+41. Tìm ý đúng nói về cách nhân lên của vi khuẩn
+A. Cách nhân lên trải qua các giai đoạn như tự nhân lên của tế bào hoàn chỉnh
+B. Nhân lên chủ yếu bằng cách nhân đôi theo cấp số nhân (*)
+C. Nhân lên chủ yếu theo kiểu thể L
+D. Nhân lên theo kiểu tạo các bào tử
+---
+42. Cefatriaxon thuộc nhóm kháng sinh
+A. Quinolein
+B. Macrolide
+C. Lincosamid
+D. Amisoside
+E. Beta-lactam (*)
+---
+43. Lincomycin tác dụng chủ yếu lên
+A. Đơn bào (amip,...)
+B. Vi khuẩn lao
+C. Vi khuẩn gram dương (*)
+D. Vi khuẩn gram âm
+---
+44. Nhóm thuốc nào không được dùng để điều trị bệnh do virus
+A. Thuốc tăng cường hệ thống miễn dịch
+B. Thuốc ức chế tổng hợp nucleic
+C. Thuốc ức chế quá trình sao mã
+D. Thuốc ức chế tổng hợp thành tế bào (*)
+E. Thuốc ức chế sự xâm nhập của virus vào tế bào
+---
+46. Tìm ý sai về hậu quả của sự nhân lên của virus
+A. Gây huỷ hoại tế bào
+B. Gây độc cho cơ thể và có độc tố (*)
+C. Tạo ra các hạt vùi trong tế bào và được ứng dụng dùng để chẩn đoán
+D. Virus kích thích cơ thể sản xuất Interferon
+---
+47. Tìm ý đúng về đặc điểm của Interferon
+A. Là kháng thể bảo vệ cơ thể
+B. Là một protein có khả năng ức chế sự nhân lên của virus (*)
+C. Đặc hiệu với vi khuẩn
+D. Đặc hiệu với loài virus xâm nhập
+---
+48. Chỉ ra ý sai về ảnh hưởng của nhiệt độ đến vi sinh vật
+A. Khi nhiệt độ 56-60 độ C còn kích thích nha bào phát triển
+B. Một số vi khuẩn có thể phát triển được ở nhiệt độ cao tới 69 độ C
+C. Vi khuẩn chỉ tồn tại và phát triển được ở 28-37 độ C (*)
+D. Khi nhiệt độ cao tới 100 độ C, nhiều loài nha bào vi khuẩn vẫn tồn tại
+---
+49. Tìm ý đúng về đặc điểm nuôi cấy vi khuẩn
+A. Các vi khuẩn khi nuôi cấy kích thước không thay đổi
+B. Bất cứ loại vi khuẩn nào cũng nuôi cấy được trên môi trường nhân tạo
+C. Một số vi khuẩn vẫn chưa nuôi cấy được trên môi trường nhân tạo (*)
+---
+50. Chọn ý đúng về phương pháp khử trùng Tyndall
+A. Áp dụng cho các dụng cụ như cao su, nhựa, bong băng,...
+B. Sử dụng cho các sinh phẩm không thể khử trùng được ở nhiệt độ cao (*)
+C. Chỉ cần làm 1 lần 65 độ C/30 phút là đủ giết chết hết vi khuẩn
+D. Phương pháp hiện nay không dùng nữa vì không có hiệu quả
+---
+51. Chỉ ra điểm sai về kháng sinh
+A. Kháng sinh là một chất có thể ức chế hoặc giết chết vi khuẩn
+B. Kháng sinh không dùng để phòng các bệnh do virus
+C. Kháng sinh không có tác dụng với virus
+D. Kháng sinh dùng để điều trị bệnh nhiễm trùng
+D. Kháng sinh không có tác dụng với Rickettsia (*)
+---
+52. Chọn ý đúng về ảnh hưởng của nhiệt độ thấp tới vi khuẩn
+A. Khi nhiệt độ thấp dưới 0 độ C, vi khuẩn bị chết
+B. Vi khuẩn bị đông vón protein ở bào tương dẫn đến bị tiêu diệt
+C. Vi khuẩn bị giảm chuyển hoá và chuyển sang dạng không hoạt động (*)
+D. Đông khô là hình thức tốt nhất Để giết chết vi khuẩn để làm vaccine
+E. Khi đông khô, một số vi khuẩn vẫn phát triển được
+---
+53. Dự phòng kháng thuốc kháng sinh bằng các biện pháp sau:
+A. Phối hợp kháng sinh trong mọi trường hợp.
+B. Sử dụng kháng sinh đồ trong mọi trường hợp có thể (*).
+C. Phối hợp nhiều loại (ba loại trở lên).
+D. Dùng vắcxin đa giá
+---
+54. Chọn Ý sai về ảnh hưởng của tia bức xạ đối với vi khuẩn
+A. Tia cực tím là tia được ứng dụng khử trùng rộng rải trong y tế.
+B. Tia X cũng ứng dụng khử trùng rộng rãi trong y tế (*)
+C. Tia gamma được dùng rộng rãi trong y tế nhưng khó bảo vệ và tốn kém.
+D. Hiệu quả diệt khuẩn của tia cực tím phụ thuộc nhiều vào thời gian và khoảng cách chiếu từ đèn đến vi khuẩn
+---
+55. Chọn câu đúng về độc lịch của vi sinh vật:
+A. Độc lực là một yếu tố của vi khuẩn và không thay đổi.
+B. Độc lực chỉ có khi vi khuẩn ở trong cơ thể.
+C. Ngoại độc tố, nội độc tố là yếu tố quan trọng của độc lực (*)
+D. Nha bào là một yếu tố của động lực cũng như vỏ
+---
+56. Nhóm chất nào dưới đây không có tác dụng khử trùng:
+A. Muối kim loại nặng
+B. Phenol và các dẫn chất
+C. Cồn
+D. Chất tẩy rửa (*)
+E. Chất oxy hoá
+---
+57. Tìm Ý đúng về cấu trúc vi khuẩn
+A. Có ADN, ARN, enzyme
+B. Có cấu trúc một tế bào hoàn chỉnh (*)
+C. Chỉ có ADN ở trong nhân
+D. Có ADN, bào tương, ty thể, lạp thể, lyzoxom
+---
+58. Chọn Ý đúng về nguyên lý phòng bệnh của vaccine
+A. Dùng kháng thể để đưa vào cơ thể tạo miễn dịch chủ động.
+B. Dùng kháng thể để đưa vào cơ thể tạo miễn dịch thụ động.
+C. Dùng kháng nguyên đã làm mất độc để kích thích cơ thể tạo miễn dịch chủ động (*)
+D. Dùng kháng nguyên đã bất hoạt để kích thích cơ thể tạo miễn dịch thụ động
+E. Dùng kháng nguyên và kháng thể đưa vào cơ thể tạo miễn dịch chủ động
+---
+59. Tìm Ý sai về dinh dưỡng của vi khuẩn
+A. Có hệ enzyme phân giải thức ăn
+B. Vi khuẩn phải ký sinh bắt buộc trong tế bào (*)
+C. Một số vi khuẩn phải ký sinh bắt buộc trong tế bào
+D. Vi khuẩn cần một lượng thức ăn lớn để phát triển
+---
+60. Bản chất của interferon
+A. Là kháng thể
+B. Prôtêin do tế bào sản xuất ra(*)
+C. Lymphekin do tế bào bạch cầu sản xuất ra
+D. Gammaglobulin do tế bào sản xuất ra
+---
+61. Chọn ý đúng về sự biến đổi của độc lực
+A. Độc lực vi khuẩn là yếu tố ổn định, không thay đổi
+B. Độc lực của vi khuẩn chỉ suất hiện khi nó ở trong cơ thể người
+C. Độc lực có thể tăng, giảm hoặc mất (*)
+D. Không thể phục hồi độc lực ở vi khuẩn khi nó đã mất độc lực
+---
+62. Cơ chế tác động của kháng thể là
+A. Ngăn cản tổng hợp prôtêin tạo vỏ capxit virus và thành tế bào vi khuẩn
+B. Bên trong tế bào cơ thể
+C. Gián tiếp vào tế bào vi sinh vật
+D. Trực tiếp lên virus và tế bào vi khuẩn (*)
+E. Tác động vào acid nhân của vi khuẩn và virus làm tan vỡ chúng
+---
+63. Kháng thể bảo vệ cơ thể xuất hiện vào thời điểm
+A. Ngay khi vi sinh vật xâm nhập vào cơ thể
+B. Không xác định được
+C. Trước khi các cơ chế bảo vệ không đặc hiệu được hoạt hóa
+D. Sau 30 ngày
+E. Sau khi vi sinh vật xâm nhập một thời gian khoảng 7- 10s (*)
+---
+64. Câu nào sau đây nói sai về vaccine
+A. Vắcxin được chế từ kháng nguyên đặc hiệu của vi sinh vật
+B. Vắcxin của loại vi sinh vật nào thường chỉ phòng được loại đó khi tiêm cho người
+C. Mọi loại vi sinh vật đều có thể chế thành vắcxin phòng bệnh (*)
+D. Dùng vắcxin không đúng liều, không đúng thời gian thường không mang lại hiệu quả
+---
+65. Kháng thể xuất hiện sớm nhất trong nhiễm trùng là
+A. IgG
+B. IgA
+C. IgE
+D. IgM (*)
+E. IgD
+---
+66. Chọn ý đúng về tác động của nhiệt độ đến vi khuẩn
+A. Tất cả vi khuẩn đều ngừng phát triển ở nhiệt độ 43 độ C
+B. Diệt những vi khuẩn có nha bào phải sấy khô 160 độ C/30 phút
+C. Diệt những vi khuẩn có nha bào phải sấy khô 100 độ C/30 phút
+D. Không thể dùng phương pháp Tyndall để diệt vi khuẩn có nha bào
+---
+67. Đáp ứng miễn dịch dịch thể của cơ thể được đảm nhiệm bởi
+A. L ozym
+B. Lymphoki
+C. Gammaglobulin (*)
+D. Interferon
+E. Interleukin
+---
+68. Trong các trường hợp sau đây, trường hợp nào không nằm trong định nghĩa nhiễm trùng
+A. Vi khuẩn lị ở trực tràng không biểu hiện triệu chứng
+B. Bệnh nhân bị tả, lị, thương hàn
+C. Vi khuẩn E.coli sống trong đại tràng (*)
+D. Phage tả xâm nhập vào vi khuẩn tả
+---
+69. Cơ chế bảo vệ không đặc hiệu của cơ thể được đảm nhiệm bởi
+A. Các kháng thể do mẹ truyền
+B. Bạch cầu đa nhân thực bào (*)
+C. Lymphokin hoạt hoá tế bào thực bào
+D. Kháng thể
+---
+70. Khuẩn lạc của vi khuẩn gây bệnh
+A. Đa số ở dạng hình chữ S, một số dạng chữ R (*)
+B. Đa số ở dạng hình chữ R, một số dạng chữ S
+C. Đa số ở dạng hình chữ M, một số dạng chữ R
+D. Đa số ở dạng hình chữ R, một số dạng chữ M
+---
+71. Những yếu tố không làm xuất hiện và lan tràn kháng thuốc là
+A. Tăng sử dụng kháng sinh trong chăn nuôi gia súc
+B. Tăng giao lưu quốc tế
+C. Lạm dụng kháng sinh trong điều trị
+D. Tăng sử dụng kháng sinh không theo đơn
+E. Tăng sử dụng kháng sinh đồ trong điều trị (*)
+---
+72. Những vi khuẩn có khả năng chống lại nhiều kháng sinh tìm được trong quá trình sống của chúng chủ yếu do
+A. Biến nạp gen
+B. Đột biến gen
+C. Tải nạp gen
+D. Nhận được plasmid kháng thuốc (*)
+---
+73. Tìm ý đúng về phản ứng miễn dịch huỳnh quang
+A. Phản ứng miễn dịch huỳnh quang trực tiếp chỉ dùng để chẩn đoán vi khuẩn
+B. Phản ứng miễn dịch huỳnh quang trực tiếp chỉ dùng để chẩn đoán virus
+C. Phản ứng miễn dịch huỳnh quang trực tiếp thường dùng phát hiện và định lượng kháng nguyên
+D. Phản ứng miễn dịch huỳnh quang có độ nhạy, đạt hiệu quả cao và cho kết quả nhanh (*)
+---
+74. Trong hiện tượng tải nạp vai trò quyết định là
+A. Phage trung gian (*)
+B. Plasmid F.
+C. Tính trạng “khả thụ” của tế bào vi khuẩn nhận
+D. Phage tải nạp plasmid F.
+---
+75. Chọn ý sai về phản ứng kết hợp bổ thể
+A. Các yếu tố tham gia phản ứng phải được chẩn độ trước để đánh giá sai lệch kết quả
+B. Có thể dùng để chẩn đoán mọi loại vi khuẩn và virus (*)
+C. Ngoài kháng nguyên, kháng thể còn có chất bổ thể tham gia phản ứng
+D. Phức hợp kháng nguyên, kháng thể sẽ bị tan khi có 4-5 thể tham gia
+---
+76. Tính kháng thuốc được lan truyền giữa các vi khuẩn chủ yếu do
+A. Tiếp hợp (*)
+B. Biến nạp
+C. Tải nạp
+D. Đột biến
+---
+77. Vật liệu di truyền ở vi khuẩn
+A. Nằm trong riboxom và plasmid
+B. Nằm trong ADN nhiễm sắc thể (*)
+C. Nằm trong riboxom vi khuẩn
+D. Trên ARN và plasmid của vi khuẩn
+---
+78. Plasmid R có thể
+A. Gây cho VK có lông
+B. Giúp cho VK kháng lại 1 số kháng sinh (*)
+C. Quyết định hiện tượng tiếp hợp của VK
+D. Quyết định khả năng sống sót ở ngoại cảnh
+---
+79. Bản chất của kháng độc tố là
+A. Huyết thanh kháng virus
+B. Huyết thanh kháng VK
+C. Kháng nguyên của VK
+D. Huyết thanh kháng độc (*)
+E. Giải độc tố của VK
+---
+80. Kháng độc tố thường dùng với mục đích (chọn ý đúng nhất)
+A. Phòng bệnh khẩn cấp
+B. Điều trị (*)
+C. Không phòng được bệnh chỉ có tác dụng điều trị
+D. Phòng bệnh và điều trị
+E. Chỉ có tác dụng phòng bệnh
+---
+81. Dùng kháng độc tố là tạo cho cơ thể có được miễn dịch
+A..... có ngoại độc tố
+B..... cộng sinh trong đại tràng người và động vật
+C..... phát triển trong các môi trường thông thường (*)
+D. Trực khuẩn ngắn không di động gram dương
+---
+82. Giải độc tố được chế tạo từ
+A. Nội độc tố
+B. Độc tố do một số vi khuẩn tiết ra (*)
+C. Kháng nguyên O
+D. LPS ở thành tế bào vi khuẩn
+---
+83. Mục đích của giải độc tố là để tạo cho cơ thể có được
+A. Miễn dịch chủ động đặc hiệu để phòng bệnh (*)
+B. Miễn dịch thụ động, đặc hiệu để phòng bệnh
+C. Miễn dịch chủ động, không đặc hiệu để phòng bệnh
+D. Miễn dịch thụ động, đặc hiệu để điều trị
+---
+85. Bản chất của giải độc tố là
+A. Chất kháng virus
+B. Chất kháng độc
+C. Chất kháng vi khuẩn
+D. Vaccine (*)
+E. Kháng thể
+---
+86. Môi trường thích hợp để nuôi virus là
+A. Canh thang và thạch giàu dinh dưỡng
+B. Động vật cảm thụ (*)
+C. Thạch dinh dưỡng
+D. Canh thang
+---
+87. Chọn ý sai về lông vi khuẩn
+A. Lông vi khuẩn là một kháng nguyên có khả năng kích thích cơ thể tạo kháng nguyên
+B. Chỉ những vi khuẩn gây bệnh mới có lông (*)
+C. Lông vi khuẩn có thể ở một đầu, xung quanh thân
+D. Lông giúp vi khuẩn di động
+---
+88. Tìm ý đúng nói về nha bào vi khuẩn
+A. Nha bào chỉ có ở một số loài vi khuẩn vi khuẩn lao, dịch hạch
+B. Diệt nha bào phải luộc sôi trong 15 phút
+C. Nha bào là 1 hình thức bảo tồn của vi khuẩn trong điều kiện bất lợi (*)
+D. Nha bào là hình thức sinh sản đặc biệt của vi khuẩn
+---
+89. Tìm ý đúng về cấu trúc virus
+A. Có cấu trúc như một tế bào sinh vật hoàn chỉnh bậc thấp
+B. Chỉ có ADN, vỏ capxit và protein
+C. Chưa có cấu tạo tế bào (*)
+---
+90. Tìm ý sai về dinh dưỡng của vi khuẩn
+A. Vi khuẩn cần 1 lượng thức ăn rất lớn để phát triển
+B. Một số vi khuẩn phải kí sinh bắt buộc trong tế bào
+C. Vi khuẩn phải kí sinh bắt buộc trong tế bào (*)
+D. Có hệ enzyme để phân giải thức ăn
+---
+91. Tìm ý đúng về phản ứng kháng nguyên - kháng thể
+A. Chỉ có thể tiến hành phản ứng theo nguyên tắc định tính
+B. Có thể dùng kháng nguyên biết sẳn để tìm kháng thể hoặc ngược lại (*)
+C. Phản ứng chỉ xảy ra trong cơ thể, không xảy ra trong ống nghiệm
+D. Phản ứng không mang tính chất đặc hiệu
+---
+92. Tìm ý đúng về phản ứng ngưng kết
+A. Có thể tiến hành phản ứng trên phiếu kính hoặc trong ống nghiệm (*)
+B. Chỉ thực hiện phản ứng theo phương pháp gián tiếp
+C. Chỉ thực hiện phản ứng theo phương pháp trực tiếp
+D. Có thể dùng để chẩn đoán tất cả các loại vi khuẩn và virus
+---
+93. Tìm ý đúng về phương pháp nhuộm gram
+A. Các vi khuẩn đều nhuộm được bằng phương pháp nhuộm gram
+B. Không thể nhuộm vi khuẩn bằng phương pháp gram
+C. Một số vi khuẩn khó bắt màu khi nhuộm gram (*)
+D. Vi khuẩn dễ bắt màu khi nhuộm Gram như Mycobactetrium
+---
+94. Tìm ý đúng về vi khuẩn lao
+A. Mycobactetrium leprae gây bệnh cơ hội
+B. Gây bệnh chủ yếu là nhiễm khuẩn mủ màng phổi
+C. Trực khuẩn kháng cồn, acid, nhuộm Zichl-Neelsen bắt màu đỏ (*)
+D. Trực khuẩn gram dương gây nhiễm khuẩn hô hấp cấp
+---
+95. Những yếu tố làm xuất hiện và lan tràn kháng thuốc là
+A. Lạm dụng kháng sinh trong điều trị (*)
+B. Tăng sử dụng kháng sinh không theo đơn
+C. Tăng giao lưu giám sát quốc tế về kháng sinh
+D. Tăng sử dụng kháng sinh trong chăn nuôi gia súc
+---
+96. VR HIV chọn ý đúng
+A. Lây qua nhiều đường: tình dục, máu, hô hấp, tiêu hoá
+B. Chỉ lây giữa những người đồng tính luyến ái
+C. Chủ yếu lây qua đường máu và tình dục (*)
+D. Có thể lây qua muỗi đốt
+6:33PM
+---
+97. Tìm ý sai về VR sởi
+A. Sau khởi bệnh, miễn dịch không bền (*)
+B. Sau khỏi bệnh miễn dịch bền vững
+C. Gây viêm kết mạc mắt, đường tiêu hoá, hô hấp và tổn thương da
+D. Dễ gây biến chứng và tử vong ở trẻ em
+---
+98. Haemophilus influenzae là VK
+A. Có kháng nguyên vỏ tạo ra các kháng thể đặc hiệu tương ứng (*)
+B. Chịu được 100 độ C trong vòng 60 phút
+C. Có khả năng đề kháng cao với thuốc khử trùng thông thường
+D. Có khả năng tồn tại lâu ở ngoại cảnh
+---
+99. Chọn ý sai về VK thương hàn
+A. Trực khuẩn gram (-), đi động được
+B. Trực khuẩn gram (-) không có nha bào
+C. Lây bệnh qua đường tiêu hoá
+D. Gây bệnh bằng ngoại độc tố(*)
+---
+100. 98. Haemophilus influenzae là VK
+A. Đa hình thái Gram (-), có lông, có bào tử
+B. Đa hình thái gram (-) (*)
+C. Hình trực khuẩn gram (+)
+D. Hình cầu khuẩn gram (+)
+---
+101. Chọn ý đúng về VK uốn ván
+A. Diệt VK uốn ván và nha bào phải luộc sôi 100 độC trong 10 phút
+B. Chỉ gây bệnh ở trẻ sơ sinh
+C. Gây bệnh cho cơ thể khi VK tiết ngoại độc tố (*)
+D. Trực khuẩn gram (+), gây bệnh bằng nội độc tố
+---
+102. Chọn ý sai về VR viêm gan B
+A. Đã có vaccine phòng đặc hiệu
+B. Viêm gan B có thể dẫn tới xơ gan, K gan
+C. VRVGB có tính lây nhiễm cao, có thể gây bệnh mọi lứa tuổi
+D. VRVGB gây bệnh viêm gan truyền nhiễm, thành dịch
+E. Kháng nguyên quan trọng nhất là HBsAg (*)
+---
+103. Chọn ý đúng về Shigella
+A. Shigella gây 2 bệnh cho người: lị trực khuẩn và thương hàn
+B. Có 4 nhóm: Sh.dysenteria, Sh.flexneri, Sh.sonnei, Sh.bovdii (*)
+C. Các Shigella đều có ngoại độc tố
+D. Trực khuẩn gram (-), có lông, không có vỏ
+---
+104. VK nào trong các VK sau thuộc VK đường ruột
+A. Streptococus, pacumoniae
+B. Samonella, paratyphia (*)
+C. Staphylococas, arueus
+D. Vibrio, cholera
+---
+105. Chọn ý đúng về VR bại liệt
+A. Vaccine đang dùng ở Việt Nam là vaccine chết (*)
+B. Đã có thuốc điều trị đặc hiệu
+C. Không thanh toán được vì nhiều typ, nhiều chủng
+D. Lây bệnh theo đường tiêu hoá, gây bệnh ở thần kinh trung ương hay loại tế bào sừng tuỷ sống
+---
+106. Chọn ý sai về VR viêm não nhật bản
+A. Sau khỏi bệnh miễn dịch không bền (*)
+B. Phân lập lần đầu tiên ở Nhật Bản
+C. Gây tổn thương nặng ở thần kinh TƯ
+B. Lây bệnh do muỗi truyền
+---
+107. Chọn ý đúng về tụ cầu gây bệnh
+A. Gây bệnh thương hàn và bệnh lị
+B. Gây viêm mủ nhiễm khuẩn huyết, gây bệnh bạch cầu
+C. Gây viêm mủ, viêm phổi, nhiễm độc thức ăn, nhiễm khuẩn huyết (*)
+D. Có độc tố ruột, không có độc tố gây hoại tử da
+---
+108. Chọn ý sai về VK mủ xanh
+A. Gây bệnh qua đường tiêu hoá (*)
+B. Thường tổn hại nhiều và dai dẳng trong môi trường BV
+C. Dễ phát triển trên các môi trường thông thường
+D. Trực khuẩn gram âm, không sinh bào tử
+---
+109. Tìm ý đúng về Haemophilus influenzae
+A. Nhạy cảm với nhiều loại kháng sinh
+B. Thuộc họ VK đường ruột
+C. Là 1 trong những nguyên nhân quan trọng gây nhiễm khuẩn hô hấp cấp tính ở trẻ em (*)
+D. Gây bệnh cúm
+---
+110. Tìm ý đúng về cầu khuẩn màng não
+A. Gây viêm màng não mủ viêm họng, viêm phổi, nhiễm khuẩn huyết (*)
+B. Kháng lại tất cả kháng sinh
+C. Dễ nuôi trên môi trường nhân tạo, kị khí
+D. Song cầu gram (+)
+---
+111. Chọn ý đúng về VR quai bị
+A. Dùng vaccine phòng cho tất cả phụ nữ có thai
+B. Thường gây dịch vào mừa hè
+C. Kháng nguyên dễ biến đổi, khó điều trị
+D. Gây viêm tuyến nước bọt mang tai, tuyến tinh hoàn, buồng trứng (*)
+---
+112. VK E.coli (tìm ý đúng)
+A. Sống cộng sinh ở đại tràng người, thường không gây bệnh (*)
+B. Sống ở ruột non là chủ yếu
+C. Dễ chết khi ra khỏi cơ thể
+D. Chỉ gây bệnh ở đường tiêu hoá
+---
+113. Chọn ý sai về VR dại
+A. Có ở tuyến nước bọt của chó và người bị dại
+B. Vaccine có tác dụng tốt nếu được dùng sớm
+C. Tỉ lệ chết 100% khi phát bệnh
+D. Nguồn lưu trữ duy nhất là chó (*)
+---
+114. Chọn ý đúng về VK giang mai
+A. Có thể nuôi cấy trên môi trường nhân tạo
+B. Không thể chẩn đoán  bằng quyết định hình thể
+C. Có vỏ, sinh nha bào
+D. Hình xoắn lò xo, soi tươi thấy di động rõ (*)
+---
+115. Chọn ý đúng về phế cầu
+A. Hay gây nhiễm trùng tiết niệu
+B. Hay gây viêm màng trong tim
+C. Hay gây viêm màng não thành dịch
+D. Hay gây viêm mủ da và sinh dục
+E. Hay gây nhiễm trùng đường hô hấp ở trẻ em (*)
+---
+116. Chọn ý đúng về Vbrio cholerae
+A. Gây bệnh lị
+B. Gây bệnh thương hàn
+C. Gây viêm ruột cấp tính (*)
+D. Gây viêm đại tràng cấp tính
+---
+117. Chọn ý đúng về VR Polio
+A. Gây bệnh viêm phổi không điển hình
+B. Chưa có vaccine phòng bệnh hiệu quả
+C. Gây viêm các tế bào sừng trước tuỷ sống (*)
+D. Gây viêm kết mạc cấp , lây qua đường hô hấp
+---
+118. VK nào được chương trình mở rộng chú ý tới
+A. Treponema pallidum
+B. Staphylococcus ureus
+C. Neisseria gonorrhoae
+D. Coryneroactterium dinhteria (*)
+---
+119. Tìm ý nói không đúng về VK Whitmore
+A. Bệnh có 3 thể: thể nhiễm khuẩn huyết, thể phổi, thể da
+B. Người mắc bệnh bị lây qua da, hô hấp hoặc tiêu hoá
+C. Tên chính thức hiện nay là Burkholderia pseudomallci (*)
+D. Trực khuẩn gram (-) do Whitmore phát hiện lần đầu
+E. VK này sức đề kháng kém dễ chết ở ngoại cảnh
+---
+120. Chọn ý đúng về VK viêm gan A hoặc B
+A. HBsAg là kháng nguyên lõi của VR viêm gan B
+B. VR viêm gan B có 3 kháng nguyên chủ yếu là HBsAg, HBcAG, HBeAg (*)
+C. VR viêm gan A gây bệnh mãn tính, lây theo đường tiêu hoá thành dịch
+D. Cả VR viêm gan A và VRVG B đều không có bao ngoài
+---
+121. Chọn ý đúng về vai trò gây bệnh của trực khuẩn mủ xanh
+A. Trực khuẩn mủ xanh chủ yếu gây nên mụn nhọt, chốc lở da
+B. Trực khuẩn mủ xanh thường gây nên nhiễm khuẩn huyết ở BN bỏng (*)
+C. Trực khuẩn mủ xanh gây bệnh hoại thư sinh hơi
+D. Trực khuẩn mủ xanh hay gây nhiễm trùng nhiễm độc thức ăn
+---
+122. Tìm ý đúng về Clotridium botnlimum
+A. Gây ngộ độc do ăn phải các đồ hộp bị nhiễm bào tử vi khuẩn (*)
+B. Phát triển tốt ở môi trường giàu oxy
+C. Gây viêm màng não

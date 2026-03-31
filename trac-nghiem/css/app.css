@@ -1,0 +1,47 @@
+@keyframes prevSlide {
+    from {opacity: 0; margin-left: -99px;}
+    to {opacity: 1; margin-left: 0px;}
+}
+@keyframes nextSlide {
+    from {opacity: 0; margin-left: 99px;}
+    to {opacity: 1; margin-left: 0px;}
+}
+h1 {margin-top:0; margin-bottom: 32px;}
+label {display: inline;}
+table td{border: none;}
+table{margin-bottom: 10px;}
+#question-list {margin-right: 20px;}
+#question-list > li {display: none;background: whitesmoke; padding-left: 0px;}
+#question-list > li.active {display: block;}
+#question-list > li.active.prev{animation: prevSlide 250ms ease-in-out both;}
+#question-list > li.active.next{animation: nextSlide 250ms ease-in-out both;}
+.controls { text-align: left;background: white;border-top: 1px solid gray;padding: 20px; position: fixed; bottom: 0; width: 100%;left: 0;}
+.controls a {margin-top: 10px;  padding: 10px; border: 1px solid gray; color : gray; text-decoration: none; border-radius: 5px; }
+.controls a.show-result{margin-right: 5px;}
+.controls a.status{margin-left: 10px;border-color: transparent; float: none;color: black;cursor: default;}
+.controls a.ctrl-next{border: 1px solid red;color :red;}
+.controls a.ctrl-prev{border-color: green; color: green;}
+#questions{padding-bottom: 100px;}
+ol.answers{}
+li.answer-item input[type=checkbox] {display: none}
+li.answer-item input[type=checkbox]:checked + span, li.answer-item label:hover span{content: " "; width: 28px; height: 28px; border-radius: 50px; border: 2px solid gray; display: inline-block; background-color: #59595947; position: absolute; margin-left: -32px;}
+li.answer-item.checked.true{background-color: green}
+li.answer-item.checked.false{background-color: red}
+/*li.answer-item:hover {background: #fafad2;}*/
+#result-msg {padding: 20px; background: #fafad2;display: none}
+#result-msg .pages-list > a{border: 1px solid black; padding: 5px 10px; line-height: 40px; border-radius: 100px; display: inline-block; margin: 5px; width: 50px; height: 50px; text-align: center;}
+#result-msg .pages-list > a.right{border-color: green;background-color: #a3e4a3;}
+#result-msg .pages-list > a.wrong{border-color: red;background-color: #f7a1a1;}
+#result-msg h3{color: red; font-size: 45px;}
+#timer {color: red; line-height: 50px;}
+#progress{  width: 100%;
+    left:0; position: fixed;top: 0; height: 5px; }
+#progress-precent{
+    width: 10%; background: green;
+    height: 5px; box-shadow: 1px 1px 10px black;
+}
+@media only screen and (max-width: 568px)
+{
+   .controls {font-size: 14px; padding: 5px;}
+   table td {padding:5px;}
+}

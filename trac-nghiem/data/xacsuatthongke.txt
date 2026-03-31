@@ -1,0 +1,183 @@
+Môn Xác Suất Thống Kê 
+1.	Chỉ số thống kê nào cho biết độ lớn của một thành phần nào đó trong toàn bộ tổng thể các thành phần của một sự vật hay sự kiện 
+A.	Tần suất
+B.	Tỷ số
+C.	Tỷ lệ (*)
+D.	Tỷ suất
+---
+2.	Chỉ số nào dùng để tính tỷ lệ bệnh tâm thần trong 1 cộng đồng
+A.	Tỷ suất hiện mắc thời điểm 
+B.	Tỷ suất hiện mắc thời khoản (*)
+C.	Tỷ suất mới mắc
+D.	Tần suất 
+---
+3.	Những vấn đề/ hiện tượng nào sau đây KHÔNG là tình trạng/ vấn đề sức khỏe mà thống kê y học quan tâm 
+A.	Tỷ lệ chấn thương đầu do TNGT
+B.	Hành vi hút thuốc lá 
+C.	Xác suất có việc làm của điều dưỡng sau khi ra trường (*)
+D.	Tỷ lệ trẻ bị suy dinh dưỡng
+---
+4.	Báo cáo: trên 85% ca mắc sốt xuất huyết là ở các tỉnh miền Nam Việt Nam. Ý nghĩa tỷ lệ 85% là gì? 
+A.	100 người Việt Nam thì có 85 người miền Nam
+B.	100 người miền Nam thì có 85 người mắc bệnh sốt xuất huyết 
+C.	100 ca mắc sốt xuất huyết thì có 85 ca là thuộc miền Nam Việt Nam
+D.	100 ca mắc sốt xuất huyết ở Việt Nam thì có 85 ca là thuộc miền Nam Việt Nam (*)
+---
+5.	Nhận định nào sau đây là SAI đối với lợi ích thống kê
+A.	Thống kê đo lường các biến cố không lường trước được 
+B.	Thống kê các thông tin trên 1 đối tượng (*) 
+C.	Thống kê những yếu tố liên quan không dễ dàng được kiểm soát 
+---
+6.	Chỉ số nào KHÔNG phải là tỷ số
+A.	Chỉ số khối cơ thể (BMI)
+B.	Chỉ số huyết áp 
+C.	Chỉ số mật độ loãng xương 
+D.	Chỉ số sinh thô (số trẻ sinh ra và sống trên 1000 dân trong năm đó) (*)
+---
+7.	Tỷ số nguy cơ là số đo kết hợp đúng trong nghiên cứu nào?
+A.	Nghiên cứu đoàn hệ  (*)
+B.	Nghiên cứu định tính
+C.	Nghiên cứu cắt ngang
+D.	Nghiên cứu bệnh chứng
+---
+8.	Chỉ số thống kê nào cho biết độ lớn của một thành phần nào đó trong toàn bộ tổng thể các thành phần của một sự vật hay sự kiện
+A.	Tần suất
+B.	Tỷ số
+C.	Tỷ lệ (*)
+D.	Tỷ suất 
+---
+9.	Số mới mắc thường được dùng trong nghiên cứu nào
+A.	Nghiên cứu đoàn hệ (*) 
+B.	Nghiên cứu bệnh chứng
+C.	Nghiên cứu cắt ngang 
+D.	Nghiêng cứu báo cáo hàng loạt ca 
+---
+10.	Với mục tiê đánh giá mối liên quan giữa loãng xương và nguy cơ gãy xương, các nhà nghiên cứu dựa vào mật độ xương (đo lúc ban đầu) và phân thành hai nhóm: nhóm loãng xương và nhóm không loãng xương. Quan sát 2 nhóm này từ 2000 đến 2016 và tính toán để ước tính tỉ lệ đã bị gãy xương ở cả hai nhóm. Đây là thiết kế nghiên cứu gì? 
+A.	Nghiên cứu can thiệp 
+B.	Nghiên cứu đoàn hệ (*) 
+C.	Nghiên cứu bệnh chứng 
+D.	Nghiên cứu cắt ngang 
+---
+11.	Dựa trên việc mô tả bệnh sử và bệnh cảnh lâm sàng của 4 người đàn ông được nhập viện tại trung tâm Y khoa của Đại học California ở Los Angeles (UCLA) vì bệnh viêm phổi do Peneumocystic carinal. Loại viêm phổi này trước đây chỉ xuất hiện ở những người bị rối loạn hệ thống miễn dịch. Những nhà nghiên cứu tiến hành một nghiên cứu để xem đây là một vấn đề sức khỏe mới hay chỉ là các trường hợp tương tự với những ca bệnh viêm phổi Pneumocystic carinal được phát hiện từ trước? Vấn đề sức khoe này có những đặc điểm gì?. Đây là thiết kế nghiên cứu gì ?
+A.	Nghiên cứu cắt ngang
+B.	Nghiên cứu trường hợp 
+C.	Nghiên cứu báo cáo hàng loạt ca (*) 
+---
+12.	Nghiên cứu tìm hiểu các yếu tố liên quan đến tiêu thụ thức uống có gas và béo phì ở lứa tuổi học sinh từ lớp 1 đến lớp 12 tại Tp. HCM. Nghiên cứu tiến hành 2304 trẻ tại các trường cấp I, cấp 2, cấp 3 tại quận 1, quận Tân Bình và huyện Nhà Bè. Nhà nghiên cứu tiến hành cân đo trẻ và hỏi về tần suất , liều lượng và sự có sẳn của thức uống có ga tại nhà, trường và cộng đồng. Đây là thiết kế nghiên cứu gì? 
+A.	Nghiên cứu cắt ngang (*) 
+B.	Nghiên cứu trường hợp 
+C.	Nghiên cứu báo cáo hàng loạt ca 
+D.	Nghiên cứu định tính
+---
+13.	Nhằm tìm hiểu sự liên quan giữa sử dụng Oestrogen tổng hợp (OCE)và ung thư nội mạc tử cung. Một nghiên cứu được tiến hành trong đó có 183 người bị ung thư nội mạc tử cung và 183 người không bị ung thư nội mạc tử cung được hỏi tiền căn sử dụng OCE. Kết quả cho thấy trong nhóm bệnh có 55 người có tiền căn sử dụng OCE. Và trong nhóm chứng có 19 người có tiền căn sử dụng  OCE. Đây là thiết kế nghiên cứu gì?
+A.	Nghiên cứu bệnh chứng (*) 
+B.	Nghiên cứu trường hợp 
+C.	Nghiên cứu báo cáo hàng loạt ca
+D.	Nghiên cứu định tính
+---
+14.	Một nghiên cứu nhằm đánh giá hiệu quả của mô hình can thiệp Precedo-Proceed với 4 nội dung dinh dưỡng, vận động thể lực, kiến thức-hành vi-kỹ năng và quan hệ cộng đồng-xã hội, được tiến hành trên 1122 bệnh nhân đái tháo đường phân thành 2 nhóm. Một nhóm có chương trình hoạt động can thiệp cưa mô hình Precedo-Proceed và một nhóm không có mô hình can thiệp. Đây có phải là thiết kế nghiên cứu can thiệp không?
+A.	Có 
+B.	Không (*)
+---
+15.	Nghiên cứu: Đánh giá hiệu quả của mô hình cộng tác viên trong việc phòng chống sốt xuất huyết là phân tích gì?
+A.	Đơn biến
+B.	Nhị biến (*)
+C.	Đa biến
+D.	Cả 3 đáp án trên đều sai 
+---
+16.	Sắp xếp theo thứ tự từ thấp đến cao của các loại thiết kế nghiên cứu phân theo chất lượng nghiên cứu
+A.	Nghiên cứu trường hợp ca bệnh, nghiên cứu cắt ngang, nghiên cứu can thiệp, nghiên cứu đoàn hệ
+B.	Nghiên cứu trường hợp ca bệnh, nghiên cứu cắt ngang, nghiên cứu đoàn hệ, nghiên cứu can thiệp (*)
+C.	Nghiên cứu trường hợp ca bệnh, nghiên cứu can thiệp, nghiên cứu cắt ngang, nghiên cứu đoàn hệ
+D.	Nghiên cứu trường hợp ca bệnh, nghiên cứu đoàn hệ, nghiên cứu cắt ngang, nghiên cứu can thiệp
+---
+17.	Khái niệm mẫu là gì?
+A.	Là bao gồm toàn bộ cá thể mà chúng ta quan tâm 
+B.	Là đại lượng/ đặc tính có thể thay đổi từ người này sang người khác hoặc từ thời điểm này sang thời điểm khác 
+C.	Là chủ thể hoặc người mà sự quan sát hoặc đo lường sẽ được tiến hành trên chủ thể đó 
+D.	Là bao gồm những cá thể mà chúng ta sẽ nghiên cứu (*)
+---
+18.	Nhằm tìm hiểu mối liên quan giữa sử dụng hormon thay thế trong việc giảm nguy cơ nhồi máu cơ tim ở người lớn trên 50 tuổi tại Bình Dương, Một khảo sát được thực hiện tại huyện Dĩ An, Thuận An và Bến Cát với số lượng 375 đối tượng. Các nhà nghiên cứu khảo sát về tuổi, việc sử dụng hormon thay thế và tình trạng nhồi máu cơ tim. Mẫu nghiên cứu này là gì? 
+A.	Tất cả người lớn trên 50 tuồi tại Bình Dương
+B.	375 người lớn trên 50 tuổi tại các huyện thị tỉnh Bình Dương
+C.	Tuổi, việc sử dụng hormon thay thế và tình trạng nhồi máu cơ tim
+D.	375 người lớn trên 50 tuổi tại huyện Dĩ An, Thuận An và Bến Cát tỉnh Bình Dương (*)
+---
+19.	Nhằm tìm hiểu mối liên quan giữa sử dụng hormon thay thế trong việc giảm nguy cơ nhồi máu cơ tim ở người lớn trên 50 tuổi tại Bình Dương, Một khảo sát được thực hiện tại huyện Dĩ An, Thuận An và Bến Cát với số lượng 375 đối tượng. Các nhà nghiên cứu khảo sát về tuổi, việc sử dụng hormon thay thế và tình trạng nhồi máu cơ tim. Quần thể trong nghiên cứu này là gì?
+A.	Tất cả người lớn trên 50 tuổi tại Bình Dương (*)
+B.	375 người lớn trên 50 tuổi tại các huyện thị tỉnh Bình Dương
+C.	Tuổi, việc sử dụng hormon thay thế và tình trạng nhồi máu cơ tim
+D.	375 người lớn trên 50 tuổi tại huyện Dĩ An, Thuận An và Bến Cát tỉnh Bình Dương 
+---
+20.	Mức độ phân tích của nghiên cứu: xác định mối liên quan giữa hút thuốc lá và tình trạng ung thư phổi và tình trạng bệnh tim mạch 
+A.	Đơn biến
+B.	Nhị biến
+C.	Đa biến
+D.	Tất cả đều sai (*)
+---
+21.	Thống kê có thể làm gì? 
+A.	Tóm tắt và trình bày thông tin nhập viện vì đột quỵ tại Viên Tim bằng số
+B.	Kiểm định giả thuyết liệu tuân thủ tiêm an toàn có liên quan đến biến chứng sau tiêm ở điều dưỡng hay không 
+C.	So sánh hiệu quả dùng Ibrofen từ các nhóm đối tượng bệnh nhân khác nhau 
+D.	Cả 3 đáp án trên (*)
+---
+22.	Nhận định nào sau đây SAI đối với lợi ích thống kê 
+A.	Thống kê đo lường các biến cố không lường trước được 
+B.	Thống kê các thông tin trên 1 đối tượng (*)
+C.	Thống kê những yếu tố liên quan không dễ dàng được kiểm soát
+D.	Thống kê những yếu tố liên quan là chưa rõ 
+---
+23.	Ý nào sau đây SAI đối với giả thuyết Ho là gì?
+A.	Giả thuyết Ho là phủ định của giả thuyết nghiên cứu
+B.	Là bước đầu tiên của bất cứ kiểm định thống kê nào 
+C.	Giả thuyết Ho là 1 mệnh đề âm tính cho rằng không có sự liên hệ thống kê nào 
+D.	Là một giả thuyết mà nhà nghiên cứu nghĩ là sự thật và tìm cách “chứng minh” bằng dữ kiện (*)
+---
+24.	Nhằm tìm hiểu mối liên quan tiền sứ sử dụng kháng sinh và tình trạng nhiễm nấm ở bệnh nhân tại tất cả các bệnh viện tỉnh Tiền Giang, một khảo sát được thực hiện tại 3 bệnh viện huyện Cái Bè, Cai Lậy, Chợ Gạo với số lượng là 486 bệnh nhân. Các nhà nghiên cứu khảo sát về tiền sử sử dụng kháng sinh và tình trạng nhiễm nấm. Mẫu trong nghiên cứu này là gì? 
+A.	Bệnh nhân tại tất cả bệnh viện tỉnh Tiền Giang 
+B.	486 bệnh nhân tại 3 bệnh viện huyện Cái Bè, Cai Lậy, Chợ Gạo thuộc tỉnh Tiền Giang (*)
+C.	256 bệnh nhân tại tất cả bệnh viện thuộc tỉnh Tiền Giang 
+D.	Tiền sử sử dụng kháng sinh và tình trạng nhiễm nấm
+---
+25.	Nhằm tìm hiểu mối liên quan tiền sứ sử dụng kháng sinh và tình trạng nhiễm nấm ở bệnh nhân tại tất cả các bệnh viện tỉnh Tiền Giang, một khảo sát được thực hiện tại 3 bệnh viện huyện Cái Bè, Cai Lậy, Chợ Gạo với số lượng là 486 bệnh nhân. Các nhà nghiên cứu khảo sát về tiền sử sử dụng kháng sinh và tình trạng nhiễm nấm. Quần thể trong nghiên cứu này là gì?
+A.	Bệnh nhân tại tất cả bệnh viện tỉnh Tiền Giang (*)
+B.	486 bệnh nhân tại 3 bệnh viện huyện Cái Bè, Cai Lậy, Chợ Gạo thuộc tỉnh Tiền Giang
+C.	486 bệnh nhân tại tất cả bệnh viện thuộc tỉnh Tiền Giang
+D.	Tiền sử sử dụng kháng sinh và tình trạng nhiễm nấm
+---
+26.	Tính trung bình của dãy số liệu: 145, 112, 158, 134, 144
+A.	135,6
+B.	133,6
+C.	136,6
+D.	138,6 (*)
+---
+27.	Số con trong gia đình là biến số gì?
+A.	Biến nhị giá
+B.	Biến định lượng không liên tục
+C.	Biến định lượng liên tục 
+D.	Cả 3 đáp án trên đều sai (*)
+---
+28.	Tỉ suất là gì?
+A.	Là một phân số mà trong đó mẫu số bao gồm tử số
+B.	Là một tỷ lệ đặc biệt mà trong đó mẫu số liên quan đến thời gian (*)
+C.	Là số lần xuất hiện của một hiện tượng 
+D.	3 đáp án trên đều sai 
+---
+29.	Chỉ số nào dùng để tính tỷ lệ bệnh tâm thần trong 1 cộng đồng 
+A.	Tỷ suất hiện mắc thời điểm 
+B.	Tỷ suất hiện mắc thời khoảng (*)
+C.	Tỷ suất mới mắc
+D.	Tần suất 
+---
+30.	Số đo kết hợp nào có độ yếu nhất về mối liên quan giữa yếu tố nguy cơ và bệnh 
+A.	PR (*)
+B.	ỎR
+C.	RR
+D.	HR
+---
+31.	Nhà nghiên cứu muốn tiến hành 1 nghiên cứu để tìm hiểu mối quan hệ giữa tình trạng ăn rau (phơi nhiễm) và bệnh béo phì (bệnh). Nếu nhà nghiên cứu bắt đầu với 400 người mắc bệnh và so sánh họ với 800 người trong nhóm so sánh (không mắc bệnh béo phì). Đây là nghiên cứu bệnh chứng. Giả sử trong 400 người mắc bệnh có 115 ăn rau và 285 người không ăn rau. Trong 800 người so sánh, có 458 người ăn rau và 342 người không ăn rau. Tính số đo kết hợp mỗi liên quan giữa tình trạng ăn rau và bệnh béo phì 
+A.	RR=1,30 
+B.	Ỏ=0,30 (*)
+C.	PR=0,30
+D.	HR=0,30
+

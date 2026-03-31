@@ -1,0 +1,947 @@
+Sức khoẻ môi trường
+1. Khí nào sau đây phát sinh trong quá trình đốt than và dầu khí
+A. SO2 (*)
+B. H2S
+C. NOx
+D. Tất cả các câu trên
+---
+2. Khí nào sau đây gây nên mùi trứng thối gây buồn nôn, gây kích thích mắt và họng: 
+A. SO2
+B. H2S  (*)
+C. NOx
+D. Tất cả các câu trên
+---
+3. Khí nào sau đây phát sinh nhiều nhất trong quá trình đốt nhiên liệu hoá thạch
+A. SOx
+B. H2S
+C. NOx
+D. COx (*)
+---
+4. Nhu cầu oxy về hoá học được ký hiệu bởi 
+A. COD (Chemical Oxygen Demad) (*)
+B. BOD (Biochemical oxygen Demand-nhu cầu oxy sinh hoá)
+C. TSS (turbidity & suspendid solid)
+D. Tất cả đều đúng
+---
+5. Suy thoái môi trường có các mặt biểu hiện nào sau đây:
+A. Mất an toàn nơi cư trú
+B. Cạn kiệt nguồn tài nguyên
+C. Xả thải quá mức 
+D. Tất cả đều đúng (*)
+---
+6. Nồng độ Cacon monoxit (CO) khoảng sẽ gây tử vong đối với con người:
+A. 50 ppm 
+B. 150 ppm
+C. 250 ppm (*)
+D. 359 ppm
+---
+7. Khí nào sau đây gây nên hiện tượng mưa acid: 
+A. NOx, SOx, H+, CH4(*)
+B. NOx, SOx, H+, CFC
+C. NOx, SOx, O, CH4
+D. NOx, SOx, H+, O, CFC
+---
+8. Một trong những yếu tố của môi trường mà cơ thể con người phải phơi nhiễm trong quá trình sống là: 
+A. Tuổi đời
+B. Giới tính
+C. Yếu tố xã hội (*)
+D. Hành vi
+---
+9. Một trong những yếu tố của môi trường mà cơ thể con người phải phơi nhiễm trong quá trình sống là :
+A. Tuổi đời 
+B. Giới tính 
+C. Dận tộc
+D. Yếu tố hoá học (*)
+---
+10. Hầu hết các hệ sinh thái trong tự nhiên đều có: 
+A. Sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân huỷ
+B. Môi trường, sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân huỷ (*)
+C. Môi trường, sinh vật sản xuất, sinh vật tiêu thụ
+D. Môi trường, sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân huỷ và vật chủ
+---
+11. Công việc nào sau đây không thuộc quan trắc môi trường:
+A. Xử lý ô nhiễm (*)
+B. Thu thập dữ liệu
+C. Phân tích
+D. Tất cả đều đúng
+---
+12. Muốn kiểm soát nguồn ô nhiễm có ảnh hưởng đến sức khoẻ con người hay không thì người ta dựa vào yếu tố nào sau đây: 
+A. Giới hạn chịu đựng
+B. Mức độ gây chết 
+C. Liều lượng gây chết
+D. Quy chuẩn và tiêu chuẩn (*)
+---
+13. Có bao nhiêu nguồn gây ô nhiễm không khí
+A. 2 (*)
+B. 3
+C. 4
+D. 5
+---
+15. Đối với các cơ sở y tế có lượng chất thải y tế nguy hại phát sunh dưới 5kg/ ngày, thời gian thu gom tối thiểu... trong một tuần
+A. 1 lần (*)
+B. 2 lần (*)
+C. 3 lần (*)
+D. 4 lần (*)
+---
+16. Chỉ tiêu nguồn nước mặt hàm lượng colifrom: 
+A. <=5000 con/100ml (*)
+B. >=5000 con/100ml 
+C. <=5000 con/10l
+D. >= 5000 con/10l
+---
+17. Con đường phơi nhiễm bệnh ở người qua môi trường nào:
+A. Rắn
+B. Lỏng
+C. Khí
+D. Tất cả đúng (*)
+---
+18. Dân số đầu năm 2016 tại xã ABC là 300.000 người, số dân cuối năm 2016 là 340.000 người, vậy dân số trong bình năm 2016 của xã ABC là bao nhiêu:
+A. 300.000
+B. 320.000 (*)
+C. 340.000
+D. 640.000
+---
+19. ...... là tổng số dân sinh sống tại một vùng lãnh thổ nhất định, tại thời điểm xác định. 
+A. Quy mô dân số(*)
+B. Sự phân bố dân cư
+C. Dân số thời điểm
+D. Tất cả đều đúng
+---
+20. Số dân đầu năm 2016 tại xã ABC là 300.000 người, số dân cuối năm 2016 là 340.000 người, vậy tốc độ gia tăng dân số của xã ABC là bao nhiêu. 
+A. 1,33 % (*)
+B. 2,33 %
+C. 3,33 %
+D. Tất cả đều đúng
+---
+21. Mật độ dân số được biểu hiện theo công thức nào sau đây:
+A. Mật độ dân số =Số dân/ diện tích (người/km)
+B. Mật độ dân số =Số dân/ diện tích (người/km2)(*)
+C. Mật độ dân số =Số dân/ diện tích (người/m2)
+D. Tất cả đều đúng
+---
+22. Yếu tố nào ảnh hưởng đến giới tính
+A. Tỷ số giới tính lúc sinh
+B. Sự khác biệt về mô hình tử vong giữa nam và nữ
+C. Sự khác biệt về xu hướng  di cư theo giới tính
+D. Tất cả đều đúng(*)
+---
+23. Dân số già là dân số có độ tuổi ngoài tuổi lao động
+A. >10%. (*)
+B. <10%
+C. >20%
+D. <20%
+---
+24. Dân số trẻ là dân số có độ tuổi ngoài tuổi lao động
+A. <=10% (*)
+B. >10%
+C. >20%
+D. <20%
+---
+25. Tháp dân số là sự biểu hiện của: 
+A. Cơ cấu tuổi, dân tộc
+B. Giới tính, dân tộc
+C. Dân tộc, tôn giáo
+D. Cơ cấu tuổi, giới tính (*)
+---
+26. Có bao nhiêu mô hình dân số
+A. 2
+B. 3 (*)
+C. 4
+D. 5
+---
+27. Bệnh than do VSV nào gây ra
+A. Bacillus anthracis (*)
+B. Streptococcus spp
+C. Virus Herpes
+D. Neisseria meningitidis
+---
+28. Bệnh nhiễm khuẩn mắt do VSV nào gây ra: 
+A. Bacillus anthracis 
+B. Streptococcus spp
+C. Virus Herpes (*)
+D. Neisseria meningitidis
+---
+29. Bệnh sốt xuất huyết do virus nào gây ra: 
+A. Junin
+B. Lassa 
+C. Ebola
+D. Marburg
+E. Tất cả đúng (*)
+---
+30. Chọn câu đúng: Định nghĩa về ô nhiễm nước:
+A. Ô nhiễm nước là sự biến đổi các thành phần của nước khác biệt với trạng thái ban đầu làm cho cúng trở thành độc hại, có lợi cho sức khoẻ
+B. Ô nhiễm nước là sự biến đổi các thành phần của nước khác biệt với trạng thái ban đầu làm cho cúng trở thành độc hại, không có lợi cho sức khoẻ (*)
+C. Cả A,B đúng
+D. Cả A,B sai
+---
+31. Chọn câu đúng: Định nghĩa về ô nhiễm nước của hiến chương Châu Âu: 
+A. “Sự ô nhiễm là một biến đổi nói chung do con người gây ra đối với chất lượng nước, làm ô nhiễm nước và không gây nguy  hại đối với việc sử dụng của con người, cho công nghiệp, nông nghiệp, nuôi cá, nghỉ ngơi giải trí cũng như đối với các loài động vật nuôi và các loài hoang  dại”
+B. “Sự ô nhiễm là một biến đổi nói chung do con người gây ra đối với chất lượng nước, làm ô nhiễm nước và gây nguy hại đối với việc sử dụng của con người, cho công nghiệp, nông nghiệp, nuôi cá, nghỉ ngơi giải trí cũng như đối với các loài động vật nuôi và các loài hoang dại”(*)
+C. Cả a,b đúng
+D. Cả a,b sai
+---
+32. Chọn câu đúng nhất: nguyên nhân của ô nhiễm nước: 
+A. Gia tăng dân số
+B. Quá trình đô thị hoá gia tăng
+C. Cả A và B đúng(*)
+D. Cả A và B sai
+---
+33. Chọn câu đúng nhất: nguyên nhân của ô nhiễm nước: 
+A. Khoa học kĩ thuật phát triển 
+B. Ý thức con người
+C. Cả A và B sai
+D. Cả A và B đúng (*)
+---
+34. Chọn câu đúng nhất: phân loại ô nhiễm nước theo nguồn gốc phát sinh
+A. Ô nhiễm nước có nguồn gốc tự nhiên: các hiện tượng như mưa, tuyết, băng tan, núi lửa
+B. Ô nhiễm nước có nguồn gốc nhân tạo: chủ yếu do con người gây ra như nước thải, các chất thải trong công nghiệp, nông nghiệp, giao thông vận tải, chiến tranh và sinh hoạt của con người
+C. Cả A và B sai
+D. Cả A và B đúng (*)
+---
+35. Chọn câu sai: phân loại ô nhiễm nước
+A. Phân loại theo nguồn gốc phát sinh
+B. Phân loại theo ý thức con người (*)
+C. Phân loại theo nguồn gây ô nhiễm
+D. Phân loại theo tác nhân gây ô nhiễm
+---
+36. Chọn câu đúng nhất: Phân loại ô nhiễm nước theo nguồn gây ô nhiễm : 
+A. Nguồn gây ô nhiễm xác định (nguồn gây ô nhiễm có địa chỉ): có thể xác định được vị trí, kích thước, bản chất lưu lượng phóng thải
+B. Nguồn gây ô nhiễm không xác định (không có địa chỉ): là nguồn gây ô nhiễm không cố định, không xác định được vị trí, bản chất và lưu lượng của tác nhân gây ô nhiễm
+C. Cả A và B đúng (*)
+D. Cả A và B sai
+---
+37. Chọn câu đúng nhất: Phân loại ô nhiễm nước theo sự phân huỷ của các chất gây ô nhiễm trong nước: 
+A. Các chất dễ bị phân huỷ bởi các vi sinh vật như các chất hữu cơ trong nước thải sinh hoạt, nước thải chế biến thực phẩm, thuộc da....
+B. Các chất ít bị phân huỷ trong nước hoặc phân huỷ chậm như các chất tẩy rửa, thuốc trừ sâu diệt cỏ, phenol,....
+C. Các chất không bị phân huỷ trong nước như các chất vô cơ, các muối kim loại nặng (chì, thuỷ ngân, asen, ....)
+D. Cả A, B, C đúng (*)
+---
+38. Chọn câu đúng nhất: Phân loại ô nhiễm nước theo tác nhân gây ô nhiễm: 
+A. Do các tác nhân vật lý
+B. Do các tác nhân hoá học
+C. Do các tác nhân sinh học
+D. Cả A, B, C đúng (*)
+---
+39. Chọn câu sai: Nguồn gây ô nhiễm nước: 
+A. Ô nhiễm nước do nước thải sinh hoạt và đô thị 
+B. Ô nhiễm nước do nước thải công nghiệp
+C. Ô nhiễm nước do hoạt động nông nghiệp và các nguồn khác tại khu vực nông thôn
+D. Cả A, B, C sai (*)
+---
+40. Chọn câu đúng nhất: Nguồn gây ô nhiễm nước: 
+A. Ô nhiễm nước do giao thông đường thuỷ
+B. Ô nhiễm nước do ô nhiễm không khí, ô nhiễm đất và do hoạt động của hệ sinh vật có trong nước
+C. Cả A và B sai
+D. Cả A và B đúng (*)
+---
+41. Chọn câu đúng nhất: Nguy cơ cho sức khoẻ con người liên quan tới nước: 
+A. Nguy cơ do các tác nhân sinh học có khả năng truyền bệnh cho người qua nước uống, qua thức ăn bị nước làm ô nhiễm và qua tiếp xúc với nước hoặc do các vật chủ trung gian và côn trùng gây bệnh
+B. Nguy cơ do các chất hoá học, phóng xạ có trong nước: Nguy hại đến sức khoẻ con người do uống nước trực tiếp, do ăn các loại thực phẩm bị ô nhiễm qua hệ sinh thái do các hoá chất hay các chất phân huỷ của chúng hoặc do sử dụng nước trong vệ sinh cá nhân, trong lao động phục vụ nông nghiệp, công nghiệp, trong nghỉ ngơi hoặc do sống gần các nguồn nước.
+C. Cả A và B đúng (*)
+D. Câu A đúng, B sai
+---
+41. Chọn câu đúng: Những tác nhân sinh học chính truyền qua nước có thể xếp thành 4 loại: 
+A. Vi khuẩn gây bệnh, virus, ký sinh trùng và các tác nhân hoá học khác. 
+B. Vi khuẩn gây bệnh, virus, ký sinh trùng và các tác nhân sinh học khác (*)
+C. Vi khuẩn gây bệnh, virus, ký sinh trùng và các tác nhân phóng xạ khác
+D. Vi khuẩn gây bệnh, virus, ký sinh trùng và các tác nhân vật lý khác
+---
+42. Chọn câu đúng nhất: Nguy cơ cho sức khoẻ do các chất hoá học và phóng xạ: 
+A. Các tác nhân hoá học gây hại cho sức khoẻ Con người khi sự có mặt của chúng vượt quá nồng độ cho phép trong nước
+B. Các tác nhân hoá học gây hại cho sức khoẻ Con người khi sự có mặt của chúng thấp hơn nồng độ cho phép trong nước
+C. Các chất phóng xạ thâm nhập vào con người qua nước uống và thực phẩm nhiễm xạ. Tùy theo mức độ ô nhiễm có thể làm chết sinh vật và người, và làm thay đổi cấu trúc tế bào gây ra các bệnh di truyền, bệnh máu, ung thư
+D. Câu A và C đúng, B sai (*)
+---
+43. Chọn câu đúng nhất: để bảo vệ môi trường nước, các giải pháp cần được ưu tiên là:
+A. Xây dựng hệ thống quản lý môi trường các cấp theo hướng quản lý nhà nước về môi trường gắn kết với quản lý nhà nước về tài nguyên thiên nhiên. Lực lượng cán bộ của hệ thống quản lý các cấp phải có đủ số lượng và đủ năng lực để đảm nhận công việc
+B. Hoàn thiện hệ thống chính sách, pháp luật về bảo vệ môi trường, thực thi và chấp hành nghiêm chỉnh theo luật định
+C. Các giải pháp kỹ thuật: để phòng ngừa ô nhiễm cần phải sử dụng các kĩ thuật làm sạch: làm sạch nước thải sinh hoạt, nước thải công nghiệp ... Xử lý nước thải để đạt các tiêu chuẩn trước khi xã và môi trường
+D. Cả câu A, B, C đều đúng(*)
+---
+44. Chọn câu đúng:
+A. Ô nhiễm đất là những biến đổi tính chất, thành phần của đất, gây nên tác động có hại đến sức khỏe con người và môi trường sinh thái ở hiện tại.
+B. Ô nhiễm đất là những biến đổi tính chất, thành phần của đất, gây nên tác động có hại đến sức khỏe con người không chỉ ở hiện tại mà cả tương lai lâu dài.
+C. Ô nhiễm đất là những biến đổi tính chất, thành phần của đất, gây nên tác động có hại đến sức khỏe con người và môi trường sinh thái không chị ở hiện tại mà cả tương lai lâu dài. (*)
+D. Ô nhiễm đất là những biến đổi tính chất, thành phần của đất, gây nên tác động có hại đến sức khỏe con người và môi trường sinh thái trong tương lai
+---
+45. Chọn câu sai: các tác nhân ô nhiễm đất:
+A. Các tác nhân lý học: sự lắng động bụi, chất lắng động của ôi nhiễm không khí, rửa trôi, lắng động của nước, các chất phóng xạ.
+B. Các tác nhân hóa học vô cơ hoặc hữu cơ độc hại
+C. Các tác nhân do tự nhiên và con người (*)
+D. Các tác nhân sinh học như vi khuẩn, virus, bào tử nấm, các ký sinh trùng
+---
+46. Chọn câu đúng nhất: nguyên nhân ô nhiễm đất do hoạt động sống của con người là:
+A. Do chất thải sinh hoạt
+B. Do chất thải sản xuất công nghiệp.
+C. Chất thải từ sản xuất nông nghiệp.
+D. Các câu A, B, C đều đúng (*)
+---
+47. Chọn câu sai: tình trạng ô nhiễm đất ở Việt Nam gây ra bởi các lý do
+A. Dân số ngày một tăng, nhu cầu tiêu dùng ngày càng cao, và lượng chất thải ngày càng nhiều
+Bi Chọn câu sai: tình trạng ô nhiễm đất ở Việt Nam gây ra bởi các lý do
+A. Dân số ngày một tăng, nhu cầu tiêu dùng ngày càng cao, và lượng chất thải ngày càng nhiều
+B. Tiến bộ của khoa học công nghệ được đưa vào mọi lĩnh vực của đời sống làm tăng số lượng, chủng loại chất thải độc hại, khó phân hủy.
+C. Vì lợi nhuận kinh tế, các chất thải độc hại, nguy hiểm đang được thải, chôn lấp trực tiếp không qua xử lý vào đất
+D. A, B, C đều sai (*)
+---
+47. Chọn câu sai: tình trạng ô nhiễm đất ở Việt Nam gây ra bởi các lý do
+A. Dân số ngày một tăng, nhu cầu tiêu dùng ngày càng cao, và lượng chất thải ngày càng nhiều
+B. Tiến bộ của khoa học công nghệ được đưa vào mọi lĩnh vực của đời sống làm tăng số lượng, chủng loại chất thải độc hại, khó phân hủy.
+C. Vì lợi nhuận kinh tế, các chất thải độc hại, nguy hiểm đang được thải, chôn lấp trực tiếp không qua xử lý vào đất
+D. A, B, C đều sai (*)
+---
+48. Chọn câu đúng nhất: tình hình ô nhiễm đất ở Việt Nam: 
+A. Đối với khu vực nông thôn, miền núi nổi trội là ô nhiễm truyền thống bởi các chất thải sinh hoạt và nông nghiệp với đặc trưng là các bệnh lây truyền từ đất do các tác nhân sinh học. 
+B. Đối với khu vực đô thị, khu công nghiệp nổi trội là ô nhiễm của xã hội hiện đại do chất thải công nghiệp - Các chất hóa học nguy hiểm độc hại
+C. Cả A và B đều đúng (*)
+D. Cả A và B đều sai
+---
+49. Chọn câu sai: những tác nhân sinh học gây ô nhiễm đất truyền bệnh cho người theo phương thức lây truyền:
+A. Các bệnh lây truyền theo phương thức người - đất - người
+B. Các bệnh lây truyền theo phương thức động vật - đất - người
+C. Các bệnh lây truyền theo phương thức người - người (*)
+D. Các bệnh lây truyền theo phương thức đất - người
+---
+50. Chọn câu đúng nhất: đặc điểm chung của các bệnh lây truyền theo phương thức người - đất - người
+A. Các bệnh lây truyền theo phương thức này đa số là các bệnh lây qua đường tiêu hóa như: lỵ trực khuẩn, lỵ Amip, thương hàn, một số loại giun sán (giun đũa, giun móc, giun xoắn), Bệnh tả, một số virút đường ruột (bại liệt)
+B. Các tác nhân gây bệnh này khá bền vững ở môi trường đất, tùy thuộc vào tính chất của đất (Độ ẩm, pH, độ mùn) và điều kiện thời tiết khí hậu
+C. Cả A và B sai
+D. Cả A và B đúng (*)
+---
+51. Chọn câu đúng nhất: biện pháp dự phòng các bệnh lây truyền theo phương thức người - đất - người:
+A. Biện pháp dự phòng quan trọng nhất có tính quyết định là quản lý và xử lý triệt để chấp hành của người trên cơ sở khoa học vệ sinh
+B. Các biện pháp phối hợp là tuyên truyền, giáo dục sức khỏe môi trường, cải thiện cung cấp nước sạch, nâng cao nhận thức của mọi người, mọi cộng đồng trong bảo vệ môi trường sống
+C. A và B đúng (*)
+D. A và B sai
+---
+52. Chọn câu đúng nhất: đặc điểm chung của các bệnh lây truyền theo phương thức động vật - đất - người
+A. Con người có thể bị lây nhiễm khi và chỉ khi ngẫu nhiên rơi vào chu trình dịch của động vật, đến con người là ngõ cụt - Người bệnh không có khả năng lây cho người khác 
+B. Đất cũng đóng vai trò nhất định trong lây truyền bệnh dịch này. Các tác nhân gây bệnh có thể tồn tại ở trong đất từ vài tuần đến vài tháng. Vài năm tùy thuộc vào tính chất và thành phần của đất
+C. A sai và B đúng
+D. A và B đều đúng (*)
+---
+53. Chọn câu sai biện pháp dự phòng các bệnh lây truyền theo phương thức động vật - đất - người
+A. Thường áp dụng biện pháp đặc hiệu là kiểm dịch và phòng dịch thú y
+B. Đối với công tác y tế, cần chú ý tự vệ sinh môi trường nói chung, vệ sinh chuồng trại, các biện pháp bảo hộ lao động khi tiếp xúc với động vật
+C. Quản lý và xử lý triệt để chất thải của người trên cơ sở khoa học vệ sinh (*)
+D. Dự phòng chủ động bằng vắcxin chị áp dụng khi có chị định dịch tễ học
+---
+54. Chọn câu đúng: đặc điểm chung của các bệnh lây truyền theo phương thức đất - người
+A. Các tác nhân gây bệnh thuộc nhóm này có khả năng tồn tại rất bền vững trong đất, bụi do khả năng tạo bào tử, có vỏ hoặc nha bào (*)
+B.  Các tác nhân gây bệnh thuộc nhóm này khá bền vững ở môi trường đất tùy thuộc vào tính chất của đất (Độ ẩm. pH, độ mùn) và điều kiện thời tiết khí hậu
+C. A và B sai
+D. A và B đúng
+---
+55. Chọn câu đúng: biện pháp dự phòng các bệnh lây truyền theo phương thức đất - người
+A. Thường áp dụng biện pháp dự phòng đặc hiệu là kiểm dịch và phòng dịch thú y 
+B. Không có các dự phòng đặc hiệu chung cho cả nhóm bệnh. Các biện pháp y tế tổng hợp là vệ sinh môi trường, vệ sinh an toàn thực phẩm, vệ sinh bảo hộ lao động, tuyên truyền nâng cao nhận thức phòng bệnh cho người dân (*)
+C. A và B sai
+D. A và B đúng
+---
+56. Chọn câu đúng nhất:  các nguyên tắc cơ bản phòng chống ô nhiễm đất: 
+A. Quản lý, xử lý chất thải trên cơ sở khoa học vệ sinh
+B. Kiểm tra giám sát môi trường đất
+C. Tăng cường các biện pháp tuyên truyền giáo dục sức khoẻ môi trường
+D. Các câu A, B, C đúng (*)
+---
+57. Chọn câu đúng: 
+A. Xử lý chất thải, dù bất kỳ loại nào cũng dựa trên nguyên tắc triệt để. Xử lý triệt để là từ chất thải vô hại trở thành độc hại, Các chất hữu cơ được vô cơ hóa hoàn toàn, chất thải có tác nhân gây bệnh chưa bị tiêu diệt hết, vẫn còn khả năng gây bệnh.
+B. Xử lý chất thải, dù bất kỳ loại nào cũng dựa trên nguyên tắc triệt để. Xử lý triệt để là từ chất thải độc hại trở thành vô hại, các chất hữu cơ được vô cơ hoá hoàn toàn, Chất thải có tác nhân gây bệnh phải bị tiêu diệt hết, mất khả năng gây bệnh. (*)
+C. Cả A, B đều đúng
+D. Cả A, B đều sai
+---
+58. Chọn câu đúng:
+A. Xử lý chất thải phải đảm bảo vệ sinh, tức là không biến hình thái ô nhiễm này thành hình thái ô nhiễm khác, không ảnh hưởng tới hoạt động sống khác của con người (*)
+B. Xử lý chất thải, đảm bảo vệ sinh, tức là biến hình thái ô nhiễm này thành hình thái ô nhiễm khác, ảnh hưởng tới hoạt động sống của con người.
+C. Cả A, B đúng
+D. Cả A, B sai
+---
+59. Chọn câu đúng nhất: định nghĩa ô nhiễm không khí:
+A. Theo tổ chức y tế thế giới: “ Ô nhiễm môi trường không khí chính là khi trong không khí có chất lạ hoặc có sự biến đổi quan trọng trong thành phần không khí theo hướng không tiện nghi, bất lợi đối với con người và sinh vật” (*)
+B. Theo các tác giả Việt Nam: “ Ô nhiễm không khí chính là khi trong không khí có mặt một chất lạ hoặc có một sự biến đổi quan trọng trong thành phần không khí gây tác động có hại hoặc gây ra một sự khó chịu đối với sức khỏe con người. Sự khó chịu có thể chỉ là một mùi khó chịu hoặc giảm tầm nhìn....” (*)
+C. Cả A và B đều đúng(*)
+D. Câu A đúng, câu B sai(*)
+
+---
+60. Chọn câu sai: các “ Chất gây ô nhiễm không khí” có thể: 
+A. Ở thể rắn (bụi, bồ hóng, muội than)
+B. Ở thể giọt (sương mù sulfat)
+C. Ở thể khí (SO2, NO2, CO3...)
+D. Các câu A, B, C đều sai (*)
+---
+61. Chọn câu đúng nhất: các tác nhân gây ô nhiễm không khí:
+A. Các tác nhân hóa học
+B. Các tác nhân lý học
+C. Các tác nhân sinh học
+D. Các câu A, B, C đều đúng (*)
+---
+62. Chọn câu sai: các tác nhân hóa học gây ô nhiễm không khí:
+A. Các hợp chất của lưu huỳnh: SO2, SO3, H2SO4, H2S...
+B. Các hợp chất của nitơ: NO, NO2, N2O, NH3....
+C. Các hợp chất của các carbon: CO, CO2, aldehyt, aceton...
+D. Các loại bức xạ ion hoá (Tia phóng xạ), Các bức xạ hạt (B, &, notron) và bức xạ điện từ (tia x,y) (*)
+---
+63. Chọn câu sai: các tác nhân lý học gây ô nhiễm không khí:
+A. Đó là các loại bụi: bụi kim loại, bụi khoáng sản (than, đá, quặng...), bụi gỗ, bụi bông, Nhưng nguy hiểm nhất là bùi có chứ silic, chứa amian
+B. Tia cực tím (tia tử ngoại): Từ mặt trời, tăng lên do thủng tầng ozon
+C. Các hóa chất trừ sâu diệt cỏ: DDT, phospho hữu cơ, lân hữu cơ...(*)
+D. Sóng điện từ (điện từ trường): Quanh các trạm phát sóng phát thanh, truyền hình, viễn thông, radar, các máy móc điện tử như tivi, điện thoại di động, các máy dùng điện máy, phát điện, đường dẫn điện....
+---
+64. Chọn câu sai: các tác nhân sinh học gây ô nhiễm không khí:
+A. Nhiệt độ, độ ẩm của không khí quá cao hoặc quá thấp (*)
+B. Các loại vi khuẩn gây bệnh: tụ cầu vàng, liên cầu tan máu, trực khuẩn lao,  trực cũng than, trực khuẩn bạch hầu, trực khuẩn dịch hạch, phế cầu....
+C. Các loại virus gây bệnh: virus cúm, virus sởi, virus quai bị, virus đậu mùa...
+D. Các loại nấm: nấm Actinomyces, minutisimus gây hăm bẹn, bìu....
+---
+65. Chọn câu đúng nhất: các nguồn gây ô nhiễm không khí:
+A. Nguồn ô nhiễm thiên nhiên: do các hiện tượng thiên nhiên gây ra như: gió, núi lửa, các quá trình thối rữa của xác động thực vật thải các chất khí ô nhiễm vào môi trường
+B. Nguồn ô nhiễm nhân tạo: chut yếu do quá trình đốt cháy các nhiên liệu (gỗ, củi, than đá, dầu mỏ, khí đốt...) sinh ra
+C. Câu A đúng, B sai
+D. Cả A và B đều đúng(*)
+---
+66. Chọn câu đúng nhất: dựa vào các quá trình công nghiệp gây ô nhiễm, người ta chia ra các nhóm nguồn gây ô nhiễm không khí:
+A. Nhóm do các quá trình đốt cháy
+B. Nhóm do hoạt động của các loại động cơ ôtô
+C. Nhóm do các quá trình chế hóa dầu lửa
+D. Cả A, B, C đều đúng (*)
+---
+67. Chọn câu đúng:
+A. Muốn đánh giá mức độ ô nhiễm môi trường không khí, kiểm tra, kiểm soát và dự báo cũng như phòng ngừa ô nhiễm môi trường không khí được chính xác cần phải xác định được nồng độ mỗi chất ô nhiễm trong môi trường không khí (*)
+B. Một chất sau khi bị thải vào không khí, chúng sẽ khuyếch tán đi các nơi. Các điều kiện khí hậu, địa hình, thành phần khí và bụi thải...Không ảnh hưởng đến sự phân bố của chất ô nhiễm trong không gian
+C. Cả A, B đều sai
+D. Cả A, B đúng
+---
+68. Chọn câu đúng nhất: chiều cao nguồn thải: 
+A. Nguồn thải thấp là các nguồn thải từ dây chuyền công nghệ sản xuất, từ các miệng thải của hệ thống thông gió, từ các cửa mái thoát khí của nhà xưởng. Chúng có độ cao không cao lắm. Chất ô nhiễm phát ra từ các nguồn thấp này ảnh hưởng lớn đến các vùng gần đó
+B. Nguồn thải cao là nguồn phát ra từ các ống khói thải cao, quá trình  khuyếch tán Ít chịu ảnh hưởng của các công trình lân cận, nó chịu ảnh hưởng của các điều kiện khí tượng, thành phần, nhiệt độ của khí, bụi thải
+C. Câu A sai, B đúng
+D. Cả A và B đúng (*)
+---
+69. Chọn câu sai: các yêu tố khí tượng ảnh hưởng tới sự lan truyền của các chất ô nhiễm trong môi trường không khí, bao gồm:
+A. Ảnh hưởng của gió
+B. Ảnh hưởng của nhà cửa, công trình (*)
+C. Ảnh hưởng của nhiệt độ
+D. Ảnh hưởng của độ ẩm và mưa
+---
+70. Chọn câu đúng nhất: tùy theo kích thước và bản chất hoá học mà bụi gây ra các tác hại khác nhau trên sức khoẻ:
+A. Bụi gây nhiễm độc chung: bụi chì, thủy ngân, benzen...
+B. Bụi gây ung thư: bụi quặng, bụi phóng xạ, hợp chất crôm...
+C. Bụi gây nhiễm trùng dị ứng: buổi silic, bụi amian
+D. Câu A và B đúng, C sai (*)
+---
+71. Chọn câu đúng nhất: tùy theo bản chất hoá học mà có hơi khí độc gây ra các tác hại khác nhau trên sức khỏe
+A. Hơi khí độc gây kích thích, gây bỏng da, niêm mạc: hơi acid, hơi kiềm ...
+B. Hơi khí độc gây kích thích đường hô hấp: clo, NH3, SO2, NO, HCl, Fluor....
+C. Hơi khí độc gây ngạt: CO, CO2, ethan, methan...
+D. Câu A, B, C đúng (*)
+---
+72. Chọn câu đúng nhất: ảnh hưởng của các tác nhân vi sinh vật ô nhiễm không khí trên sức khỏe:
+A. Gây các bệnh lây qua đường hô hấp: bệnh lao, bạch hầu, ho gà, cúm, sởi....
+B. Gây các bệnh nhiễm trùng da, niêm mạc: Viêm da do tụ cầu vàng, viêm mũi họng do liên cầu tan máu, viêm da do trực khuẩn mũ xanh, gây nhiễm trùng các vết thương
+C. Cả A và B đúng (*)
+D. Cả A và B sai
+---
+73. Chọn câu sai: ảnh hưởng của các tác nhân lý học ô nhiễm không khí trên sức khỏe:
+A. Nhiệt độ không khí phối hợp với độ ẩm không khí quá cao hoặc quá thấp gây rối loạn quá trình điều nhiệt cơ thể, gây nhiễm lạnh hoặc say nắng, làm tăng các bệnh tiêu hóa, thần kinh, tim mạch, thận....
+B. Bức xạ ion hoá (tia phóng xạ): gây các bệnh phóng xạ nghề nghiệp, tổn thương cơ quan tạo máu, sinh dục...
+C. Tia laser:  gây điếc nghề nghiệp(*)
+D. Tia tử ngoại (cực tím): gây viêm mắt, đục nhân mắt, ung thư da, gây say nắng
+---
+74. Chọn câu đúng nhất: 
+A. Một số chất chứa trong không khí bị ô nhiễm có thể là nguyên nhân gây ra ngộ độc cấp tính hay mãn tính của thực vật
+B. Mưa acid là hệ quả của sự hòa tan SO2 vào trong mưa, khi rơi xuống ao hồ sông ngòi thì gây tác hại đến sinh vật sống trong nước
+C. Cả A và B sai
+D. Cả A và B đúng (*)
+---
+75. Chọn câu đúng:
+A. Nguyên nhân gây mưa axít là do ô nhiễm bởi các khí NOx và SOx. Từ chúng tạo ra hai axít HNO3 và H2SO4 Theo các phản ứng quang hóa trong khí quyển (*)
+B. Nguyên nhân mưa axít là do ô nhiễm bởi các khí CO và CO2. Từ chúng tạo ra hai axít HNO3 và H2SO4 Theo các phản ứng quang hóa trong khí quyển
+C. Cả A và B sai
+D. Cả A và B đúng
+---
+76. Chọn câu đúng nhất: mưa axít gây ra nhiều tác hại nghiêm trọng trong môi trường:
+A. Làm hư hại các công trình kiến trúc cổ, nhà cửa, tượng đài.... Các vật liệu xây dựng như cẩm thạch, đá phiến, đá vôi... Bị rỗ và ăn mòn dần do mưa axít
+B. Mưa axít hủy diệt rừng, gây thiệt hại mùa màng, nguy hiểm cho sinh vật trong nước
+C. Mưa axít ngấm vào đất, làm hòa tan các kim loại nặng. Thực vật dinh dưỡng nguồn đất này chứa nhiều các chất kim loại nặng này, từ đấy qua thức ăn đi vào cơ thể người và động vật
+D. Câu A, B, C đều đúng (*)
+---
+77. Chọn câu đúng nhất:
+A. Trong khí quyển có nồng độ khí CO2 bình thường, nhiệt độ của lớp khí quyển bao quanh trái đất không bị ảnh hưởng đáng kể
+B. Trong khí quyển có nồng độ khí CO2 lớn nhiệt độ của lớp khí quyển bao quanh trái đất tăng lên, dẫn đến làm tăng nhiệt độ mặt trái đất, hiện tượng này được gọi là “hiệu ứng nhà kính” vì lớp khí CO2 ở đây có tác dụng tương tự như lớp kính giữ nhiệt của nhà kính trồng rau xanh trong mùa đông, chỉ khác là nó có quy mô toàn cầu
+C. Cả A và B đều đúng (*)
+D. Cả A và B đều sai
+---
+85. Chọn câu đúng:
+A. Ozon có mặt ở trong tầng bình lưu (cách mặt đất # 25km) với nồng độ trung bình 1ppm tạo thành lớp có bề dày 2km bao bọc quanh trái đất, bảo vệ trái đất(*)
+B. Ozon có mặt ở trong tầng đối lưu, bao bọc quanh trái đất, bảo vệ trái đất
+C. Cả A và B đều sai
+D. Cả A và B đều dúng
+---
+79. Chọn câu đúng: tiêu chuẩn cho phép của các chất ô nhiễm đối với không khí ở khu vực dân cư (nồng độ từng lần đo):
+A. CO=1 mg/m3, NO2=0,085 mg/m3, SO2=0,5 mg/m3
+B. CO=3 mg/m3, NO2=0,085 mg/m3, SO2=0,5 mg/m3 (*)
+C. CO=3 mg/m3, NO2=0,085 mg/m3, SO2=0,2 mg/m3
+D. CO=2 mg/m3, NO2=0,085 mg/m3, SO2=0,5 mg/m3
+---
+80. Chọn câu đúng: tiêu chuẩn cho phép của các chất ô nhiễm đối với không khí ở khu vực dân cư (nồng độ trung bình ngày và đêm): 
+A. CO=1 mg/m3, NO2=0,5 mg/m3, SO2=0,05 mg/m3
+B. CO=3 mg/m3, NO2=0,085 mg/m3, SO2=0,05 mg/m3
+C. CO=1 mg/m3, NO2=0,085 mg/m3, SO2=0,05 mg/m3 (*)
+D. CO=2 mg/m3, NO2=0,085 mg/m3, SO2=0,05 mg/m3
+---
+81. Chọn câu đúng: tiêu chuẩn chất lượng không khí xung quanh (nồng độ trung bình 1 giờ theo TCVN 5937 - 1995): 
+A. CO= 40 mg/m3, NO2=0,4 mg/m3, SO2=0,05 mg/m3
+B. CO= 40 mg/m3, NO2=0,4 mg/m3, SO2=0,5 mg/m3 (*)
+C. CO= 4 mg/m3, NO2=0,4 mg/m3, SO2=0,5 mg/m3
+D. CO= 4 mg/m3, NO2=0,4 mg/m3, SO2=0,05 mg/m3
+---
+82. Chọn câu đúng: tiêu chuẩn chất lượng không khí xung quanh (nồng độ trung bình ngày đêm theo TCVN 5937 - 1995):
+A. CO= 5 mg/m3, NO2=0,1 mg/m3, SO2=0,3 mg/m3 (*)
+B. CO= 50 mg/m3, NO2=0,1 mg/m3, SO2=0,3 mg/m3
+C. CO= 5 mg/m3, NO2=0,4 mg/m3, SO2=0,3 mg/m3
+D. CO= 5 mg/m3, NO2=0,3 mg/m3, SO2=0,3 mg/m3
+---
+83. Chọn câu đúng: các cấp báo động về ô nhiễm không khí (Báo động cấp I):
+A. CO=100 p.p.m, NO2= 5 p.p.m, SO2= 3 p.p.m
+B.  CO=200 p.p.m, NO2= 3 p.p.m, SO2= 3 p.p.m
+C.  CO=100 p.p.m, NO2= 3 p.p.m, SO2= 3 p.p.m (*)
+D.  CO=200 p.p.m, NO2= 5 p.p.m, SO2= 3 p.p.m
+---
+84. Chọn câu đúng: các cấp báo động về ô nhiễm không khí (Báo động cấp II):
+A. CO=100 p.p.m, NO2= 5 p.p.m, SO2= 5 p.p.m
+B.  CO=200 p.p.m, NO2= 5 p.p.m, SO2= 5 p.p.m (*)
+C.  CO=200 p.p.m, NO2= 3 p.p.m, SO2= 5 p.p.m 
+D.  CO=100 p.p.m, NO2= 3 p.p.m, SO2= 5 p.p.m
+---
+85. Chọn câu đúng: các cấp báo động về ô nhiễm không khí (Báo động cấp III):
+A. CO=300 p.p.m, NO2= 10 p.p.m, SO2= 10 p.p.m (*)
+B.  CO=200 p.p.m, NO2= 10 p.p.m, SO2= 10 p.p.m
+C.  CO=100 p.p.m, NO2= 10 p.p.m, SO2= 10 p.p.m 
+D.  CO=300 p.p.m, NO2= 5 p.p.m, SO2= 10 p.p.m
+---
+84. Chọn câu đúng nhất: các biện pháp phòng chống ô nhiễm không khí: 
+A. Làm giảm bớt bụi, hơi khí độc tại nguồn ô nhiễm bằng các giải pháp công nghệ và kĩ thuật vệ sinh: lắp đặt các thiết bị lọc, hút bụi: lọc cyclone, lọc tĩnh điện, trung hoà hơi khí độc bằng việc cho đi qua các dung dịch (nước, nước vôi...)
+B. Làm phân tán bụi, hơi khi đọc bằng nâng cao nguồn thải, nâng cao ống khói, thoáng gió khu vực ô nhiễm để chất ô nhiễm phân tán nhanh
+C. Thay thế các phương pháp kĩ thuật công nghệ cũ bằng các kĩ thuật công nghệ mới ít ô nhiễm hơn: dùng than lưu huỳnh để giảm lượng khí SO2 thải ra, dùng nguồn thuỷ điện thay thế cho nhiệt điện, .....
+D. Các câu A, B, C đều đúng (*)
+---
+87. Chọn đáp ánđúng: Theo tổ chức y tế thế giới định nghĩa chất thải y tế (CTYT) là:
+A. Chất thải y tế là tất cả các loại chất thải phát sinh trong các cơ sở y tế, bao gồm cả các trung tâm nghiên cứu, phòng thí nghiệm, và các hoạt động y tế tại nhà (*)
+B. Chất thải y tế là tất cả vật chất ở thế rắn, lỏng, khí được thải ra từ các cơ sở y tế, bao gồm chất thải thông thường và chất thải y tế nguy hại
+C. Cả A, B đúng
+D. Cả A, B sai
+---
+88. Chất thải y tế nguy hại chiếm bao nhiêu phần trăm tổng lượng chất thải y tế: 
+A. 10 - 25% (*)
+B. 20-35% 
+C. 30-45%
+D. 40-55%
+---
+89. Chất thải y tế thông thường chiếm bao nhiêu phần trăm tổng lượng chất thải y tế
+A. 55-70%
+B. 65-80%
+C. 75-90%(*)
+D. 85-100%
+---
+90. Tùy theo dạng tồn tại chất thải y tế được chia thành các loại:
+A. Chất thải rắn y tế
+B. Nước thải y tế
+C. Chất thải khí y tế
+D. Cả 3 đều đúng (*)
+---
+91. Chất thải lây nhiễm được phân thành bốn loại bao gồm:
+A. Chất thải sắc nhọn (loại A), Chất thải lây nhiễm không sắc nhọn (loại B ), Chất thải có nguy cơ lây nhiễm cao (loại C), Chất thải giải phẫu (loại D) (*)
+B. Chất thải chứa chất gây độc tế bào (loại A), Chất thải lây nhiễm không sắc nhọn(loại B ), Chất thải có nguy cơ lây nhiễm cao (loại C), Chất thải giải phẫu (loại D)
+C. Chất thải chứa kim loại nặng (loại A), Chất thải lây nhiễm không sắc nhọn (loại B ), Chất thải có nguy cơ lây nhiễm cao (loại C), Chắc phải giải phẫu (loại D)
+D. Tất cả đều đúng
+---
+92. Chất thải khoa học nguy hại bao gồm:
+A. Chất thải dược phẩm, chất thải giải phẫu, chất gây độc tế bào, và chất chứa kim loại nặng
+B. Chất thải dược phẩm, Chất hóa học nguy hại, chất gây độc tế bào và chất chứa kim loại nặng (*)
+C. Chất thải giải phẫu, chất hoá học nguy hại, chất gây độc tế bào, và chất chứa kim loại nặng
+D. Tất cả đều đúng
+---
+93. Quy định về túi đựng chất thải rắn y tế yêu cầu như sau
+A. Túi màu vàng và màu đen phải làm bằng nhựa PE hoặc PP, Không dùng nhựa PVC. Bên ngoài túi phải có đường kẻ ngang ở mức ¾ túi và có dòng chữ “KHÔNG  ĐƯỢC ĐỰNG QUÁ VẠCH NÀY” (*)
+B. Túi màu vàng và màu đen phải làm bằng nhựa PVC hoặc PP, Không dùng nhựa PE. Bên ngoài túi phải có đường kẻ ngang ở mức ¾ túi và có dòng chữ “KHÔNG  ĐƯỢC ĐỰNG QUÁ VẠCH NÀY” 
+C. Túi màu vàng và màu đen phải làm bằng nhựa PE hoặc PVC, Không dùng nhựa PP. Bên ngoài túi phải có đường kẻ ngang ở mức ¾ túi và có dòng chữ “KHÔNG  ĐƯỢC ĐỰNG QUÁ VẠCH NÀY” 
+D. Túi màu vàng và màu đen phải làm bằng nhựa PE hoặc PP hay PVC. Bên ngoài túi phải có đường kẻ ngang ở mức ¾ túi và có dòng chữ “KHÔNG  ĐƯỢC ĐỰNG QUÁ VẠCH NÀY”
+---
+94. Chọn câu đúng:
+A. Cơ sở y tế phải quy định tuyến đường vận chuyển, càng gần nơi tập trung đông người càng tốt. Tuyến thu gom và tuyến vận chuyển phải cố định.
+B. Cơ sở y tế phải quy định tuyến đường vận chuyển, càng xa nơi tập trung đông người càng tốt. Tuyến thu gom và tuyến vận chuyển phải cố định(*)
+C. Cơ sở y tế phải quy định tuyến đường vận chuyển, càng gần cơ sở y tế càng tốt. Tuyến thu gom và tuyến vận chuyển phải cố định
+D. Cơ sở y tế phải quy định tuyến đường vận chuyển càng xa cơ sở y tế càng tốt. Tuyến thu gom và tuyến vận chuyển phải cố định
+---
+95. Chọn câu đúng:
+A. Chất thải rắn y tế phải được lưu giữ an toàn cho đến khi chúng được vận chuyển đi xử lý. Khu lưu giữ cần có kích thước phù hợp với lượng chất thải phát sinh và tần suất thu gom của cơ sở y tế. Khu lưu giữ phải có dấu hiệu cảnh báo, phòng ngừa theo tiêu chuẩn Việt Nam TCVN 6707:2009 với kích thước ít nhất 20cm mỗi chiều, được in rõ ràng, dễ đọc, không bị mờ và phai màu
+B. Chất thải rắn y tế phải được lưu giữ an toàn cho đến khi chúng được vận chuyển đi xử lý. Khu lưu giữ cần có kích thước phù hợp với lượng chất thải phát sinh và tần suất thu gom của cơ sở y tế. Khu lưu giữ phải có dấu hiệu cảnh báo, phòng ngừa theo tiêu chuẩn Việt Nam TCVN 6707:2009 với kích thước ít nhất 30cm mỗi chiều, được in rõ ràng, dễ đọc, không bị mờ và phai màu (*)
+C. Chất thải rắn y tế phải được lưu giữ an toàn cho đến khi chúng được vận chuyển đi xử lý. Khu lưu giữ cần có kích thước phù hợp với lượng chất thải phát sinh và tần suất thu gom của cơ sở y tế. Khu lưu giữ phải có dấu hiệu cảnh báo, phòng ngừa theo tiêu chuẩn Việt Nam TCVN 6707:2009 với kích thước ít nhất 40cm mỗi chiều, được in rõ ràng, dễ đọc, không bị mờ và phai màu 
+D. Chất thải rắn y tế phải được lưu giữ an toàn cho đến khi chúng được vận chuyển đi xử lý. Khu lưu giữ cần có kích thước phù hợp với lượng chất thải phát sinh và tần suất thu gom của cơ sở y tế. Khu lưu giữ phải có dấu hiệu cảnh báo, phòng ngừa theo tiêu chuẩn Việt Nam TCVN 6707:2009 với kích thước ít nhất 50cm mỗi chiều, được in rõ ràng, dễ đọc, không bị mờ và phai màu
+---
+96. Nồi hấp có khả năng xử lý chất thải?
+A. Chất thải lây nhiễm, các dụng cụ dính máu hoặc dịch
+B. Chất thải “mềm” từ chăm sóc bệnh nhân
+C. Chất thải cách ly, chất thải phẫu thuật
+D. Cả ba đáp án A, B, C (*)
+---
+97. Các chất thải rắn y tế không được phép xử lý bằng thiêu đốt? 
+A. Một lượng lớn chất thải hóa học phản ứng
+B. Chất thải có chứa thủy ngân, cad-mium và kim loại nặng khác
+C. Bình chứa áp suất
+D. Cả ba ý nêu trên (*)
+---
+98. Sắp xếp hệ thống thứ bậc phân cấp về các biện pháp quản lý chất thải rắn y tế từ kém hiệu quả đến hiệu quả:
+A. Chôn lắp - xử lý - tái sinh - tái chế - tái sử dụng - Giảm thiểu - Ngăn ngừa (*)
+B. Chôn lắp - tái sinh - Xử lý - tái chế - tái sử dụng - ngăn ngừa - giảm thiểu 
+C. Ngăn ngừa - giảm thiểu - xử lý - tái sinh - tái chế - tái sử dụng - chôn lắp 
+D. Ngăn ngừa - xử lý - giảm thiểu - tái chế - tái sử dụng  - tái sinh - chôn lắp
+---
+99.  Polycarbonate được làm từ bisphenol A, là chất gây....: 
+A. Rối loạn tiêu hóa
+B. Rối loạn nội tiết (*)
+C. Bệnh về hô hấp
+D. Bệnh về mắt
+---
+100. Túi nào sau đây có thể thay thế túi nhựa PVC để chứa nước muối và máu
+A. Túi bằng polyethylene IV
+B. Túi ethylene vinyl acetate (*)
+C. Cả A, B đúng
+D. Cả A, B dai
+---
+101. Lợi ích của việc thực hiện giảm thiểu chất thải rắn y tế
+A. Tiết kiệm chi phí
+B. Lợi ích cho môi trường
+C. Sức khỏe và an toàn
+D. Cả ba đáp án (*)
+---
+102. Hệ thống phân cấp thứ bậc chất thải rắn y tế theo thứ tự ưu tiên
+A. Giảm thiểu, tái chế, tái sử dụng.
+B. Tái sử dụng, tại chế, giảm thiểu 
+C. Giảm thiểu, tái sử dụng, tái chế (*)
+D. Tái chế, tái sử dụng, giảm thiểu
+---
+103. Thời gian lưu giữ chất thải trong các cơ sở y tế không quá
+A. 12h
+B. 24h
+C. 36h
+D. 48h (*)
+---
+104. Lưu giữ chất thải trong nhà bảo quản lạnh hoặc thùng lạnh: thời gian lưu giữ có thể đến
+A. 48h
+B. 72h (*)
+C. 94h
+D. Tất cả đều sai
+---
+105. Đâu không phải là triệu chứng ảnh hưởng tới hệ thần kinh trung ương: 
+A. Ho, hắt hơi, chảy máu cam (*)
+B. Mệt mỏi, khó tập trung, buồn ngủ 
+C. Choáng váng, chóng mặt, buồn nôn
+D. Đau đầu 
+E. Câu B và C đúng
+---
+106. Nguyên nhân gây ô nhiễm khí quyển hiện nay là 
+A. Sự phân huỷ vi sinh vật
+B. Do phương tiện giao thông(*)
+C. Đốt chất thải
+D. Cháy rừng
+---
+107. Chất nào sau đây là sản phẩm của quá trình đốt cháy hoàn toàn. Là chất gây ra sự thay đổi khí hậu toàn cầu: 
+A. SOx
+B. H2S
+C. NOx
+D. CO
+E. CO2 (*)
+F. Tất cả đều đúng
+---
+108. Suy thoái môi trường có các mặt biểu hiện nào sau đây: 
+A. Mất an toàn nơi cư trú
+B. Cạn kiệt nguồn tài nguyên
+C. Xả thải quá mức
+D. Tất cả đều đúng (*)
+---
+109. Nồng độ cacbon monoxit (CO) khoảng sẽ gây tử vong đối với con người
+A. 50 ppm
+B. 150 ppm
+C. 250 ppm (*)
+D. 350 ppm
+---
+110. Một trong những yếu tố  của môi trường mà cơ thể con người
+110. Một trong những yếu tố  của môi trường mà cơ thể con người phải phơi nhiễm trong quá trình sống là: 
+A. Tuổi đời
+B. Giới tính 
+C. Yếu tố xã hội (*)
+D. Hành vi
+E. Dân tộc
+---
+111. Một trong những yếu tố  của môi trường mà cơ thể con người phải phơi nhiễm trong quá trình sống là: 
+A. Tuổi đời
+B. Giới tính
+C. Dâ tộc
+D. Yếu tố vật lý (*)
+---
+112. Muốn kiểm soát nguồn ô nhiễm có ảnh hưởng đến sức khoẻ con người hay không thì người ta dựa vào các yếu tố nào sau đây: 
+A. Giới hạn chịu đựng
+B. Mức độ gây chết
+C. Liều lượng gây chết
+D. Quy chuẩn và tiêu chuẩn (*)
+---
+113. Thảm hoạ nguy hiểm nhất của thủng tầng ozon là: 
+A. Biến đổi sinh thái (*)
+B. Ung thư da ở người
+C. Thay đổi thời tiết
+D. Suy giảm miễn dịch ở người
+---
+114. Khí nào phát sinh trong quá trình giao thông
+A. SOx, NOx, COx, chì, dung môi, bụi
+B. SOx, NOx, COx, chì, HF, bụi
+C. SOx, NOx, COx, chì, bụi
+D. SOx, NOx, COx, chì, hợp chất hữu cơ, bụi (*)
+---
+115. quá trình tự làm sạch xảy ra dễ dàng đối với những nguồn nước nào sau đây: 
+A. Hồ
+B. Ao
+C. Giếng
+D. Sông (*)
+---
+116. Chọn câu sai khi nói về chiến lược về sức khỏe môi trường:
+A. Mở rộng hợp tác quốc tế và thu hút tài trợ nước ngoài
+B. Phòng ngừa ô nhiễm 
+C. Bảo tồn và sử dụng bền vững nguồn tài nguyên thiên nhiên, đa dạng sinh học
+D. Cải thiện môi trường tự nhiên và xã hội
+E. Tất cả đều sai (*)
+---
+117. Bụi, hóa chất, thuốc men, thực phẩm thuộc thành phần của môi trường nào
+A. Môi trường vật lý
+B. Môi trường hoá học (*)
+C. Môi trường sinh học
+D. Tất cả đều đúng
+---
+118. Khống chế yếu tố ô nhiễm môi trường bao gồm 3 khâu: (1) ...., (2)  Ngăn chặn sự phát tán yếu tố ô nhiễm, (3) bảo vệ những đối tượng tiếp xúc. (Điền vào chỗ trống) 
+A. Giáo dục sức khỏe môi trường cho cộng đồng
+B. Thay thế các yếu tố độc hại
+C. Khống chế nguồn gây ô nhiễm (*)
+D. Tất cả đều đúng
+---
+119. Sự tích lũy hay phân tán các tác nhân gây ô nhiễm không khí tùy thuộc hàng đầu vào
+A. Độ ẩm không khí
+B. Nhiệt độ không khí
+C. Các điều kiện khí tượng (*)
+D. Các sự chuyển động của không khí
+---
+120. Bức xạ mặt trời là bức xạ sóng ngắn
+A. 0,4 - 0,8 nm (*)
+B. 0,5 - 0,8 nm
+C. 0,6 - 0,8 nm
+D. 0,7 - 0,8 nm
+---
+121. Nguyên nhân gây nóng lên của trái đất, chủ yếu là do
+A. Tăng lượng COx trong khí quyển (*)
+B. Tăng lượng ozon trong khí quyển
+C. Giảm lượng hơi nước trong khí quyển
+D. Tất cả đều đúng
+---
+122. Giải pháp chính yếu trong các giải pháp nâng cao hoạt động sức khỏe
+A. Kết hợp chiến lược bảo vệ môi trường với chiến lược chăm sóc sức khỏe nhân dân
+B. Xây dựng chiến lược quốc gia về phát triển sức khỏe môi trường (*)
+C. Tăng cường giáo dục nâng cao nhận thức sức khỏe môi trường
+D. Sử dụng bền vững những tài nguyên thiên nhiên, bảo tồn đa dạng sinh học
+---
+123. Đất, nước, không khí, ánh sáng,.... thuộc thành phần môi trường nào
+A. Môi trường nhân tạo
+B. Môi trường tự nhiên (*)
+C. Môi trường xã hội
+D. Tất cả đúng
+---
+124. Việc gia tăng dân số sẽ ảnh hưởng trực tiếp:
+A. Phát triển kinh tế.
+B. Tài nguyên môi trường
+C. Chất lượng cuộc sống
+D. Tất cả đều đúng (*)
+---
+125. Bệnh truyền nhiễm là: 
+A. Truyền qua các vật chủ trung gian
+B. Truyền qua môi trường nước
+C. Truyền qua môi trường không khí
+D. Tất cả đều đúng (*)
+---
+126. Vấn đề về dân số chính gây trở ngại cho giải quyết vấn đề sức khỏe môi trường: 
+A. Gia tăng dân số (*)
+B. Sự di cư
+C. Cấu trúc dân số
+D. Mật độ dân số
+E. Tất cả đều đúng
+---
+127. Khí SO2 là một chất ô nhiễm không khí có đặc trưng
+A. Không màu, có mùi, có khả năng gây ngạt mạnh
+B. Có màu, không mùi, có khả năng gây ngạt mạnh
+C. Không màu, không mùi, có khả năng gây ngạt mạnh (*)
+D. Tất cả đều sai
+---
+1. Chọn câu đúng nhất: Tiếng ồn là một dạng ô nhiễm:
+A. Ô nhiễm nước do nước thải sinh hoạt và đô thị
+B. Ô nhiễm nước do nước thải công nghiệp
+C. Ô nhiễm nước do hoạt động nông nghiệp và các nguồn khác tại khu vực nông thôn
+D. Ô nhiễm không khí (*)
+---
+2. Nguy cơ cho sức khoẻ do các chất hoá học và phóng xạ:
+A. Các tác nhân hoá học gây hại cho sức khoẻ con người khi sự có mặt của chúng vượt quá nồng độ cho phép trong nước
+B. Các tác nhân hoá học gây hại cho sức khoẻ con người khi sự có mặt của chúng thấp hơn nồng độ cho phép trong nước
+C. Các chất phóng xạ thâm nhập vào con người qua nước uống và thực phẩm nhiễm xạ. Tuỳ theo mức độ ô nhiễm có thể làm chết sinh vật và người, và làm thay đổi cấu trúc tế bào gây ra các bệnh di truyền, bệnh máu, bệnh ung thư. 
+D. Câu A và C đúng B sai(*)
+---
+3. Vai trò quan trọng của rừng thể hiện qua mặt nào:
+A. Điều hoà khí hậu
+B. Điều tiết chế độ thuỷ văn
+C. Bảo vệ mùa màng
+D. Điều hoà khí hậu, điều tiết chế độ thuỷ văn, bảo vệ mùa màng (*)
+---
+4. Hiện tượng nào sau đây được xem là hậu quả của ô nhiễm không khí đồng thời cũng là nguyên nhân gây ô nhiễm nguồn nước:
+A. Suy giảm tầng ôzon
+B. Mưa axit (*)
+C. Khói mù quang hoá
+D. Hiệu ứng nhà kính
+---
+5. Biện pháp nào sau đây được xem là giảm thiểu tiếng ồn tại nguồn
+A. Giáo dục về ô nhiễm tiếng ồn trong nhà trường.
+B. Ban hành tiêu chuẩn mức ồn cho từng đối tượng sản xuất
+C. Trang bị thiết bị chống ồn cho người lao động
+D. Sản xuất thiết bị chống ồn gắn vào các động cơ (*)
+---
+6. Loại năng lượng nào sau đây thường gây ô nhiễm tiếng ồn không khí?
+A. Nhiệt điện(*)
+B. Thuỷ điện
+C. Điện hạt nhân
+D. Điện sinh học
+---
+7. Ảnh hưởng của ô nhiễm không khí tới sức khoẻ của con người là:
+A. Gây bệnh ung thư
+B. Gây bệnh viêm phế quản
+C. Gây bệnh dị ứng
+D. Tất cả bệnh trên(*)
+---
+8. Hoạt động nào sau đây gây ra ô nhiễm bụi nhiều nhất
+A. Sinh hoạt
+B. Xây dựng(*)
+C. Nông nghiệp
+D. Tiểu thủ công nghiệp
+---
+9. Nguồn gốc gây ô nhiễm không khí bao gồm
+A. Nguồn tự nhiên và nguồn nhân tạo(*)
+B. Nguồn sơ cấp và nguồn thứ cấp
+C. Nguồn tự nhiên và sinh hoạt con người
+D. Công nghiệp nông nghiệp sinh hoạt giao thông
+---
+10. H2SO4 được sinh ra từ quá trình hấp thụ hơi nước trong khí quyển của SOx và SOx được gọi là:
+A. Chất gây ô nhiễm
+B. Chất câu ô nhiễm sơ cấp
+C. Chất gây ô nhiễm thứ cấp(*)
+D. Tác nhân gây ô nhiễm
+---
+11. Mưa axit là hậu quả của ô nhiễm
+A. Không khí(*) 
+B. Nước
+C. Đất
+D. Không khí đất và nước
+---
+12. Hệ quả tức thời của hiệu ứng nhà kính là
+A. Trái đất nóng lên(*)
+B. Băng ở 2 cực tan ra
+C. Mực nước biển dâng lên
+D. Biến đổi khí hậu toàn cầu
+---
+13. Hậu quả sâu xa do hiệu ứng nhà kính gây ra:
+A. Trái đất nóng lên
+B. Băng ở 2 cực tan ra
+C. Mực nước biển dâng lên
+D. Biến đổi khí hậu toàn cầu(*)
+---
+14. Chọn câu sai.Các phương pháp xử lí nước:
+A. Khử sắt
+B. Làm đục(*)
+C. khử màu
+D. khử mùi
+---
+15. Chọn câu sai. Các phương pháp khử sắt: 
+A. phương pháp làm thoáng (phương pháp ôxy hoá sắt bằng ôxy)
+B. Khử sắt bằng vôi
+C. Khử sắt bằng clo
+D. Dùng tia tử ngoại(*)
+---
+16. Chọn câu đúng: Có hai phương pháp làm trong nước:
+A. Làm trong tự nhiên và làm trong bằng tia tử ngoại
+B. Làm trong tự nhiên và làm trong bằng hoá chất(*)
+C. Làm trong hoá chất và làm trong bằng tia tử ngoại
+D. Làm trong bằng đun sôi nước và làm trong bằng tia tử ngoại
+---
+17. Chọn câu đúng. phương pháp giảm độ cứng nước:
+A. Dùng ôzon (O3)
+B. Dùng nhựa trao đổi i-on: để làm mềm nước người ta dùng natri cationit(Na2R) và Hydro cationit(H2R)(*)
+C. Dùng tia tử ngoại
+D. Dùng nhiệt độ
+---
+18. Chọn câu sai. Phương pháp tiệt trùng nước:
+A. Dùng vôi sượng (CaO.CaCO3)(*)
+B. Dùng nhiệt độ: đun sôi nước
+C. Dùng tia tử ngoại
+D. Dùng ozon(O3)
+---
+19. Chọn câu đúng nhất. Các thiết bị xử lí nước gia đình:
+A. Thiết bị lọc nước
+B. Các thiết bị làm mềm nước
+C. Thiết bị xử lí nước RO
+D. Tất cả ABC đúng(*)
+---
+20. Chọn câu đúng nhất. Quyết định số 104/2000/QĐ-TTg về việc phê duyệt chiến lược quốc gia về cấp nước sạch và vệ sinh nông thôn đến năm 2020
+A. Quyết định nêu rõ mục tiêu đến năm 2020: Tất cả dân cư nông thôn sử dụng nước sạch đạt tiêu chuẩn VN với số lượng ít nhất 50 lít/người/ngày
+B. Quyết định nêu rõ mục tiêu đến năm 2020: Tất cả dân cư nông thôn sử dụng nước sạch đạt tiêu chuẩn VN với số lượng ít nhất 60 lít/người/ngày(*)
+C. Quyết định nêu rõ mục tiêu đến năm 2020: Tất cả dân cư nông thôn sử dụng nước sạch đạt tiêu chuẩn VN với số lượng ít nhất 40 lít/người/ngày
+D. Quyết định nêu rõ mục tiêu đến năm 2020: Tất cả dân cư nông thôn sử dụng nước sạch đạt tiêu chuẩn VN với số lượng ít nhất 30 lít/người/ngày
+---
+21. Chọn câu đúng nhất. Diện tích phòng học (quy định diện tích lớp học cho 36-42 học sinh ngồi học) như sau:
+A. Chiều rộng lớp học 4m; Chiều dài lớp học 6m; Chiều cao lớp học 3,6m; Diện tích 0.4-0.8m2/học sinh
+B. Chiều rộng lớp học 6m; Chiều dài lớp học 8m; Chiều cao lớp học 3,6m; Diện tích 0.8-1m2/học sinh(*)
+C. Chiều rộng lớp học 8m; Chiều dài lớp học 4m; Chiều cao lớp học 3,6m; Diện tích 0.6-0.8m2/học sinh
+D. Chiều rộng lớp học 8m; Chiều dài lớp học 8m; Chiều cao lớp học 3,6m; Diện tích 1-1.2m2/học sinh
+---
+22. Chọn câu đúng nhất. Một lớp học đạt tiêu chuẩn vệ sinh về mặt thông thoáng khí và về vi khí hậu phải đảm bảo các điều kiện sau
+A. Nhiệt độ không khí dao động trong khoản: 30-34 độ C. Tốc độ vận chuyển không khí 0,1m/s
+B. Nhiệt độ không khí dao động trong khoản: 30-34 độ C. Tốc độ vận chuyển không khí 0,2m/s
+C. Nhiệt độ không khí dao động trong khoản: 20-24 độ C. Tốc độ vận chuyển không khí 0,3m/s(*)
+D. Nhiệt độ không khí dao động trong khoản: 10-14 độ C. Tốc độ vận chuyển không khí 0,3m/s
+---
+23. Chọn câu đúng nhất. Để đảm bảo được nhiệt đọ trong phòng học giữ được ổn định tương đối, đặc biệt là về mùa hè, cần có các yêu cầu sau:
+A. Chất liệu xây dựng trường, mái nhà phải có khả năng cách nhiệt tốt
+B. Có hệ thống thông thoáng gió nhân tạo (quạt trần, máy hút gió) 
+C. Cả A và B đều sai
+D. Cả A và B đều đúng(*)
+---
+24. Chọn câu đúng nhất. Muốn có chiếu sáng tự nhiên tốt:
+A. Hướng lớp học: phải quay về hướng đông, hướng nam hoặc đông nam
+B. Phòng học phải đạt được hệ số chiếu sáng tối thiểu
+C. Cả A và B đều sai
+D. Cả A và B đều đúng(*)
+---
+25. Chọn câu sai. Muốn chống được tiếng ồn phải chú ý các điểm sau đây:
+A. Lựa chọn vị trí xây trường học phải ở xa các nơi phát sinh ra tiếng ồn.
+B. Trong phạm vi của trường cũng phải phân biệt khu vực phòng học với khu vực phát sinh ra tiếng ồn như các phòng tập thể dục thể thao
+C. Phòng học phải được chiếu sáng đầy đủ(*)
+D. Để ngăn cảng tiếng ồn giữa các phòng học phải có hệ thống của khép kính, 2 lần cửa: cửa kính và cửa chớp
+---
+26. Chọn câu sai. Nguồn nước uống (nước không phải đun):
+A. nước bình
+B. nước chai
+C. nước mưa(*)
+D. Nước lọc đảm bảo vệ sinh
+---
+27. Chọn câu sai. Nguồn nước uống (nước phải đun):
+A. Nước bình(*)
+B. Nước mưa
+C. Nước máy
+D. Nước giếng khoang: thường phải lọc trước khi đun
+---
+28. Chọn câu sai. Sử dụng nước uống:
+A. Thùng chứa nước không gây hại cho sức khoẻ
+B. Thùng có nắp đậy
+C. Thùng có vòi
+D. Họ sinh dùng chung cốc(*)
