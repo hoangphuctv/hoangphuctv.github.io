@@ -119,9 +119,182 @@ B. Mỗi hoạt hình phải đi kèm với các hiệu ứng âm thanh
 C. Nên có càng có nhiều hoạt hình càng tốt
 D. Nên càng có ít hoạt hình càng tốt (*)
 ---
-49. Vi nấm nào phổ biến ở Việt Nam?
-A. Aspergillus fumigatus
-B. Candida albicans (*)
-C. Sporothrix schenckii
-D. Cryptococcus neoformans
+21. Muốn xác định mục tiêu học tập cho một bài học, ta khởi đầu bằng
+A. kiến thức
+B. hành vi
+C. kỹ năng(*)
+D. chức trách
 ---
+22. Khi xây dựng kế hoạch bài học phần đối tượng, giáo viên quan tâm đến yếu tố nào sau đây của người học:
+A. Loại hình đào tạo (Chính quy, tại chức...)
+B. Năng lực(*)
+C. Năm học (Y1, Y2, Y3...)
+D. Điều kiện kinh tế xã hội
+---
+23. Một dạng bài tập trong đó mỗi lần sang một tờ mới, nhóm lại được cung cấp thêm dữ kiện để đi sâu hơn vào vấn đề
+A. Bài tập tình huống
+B. Thảo luận nhóm
+C. Vấn đề xủ lý bệnh nhân (PMP) (*)
+D. Nghiên cứu trường hợp
+---
+24. Môi trường làm việc sau đây khuyến khích sinh viên học sâu
+A. Việc lượng giá sinh viên cần được tiến hành thường xuyên với mức độ khó cao
+B. Tôn trọng sự phát triển cá nhân của sinh viên(*)
+C. Giao vấn đề cho sinh viên giải quyết và sau đó mới cung cấp những kiến thức cần thiết để giải thuyết vấn đề đó
+D. Khuyến khích sinh viên tự đào sâu và suy nghĩ một mình
+---
+25. Một bộ môn cung cấp bộ đề thi trắc nghiệm (nhằm đánh giá việc đạt được các mục tiêu cấp cao của môn học) cho học viên. Học viên học thuộc bộ đề thi đó như vậy nếu sử dụng bộ đề thi đó để đánh giá học viên, việc lượng giá:
+A. Có tính chuẩn hóa cao
+B. Có tính tin cậy cao
+C. Có tính giá trị thấp (*)
+D. Có tính chuyên biệt thấp
+---
+26. Để học viên phát triển kĩ năng thực hành suy xét (reflective practice) giảng viên cần: 
+A. Cho phép học viên chọn lựa mục tiêu học tập của mình
+B. Tôn trọng và xem học viên là những người đã có kiến thức và thực hành
+C. Cho học viên có nhận được sự phản hồi của các học viên khác(*)
+D. Giảng viên phải là hình mẫu cho học viên
+---
+27. Ngoài vai trò hướng dẫn, người hướng dẫn nhóm cần thể hiện thêm vai trò gì khi dạy nhóm nhỏ:
+A. Động viên nhóm, Kích hoạt nhóm
+B. Động viên nhóm
+C. Động viên nhóm, Quản lí nhóm (*)
+D. Quản lý nhóm
+---
+28. Để mở đầu cho một bài giảng về các phương pháp tránh thai cho sinh viên y khoa, có thể sử dụng
+A. Nhắc lại một tin nổi bật trên báo về việc mang thai của một ngôi sao điện ảnh
+B. Trình bày kết quả nghiên cứu về phương pháp tránh thai
+C. Kể chuyện về một nhầm lẫn trong thực hành do bác sĩ không có kiến thức đúng về biện pháp tránh thai(*)
+D. Đặt một câu hỏi về cơ chế thụ thai
+---
+29. Để được gọi là dạy nhóm nhỏ, buổi dạy và học cần đạt điều kiện nào sau đây:
+A. Thực hiện qua thảo luận nhóm
+B. Cần đạt 3 điều kiện trên(*)
+C. Có sự tiếp xúc trực tiếp giữa các thành viên
+D. Buổi học có mục đích và phải phát triển theo trình tự
+---
+30. Để tích cực hoá/tương tác trong nhóm lớn, giáo viên có thể sử dụng các phương pháp sau, NGOẠI TRỪ
+A. động não
+B. đặt câu hỏi
+C. buzz group
+D. cho HV trò chơi(*)
+---
+31. Với người thầy, mục tiêu học tập cần cho các công việc sau, NGOẠI TRỪ 
+A. lượng giá kiến thức của học trò
+B. lượng giá kỹ năng của học trò
+C. lượng giá kỹ năng giảng dạy của học trò(*)
+D. lượng giá thái độ của học trò
+---
+32. Quan niệm dạy tốt theo hiện đại là:
+A. Tăng kĩ năng thực hành cho học viên
+B. Giúp học viên ghi nhận được nhiều kiến thức
+C. Thay đổi thái độ học viên
+D. Giúp sinh viên học tập(*)
+---
+33. Tâm là một giảng viên cho một lớp điều dưỡng. Nam, một học sinh của lớp cho Tâm biết có một học sinh khác phê bình là Tâm giảng bài kém thu hút. Nhận thấy lời phê bình này không đúng, với tâm trạng giận dữ, Tâm gọi sinh viên này đến để cho em sinh viên này biết là đã có nhận xét không chính xác. Bạn sẽ khuyên Tâm:
+A. Không cần phản hồi nhưng có ý cho học sinh đó biết là mình đã biết học sinh này phản hồi gì
+B. Nên phản hồi nhận xét này trước lớp một cách kịp thời để cũng trấn an những phê bình tương tự xảy ra trong sinh viên
+C. Không nên phản hồi lại học sinh của mình nếu sinh viên phê bình mình
+D. Đợi sau khi hết cảm xúc giận dữ mới phản hồi lại cho học sinh(*)
+---
+34. Sau mỗi buổi làm việc, cần phải họp tổng kết (hoặc cá nhân tự suy nghĩ) để xác định những gì đã làm tốt và những gì cần cải tiến. Cơ sở của việc này là lí thuyết:
+A. Học tập người lớn
+B. Y học dựa trên chứng cứ
+C. Học tập kinh nghiệm(*)
+D. Học sâu
+---
+35. Trong các kỹ năng giao tiếp cơ bản, kỹ năng nào KHÔNG ĐÚNG:
+A. Quan sát
+B. Dùng từ ngữ đơn giản, dễ hiểu, giải thích rõ ràng
+C. Tạo môi trường giao tiếp thoải mái.(*)
+D. Khen ngợi, đồng cảm và trấn an
+---
+36. Phương tiện dạy học nào sau đây có thể gây hiệu ứng Keystone
+A. Máy chiếu qua đàu (Over head).(*)
+B. Tiêu bản.
+C. Băng cassette.
+D. Mô hình.
+---
+37. Một giảng viên kết thúc bài giảng bằng cách tóm tắt những điểm chính, đặt bài tập cho sinh viên để kiểm tra kiến thức, đặt câu hỏi để sinh viên biết là mình đã học được những chủ đề gì. Giảng viên này có thể cải thiện thêm bài giảng với:
+A. Dừng lại cho sinh viên kiểm tra bài học
+B. Cho sinh viên đóng vai
+C. Đề nghị sinh viên động não
+D. Cho phép sinh viên đặt câu hỏi(*)
+---
+38. Câu hỏi đóng được sử dụng trong các trường hợp sau:
+A. tạo điều kiện cho việc thảo luận giữa người hỏi và người đối thoại
+B. muốn có câu trả lời một cách nhanh chóng(*)
+C. muốn có một câu trả lời chính xác
+D. Muốn nhận được nhiều thông tin từ người trả lời
+---
+39. Khi thể hiện vai trò hướng dẫn, người hướng dẫn nhóm có thể xem như đang thực hiện vai trò của người nào sau đây trong cuộc sống:
+A. Người thầy giáo
+B. Người nữ hộ sinh(*)
+C. Người thuyền trưởng
+D. Người nhạc trưởng
+---
+40. Môi trường làm việc sau đây khuyến khích sinh viên học nông
+A. Kiến thức trình bày một cách toàn diện
+B. Giảng viên cung cấp câu trả lời mẫu cho sinh viên
+C. Không tôn trọng sự phát triển cá nhân(*)
+D. Giảng lí thuyết cho sinh viên rồi mới cho sinh viên thực hành
+---
+41. Lắng nghe bệnh nhân là thành tố quan trọng của quá trình giao tiếp, các cách lắng nghe được thể hiện:
+A. Nhìn hướng về người đang nói, tránh ngắt lời
+B. Tất cả đều đúng(*)
+C. Không nói chuyện riêng, không làm việc khác khi đang nghe.
+D. Thể hiện cử chỉ, điệu bộ như gật đầu, mỉm
+---
+42. Dạy tích cực cho học viên, CHỌN CÂU SAI :
+A. giúp học viên suy nghĩ ở mức độ cao
+B. giúp học viên tự học
+C. thầy chuẩn bị giáo án tốt(*)
+D. giúp học viên học tốt
+---
+43. Khi xây dựng kế hoạch bài học phần đối tượng, giáo viên quan tâm đến yếu tố nào sau đây của người học:
+A. Loại hình đào tạo (Chính quy, tại chức...)
+B. Năng lực(*)
+C. Năm học (Y1, Y2, Y3...)
+D. Điều kiện kinh tế xã hội
+---
+44. Một dạng bài tập trong đó mỗi lần sang một tờ mới, nhóm lại được cung cấp thêm dữ kiện để đi sâu hơn vào vấn đề
+A. Bài tập tình huống
+B. Thảo luận nhóm
+C. Vấn đề xủ lý bệnh nhân (PMP)(*)
+D. Nghiên cứu trường hợp
+---
+45. Để mở đầu cho một bài giảng về các phương pháp tránh thai cho sinh viên y khoa, có thể sử dụng
+A. Nhắc lại một tin nổi bật trên báo về việc mang thai của một ngôi sao điện ảnh
+B. Trình bày kết quả nghiên cứu về phương pháp tránh thai
+C. Kể chuyện về một nhầm lẫn trong thực hành do bác sĩ không có kiến thức đúng về biện pháp tránh thai(*)
+D. Đặt một câu hỏi về cơ chế thụ thai
+---
+46. Để được gọi là dạy nhóm nhỏ, buổi dạy và học cần đạt điều kiện nào sau đây:
+A. Thực hiện qua thảo luận nhóm
+B. Cần đạt 3 điều kiện trên(*)
+C. Có sự tiếp xúc trực tiếp giữa các thành viên
+D. Buổi học có mục đích và phải phát triển theo trình tự
+---
+47. Trong các kỹ năng giao tiếp cơ bản, kỹ năng nào KHÔNG ĐÚNG:
+A. Quan sát
+B. Dùng từ ngữ đơn giản, dễ hiểu, giải thích rõ ràng
+C. Tạo môi trường giao tiếp thoải mái.(*)
+D. Khen ngợi, đồng cảm và trấn an
+---
+48. Đầu buổi học cần
+A. nhấn mạnh bài này rất quan trọng
+B. cung cấp lý do phải học bài này(*)
+C. kiểm tra kiến thức củ liên quan đến bài học
+D. trình bày mục tiêu học tập
+---
+49. Câu hỏi đóng được sử dụng trong các trường hợp sau:
+A. muốn có câu trả lời một cách nhanh chóng(*)
+B. tạo điều kiện cho việc thảo luận giữa người hỏi và người đối thoại
+C. muốn có một câu trả lời chính xác
+D. Muốn nhận được nhiều thông tin từ người trả lời
+---
+50. Khi xây dựng kế hoạch bài học phần đối tượng, giáo viên quan tâm đến yếu tố nào sau đây của người học:
+A. Năng lực(*)
+B. Điều kiện kinh tế xã hội
+C. Năm học (Y1, Y2, Y3...)
+D. Loại hình đào tạo (Chính quy, tại chức...)
