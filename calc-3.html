@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siêu Nhân Tính Toán - Hàng Đơn Vị Trước</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: #fef9e7;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: #fff;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 15px 0 #f39c12;
+            border: 4px solid #f39c12;
+            text-align: center;
+            width: 300px;
+        }
+        h2 { color: #d35400; margin-top: 0; }
+
+        /* Khu vực đặt tính */
+        .math-setup {
+            font-size: 50px;
+            font-family: 'Courier New', Courier, monospace;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end; /* Căn lề phải toàn bộ */
+            width: fit-content;
+            margin: 0 auto;
+            position: relative;
+            padding-right: 20px;
+        }
+        .num-row {
+            letter-spacing: 15px;
+            height: 60px;
+        }
+        .operator {
+            position: absolute;
+            left: -40px;
+            bottom: 75px;
+            color: #e67e22;
+        }
+        .line {
+            width: 120%;
+            height: 4px;
+            background: #333;
+            margin: 5px 0 15px -20%;
+        }
+
+        /* Ô nhập liệu quan trọng nhất ở đây */
+        #userAnswer {
+            width: 100%;
+            font-size: 50px;
+            font-family: 'Courier New', Courier, monospace;
+            text-align: right; /* Căn chữ bên phải */
+            direction: rtl;    /* Nhập từ phải qua trái */
+            unicode-bidi: bidi-override;
+            border: 2px dashed #f39c12;
+            padding: 5px;
+            outline: none;
+            background: #fffdf0;
+            letter-spacing: 15px;
+        }
+
+        .controls { margin-top: 30px; }
+        button {
+            padding: 12px 20px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            border-radius: 10px;
+            border: none;
+            margin: 5px;
+        }
+        .btn-check { background: #27ae60; color: white; }
+        .btn-new { background: #3498db; color: white; }
+        
+        #feedback {
+            margin-top: 20px;
+            font-size: 20px;
+            height: 30px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Toán Cột Dọc 🧠</h2>
+    
+    <div class="math-setup">
+        <div class="num-row" id="n1">000</div>
+        <div class="num-row" id="n2">000</div>
+        <span class="operator">+</span>
+        <div class="line"></div>
+        <input type="text" id="userAnswer" placeholder="???" maxlength="4">
+    </div>
+
+    <div class="controls">
+        <button class="btn-check" onclick="check()">Kiểm tra</button>
+        <button class="btn-new" onclick="init()">Đổi số</button>
+    </div>
+
+    <div id="feedback"></div>
+</div>
+
+<script>
+    let result = 0;
+    const s_msgs = ["Quá đỉnh!", "Thiên tài là đây!", "Đúng rồi, giỏi quá! 🎉", "Bạn tính nhanh như chớp! ⚡"];
+    const f_msgs = ["Sai tí thôi, thử lại nhé!", "Úi, nhầm rồi kìa! 😜", "Đếm lại ngón tay xem nào!", "Hic, chưa đúng rồi!"];
+
+    function init() {
+        const a = Math.floor(Math.random() * 900) + 100;
+        const b = Math.floor(Math.random() * 900) + 100;
+        result = a + b;
+        
+        document.getElementById('n1').innerText = a;
+        document.getElementById('n2').innerText = b;
+        document.getElementById('userAnswer').value = '';
+        document.getElementById('feedback').innerText = '';
+        document.getElementById('userAnswer').focus();
+    }
+
+    function check() {
+        const userVal = document.getElementById('userAnswer').value;
+        // Vì dùng rtl, ta cần đảo ngược chuỗi lại để so sánh số chuẩn
+        const reversedVal = userVal.split('').reverse().join('');
+        const fb = document.getElementById('feedback');
+
+        if (parseInt(reversedVal) === result) {
+            fb.innerText = s_msgs[Math.floor(Math.random() * s_msgs.length)];
+            fb.style.color = "#27ae60";
+        } else {
+            fb.innerText = f_msgs[Math.floor(Math.random() * f_msgs.length)];
+            fb.style.color = "#e74c3c";
+        }
+    }
+
+    // Xử lý phím Enter
+    document.getElementById('userAnswer').addEventListener('keypress', function (e) {
+        if (e.key === 'Enter') check();
+    });
+
+    init();
+</script>
+
+</body>
+</html>
